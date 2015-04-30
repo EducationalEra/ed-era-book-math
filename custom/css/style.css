@@ -347,13 +347,3 @@ default – "White"
     vertical-align:middle;
     font-size: 12pt;
 }
-
-/*Наприклад*/
-.eex-text {
-    <i>Наприклад</i>
-    width:100%;
-    background: #FAFAFA;
-    border: .15em solid #0F5181;
-    padding-left:10px;
-    padding-right:10px;
-}
