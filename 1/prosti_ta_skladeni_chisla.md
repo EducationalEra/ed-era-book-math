@@ -40,4 +40,18 @@ $$3276 = 2^2\cdot 3^2 \cdot 7^1 \cdot 13^1.$$
 </div>
 </div>
 
-
+<div class="task-wrap">
+<span class="task">Приклад</span> 
+<div class="task-text">
+Обчислити НСД $$(504, 180)$$
+<p>
+<b><i>Розв’язок</i></b>.</p> 
+<p>
+$$504 = 2 \cdot 2 \cdot 2 \cdot 3 \cdot 3 \cdot 7 = 2^3 \cdot 3^2 \cdot 7;$$</p>
+<p>
+$$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
+<p>Виписуємо найменшi ступенi спiльних множникiв та перемножимо:</p>
+<p>НСД $$(504,180) = 2^2 \cdot 3^2 = 3^6.$$</p>
+**Вiдповiдь.** $$36.$$
+</div>
+</div>
