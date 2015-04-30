@@ -1,5 +1,5 @@
 # Summary
 
 * [Зміст](README.md)
-   * Числові множини
+   * [Числові множини](chislov_mnozhini.md)
 
