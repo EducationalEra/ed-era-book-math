@@ -21,14 +21,14 @@ $$3276 = 2^2\cdot 3^2 \cdot 7^1 \cdot 13^1.$$
 Часто стає у нагодi знання того, як знаходити найбiльший спiльний дiльник та найменше спiльне кратне.
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span> askjdssdhkjas asdasdasdas asdasdasdsd asdasd ad asdasd
+<span class="eoz">Означення</span> 
 <div class="eoz-text">
 <b>Найбiльший спiльний дiльник (НСД) кiлькох чисел</b> — найбiльше число, на яке дiляться данi числа без остачi.
 </div>
 </div>
 
 <div class="alg-wrap">
-<span class="alg">Алгоритм</span>
+<span class="alg">Алгоритм</span> <b>Знаходження НСД кiлькох чисел</b>
 <div class="alg-text">
 <ul>
 <li>Записати розклад даних чисел на простi множники.</li>
