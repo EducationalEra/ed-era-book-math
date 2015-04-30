@@ -1,7 +1,7 @@
 # Summary
 
 * [Зміст](README.md)
-* [Арифметика](arifmetika.md)
+* [Арифметика](1/arifmetika.md)
    * [Числовi множини](chislovi_mnozhini.md)
    * [Простi та складенi числа](prosti_ta_skladeni_chisla.md)
    * [Ознаки подiльностi натуральних чисел](oznaki_podilnosti_naturalnih_chisel.md)
