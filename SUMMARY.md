@@ -2,5 +2,5 @@
 
 * [Зміст](README.md)
 * [Арифметика](arifmetika.md)
-   * Числовi множини
+   * [Числовi множини](chislovi_mnozhini.md)
 
