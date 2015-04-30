@@ -1,5 +1,5 @@
 # Summary
 
 * [Зміст](README.md)
-* Арифметика
+* [Арифметика](arifmetika.md)
 
