@@ -7,4 +7,4 @@ $$\left\{
 a, a \ geq 0; \\
 -a, a < 0
 \end{array}
-\right.
+\right.$$
