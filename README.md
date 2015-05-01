@@ -1,4 +1,4 @@
-# ed-era-book-math
+# Арифметика
 
 1. [Числові множини](1/chislovi_mnozhini.md)
 2. [Прості та складені числа](1/prosti_ta_skladeni_chisla.md)
