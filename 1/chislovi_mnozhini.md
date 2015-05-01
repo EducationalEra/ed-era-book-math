@@ -5,8 +5,6 @@
 
 Найпростішою та найзрозумілішою множиною чисел є натуральні числа.
 
-<img class="image" src="https://github.com/chudaol/ed-era-book-math/blob/master/pics/Slice1.png"/>
-
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
