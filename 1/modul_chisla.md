@@ -12,4 +12,4 @@ $$ |a| =
 
 У геометричному сенсі модулем є відстань на числовій прямій від початку відліку до точки даного числа.
 
-<img class="image" src="https://github.com/chudaol/ed-era-book-math/blob/master/pics/pic4.svg"/>
+![pic4](https://github.com/chudaol/ed-era-book-math/blob/master/pics/pic4.svg)
