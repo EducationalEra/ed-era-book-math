@@ -3,7 +3,7 @@
 
 Всі числа можна віднести до тієї чи іншої групи, об’єднуючи їх за певними ознаками та властивостями.
 
-<img align="middle" class="image" src="../pics/pic1.png"/>
+<p align="center"><img align="middle" class="image" src="../pics/pic1.png"/></p>
 
 Найпростішою та найзрозумілішою множиною чисел є натуральні числа.
 
@@ -67,7 +67,7 @@
 
 Множину натуральних чисел позначають знаком $$\mathbb{R}$$.
 
-<img align="middle" class="image" src="../pics/pic2.png"/>
+<p align="center"><img align="middle" class="image" src="../pics/pic2.png"/></p>
 
 Коли кажуть, що число належить до тiєї чи iншої множини, записують це за допомогою символа $$\in$$, що схожий на українську лiтеру Є.
 
