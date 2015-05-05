@@ -1,5 +1,5 @@
 # Зміст
-1. Арифметика
+1. [Арифметика](1/chislovi_mnozhini.md)
     1. [Числові множини](1/chislovi_mnozhini.md)
     2. [Прості та складені числа](1/prosti_ta_skladeni_chisla.md)
     3. [Ознаки подiльностi натуральних чисел](1/oznaki_podilnosti_naturalnih_chisel.md)
