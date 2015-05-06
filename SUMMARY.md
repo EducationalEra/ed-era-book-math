@@ -7,4 +7,5 @@
    * [Ознаки подiльностi натуральних чисел](1/oznaki_podilnosti_naturalnih_chisel.md)
    * [Дроби та дiї над ними](1/drobi_ta_di_nad_nimi.md)
    * [Модуль числа](1/modul_chisla.md)
+* Пропорції та відсотки
 
