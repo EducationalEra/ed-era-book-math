@@ -355,7 +355,7 @@ default – "White"
 .vid {
     background: #faaf00;
     border: 0.15em solid #faaf00;
-    border-radius: 100px;
+    border-radius: 20px;
     color:white;
     font-weight: bold;
     padding-left:10px;
@@ -369,7 +369,7 @@ default – "White"
 .book.color-theme-1 .vid {
     background: #704214;
     border: 0.15em solid #704214;
-    border-radius: 100px;
+    border-radius: 20px;
     color:#F3EACB;
     font-weight: bold;
     padding-left:10px;
@@ -383,7 +383,7 @@ default – "White"
 .book.color-theme-2 .vid {
     background: #2c3043;
     border: 0.15em solid #2c3043;
-    border-radius: 100px;
+    border-radius: 20px;
     color:#bdcadb;
     font-weight: bold;
     padding-left:10px;
