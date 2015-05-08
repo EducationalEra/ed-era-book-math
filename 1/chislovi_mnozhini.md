@@ -73,7 +73,7 @@
 
 <i>Наприклад:</i> $$6 \in \mathbb{N}, -1 \in \mathbb{Z}, 0,25 \in \mathbb{Q}, -\sqrt{26} \in \mathbb{R}.$$
 <div class="vid-wrap">
-<span class="vid"><a href="https://study.ed-era.com/courses/EdEra/M101/m101/about?_ga=1.152680121.1235595297.1427291903" target="_blank" class="button goto_course">Перейти до&nbsp;курсу</a></span>
+<span class="vid"><a href="https://study.ed-era.com/courses/EdEra/M101/m101/about?_ga=1.152680121.1235595297.1427291903" target="_blank">Перейти до&nbsp;курсу</a></span>
 {% youtube %}https://www.youtube.com/watch?v=ODPIzvEpYKI&index=46&list=PL_zDp5rG6HqvuM-pZZicqADG7Mo3yrl5D{% endyoutube %}
 </div>
 
