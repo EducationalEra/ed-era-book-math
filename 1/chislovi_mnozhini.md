@@ -71,7 +71,7 @@
 
 Коли кажуть, що число належить до тiєї чи iншої множини, записують це за допомогою символа $$\in$$, що схожий на українську лiтеру Є.
 
-<i>Наприклад:</i> $$6 \in \mathbb{N}, -1 \in \mathbb{Z}, 0,25 \in \mathbb{Q}, -\sqrt{26} \in \mathbb{R}$$.
+<i>Наприклад:</i> $$6 \in \mathbb{N}, -1 \in \mathbb{Z}, 0,25 \in \mathbb{Q}, -\sqrt{26} \in \mathbb{R}.$$
 <div class="vid-wrap">
 <span class="vid">Текст в шапке</span>
 {% youtube %}https://www.youtube.com/watch?v=ODPIzvEpYKI&index=46&list=PL_zDp5rG6HqvuM-pZZicqADG7Mo3yrl5D{% endyoutube %}
