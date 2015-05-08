@@ -347,3 +347,43 @@ default – "White"
     vertical-align:middle;
     font-size: 12pt;
 }
+
+/*Видео*/
+.vid-wrap{
+    margin-bottom:1em;
+}
+.vid {
+    background: #faaf00;
+    border: 0.15em solid #faaf00;
+    color:white;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+    margin-bottom:5px;
+}
+
+.book.color-theme-1 .vid-wrap{
+    margin-bottom:1em;
+}
+.book.color-theme-1 .vid {
+    background: #704214;
+    border: 0.15em solid #704214;
+    color:#F3EACB;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+    margin-bottom:5px;
+}
+
+.book.color-theme-2 .vid-wrap{
+    margin-bottom:1em;
+}
+.book.color-theme-2 .vid {
+    background: #2c3043;
+    border: 0.15em solid #2c3043;
+    color:#bdcadb;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+    margin-bottom:5px;
+}
