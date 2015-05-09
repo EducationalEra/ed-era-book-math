@@ -79,6 +79,6 @@
 <div id="openModal" class="modalDialog">
 	<div>
 		<a href="#close" title="Close" class="close">X</a>
-		<iframe width="770" height="458" src="https://www.youtube.com/embed/ODPIzvEpYKI" frameborder="0" allowfullscreen></iframe>
+		<iframe width="640" height="480" src="https://www.youtube.com/embed/ODPIzvEpYKI" frameborder="0" allowfullscreen></iframe>
 	</div>
 </div>
