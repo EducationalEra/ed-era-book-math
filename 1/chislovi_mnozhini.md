@@ -91,9 +91,9 @@
 
 <div id="popup-box1" class="popupposition">
 <div id="popupwrapper">
+<p style="text-align: right;"><a href="javascript:void(0)" onclick="toggle_visibility('popup-box1');">X</a></p>
 <div id="popupcontainer">
 {% youtube %}https://www.youtube.com/watch?v=ODPIzvEpYKI&index=46&list=PL_zDp5rG6HqvuM-pZZicqADG7Mo3yrl5D{% endyoutube %}
-<p><a href="javascript:void(0)" onclick="toggle_visibility('popup-box1');">Close popup</a></p>
 </div>
 </div>
 </div>
