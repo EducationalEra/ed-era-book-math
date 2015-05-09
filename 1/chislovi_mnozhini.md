@@ -77,14 +77,25 @@
 {% youtube %}https://www.youtube.com/watch?v=ODPIzvEpYKI&index=46&list=PL_zDp5rG6HqvuM-pZZicqADG7Mo3yrl5D{% endyoutube %}
 <a href="https://study.ed-era.com/courses/EdEra/M101/m101/about?_ga=1.212450324.1235595297.1427291903" target="new"><button class="but">Перейти до курсу!</button></a>
 
+<script type="text/javascript">
+<!--
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'block')
+          e.style.display = 'none';
+       else
+          e.style.display = 'block';
+    }
+//-->
+</script>
 
 <div id="popup-box1" class="popupposition">
 <div id="popupwrapper">
 <div id="popupcontainer">
 <h3>hui na!</h3>
-<p><a href="javascript:void(0)">Close popup</a></p>
+<p><a href="javascript:void(0)" onclick="toggle_visibility('popup-box1');">Close popup</a></p>
 </div>
 </div>
 </div>
 
-<p><a href="javascript:void(0)">Open popup</a></p>
+<p><a href="javascript:void(0)" onclick="toggle_visibility('popup-box1');">Open popup</a></p>
