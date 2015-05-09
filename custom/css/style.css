@@ -446,7 +446,6 @@ default – "White"
 /*popup video*/
 
 .modalDialog {
-    display: none;
 	position: fixed;
 	font-family: Arial, Helvetica, sans-serif;
 	top: 0;
@@ -468,9 +467,9 @@ default – "White"
 }
 
 .modalDialog > div {
-	width: 400px;
+	width: 70%
 	position: relative;
-	margin: 10% auto;
+	margin: auto;
 	padding: 5px 20px 13px 20px;
 	border-radius: 10px;
 	background: #fff;
