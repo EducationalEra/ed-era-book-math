@@ -79,7 +79,7 @@
 
 
 <div class="page">
-    <p><a href="#" data-media="//www.youtube.com/embed/ODPIzvEpYKI">click me</a></p>
+    <p><a href="#media-popup" data-media="//www.youtube.com/embed/ODPIzvEpYKI">click me</a></p>
 <div class="popup" id="media-popup">
         <iframe width="854" height="510" src="https://www.youtube.com/embed/ODPIzvEpYKI" frameborder="0" allowfullscreen></iframe>
     </div>
