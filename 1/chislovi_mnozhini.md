@@ -86,6 +86,13 @@
        else
           e.style.display = 'block';
     }
+    function toggle_visibility1(names) {
+       var e = document.getElementsByClassName(names);
+       if(e.style.display == 'block')
+          e.style.display = 'none';
+       else
+          e.style.display = 'block';
+    }
 //-->
 </script>
 
@@ -94,9 +101,9 @@
 <div id="popupcontainer">
 <h3>hui na!</h3>
 {% youtube %}https://www.youtube.com/watch?v=ODPIzvEpYKI&index=46&list=PL_zDp5rG6HqvuM-pZZicqADG7Mo3yrl5D{% endyoutube %}
-<p><a href="javascript:void(0)" onclick="toggle_visibility('popup-box1');" onclick="toggle_visibility('book-summary');">Close popup</a></p>
+<p><a href="javascript:void(0)" onclick="toggle_visibility('popup-box1'); toggle_visibility1('book-summary')">Close popup</a></p>
 </div>
 </div>
 </div>
 
-<p><a href="javascript:void(0)" onclick="toggle_visibility('popup-box1');" onclick="toggle_visibility('book-summary');">Open popup</a></p>
+<p><a href="javascript:void(0)" onclick="toggle_visibility('popup-box1'); toggle_visibility1('book-summary')">Open popup</a></p>
