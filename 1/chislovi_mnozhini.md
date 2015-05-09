@@ -83,6 +83,6 @@ ab
 <div id="openModal" class="modalDialog">
 	<div class="container">
 		<a href="#close" title="Close" class="close">X</a>
-		<iframe width="100%" height="100%" src="https://www.youtube.com/embed/ODPIzvEpYKI" frameborder="0" allowfullscreen></iframe>
+		<iframe src="https://www.youtube.com/embed/ODPIzvEpYKI" allowfullscreen></iframe>
 	</div>
 </div>
