@@ -517,15 +517,18 @@ default – "White"
 
 @media (min-width: 768px) {
   .container {
-    width: 750px;
+    width: 740px;
     background: green;
   }
 }
 @media (min-width: 992px) {
   .container {
-    width: 970px;
+    width: 770px;
     background: blue;
   }
 }
-
+@media (min-width: 1200px) {
+  .container {
+    width: 770px;
+  }
 }
