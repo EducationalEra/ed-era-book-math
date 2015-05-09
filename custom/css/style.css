@@ -514,6 +514,12 @@ default – "White"
   }
 }
 
+@media (max-width: 700px) {
+  .container {
+    width: 100%;
+  }
+}
+
 
 @media (min-width: 768px) {
   .container {
