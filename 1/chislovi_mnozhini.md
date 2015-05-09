@@ -74,20 +74,6 @@
 <i>Наприклад:</i> $$6 \in \mathbb{N}, -1 \in \mathbb{Z}, 0,25 \in \mathbb{Q}, -\sqrt{26} \in \mathbb{R}.$$
 
 
-{% youtube %}https://www.youtube.com/watch?v=ODPIzvEpYKI&index=46&list=PL_zDp5rG6HqvuM-pZZicqADG7Mo3yrl5D{% endyoutube %}
-<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about?_ga=1.212450324.1235595297.1427291903" target="new"><button class="but">Перейти до курсу!</button></a>
-
-
-
-<div id="popup-box1" class="popupposition">
-<div id="popupwrapper">
-<p style="text-align: right;"><a href="javascript:void(0)" onclick="document.getElementById('popup-box1').style.display='none';">X</a></p>
-<iframe width="770" height="458" src="https://www.youtube.com/embed/ODPIzvEpYKI" frameborder="0" allowfullscreen></iframe>
-</div>
-</div>
-
-<p><a href="javascript:void(0)" onclick="document.getElementById('popup-box1').style.display='block';">Open popup</a></p>
-
 
 <a href="#openModal">Open Modal</a>
 
