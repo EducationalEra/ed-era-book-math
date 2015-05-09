@@ -364,13 +364,6 @@ default – "White"
 	text-decoration:none;
 }
 .button-link:hover {
-	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #fac864), color-stop(1, #fac864));
-	background:-moz-linear-gradient(top, #fac864 5%, #fac864 100%);
-	background:-webkit-linear-gradient(top, #fac864 5%, #fac864 100%);
-	background:-o-linear-gradient(top, #fac864 5%, #fac864 100%);
-	background:-ms-linear-gradient(top, #fac864 5%, #fac864 100%);
-	background:linear-gradient(to bottom, #fac864 5%, #fac864 100%);
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fac864', endColorstr='#fac864',GradientType=0);
 	background-color:#fac864;
 }
 .button-link:active {
