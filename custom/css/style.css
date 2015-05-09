@@ -351,10 +351,11 @@ default – "White"
 /*К курсу*/
 .button-link {
     background: #0F5181;
-    border: 0.2em solid #0F5181;
-    height:60px;
-    padding: 10px 15px;
-    border-radius: 4px;
-    border: solid 1px #20538D;
+    border: 0.15em solid #0F5181;
+    color:white;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+    margin-bottom:5px;
 }
 
