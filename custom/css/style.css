@@ -466,7 +466,7 @@ default – "White"
 	pointer-events: auto;
 }
 
-.modalDialog > div {
+.modalbackground {
 	position: relative;
 	margin: 10% auto;
 	padding: 5px 20px 13px 20px;
@@ -528,7 +528,7 @@ default – "White"
     width: 740px;
   }
   .modalDialog {
-    width: 100%;
+    width: 740px;
   }
 }
 @media (min-width: 992px) {
@@ -536,7 +536,7 @@ default – "White"
     width: 770px;
   }
   .modalDialog {
-    width: 100:
+    width: 770px;
   }
 }
 @media (min-width: 1200px) {
