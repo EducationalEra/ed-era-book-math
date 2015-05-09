@@ -24,7 +24,7 @@ default – "White"
     padding-right:10px;
 }
 .eoz-text {
-    width:500px;
+    width:100%;
     background: #FAFAFA;
     border: .15em solid #0F5181;
     padding-left:10px;
