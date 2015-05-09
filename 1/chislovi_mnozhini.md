@@ -80,7 +80,10 @@
 
 <div id="popup-box1" class="popupposition">
 <div id="popupwrapper">
-<div id="popupcontainer">hui na!</div>
+<div id="popupcontainer">
+<h3>hui na!</h3>
+<p><a href="javascript:void(0)">Close popup</a></p>
+</div>
 </div>
 </div>
 
