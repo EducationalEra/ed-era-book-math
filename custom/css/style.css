@@ -453,9 +453,11 @@ default – "White"
     bottom:0;
     left:0;
     background-color:rgba(0,0,0,0.7);
+    width: auto;
+    height: auto;
 }
 #popupwrapper {
-    width:500px;
+    width:auto;
     margin:70px auto;
     text-align:left;
     }
