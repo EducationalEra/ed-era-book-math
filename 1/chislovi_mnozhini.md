@@ -77,25 +77,15 @@
 {% youtube %}https://www.youtube.com/watch?v=ODPIzvEpYKI&index=46&list=PL_zDp5rG6HqvuM-pZZicqADG7Mo3yrl5D{% endyoutube %}
 <a href="https://study.ed-era.com/courses/EdEra/M101/m101/about?_ga=1.212450324.1235595297.1427291903" target="new"><button class="but">Перейти до курсу!</button></a>
 
-<script type="text/javascript">
-<!--
-    function toggle_visibility(id) {
-       var e = document.getElementById(id);
-       if(e.style.display == 'block')
-          e.style.display = 'none';
-       else
-          e.style.display = 'block';
-    }
-//-->
-</script>
+
 
 <div id="popup-box1" class="popupposition">
 <div id="popupwrapper">
-<p style="text-align: right;"><a href="javascript:void(0)" onclick="toggle_visibility('popup-box1');">X</a></p>
+<p style="text-align: right;"><a href="javascript:void(0)" onclick="document.getElementById('popup-box1').style.display='none';">X</a></p>
 <div id="popupcontainer">
 <iframe width="770" height="458" src="https://www.youtube.com/embed/ODPIzvEpYKI" frameborder="0" allowfullscreen></iframe>
 </div>
 </div>
 </div>
 
-<p><a href="javascript:void(0)" onclick="toggle_visibility('popup-box1');">Open popup</a></p>
+<p><a href="javascript:void(0)" onclick="document.getElementById('light').style.display='block';">Open popup</a></p>
