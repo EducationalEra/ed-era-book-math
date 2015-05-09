@@ -511,6 +511,9 @@ default – "White"
   .container {
     width: 200px;
   }
+  .modalbackground{
+    width:100%; 
+  }
   .modalDialog {
     width: 100%;
   }
@@ -519,6 +522,9 @@ default – "White"
 @media (max-width: 700px) {
   .container  {
     width: 100%;
+  }
+  .modalbackground{
+    width:100%; 
   }
   .modalDialog {
     width: 100%;
@@ -530,6 +536,9 @@ default – "White"
   .container {
     width: 740px;
   }
+  .modalbackground{
+    width:700px; 
+  }
   .modalDialog {
     width: 100%;
   }
@@ -538,6 +547,9 @@ default – "White"
   .container {
     width: 770px;
   }
+  .modalbackground{
+    width:730px; 
+  }
   .modalDialog {
     width: 100%;
   }
@@ -545,6 +557,9 @@ default – "White"
 @media (min-width: 1200px) {
   .container {
     width: 770px;
+  }
+  .modalbackground{
+    width:730px; 
   }
   .modalDialog {
     width: 100%;
