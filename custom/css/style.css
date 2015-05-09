@@ -350,18 +350,17 @@ default – "White"
 
 /*К курсу*/
 .button-link {
-	background:#fac864;
 	-moz-border-radius:4px;
 	-webkit-border-radius:4px;
-	border-radius:4px;
-	border:1px solid #fac864;
-	display:inline-block;
-	cursor:pointer;
-	color:#fac864;
-	font-size:15px;
-	font-weight:bold;
-	padding:11px 23px;
-	text-decoration:none;
+	border-radius: 4px;
+	border: 1px solid #fac864;
+	display: inline-block;
+	cursor: pointer;
+	color: #fac864;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 11px 23px;
+	text-decoration: none;
 }
 .button-link:hover {
 	background-color:#fac864;
