@@ -88,4 +88,4 @@
 </div>
 </div>
 
-<p><a href="javascript:void(0)" onclick="document.getElementById('light').style.display='block';">Open popup</a></p>
+<p><a href="javascript:void(0)" onclick="document.getElementById('popup-box1').style.display='block';">Open popup</a></p>
