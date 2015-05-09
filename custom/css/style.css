@@ -353,15 +353,15 @@ default – "White"
     padding-left:10px;
     padding-right:10px;
     background: #fac864;
-    color: #fac864;
+    color: white;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     border-radius: 4px;
     border: solid 1px #faaf00;
 }
 .but:hover {
-    background: #356094;
-    border: solid 1px #2A4E77;
+    background: #faaf00;
+    border: solid 1px #faaf00;
     text-decoration: none;
 }
 .but:active {
