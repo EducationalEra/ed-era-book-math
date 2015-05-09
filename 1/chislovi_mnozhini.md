@@ -75,12 +75,4 @@
 
 
 
-<div id="popup-box1" class="popupposition">
-<div id="popupwrapper">
-<p style="text-align: right;"><a href="javascript:void(0)" onclick="document.getElementById('popup-box1').style.display='none';">X</a></p>
-<iframe width="770" height="458" src="https://www.youtube.com/embed/ODPIzvEpYKI" frameborder="0" allowfullscreen></iframe>
-</div>
-</div>
 
-<p><a href="javascript:void(0)" onclick="document.getElementById('popup-box1').style.display='block';">Open popup</a></p>
-123
