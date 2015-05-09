@@ -78,4 +78,9 @@
 <a href="https://study.ed-era.com/courses/EdEra/M101/m101/about?_ga=1.212450324.1235595297.1427291903" target="new"><button class="but">Перейти до курсу!</button></a>
 
 
-
+<div class="page">
+    <p><a href="#" data-media="//www.youtube.com/embed/ODPIzvEpYKI">click me</a></p>
+<div class="popup" id="media-popup">
+        <iframe width="854" height="510" src="https://www.youtube.com/embed/ODPIzvEpYKI" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
