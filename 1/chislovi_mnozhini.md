@@ -73,15 +73,4 @@
 
 <i>Наприклад:</i> $$6 \in \mathbb{N}, -1 \in \mathbb{Z}, 0,25 \in \mathbb{Q}, -\sqrt{26} \in \mathbb{R}.$$
 
-<div id="popup-box1" class="popup-position">
-    	<div id="popup-wrapper">
-        	<p style="text-align: right;"><a href="javascript:void(0)" onclick="document.getElementById('popup-box1').style.display='none'">X</a></p>
-        	<div id="popup-container">
-            	<h3>Popup box 1</h3>
-                <p>Congratulations, you've opened popup box 1</p>
-            </div>
-        </div>
-    </div>
-
-<p><a href="javascript:void(0)" onclick="document.getElementById('popup-box1').style.display='block'">Open popup box 1</a></p>
 
