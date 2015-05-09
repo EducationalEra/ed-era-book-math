@@ -467,7 +467,6 @@ default – "White"
 }
 
 .modalDialog > div {
-    display: none;
 	width: 400px;
 	position: relative;
 	margin: 10% auto;
