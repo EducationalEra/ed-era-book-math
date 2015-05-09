@@ -511,6 +511,9 @@ default – "White"
   .container {
     width: 200px;
   }
+  .modalDialog {
+    width: 100%;
+  }
 }
 
 @media (max-width: 700px) {
@@ -528,7 +531,7 @@ default – "White"
     width: 740px;
   }
   .modalDialog {
-    width: 740px;
+    width: 100%;
   }
 }
 @media (min-width: 992px) {
@@ -536,12 +539,15 @@ default – "White"
     width: 770px;
   }
   .modalDialog {
-    width: 770px;
+    width: 100%;
   }
 }
 @media (min-width: 1200px) {
   .container {
     width: 770px;
+  }
+  .modalDialog {
+    width: 100%;
   }
 }
 
