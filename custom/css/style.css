@@ -348,45 +348,18 @@ default – "White"
     font-size: 12pt;
 }
 
-/*Видео*/
-.vid-wrap{
-    margin-bottom:1em;
-}
-.vid {
-    background: #faaf00;
-    border: 0.15em solid #faaf00;
-    border-radius: 2px;
+/*К курсу*/
+.button-link {
+    background: #0F5181;
+    border: 0.15em solid #0F5181;
     color:white;
     font-weight: bold;
     padding-left:10px;
     padding-right:10px;
     margin-bottom:5px;
 }
-
-.book.color-theme-1 .vid-wrap{
-    margin-bottom:1em;
-}
-.book.color-theme-1 .vid {
-    background: #704214;
-    border: 0.15em solid #704214;
-    border-radius: 2px;
-    color:#F3EACB;
-    font-weight: bold;
-    padding-left:10px;
-    padding-right:10px;
-    margin-bottom:5px;
-}
-
-.book.color-theme-2 .vid-wrap{
-    margin-bottom:1em;
-}
-.book.color-theme-2 .vid {
-    background: #2c3043;
-    border: 0.15em solid #2c3043;
-    border-radius: 2px;
-    color:#bdcadb;
-    font-weight: bold;
-    padding-left:10px;
-    padding-right:10px;
-    margin-bottom:5px;
+.button-link:hover {
+    background: #356094;
+    border: solid 1px #2A4E77;
+    text-decoration: none;
 }
