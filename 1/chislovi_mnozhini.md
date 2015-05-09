@@ -80,7 +80,6 @@
 <div id="openModal" class="modalDialog">
 	<div>
 		<a href="#close" title="Close" class="close">X</a>
-		<h2>Modal Box</h2>
-		<p>This is a sample modal box that can be created using the powers of CSS3.</p>
+		<iframe width="770" height="458" src="https://www.youtube.com/embed/ODPIzvEpYKI" frameborder="0" allowfullscreen></iframe>
 	</div>
 </div>
