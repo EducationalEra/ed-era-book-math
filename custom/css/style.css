@@ -505,6 +505,7 @@ default – "White"
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  background: red;
 }
 
 @media (min-width: 200px) {
@@ -517,11 +518,13 @@ default – "White"
 @media (min-width: 768px) {
   .container {
     width: 750px;
+    background: green;
   }
 }
 @media (min-width: 992px) {
   .container {
     width: 970px;
+    background: blue;
   }
 }
 @media (min-width: 1200px) {
