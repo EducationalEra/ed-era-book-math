@@ -78,4 +78,8 @@
 <a href="https://study.ed-era.com/courses/EdEra/M101/m101/about?_ga=1.212450324.1235595297.1427291903" target="new"><button class="but">Перейти до курсу!</button></a>
 
 
-
+<div id="popup-box1" class="popup-position">
+<div id="popup-wrapper">
+<div id="popup-container"></div>
+</div>
+</div>
