@@ -73,4 +73,13 @@
 
 <i>Наприклад:</i> $$6 \in \mathbb{N}, -1 \in \mathbb{Z}, 0,25 \in \mathbb{Q}, -\sqrt{26} \in \mathbb{R}.$$
 
-
+<div class="my-popup" role="alert">
+	<div class="my-popup-container">
+		<p>Are you sure you want to delete this element?</p>
+		<ul class="my-buttons">
+			<li><a href="#0">Yes</a></li>
+			<li><a href="#0">No</a></li>
+		</ul>
+		<a href="#0" class="my-popup-close img-replace">Close</a>
+	</div> <!-- cd-popup-container -->
+</div> <!-- cd-popup -->
