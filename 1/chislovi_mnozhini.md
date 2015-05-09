@@ -74,3 +74,11 @@
 <i>Наприклад:</i> $$6 \in \mathbb{N}, -1 \in \mathbb{Z}, 0,25 \in \mathbb{Q}, -\sqrt{26} \in \mathbb{R}.$$
 
 
+<a href="#openModal" onclick = "document.getElementById(openModal).style.display='block'">Open Modal</a>
+
+<div id="openModal" class="modalDialog">
+	<div>
+		<a href="#close" title="Close" class="close">X</a>
+		<iframe width="770" height="458" src="https://www.youtube.com/embed/ODPIzvEpYKI" frameborder="0" allowfullscreen></iframe>
+	</div>
+</div>
