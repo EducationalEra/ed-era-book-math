@@ -509,32 +509,32 @@ default – "White"
 }
 
 @media (min-width: 200px) {
-  .container {
+  .container, .modalDialog {
     width: 200px;
   }
 }
 
 @media (max-width: 700px) {
-  .container {
+  .container, .modalDialog {
     width: 100%;
   }
 }
 
 
 @media (min-width: 768px) {
-  .container {
+  .container, .modalDialog  {
     width: 740px;
     background: green;
   }
 }
 @media (min-width: 992px) {
-  .container {
+  .container, .modalDialog {
     width: 770px;
     background: blue;
   }
 }
 @media (min-width: 1200px) {
-  .container {
+  .container, .modalDialog {
     width: 770px;
   }
 }
