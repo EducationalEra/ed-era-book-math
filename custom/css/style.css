@@ -507,6 +507,13 @@ default – "White"
   background: red;
 }
 
+.video {
+  padding-right: 5px;
+  padding-left: 5px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 @media (min-width: 200px) {
   .container {
     width: 200px;
@@ -528,6 +535,9 @@ default – "White"
   }
   .modalDialog {
     width: 100%;
+  }
+  .video {
+    width:;  
   }
 }
 
