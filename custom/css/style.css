@@ -456,8 +456,8 @@ default – "White"
     
 }
 #popupwrapper {
-    width:640;
-    height:480;
+    width:640px;
+    height:480px;
     margin:70px auto;
     text-align:left;
     
