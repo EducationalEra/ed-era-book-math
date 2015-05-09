@@ -99,7 +99,6 @@
 <div id="popup-box1" class="popupposition">
 <div id="popupwrapper">
 <div id="popupcontainer">
-<h3>hui na!</h3>
 {% youtube %}https://www.youtube.com/watch?v=ODPIzvEpYKI&index=46&list=PL_zDp5rG6HqvuM-pZZicqADG7Mo3yrl5D{% endyoutube %}
 <p><a href="javascript:void(0)" onclick="toggle_visibility('popup-box1'); toggle_visibility1('book-summary')">Close popup</a></p>
 </div>
