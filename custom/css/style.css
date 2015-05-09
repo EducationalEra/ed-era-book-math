@@ -445,19 +445,4 @@ default – "White"
 
 /*popup video*/
 
-.popupposition {
-    display:none;
-    position:fixed;
-    top:0;
-    right:0;
-    bottom:0;
-    left:0;
-    background-color:rgba(0,0,0,0.7);
-    width:100% auto;
-    height:100% auto;
-}
-#popupwrapper {
-    width:auto;
-    margin:70px auto;
-    text-align:left;
-    }
+
