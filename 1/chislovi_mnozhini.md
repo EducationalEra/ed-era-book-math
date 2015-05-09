@@ -73,4 +73,12 @@
 
 <i>Наприклад:</i> $$6 \in \mathbb{N}, -1 \in \mathbb{Z}, 0,25 \in \mathbb{Q}, -\sqrt{26} \in \mathbb{R}.$$
 
+<a href="#video" data-toggle="popup">video</a>
 
+<div class = "popup fade" id = "video" role="dialog">
+<div class = "popup dialog">
+<div class = "popup-content">
+<h4>hui na</h4>
+</div>
+</div>
+</div>
