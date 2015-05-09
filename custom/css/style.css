@@ -467,7 +467,7 @@ default – "White"
 }
 
 .modalDialog > div {
-	width: 400px;
+	width: 800px;
 	position: relative;
 	margin: 10% auto;
 	padding: 5px 20px 13px 20px;
@@ -479,6 +479,8 @@ default – "White"
 }
 
 .close {
+	background: #606061;
+	color: #FFFFFF;
 	line-height: 25px;
 	position: absolute;
 	right: -12px;
