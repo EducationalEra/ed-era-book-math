@@ -75,13 +75,11 @@
 
 
 
-<a href="#openModal">Open Modal</a>
-
-<div id="openModal" class="modalDialog">
-	<div>
-		<a href="#close" title="Close" class="close">X</a>
-		<iframe width="770" height="458" src="https://www.youtube.com/embed/ODPIzvEpYKI" frameborder="0" allowfullscreen></iframe>
-	</div>
+<div id="popup-box1" class="popupposition">
+<div id="popupwrapper">
+<p style="text-align: right;"><a href="javascript:void(0)" onclick="document.getElementById('popup-box1').style.display='none';">X</a></p>
+<iframe width="770" height="458" src="https://www.youtube.com/embed/ODPIzvEpYKI" frameborder="0" allowfullscreen></iframe>
+</div>
 </div>
 
-123
+<p><a href="javascript:void(0)" onclick="document.getElementById('popup-box1').style.display='block';">Open popup</a></p>
