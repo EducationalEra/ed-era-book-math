@@ -1,8 +1,7 @@
 $(document).ready(function () {
   $("a.toggle-search").remove();
-});
-$(document).ready(function() {
-	$('.popup-youtube, .popup-vimeo, .popup-gmaps').magnificPopup({
+  
+  $('.popup-youtube, .popup-vimeo, .popup-gmaps').magnificPopup({
 		disableOn: 700,
 		type: 'iframe',
 		mainClass: 'mfp-fade',
@@ -10,5 +9,5 @@ $(document).ready(function() {
 		preloader: false,
 
 		fixedContentPos: false
-	});
 });
+
