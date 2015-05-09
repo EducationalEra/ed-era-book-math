@@ -93,7 +93,7 @@
 <div id="popupwrapper">
 <p style="text-align: right;"><a href="javascript:void(0)" onclick="toggle_visibility('popup-box1');">X</a></p>
 <div id="popupcontainer">
-{% youtube %}https://www.youtube.com/watch?v=ODPIzvEpYKI&index=46&list=PL_zDp5rG6HqvuM-pZZicqADG7Mo3yrl5D{% endyoutube %}
+<iframe width="770" height="458" src="https://www.youtube.com/embed/ODPIzvEpYKI" frameborder="0" allowfullscreen></iframe>
 </div>
 </div>
 </div>
