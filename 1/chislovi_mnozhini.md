@@ -86,13 +86,6 @@
        else
           e.style.display = 'block';
     }
-    function toggle_visibility1(names) {
-       var e = document.getElementsByClassName(names);
-       if(e.style.display == 'block')
-          e.style.display = 'none';
-       else
-          e.style.display = 'block';
-    }
 //-->
 </script>
 
