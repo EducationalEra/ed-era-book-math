@@ -75,10 +75,4 @@
 
 <a href="#video" data-toggle="popup">video</a>
 
-<div class = "popup fade" id = "video" role="dialog">
-<div class = "popup dialog">
-<div class = "popup-content">
-<h4>hui na</h4>
-</div>
-</div>
-</div>
+
