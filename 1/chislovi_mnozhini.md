@@ -83,3 +83,5 @@
 <div id="popupcontainer"></div>
 </div>
 </div>
+
+<p><a href="javascript:void(0)">Open popup</a></p>
