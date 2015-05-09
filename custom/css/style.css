@@ -402,7 +402,7 @@ default – "White"
     padding-right:10px;
     padding-top:10px;
     padding-bottom:10px;
-    background: #704214;
+    background: #8c6742;
     border: solid 1px #704214;
     color:#F3EACB;
     -webkit-border-radius: 4px;
@@ -411,12 +411,12 @@ default – "White"
 }
 
 .book.color-theme-1 .but:hover {
-    background: #faaf00;
-    border: solid 1px #faaf00;
+    background: #F3EACB;
+    border: solid 1px #F3EACB;
     text-decoration: none;
 }
 .book.color-theme-1 .but:active {
-    background: #faaf00;
-    border: solid 1px #faaf00;
+    background: #F3EACB;
+    border: solid 1px #F3EACB;
 }
 
