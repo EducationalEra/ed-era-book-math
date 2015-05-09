@@ -80,7 +80,7 @@
 
 <div id="popup-box1" class="popupposition">
 <div id="popupwrapper">
-<div id="popupcontainer"></div>
+<div id="popupcontainer">hui na!</div>
 </div>
 </div>
 
