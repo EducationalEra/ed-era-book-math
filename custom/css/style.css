@@ -479,8 +479,6 @@ default – "White"
 }
 
 .close {
-	background: #606061;
-	color: #FFFFFF;
 	line-height: 25px;
 	position: absolute;
 	right: -12px;
