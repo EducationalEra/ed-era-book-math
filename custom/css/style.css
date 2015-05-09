@@ -446,6 +446,7 @@ default – "White"
 /*popup video*/
 
 .popupposition {
+    display:none;
     position:fixed;
     top:0;
     right:0;
@@ -457,7 +458,6 @@ default – "White"
 	-webkit-transition: opacity 400ms ease-in;
 	-moz-transition: opacity 400ms ease-in;
 	transition: opacity 400ms ease-in;
-	pointer-events: none;
 }
 #popupwrapper {
     width:500px;
