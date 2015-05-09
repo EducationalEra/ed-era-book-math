@@ -84,8 +84,13 @@
 	    <div id="openModal" class="modalDialog">
 	    <div class="modalbackground">
 		    <a href="#" title="Close" class="close">X</a>
-		    <iframe class="video" src="https://www.youtube.com/embed/ODPIzvEpYKI" frameborder="0" allowfullscreen></iframe>
+		    <iframe width="100%" class="myIframe" src="https://www.youtube.com/embed/ODPIzvEpYKI" frameborder="0" allowfullscreen></iframe>
 	    </div>
 	    </div>
 </div>
 
+
+
+<script type="text/javascript" language="javascript"> 
+$('.myIframe').css('height', $(window).height()+'px');
+</script>
