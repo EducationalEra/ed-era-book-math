@@ -350,6 +350,7 @@ default – "White"
 
 /*knopka*/
 .but {
+    margin-bottom:1em;
     padding-left:10px;
     padding-right:10px;
     background: #fac864;
