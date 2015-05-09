@@ -78,8 +78,7 @@
 <a href="#openModal">Open Modal</a>
 
 <div id="openModal" class="modalDialog">
-	<div>
-		<a href="#close" title="Close" class="close">X</a>
-		<iframe width="770" height="458" src="https://www.youtube.com/embed/ODPIzvEpYKI" frameborder="0" allowfullscreen></iframe>
-	</div>
+<a href="#close" title="Close" class="close">X</a>
+<iframe width="770" height="458" src="https://www.youtube.com/embed/ODPIzvEpYKI" frameborder="0" allowfullscreen></iframe>
+
 </div>
