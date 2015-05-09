@@ -100,9 +100,9 @@
 <div id="popupwrapper">
 <div id="popupcontainer">
 {% youtube %}https://www.youtube.com/watch?v=ODPIzvEpYKI&index=46&list=PL_zDp5rG6HqvuM-pZZicqADG7Mo3yrl5D{% endyoutube %}
-<p><a href="javascript:void(0)" onclick="toggle_visibility('popup-box1'); toggle_visibility1('book-summary')">Close popup</a></p>
+<p><a href="javascript:void(0)" onclick="toggle_visibility('popup-box1');">Close popup</a></p>
 </div>
 </div>
 </div>
 
-<p><a href="javascript:void(0)" onclick="toggle_visibility('popup-box1'); toggle_visibility1('book-summary')">Open popup</a></p>
+<p><a href="javascript:void(0)" onclick="toggle_visibility('popup-box1');">Open popup</a></p>
