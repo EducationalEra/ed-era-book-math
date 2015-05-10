@@ -104,3 +104,8 @@ function toggleVideo(state) {
         }
     }
 </script>
+
+<a href="//player.vimeo.com/video/101980132" data-modal-title="Vimeo">
+    Launch Vimeo overlay
+</a>
+
