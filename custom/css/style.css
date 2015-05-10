@@ -507,15 +507,6 @@ default – "White"
   background: red;
 }
 
-.video {
-  padding-right: 5px;
-  padding-left: 5px;
-  margin-right: auto;
-  margin-left: auto;
-  width:710px;
-  height:422px;
-}
-
 @media (min-width: 200px) {
   .container {
     width: 200px;
@@ -525,10 +516,6 @@ default – "White"
   }
   .modalDialog {
     width: 100%;
-  }
-  .video {
-    width:180px;
-    height:99px;
   }
 }
 
@@ -541,10 +528,6 @@ default – "White"
   }
   .modalDialog {
     width: 100%;
-  }
-  .video {
-    width:340px;
-    height:202px;
   }
 }
 
@@ -560,10 +543,6 @@ default – "White"
     width: 100%;
   }
 }
-  .video {
-    width:680px;
-    height:404px;
-  }
 }
 @media (min-width: 992px) {
   .container {
@@ -575,10 +554,6 @@ default – "White"
   .modalDialog {
     width: 100%;
   }
-  .video {
-    width:700px;
-    height:404px;
-  }
 }
 @media (min-width: 1200px) {
   .container {
@@ -589,10 +564,6 @@ default – "White"
   }
   .modalDialog {
     width: 100%;
-  }
-  .video {
-    width:700px;
-    height:404px;
   }
 }
 
