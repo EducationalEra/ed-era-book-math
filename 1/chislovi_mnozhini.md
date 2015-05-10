@@ -83,7 +83,7 @@
 <div class="container">
 	    <div id="openModal" class="modalDialog">
 	    <div class="modalbackground">
-		    <a href="#" title="Close" class="close">X</a>
+		    <a href="#" title="Close" class="close" onclick = "document.getElementById(openModal).style.display='close'">X</a>
 		    <iframe width="100%" class="myIframe" src="https://www.youtube.com/embed/OmChExX7MrU?controls=0" frameborder="0" allowfullscreen></iframe>
 	    </div>
 	    </div>
