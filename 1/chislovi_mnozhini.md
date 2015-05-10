@@ -73,11 +73,6 @@
 
 <i>Наприклад:</i> $$6 \in \mathbb{N}, -1 \in \mathbb{Z}, 0,25 \in \mathbb{Q}, -\sqrt{26} \in \mathbb{R}.$$
 
-<div class="container">
-<p>aknjfdsnfk  asd as dsa dsaв вaфыad asd</p>
-<p align="right">adsa dsa dasdas dsa dasd </p>
-</div>
-
 
 <a href="#openModal" onclick = "document.getElementById(openModal).style.display='block'">Open Modal</a>
 <div class="container">
