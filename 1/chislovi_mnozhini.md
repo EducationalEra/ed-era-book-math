@@ -84,7 +84,7 @@
 	    <div id="openModal" class="modalDialog">
 	    <div class="modalbackground">
 		    <a href="#" title="Close" class="close">X</a>
-		    <iframe width="100%" class="myIframe" src="https://www.youtube.com/embed/OmChExX7MrU" frameborder="0" allowfullscreen></iframe>
+		    <iframe width="100%" class="myIframe" src="https://www.youtube.com/embed/OmChExX7MrU" frameborder="0" autoheight=1 allowfullscreen></iframe>
 	    </div>
 	    </div>
 </div>
