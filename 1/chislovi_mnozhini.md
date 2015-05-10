@@ -93,4 +93,14 @@ ab
 
 <script type="text/javascript" language="javascript"> 
 $('.myIframe').css('height', $(window).height()+'px');
+function toggleVideo(state) {
+        if(state == 'hide'){
+            $('#video-div').modal('hide');
+            document.getElementById('video-iframe'+id).contentWindow.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*');
+        }
+        else {
+            $('#video-div').modal('show');
+            document.getElementById('video-iframe'+id).contentWindow.postMessage('{"event":"command","func":"playVideo","args":""}', '*');
+        }
+    }
 </script>
