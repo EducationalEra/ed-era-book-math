@@ -83,29 +83,9 @@
 <div class="container">
 	    <div id="openModal" class="modalDialog">
 	    <div class="modalbackground">
-		    <a href="#" title="Close" class="close" onclick = "document.getElementById(openModal).style.display='close'; toggleVideo('hide')">X</a>
+		    <a href="#" title="Close" class="close">X</a>
 		    <iframe class="video" src="https://www.youtube.com/embed/OmChExX7MrU?controls=0" frameborder="0" allowfullscreen></iframe>
 	    </div>
 	    </div>
 </div>
 ab
-nbv
-<!--
-<script type="text/javascript" language="javascript"> 
-$('.myIframe').css('height', $(window).height()+'px');
-function toggleVideo(state) {
-        if(state == 'hide'){
-            $('#video-div').modal('hide');
-            document.getElementById('video-iframe'+id).contentWindow.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*');
-        }
-        else {
-            $('#video-div').modal('show');
-            document.getElementById('video-iframe'+id).contentWindow.postMessage('{"event":"command","func":"playVideo","args":""}', '*');
-        }
-    }
-</script>
-
-<a href="//player.vimeo.com/video/126897736" data-modal-title="Vimeo">
-    Launch Vimeo overlay
-</a>
--->
