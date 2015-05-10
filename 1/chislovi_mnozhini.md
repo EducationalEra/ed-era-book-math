@@ -84,13 +84,13 @@
 	    <div id="openModal" class="modalDialog">
 	    <div class="modalbackground">
 		    <a href="#" title="Close" class="close" onclick = "document.getElementById(openModal).style.display='close'; toggleVideo('hide')">X</a>
-		    <iframe width="100%" class="myIframe" src="https://www.youtube.com/embed/OmChExX7MrU?controls=0" frameborder="0" allowfullscreen></iframe>
+		    <iframe class="video" src="https://www.youtube.com/embed/OmChExX7MrU?controls=0" frameborder="0" allowfullscreen></iframe>
 	    </div>
 	    </div>
 </div>
 ab
 nbv
-
+<!--
 <script type="text/javascript" language="javascript"> 
 $('.myIframe').css('height', $(window).height()+'px');
 function toggleVideo(state) {
@@ -108,8 +108,4 @@ function toggleVideo(state) {
 <a href="//player.vimeo.com/video/126897736" data-modal-title="Vimeo">
     Launch Vimeo overlay
 </a>
-
-<iframe src="https://player.vimeo.com/video/126897736?portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/126897736">Hook N Sling - &quot;Break Yourself&quot;</a> from <a href="https://vimeo.com/user39894751">Nelson y Carlos</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-
-   <iframe width="100%" class="myIframe" src="https://www.youtube.com/embed/OmChExX7MrU?controls=0" frameborder="0" allowfullscreen></iframe>
+-->
