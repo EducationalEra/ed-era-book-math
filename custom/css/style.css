@@ -543,8 +543,8 @@ default – "White"
     width: 100%;
   }
   .video {
-    width:700;
-    height:416;
+    width:700px;
+    height:416px;
   }
 }
 
