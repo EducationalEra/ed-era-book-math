@@ -75,7 +75,7 @@
 
 
 
-<a href="#openModal" onclick = "document.getElementById('openModal').src='https://www.youtube.com/embed/OmChExX7MrU?enablejsapi=1'">Open Modal</a>
+<a href="#openModal" onclick = "document.getElementById('openModal').src='https://www.youtube.com/embed/OmChExX7MrU?enablejsapi=1';">Open Modal</a>
 <div class="container">
 	    <div id="openModal" class="modalDialog">
 	    <div class="modalbackground">
