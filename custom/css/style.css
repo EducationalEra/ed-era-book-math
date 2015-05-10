@@ -477,7 +477,7 @@ default – "White"
 	background: -o-linear-gradient(#fff, #999);
 }
 
-.close {
+/*.close {
 	background: #606061;
 	color: #FFFFFF;
 	line-height: 25px;
@@ -497,7 +497,7 @@ default – "White"
 }
 
 .close:hover { background: #00d9ff; }
-
+*/
 
 .container {
   padding-right: 15px;
