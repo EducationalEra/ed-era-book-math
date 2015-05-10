@@ -74,13 +74,14 @@
 <i>Наприклад:</i> $$6 \in \mathbb{N}, -1 \in \mathbb{Z}, 0,25 \in \mathbb{Q}, -\sqrt{26} \in \mathbb{R}.$$
 
 
+
 <a href="#openModal" onclick = "document.getElementById(openModal).style.display='block'">Open Modal</a>
 <div class="container">
 	    <div id="openModal" class="modalDialog">
 	    <div class="modalbackground">
-		    <a href="#" title="Close" class="close" onclick="player.pauseVideo(myvid);">X</a>
+		    <a href="#" title="Close" class="close">X</a>
 		    <div class="responsive-video">
-		    <iframe id="myvid" src="https://www.youtube.com/embed/OmChExX7MrU?enablejsapi=1" frameborder="0" allowfullscreen></iframe>
+		    <iframe src="https://www.youtube.com/embed/OmChExX7MrU?enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 		    </div>
 	    </div>
 	    </div>
