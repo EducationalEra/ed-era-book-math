@@ -1,7 +1,7 @@
 # Арифметика
 # Числовi множини
 
-Всі числа можна віднести до тієї чи іншої групи, об’єднуючи їх за певними ознаками та властивостями.
+<abz>Всі числа можна віднести до тієї чи іншої групи, об’єднуючи їх за певними ознаками та властивостями.</abz>
 
 <p align="center"><img align="middle" class="image" src="../pics/pic1.png"/></p>
 
@@ -86,5 +86,5 @@
 <i>Наприклад:</i> $$6 \in \mathbb{N}, -1 \in \mathbb{Z}, 0,25 \in \mathbb{Q}, -\sqrt{26} \in \mathbb{R}.$$
 
 
-<div class="but">{% modalYoutube %}https://www.youtube.com/embed/OmChExX7MrU Продивіться{% endmodalYoutube %}</div>
+{% modalYoutube %}https://www.youtube.com/embed/OmChExX7MrU?enablejsapi=1 <img src="../pics/pic2.png"/>{% endmodalYoutube %}
 
