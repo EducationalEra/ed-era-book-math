@@ -3,7 +3,7 @@
 
 <abz>Всі числа можна віднести до тієї чи іншої групи, об’єднуючи їх за певними ознаками та властивостями.</abz>
 
-<abz><p align="center"><img align="middle" class="image" src="../pics/pic1.png"/></p></abz>
+<p align="center"><img align="middle" class="image" src="../pics/pic1.png"/></p>
 
 <abz><p>Найпростішою та найзрозумілішою множиною чисел є натуральні числа.</p></abz>
 
