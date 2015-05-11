@@ -443,4 +443,7 @@ default – "White"
     border: solid 1px #2c3043;
 }
 
-
+p3 {
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
