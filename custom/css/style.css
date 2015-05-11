@@ -443,7 +443,6 @@ default – "White"
     border: solid 1px #2c3043;
 }
 
-.p3 {
-    margin-top: 5em;
-    margin-bottom: 5em;
+p {
+    line-height: 120em;
 }
