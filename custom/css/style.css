@@ -443,7 +443,6 @@ default – "White"
     border: solid 1px #2c3043;
 }
 
-p {
-    margin-top: 30ex;
-    margin-bottom: 30ex;
+p3 {
+    margin-bottom: 5em;
 }
