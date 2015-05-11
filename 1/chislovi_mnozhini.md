@@ -86,4 +86,4 @@
 <i>Наприклад:</i> $$6 \in \mathbb{N}, -1 \in \mathbb{Z}, 0,25 \in \mathbb{Q}, -\sqrt{26} \in \mathbb{R}.$$
 
 
-{% modalYoutube %}https://youtu.be/7DMGI-5FGGs?list=PL_zDp5rG6HqvweBJ6aiGlEV6itB4PD8ou <button class="but">Відео</button>{% endmodalYoutube %}
+{% modalYoutube %}https://www.youtube.com/watch?v=uRiLhXiDH18 <button class="but">Відео</button>{% endmodalYoutube %}
