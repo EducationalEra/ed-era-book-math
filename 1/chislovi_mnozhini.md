@@ -4,7 +4,7 @@
 
 <s class="space">Всі числа можна віднести до тієї чи іншої групи, об’єднуючи їх за певними ознаками та властивостями.</s>
 
-<s align="center"><img align="middle" class="image" src="../pics/pic1.png"/></s>
+<p align="center"><img align="middle" class="image" src="../pics/pic1.png"/></p>
 
 <p class="space">Найпростішою та найзрозумілішою множиною чисел є натуральні числа.</p>
 
