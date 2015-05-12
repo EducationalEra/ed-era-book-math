@@ -47,7 +47,7 @@
 
 <div class="space"><i>Наприклад:</i> $$-1; \dfrac{20}{5};-\dfrac{1}{3}; 5; 10\dfrac{5}{7}$$ тощо.</div>
 
-<p>Множину натуральних чисел позначають знаком $$\mathbb{Q}$$.</p>
+<div class="space">Множину натуральних чисел позначають знаком $$\mathbb{Q}$$.</div>
 
 <div class="space"><div class="eoz-wrap">
 <span class="eoz">Означення</span>
