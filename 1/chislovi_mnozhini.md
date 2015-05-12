@@ -4,7 +4,7 @@
 
 <div class="space">Всі числа можна віднести до тієї чи іншої групи, об’єднуючи їх за певними ознаками та властивостями.</div>
 
-<p align="center"><img align="middle" class="image" src="../pics/pic1.png"/></p>
+<div class="space"><p align="center"><img align="middle" class="image" src="../pics/pic1.png"/></p></div>
 
 <div class="space">Найпростішою та найзрозумілішою множиною чисел є натуральні числа.</div>
 
@@ -17,7 +17,7 @@
 </div></div>
 
 
-<p><i>Наприклад:</i> $$1,2,3,4 …$$</p>
+<div class="space"><p><i>Наприклад:</i> $$1,2,3,4 …$$</p></div>
 
 <p>Числовi множини прийнято позначати латинськими великими лiтерами з подвiйним штрихом.</p>
 
