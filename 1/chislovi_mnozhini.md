@@ -2,14 +2,14 @@
 # Числовi множини
 
 <EdEra_question type = "Multiple">
-        <p>Question text</p>
+    <p>Question text</p>
             <choice correct="false">The iPad</choice>
             <choice correct="false">Napster</choice>
             <choice correct="true">The iPod</choice>
             <choice correct="false">The vegetable peeler</choice>
             <p><message></message></p>
-        <p><explain style="display: none">Because it is so 1</explain></p>
-    </EdEra_question>
+<p><explain style="display: none">Because it is so 1</explain></p>
+</EdEra_question>
 
    
      <h1>Random text</h1>
