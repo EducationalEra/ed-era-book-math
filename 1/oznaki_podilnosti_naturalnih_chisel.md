@@ -2,9 +2,9 @@
 
 Ознаки подiльностi стаються в нагодi, коли треба дiзнатись, чи дiлиться дане число на iнше без остачi, не витрачаючи час на процес дiлення.
 
-{% modalYoutube %}https://www.youtube.com/embed/RL1yKRaIWkE <button class="but">Переглянути відео!</button>{% endmodalYoutube %}
+<div class="space">{% modalYoutube %}https://www.youtube.com/embed/RL1yKRaIWkE <button class="but">Переглянути відео!</button>{% endmodalYoutube %}</div>
 
-<font color="#0F5181">**Число $$a$$ дiлиться на**:</font>
+<div class="space"><font color="#0F5181">**Число $$a$$ дiлиться на**:</font></div>
 * $$2$$, якщо воно парне;
 
 * $$3$$, якщо сума всiх цифр, що складають число дiлиться на $$3$$;
