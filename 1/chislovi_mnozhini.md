@@ -8,7 +8,7 @@
 
 <p class="space">Найпростішою та найзрозумілішою множиною чисел є натуральні числа.</p>
 
-<p>
+<p class="space">
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
