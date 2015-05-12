@@ -86,14 +86,14 @@ function findCorrect(currentPos) {
 /*creates Multiple choice question type*/
 function createMultiple(currentPos) {
     for (i = 0; i < questions[currentPos].getElementsByTagName("choice").length; i++) {
-        questions[currentPos].getElementsByTagName("choice")[i].innerHTML = "<input type='radio' name='choices'>" + questions[currentPos].getElementsByTagName("choice")[i].textContent + "<m style='display: none'></m> </br>";  
+        questions[currentPos].getElementsByTagName("choice")[i].innerHTML = "<input type='radio' name='choices' value='"+ currentPos +"'><label for='" + currentPos + "'> " + questions[currentPos].getElementsByTagName("choice")[i].textContent + "</label><m style='display: none'></m> </br>";  
     }
 }
 
 /*creates CheckBox question type*/
 function createCheckBox(currentPos) {
     for (i = 0; i < questions[currentPos].getElementsByTagName("choice").length; i++) {
-        questions[currentPos].getElementsByTagName("choice")[i].innerHTML = "<input type='checkbox' name='choices'>" + questions[currentPos].getElementsByTagName("choice")[i].textContent + "<m style='display: none'></m>  </br>";  
+        questions[currentPos].getElementsByTagName("choice")[i].innerHTML = "<input type='checkbox' name='choices'> " + questions[currentPos].getElementsByTagName("choice")[i].textContent + "<m style='display: none'></m>  </br>";  
     }
 }
 
