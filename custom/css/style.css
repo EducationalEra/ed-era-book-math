@@ -444,5 +444,6 @@ default – "White"
 }
 
 p {
-    line-height: 10ex;
+    margin-top: 20%;
+    margin-bottom: 20%;
 }
