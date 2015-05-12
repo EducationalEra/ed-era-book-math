@@ -34,7 +34,7 @@
 <div class="space"><i>Наприклад:</i> $$-1; 0;-20; 1254$$ тощо.</div>
 
 
-<p>Множину натуральних чисел позначають знаком $$\mathbb{Z}$$.</p>
+<div class="space">Множину натуральних чисел позначають знаком $$\mathbb{Z}$$.</div>
 
 <div class="space">
 <div class="eoz-wrap">
