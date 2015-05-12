@@ -22,15 +22,18 @@
 
 <b>Взаємно простi числа</b> — пара чисел, що не мають спiльних дiльникiв, крiм одиницi.
 
-Часто стає у нагодi знання того, як знаходити найбiльший спiльний дiльник та найменше спiльне кратне.
+<div class="space">Часто стає у нагодi знання того, як знаходити найбiльший спiльний дiльник та найменше спiльне кратне.</div>
 
+<div class="space">
 <div class="eoz-wrap">
 <span class="eoz">Означення</span> 
 <div class="eoz-text">
 <b>Найбiльший спiльний дiльник (НСД) кiлькох чисел</b> — найбiльше число, на яке дiляться данi числа без остачi.
 </div>
 </div>
+</div>
 
+<div class="space">
 <div class="alg-wrap">
 <span class="alg">Алгоритм</span> <b>Знаходження НСД кiлькох чисел</b>
 <div class="alg-text">
@@ -43,7 +46,9 @@
 </ul>
 </div>
 </div>
+</div>
 
+<div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span> 
 <div class="task-text">
@@ -59,14 +64,18 @@ $$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
 <b>Вiдповiдь.</b> $$36.$$
 </div>
 </div>
+</div>
 
+<div class="space">
 <div class="eoz-wrap">
 <span class="eoz">Означення</span> 
 <div class="eoz-text">
 <b>Найменше спiльне кратне (НСК) кiлькох чисел</b> — найменше число, яке дiлиться на данi числа без остачi.
 </div>
 </div>
+</div>
 
+<div class="space">
 <div class="alg-wrap">
 <span class="alg">Алгоритм</span> <b>Знаходження НСК кiлькох чисел</b>
 <div class="alg-text">
@@ -79,7 +88,9 @@ $$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
 </ul>
 </div>
 </div>
+</div>
 
+<div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span> 
 <div class="task-text">
@@ -93,6 +104,7 @@ $$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
 <p>Виписуємо найбiльшi ступенi всiх множникiв та перемножимо:</p>
 <p>НСК $$(504,180) = 2^3 \cdot 3^2 \cdot 5 \cdot 7 = 2520.$$</p>
 <b>Вiдповiдь.</b> $$2520.$$
+</div>
 </div>
 </div>
 
