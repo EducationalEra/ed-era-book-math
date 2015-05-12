@@ -2,7 +2,7 @@
 
 Ознаки подiльностi стаються в нагодi, коли треба дiзнатись, чи дiлиться дане число на iнше без остачi, не витрачаючи час на процес дiлення.
 
-<div class="space">{% modalYoutube %}https://www.youtube.com/embed/RL1yKRaIWkE <button class="but">Переглянути відео!</button>{% endmodalYoutube %}</div>
+<div class="space">{% modalYoutube %}https://www.youtube.com/embed/RL1yKRaIWkE|Переглянути відео!|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about">Перейти до курсу!</a>{% endmodalYoutube %}</div>
 
 <font color="#0F5181">**Число $$a$$ дiлиться на**:</font>
 * $$2$$, якщо воно парне;
@@ -27,7 +27,7 @@
 </div>
 
 <div class="task-wrap">
-<span class="task">Приклад</span> 
+<span class="task">Приклад</span>
 <div class="task-text">
 <b>Перевірити ознаки подільності на числі $$58198140$$:</b>
 <ol>

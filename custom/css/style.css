@@ -6,7 +6,7 @@
 </div>
 </div>
 
-default – "White" 
+default – "White"
 .book.color-theme-2 – "Night"
 .book.color-theme-1 – "Sepia"
 */
@@ -374,7 +374,7 @@ default – "White"
     font-size: 12pt;
 }
 
-/*knopka*/
+/*Button*/
 .but {
     padding-left:10px;
     padding-right:10px;
