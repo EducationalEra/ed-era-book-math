@@ -74,7 +74,7 @@
 
 <p>Множину натуральних чисел позначають знаком $$\mathbb{R}$$.</p>
 
-<p align="center"><img align="middle" class="image" src="../pics/pic2.png"/></p>
+<div class="space"><p align="center"><img align="middle" class="image" src="../pics/pic2.png"/></p></div>
 
 <p>Коли кажуть, що число належить до тiєї чи iншої множини, записують це за допомогою символа $$\in$$, що схожий на українську лiтеру Є.</p>
 
