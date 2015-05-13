@@ -119,6 +119,7 @@
 <p><i>Наприклад:</i> $$6 \in \mathbb{N}, -1 \in \mathbb{Z}, 0,25 \in \mathbb{Q}, -\sqrt{26} \in \mathbb{R}.$$</p>
 
 
-<div>
-{% modalYoutube %}https://www.youtube.com/watch?v=uRiLhXiDH18|Look at this video!|<a href="https://google.com">This is my custom header link!</a>{% endmodalYoutube %}
-</div>
+{% modalYoutube %}http://www.youtube.com/v/9bZkp7q19f0|<button ="but">Look at this video!</button>|<a href="#"><button ="but">This is my custom header link!</button></a>{% endmodalYoutube %} 
+
+
+
