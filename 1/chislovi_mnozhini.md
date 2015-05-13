@@ -119,7 +119,7 @@
 <p><i>Наприклад:</i> $$6 \in \mathbb{N}, -1 \in \mathbb{Z}, 0,25 \in \mathbb{Q}, -\sqrt{26} \in \mathbb{R}.$$</p>
 
 
-{% modalYoutube %}http://www.youtube.com/v/9bZkp7q19f0|<button ="but">Look at this video!</button>|<a href="#"><button ="but">This is my custom header link!</button></a>{% endmodalYoutube %} 
+{% modalYoutube %}http://www.youtube.com/v/9bZkp7q19f0|<button class="but">Look at this video!</button>|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about?_ga=1.124085646.566412928.1427025710"><button class="but">This is my custom header link!</button></a>{% endmodalYoutube %} 
 
 
 
