@@ -120,5 +120,5 @@
 
 
 <div>
-{% modalYoutube %}https://www.youtube.com/watch?v=uRiLhXiDH18 Look at this video!{% endmodalYoutube %}
+{% modalYoutube %}https://www.youtube.com/watch?v=uRiLhXiDH18|Look at this video!|<a href="https://google.com">This is my custom header link!</a>{% endmodalYoutube %}
 </div>
