@@ -513,8 +513,8 @@ p1 {
 	}
 
 	.round:hover {
-		width: 160px;
-		height: 160px;
+		width: 130px;
+		height: 130px;
 		left: -4px;
 		top: -4px;
 		font-size: 50px;
@@ -525,7 +525,7 @@ p1 {
 		-moz-box-shadow: 5px 5px 10px rgba(0,0,0,.3);
 		box-shadow: 5px 5px 10px rgba(0,0,0,.3);
 		z-index: 2;
-		border-size: 10px;
+		border-size: 40px;
 		-webkit-transform: rotate(-360deg);
 		-moz-transform: rotate(-360deg);
 		-o-transform: rotate(-360deg);
