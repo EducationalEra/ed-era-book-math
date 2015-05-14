@@ -455,7 +455,7 @@ p1 {
 /* play button*/
 
 	but0 {
-
+		margin: 30px auto;
 		text-align: center;
 	}
 
@@ -515,8 +515,8 @@ p1 {
 	.round:hover {
 		width: 130px;
 		height: 130px;
-		left: -15%;
-		top: -15%;
+		left: -5px;
+		top: -5px;
 		font-size: 33px;
 		padding-top: 12px;
 		-webkit-box-shadow: 5px 5px 10px rgba(0,0,0,.3);
