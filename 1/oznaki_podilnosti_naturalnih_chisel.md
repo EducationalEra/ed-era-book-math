@@ -2,6 +2,8 @@
 
 Ознаки подiльностi стаються в нагодi, коли треба дiзнатись, чи дiлиться дане число на iнше без остачi, не витрачаючи час на процес дiлення.
 
+{% modalYoutube %}https://www.youtube.com/embed/RL1yKRaIWkE|<but0><but1><a href="https://google.com" class="round green"><img src="../images/play2.png" width="100"/><span class="round">Дивитися відео!</span></a></but1></but0>|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
+
 {% modalYoutube %}https://www.youtube.com/embed/RL1yKRaIWkE|<button class="but">Дивитися відео!</button>|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
 
 <font color="#0F5181">**Число $$a$$ дiлиться на**:</font>
