@@ -378,8 +378,8 @@ default – "White"
 .but {
     padding-left:10px;
     padding-right:10px;
-    padding-top:10px;
-    padding-bottom:10px;
+    padding-top:7px;
+    padding-bottom:7px;
     background: #fac864;
     color: white;
     -webkit-border-radius: 4px;
@@ -400,8 +400,8 @@ default – "White"
 .book.color-theme-1 .but {
     padding-left:10px;
     padding-right:10px;
-    padding-top:10px;
-    padding-bottom:10px;
+    padding-top:7px;
+    padding-bottom:7px;
     background: #8c6742;
     border: solid 1px #704214;
     color:#F3EACB;
@@ -423,8 +423,8 @@ default – "White"
 .book.color-theme-2 .but {
     padding-left:10px;
     padding-right:10px;
-    padding-top:10px;
-    padding-bottom:10px;
+    padding-top:7px;
+    padding-bottom:7px;
     background: #565968;
     border: solid 1px #2c3043;
     color:#bdcadb;
