@@ -1,4 +1,5 @@
 # Модуль числа
+{% modalYoutube %}https://www.youtube.com/embed/Z7uj0_Jgmnc|<button class="but">Дивитися відео!</button>|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
 
 Модуль, або абсолютна величина дійсного числа $a$, – <p1>невід’ємна величина</p1>, яка позначається наступним чином:
 
