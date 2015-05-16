@@ -43,3 +43,10 @@
 </ol>
 </div>
 </div>
+
+<quiz name="question" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<question text="Чи ділиться число $$10939824$$ на $$9$$?" multiple>
+<answer correct>так</answer>
+<answer>ні</answer>
+</question>
+</quiz>
