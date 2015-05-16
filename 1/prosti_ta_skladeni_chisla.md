@@ -68,6 +68,16 @@ $$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
 </div>
 </div>
 
+<quiz name="question" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<question text="Який НСД чисел $$460$$ і $$280$$?" multiple>
+<answer correct>$$20$$</answer>
+<answer>$$8$$</answer>
+<answer>$$5$$</answer>
+<answer>$$4$$</answer>
+<explanation>волынская резня</explanation>
+</question>
+</quiz>
+
 <div class="space">
 <div class="eoz-wrap">
 <span class="eoz">Означення</span> 
@@ -109,6 +119,14 @@ $$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
 </div>
 </div>
 </div>
+
+<quiz name="question" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<question text="shto" multiple>
+<answer correct>hui v palto</answer>
+<answer>nichego</answer>
+<explanation>волынская резня</explanation>
+</question>
+</quiz>
 
 **Запис чисел за допомогою лiтер**. Будь-яке двозначне число можна записати у виглядi $$10a+b$$, де $$a$$ – цифра десяткiв $$(a\neq0)$$, а $$b$$ – цифра одиниць. Двозначне число, що складається з $$a$$ десяткiв та $$b$$ одиниць, записують $$(\overline{ab})$$ $$($$риска зверху говорить,
 що це не добуток двох змiнних $$a$$ i $$b)$$. Аналогiчно тризначне число $$(\overline{abc}) = 100a +$$ $$+ 10b + c, a \neq 0.$$
