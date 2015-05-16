@@ -74,7 +74,6 @@ $$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
 <answer>$$8$$</answer>
 <answer>$$5$$</answer>
 <answer>$$4$$</answer>
-<explanation>волынская резня</explanation>
 </question>
 </quiz>
 
@@ -121,10 +120,11 @@ $$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
 </div>
 
 <quiz name="question" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
-<question text="shto" multiple>
-<answer correct>hui v palto</answer>
-<answer>nichego</answer>
-<explanation>волынская резня</explanation>
+<question text="Який НСК чисел $$115$$ і $$920$$?" multiple>
+<answer correct>$$920$$</answer>
+<answer>$$115$$</answer>
+<answer>$$23$$</answer>
+<answer>$$1840$$</answer>
 </question>
 </quiz>
 
