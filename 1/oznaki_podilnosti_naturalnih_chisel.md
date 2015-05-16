@@ -5,7 +5,7 @@
 
 
 
-{% modalYoutube %}https://www.youtube.com/embed/RL1yKRaIWkE|<button class="but">Дивитися відео!</button>|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
+{% modalYoutube %}https://www.youtube.com/embed/RL1yKRaIWkE|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
 
 <font color="#0F5181">**Число $$a$$ дiлиться на**:</font>
 * $$2$$, якщо воно парне;
