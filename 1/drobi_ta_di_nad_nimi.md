@@ -48,8 +48,7 @@
 
 * Ділення. Операції ділення дробів еквівалентна операція множення на дріб, що є перевернутим: $$\dfrac{a}{c}:\dfrac{b}{d} = \dfrac{a}{c}\cdot \dfrac{d}{b}= \dfrac{a\cdot d}{c\cdot b}.$$
 
-<div class="space">
-</div>
+{% modalYoutube %}https://www.youtube.com/embed/Z7uj0_Jgmnc|<button class="but">Дивитися відео!</button>|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
 
 <div class="space">
 <div class="eoz-wrap">
