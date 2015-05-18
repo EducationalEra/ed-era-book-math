@@ -20,7 +20,7 @@
 
 <p align="center">$$3276 = 2^2\cdot 3^2 \cdot 7^1 \cdot 13^1.$$</p>
 
-{% modalYoutube %}https://www.youtube.com/embed/yX_KP2JlFg4|<img class="shake" src="../images/oval 3.svg" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
+{% modalYoutube %}https://www.youtube.com/embed/yX_KP2JlFg4|<img class="shake" src="../images/oval 4.svg" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
 
 <b>Взаємно простi числа</b> — пара чисел, що не мають спiльних дiльникiв, крiм одиницi.
 
