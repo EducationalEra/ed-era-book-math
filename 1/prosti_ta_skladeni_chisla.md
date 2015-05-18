@@ -20,7 +20,7 @@
 
 <p align="center">$$3276 = 2^2\cdot 3^2 \cdot 7^1 \cdot 13^1.$$</p>
 
-{% modalYoutube %}https://www.youtube.com/embed/yX_KP2JlFg4|<img width="160" height="160" src="../images/oval 4.svg" />|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
+{% modalYoutube %}https://www.youtube.com/embed/yX_KP2JlFg4|<img width="160" height="160" style="shake" src="../images/oval 4.svg" />|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
 
 {% modalYoutube %}https://www.youtube.com/embed/yX_KP2JlFg4|<img width="160" height="160" src="../images/oval 5.svg" />|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 
