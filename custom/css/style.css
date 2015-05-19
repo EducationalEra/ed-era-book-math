@@ -376,16 +376,13 @@ default – "White"
 
 /*Button*/
 .but {
-    padding-left:10px;
-    padding-right:10px;
-    padding-top:7px;
-    padding-bottom:7px;
+    background: transparent;
+    border: none;
     background: #fac864;
     color: white;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     border-radius: 4px;
-    border: solid 1px #faaf00;
 }
 .but:hover {
     background: #faaf00;
