@@ -22,7 +22,7 @@
 
 {% modalYoutube %}https://www.youtube.com/embed/yX_KP2JlFg4|<img width="160" height="160" class="shake" src="../images/oval 4.svg" />|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
 
-{% modalYoutube %}https://www.youtube.com/embed/yX_KP2JlFg4|<img width="160" height="160" src="https://www.edx.org/sites/default/files/course/image/promoted/pa_home_378x225.jpg" />|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+{% modalYoutube %}https://www.youtube.com/embed/yX_KP2JlFg4|<img width="378" height="225" src="https://www.edx.org/sites/default/files/course/image/promoted/pa_home_378x225.jpg" />|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 
 {% modalYoutube %}https://www.youtube.com/embed/yX_KP2JlFg4|<img width="160" height="160" src="../images/oval 6.svg" />|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 
