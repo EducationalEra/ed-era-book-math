@@ -378,8 +378,6 @@ default – "White"
 .but {
     background: transparent;
     border: none;
-    background: #fac864;
-    color: white;
 }
 .but:hover {
     background: #faaf00;
