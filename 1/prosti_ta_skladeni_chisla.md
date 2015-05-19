@@ -23,9 +23,7 @@
 {% modalYoutube %}https://www.youtube.com/embed/yX_KP2JlFg4|<img width="100" class="shake" src="../images/Oval 1.png" />|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
 
 
-<img class="box" width="400" height="120" src="../images/oval 5.svg">
-<div class="play-button"></div>
-</img>
+<button class="play-button" style="background-image:url(../images/Oval 1.png)"></button>
 
 <b>Взаємно простi числа</b> — пара чисел, що не мають спiльних дiльникiв, крiм одиницi.
 
