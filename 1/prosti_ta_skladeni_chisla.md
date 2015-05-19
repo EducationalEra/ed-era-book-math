@@ -23,8 +23,6 @@
 {% modalYoutube %}https://www.youtube.com/embed/yX_KP2JlFg4|<img width="100" class="shake" src="../images/Oval 1.png" />|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
 
 
-<button width="100" height="100" style="background-image:url(../images/Oval 1.png);">123124</button>
-
 <b>Взаємно простi числа</b> — пара чисел, що не мають спiльних дiльникiв, крiм одиницi.
 
 <div class="space">Часто стає у нагодi знання того, як знаходити найбiльший спiльний дiльник та найменше спiльне кратне.</div>
