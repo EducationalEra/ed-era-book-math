@@ -465,3 +465,20 @@ p1 {
 	-webkit-animation-iteration-count: infinite;
 	-webkit-animation-timing-function: linear;
 }
+
+.box {
+    display:inline-block;
+    width:400;
+    height:120;
+}
+.play-button {
+    height: 40px;
+    width: 65px;    
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 5px;
+    position: relative; 
+}
+
+.play-button:hover {
+    background-color: rgba(0, 173, 239, 0.9);
+}
