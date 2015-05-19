@@ -24,7 +24,7 @@
 
 {% modalYoutube %}https://www.youtube.com/embed/yX_KP2JlFg4| <img width="378" height="120" src="https://www.edx.org/sites/default/files/course/image/promoted/pa_home_378x225.jpg"><button class="but"/></img>|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 
-{% modalYoutube %}https://www.youtube.com/embed/yX_KP2JlFg4|<button class="but"><img width="160" height="160" src="../images/oval 6.svg" /></button>|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+{% modalYoutube %}https://www.youtube.com/embed/yX_KP2JlFg4|<button class="but"><img width="378" height="120" src="https://www.edx.org/sites/default/files/course/image/promoted/pa_home_378x225.jpg" /></button>|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 
 <b>Взаємно простi числа</b> — пара чисел, що не мають спiльних дiльникiв, крiм одиницi.
 
