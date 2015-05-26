@@ -26,7 +26,7 @@
 
 <div class="space">
 <div class="alg-wrap">
-<span class="alg">Означення</span> <b>Зведення дробiв до спiльного знаменника</b>
+<span class="alg">Алгоритм</span> <b>Зведення дробiв до спiльного знаменника</b>
 <div class="alg-text">
 <ul>
 <li>Знайти НСК знаменникiв дробiв.</li>
