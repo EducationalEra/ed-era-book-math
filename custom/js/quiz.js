@@ -87,19 +87,20 @@ $(document).ready(function () {
    * @returns {String}
    */
   var answerTemplate = function ($el, multiple, name) {
-    var correct, text;
+    var correct, text, html;
 
     correct = _.isString($el.attr("correct"));
     text = $el.text();
+    html = $el.html();
 
     if (multiple) {
       return "<div class=\"quiz-answer\">" +
-        "<input data-correct=" + correct + " name=\"" + name + "\" type=\"checkbox\" value=\"" + text + "\">" + text +
+        "<input data-correct=" + correct + " name=\"" + name + "\" type=\"checkbox\" value=\"" + text + "\">" + html +
         "<span class=\"quiz-answer-check\"></span>" +
         "</div>";
     } else {
       return "<div class=\"quiz-answer\">" +
-        "<input data-correct=" + correct + " name=\"" + name + "\" type=\"radio\" value=\"" + text + "\">" + text +
+        "<input data-correct=" + correct + " name=\"" + name + "\" type=\"radio\" value=\"" + text + "\">" + html +
         "<span class=\"quiz-answer-check\"></span>" +
         "</div>";
     }
