@@ -35,7 +35,7 @@
 <div class="space"><i>Наприклад:</i> $$-1; 0;-20; 1254$$ тощо.</div>
 
 
-<div class="space">Множину натуральних чисел позначають знаком $$\mathbb{Z}$$.</div>
+<div class="space">Множину цілих чисел позначають знаком $$\mathbb{Z}$$.</div>
 
 <div class="space">
 <div class="eoz-wrap">
@@ -48,7 +48,7 @@
 
 <div class="space"><i>Наприклад:</i> $$-1; \dfrac{20}{5};-\dfrac{1}{3}; 5; 10\dfrac{5}{7}$$ тощо.</div>
 
-<div class="space">Множину цілих чисел позначають знаком $$\mathbb{Q}$$.</div>
+<div class="space">Множину раціональних чисел позначають знаком $$\mathbb{Q}$$.</div>
 
 <div class="space"><div class="eoz-wrap">
 <span class="eoz">Означення</span>
