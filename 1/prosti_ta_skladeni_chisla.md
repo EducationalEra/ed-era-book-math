@@ -20,7 +20,7 @@
 
 <p align="center">$$3276 = 2^2\cdot 3^2 \cdot 7^1 \cdot 13^1.$$</p>
 
-{% modalYoutube %}https://www.youtube.com/embed/yX_KP2JlFg4|<img width="100" class="shake" src="../images/Oval 1.png" />|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
+{% modalYoutube %}https://www.youtube.com/embed/yX_KP2JlFg4|<img width="100" class="shake" src="../images/Oval 1.png" />|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 
 
 <b>Взаємно простi числа</b> — пара чисел, що не мають спiльних дiльникiв, крiм одиницi.
@@ -29,7 +29,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span> 
+<span class="eoz">Означення</span>
 <div class="eoz-text">
 <b>Найбiльший спiльний дiльник (НСД) кiлькох чисел</b> — найбiльше число, на яке дiляться данi числа без остачi.
 </div>
@@ -53,11 +53,11 @@
 
 <div class="space">
 <div class="task-wrap">
-<span class="task">Приклад</span> 
+<span class="task">Приклад</span>
 <div class="task-text">
 Обчислити НСД $$(504, 180)$$
 <p>
-<b><i>Розв’язок</i></b>.</p> 
+<b><i>Розв’язок</i></b>.</p>
 <p>
 $$504 = 2 \cdot 2 \cdot 2 \cdot 3 \cdot 3 \cdot 7 = 2^3 \cdot 3^2 \cdot 7;$$</p>
 <p>
@@ -70,17 +70,18 @@ $$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
 </div>
 
 <quiz name="question" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
-<question text="Який НСД чисел $$460$$ і $$280$$?" multiple>
-<answer correct>$$20$$</answer>
-<answer>$$8$$</answer>
-<answer>$$5$$</answer>
-<answer>$$4$$</answer>
-</question>
+    <question multiple>
+        <p>Який НСД чисел $$460$$ і $$280$$?</p>
+        <answer correct>$$20$$</answer>
+        <answer>$$8$$</answer>
+        <answer>$$5$$</answer>
+        <answer>$$4$$</answer>
+    </question>
 </quiz>
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span> 
+<span class="eoz">Означення</span>
 <div class="eoz-text">
 <b>Найменше спiльне кратне (НСК) кiлькох чисел</b> — найменше число, яке дiлиться на данi числа без остачi.
 </div>
@@ -104,11 +105,11 @@ $$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
 
 <div class="space">
 <div class="task-wrap">
-<span class="task">Приклад</span> 
+<span class="task">Приклад</span>
 <div class="task-text">
 Обчислимо НСК $$(504, 180)$$
 <p>
-<b><i>Розв’язок</i></b>.</p> 
+<b><i>Розв’язок</i></b>.</p>
 <p>
 $$504 = 2 \cdot 2 \cdot 2 \cdot 3 \cdot 3 \cdot 7 = 2^3 \cdot 3^2 \cdot 7;$$</p>
 <p>
@@ -121,12 +122,13 @@ $$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
 </div>
 
 <quiz name="question" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
-<question text="Який НСК чисел $$115$$ і $$920$$?" multiple>
-<answer correct>$$920$$</answer>
-<answer>$$115$$</answer>
-<answer>$$23$$</answer>
-<answer>$$1840$$</answer>
-</question>
+    <question multiple>
+        <p>Який НСК чисел $$115$$ і $$920$$?</p>
+        <answer correct>$$920$$</answer>
+        <answer>$$115$$</answer>
+        <answer>$$23$$</answer>
+        <answer>$$1840$$</answer>
+    </question>
 </quiz>
 
 **Запис чисел за допомогою лiтер**. Будь-яке двозначне число можна записати у виглядi $$10a+b$$, де $$a$$ – цифра десяткiв $$(a\neq0)$$, а $$b$$ – цифра одиниць. Двозначне число, що складається з $$a$$ десяткiв та $$b$$ одиниць, записують $$(\overline{ab})$$ $$($$риска зверху говорить,

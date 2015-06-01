@@ -47,7 +47,7 @@ $(document).ready(function () {
 
     html = "";
 
-    question = $el.prop("text") || $el.attr("text") || "";
+    question = $el.find("p").first().html();
     multiple = _.isString($el.attr("multiple"));
     $answers = $el.find("answer");
     $explanation = $el.find("explanation");

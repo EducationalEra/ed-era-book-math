@@ -10,7 +10,7 @@
 </div>
 
 
-Число, що є сумою натурального числа та звичайного дробу, називають **мiшаним**. 
+Число, що є сумою натурального числа та звичайного дробу, називають **мiшаним**.
 
 <div class="space"><b>Перевести мiшане число у звичайний дрiб</b> можна, помноживши цiлу частину на знаменник дробової частини та додавши до чисельника дробової частини.</div>
 
@@ -48,7 +48,7 @@
 
 * Ділення. Операції ділення дробів еквівалентна операція множення на дріб, що є перевернутим: $$\dfrac{a}{c}:\dfrac{b}{d} = \dfrac{a}{c}\cdot \dfrac{d}{b}= \dfrac{a\cdot d}{c\cdot b}.$$
 
-{% modalYoutube %}https://www.youtube.com/embed/1dnjaA-RC_A|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
+{% modalYoutube %}https://www.youtube.com/embed/1dnjaA-RC_A|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 
 <div class="space">
 <div class="eoz-wrap">
@@ -78,10 +78,11 @@
 Ось саме так записали $$256000$$. Для того, щоб отримати число від $$1$$ до $$10$$, треба пересунути кому на $$5$$ позицій ліворуч. Зсунувши кому на $$5$$ позицій ліворуч, ми збільшуємо показник на $$5$$. Отримуємо стандартний вигляд: $$2,56\cdot10^5$$. Аналогічно треба діяти з числом $$0,00074$$. Для того, щоб отримати число від $$1$$ до $$10$$, треба пересунути кому на $$4$$ позиції праворуч. Зсунувши кому на $$4$$ позиції праворуч, ми зменшуємо показник на $$4$$. В результаті, маємо $$7,4\cdot10^{-4}$$.
 
 <quiz name="question" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
-<question text="Чому дорівнює значення дробу: $$\dfrac{\dfrac{5}{7}}{1\dfrac{4}{6}}$$?" multiple>
-<answer correct>$$\dfrac{3}{7}$$</answer>
-<answer>$$\dfrac{70}{30}$$</answer>
-<answer>$$\dfrac{50}{30}$$</answer>
-<answer>$$1\dfrac{2}{3}$$</answer>
-</question>
+    <question text="" multiple>
+        <p>Чому дорівнює значення дробу: $$\dfrac{\dfrac{5}{7}}{1\dfrac{4}{6}}$$?</p>
+        <answer correct>$$\dfrac{3}{7}$$</answer>
+        <answer>$$\dfrac{70}{30}$$</answer>
+        <answer>$$\dfrac{50}{30}$$</answer>
+        <answer>$$1\dfrac{2}{3}$$</answer>
+    </question>
 </quiz>
