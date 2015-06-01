@@ -1,0 +1,15 @@
+.hidden {
+  display: none;
+}
+.correct {
+  color: green;
+}
+.incorrect {
+  color: red;
+}
+.correct:before {
+  content: " \2714"
+}
+.incorrect:before {
+  content: " \2718"
+}

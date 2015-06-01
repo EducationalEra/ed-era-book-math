@@ -1,112 +1,296 @@
-/* <EdEra_question type = "CheckBox"> ---- Multiple/CheckBox
-        <p>Question text</p>
-            <choice correct="true">The iPad</choice>
-            <choice correct="false">Napster</choice>
-            <choice correct="true">The iPod</choice>
-            <choice correct="false">The vegetable peeler</choice>
-            <choice correct="true">1</choice>
-            <choice correct="false">2</choice>
-            <choice correct="true">3</choice>
-          <p><message></message></p>    ---- "correct/incorrec" text message for user
-          
-          <p><explain style="display: none">Because it is so 2</explain></p>
-</EdEra_question> */
+$(document).ready(function () {
+  var configuration = {"labels": {}, text: {}};
 
+  /**
+   * Generates random string of given length
+   *
+   * @param {Number} [length]
+   * @returns {string}
+   */
+  function randomString(length) {
+    var CHARS;
 
-
-
-
-var questions = document.getElementsByTagName("EdEra_question");
-
-
-function resetStyle(currentPos) {
-    questions[currentPos].getElementsByTagName("explain")[0].setAttribute("style", "display: none");
-    var answers = questions[currentPos].getElementsByTagName("choice");
-    for (i = 0; i < answers.length; i++) {
-           answers[i].getElementsByTagName("m")[0].setAttribute("style", "display: none");     
-}
-}
-
-function totalCorrect(currentPos) {
-    var answers = questions[currentPos].getElementsByTagName("choice"),
-        totalCorrect = 0;
-    for (i = 0; i < answers.length; i++) {
-        if (answers[i].getAttribute("correct") == "true"){
-            totalCorrect++;
-        }
+    if (length === undefined) {
+      length = 20;
     }
-    return totalCorrect;
-}
-
-function findCorrect(currentPos) {
-    var answers = questions[currentPos].getElementsByTagName("choice"),
-        inputs = questions[currentPos].getElementsByTagName("input"),
-        corAns = 0, incorAns = 0;
-    resetStyle(currentPos);
-    for (i = 0; i < answers.length; i++) {
-        
-        if (answers[i].getAttribute("correct") == "true"){
-            answers[i].getElementsByTagName("m")[0].setAttribute("style", "display");
-           answers[i].getElementsByTagName("m")[0].innerHTML = " &#10004";
-            answers[i].getElementsByTagName("m")[0].style.color="green";
-        }
-        
-        
-        else if (answers[i].getElementsByTagName("input")[0].checked == true && answers[i].getAttribute("correct") == "true") {
-           corAns++;
-           answers[i].getElementsByTagName("m")[0].setAttribute("style", "display");
-           answers[i].getElementsByTagName("m")[0].innerHTML = " &#10004";
-            answers[i].getElementsByTagName("m")[0].style.color="green";
-        }
-        else if (answers[i].getElementsByTagName("input")[0].checked == true && answers[i].getAttribute("correct") == "false") {
-            incorAns++;
-            answers[i].getElementsByTagName("m")[0].setAttribute("style", "display");
-            answers[i].getElementsByTagName("m")[0].innerHTML = " &#10008";
-            answers[i].getElementsByTagName("m")[0].style.color="red";
-            }
-        }
-    if (incorAns == 0 && corAns == 0) {
-         questions[currentPos].getElementsByTagName("message")[0].innerHTML = "Не вибрано жодного варіанту.";
-    }    
-    else {
-            if (corAns == totalCorrect(currentPos) && incorAns == 0) {
-                questions[currentPos].getElementsByTagName("message")[0].innerHTML = "Вірно";
-            }
-            if (incorAns > 0 || corAns != totalCorrect(currentPos)) {
-                questions[currentPos].getElementsByTagName("message")[0].innerHTML = "Невірно";
-            }
-            inputs[inputs.length-1].setAttribute("style", "display");
-         }
-   questions[currentPos].getElementsByTagName("explain")[0].setAttribute("style", "display");
-    
-}
-
-
-
-/*creates Multiple choice question type*/
-function createMultiple(currentPos) {
-    for (i = 0; i < questions[currentPos].getElementsByTagName("choice").length; i++) {
-        questions[currentPos].getElementsByTagName("choice")[i].innerHTML = "<input type='radio' name='choices' value='"+ currentPos +"'><label for='" + currentPos + "'> " + questions[currentPos].getElementsByTagName("choice")[i].textContent + "</label><m style='display: none'></m> </br>";  
+    CHARS = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    var result = "";
+    for (var i = length; i > 0; --i) {
+      result += CHARS[Math.round(Math.random() * (CHARS.length - 1))];
     }
-}
-
-/*creates CheckBox question type*/
-function createCheckBox(currentPos) {
-    for (i = 0; i < questions[currentPos].getElementsByTagName("choice").length; i++) {
-        questions[currentPos].getElementsByTagName("choice")[i].innerHTML = "<input type='checkbox' name='choices'> " + questions[currentPos].getElementsByTagName("choice")[i].textContent + "<m style='display: none'></m>  </br>";  
-    }
-}
-
-
-function go() {
-var currentPos = 0;
-while (currentPos < questions.length) {
-        if (questions[currentPos].getAttribute("type") == "Multiple"){createMultiple(currentPos);}
-        if (questions[currentPos].getAttribute("type") == "CheckBox"){createCheckBox(currentPos);}
-        questions[currentPos].innerHTML += "<button onclick='findCorrect(" + currentPos + ")'>Перевірити</button>";
-        currentPos++;
+    return result;
   }
-}
 
-window.addEventListener("load", go, false);
-//document.addEventListener("load", go, false);
+  /**
+   * Enumeration for default labels and text
+   * @type {Object}
+   */
+  var LABELS_AND_TEXT_ENUM = {
+    "labels": {
+      "showCorrect" : "Show correct answers",
+      "check"       : "Check"
+    },
+    "text": {
+      "noChosen"    : "No answer is chosen",
+      "rightAnswer" : "Right answer!",
+      "wrongAnswer" : "Wrong answer!"
+    }
+  };
+  /**
+   * Template for the whole question
+   *
+   * @param {jQuery} $el
+   * @returns {String}
+   */
+  var questionTemplate = function ($el) {
+    var html, question, multiple, $answers, $explanation, name;
+
+    html = "";
+
+    question = $el.prop("text") || $el.attr("text") || "";
+    multiple = _.isString($el.attr("multiple"));
+    $answers = $el.find("answer");
+    $explanation = $el.find("explanation");
+
+    html += "<div class=\"quiz-question\">";
+    html += "<p class=\"quiz-question-text\">" + question + "</p>";
+
+    name = randomString();
+    $answers.each(function () {
+      var $answer;
+
+      $answer = $(this);
+      html += answerTemplate($answer, multiple, name);
+    });
+    html += explanationTemplate($explanation.length > 0 ? $explanation.text() : "");
+    html += messageTemplate();
+    html += checkButtonTemplate();
+    html += "<hr/>";
+    html += "</div>";
+    return html;
+  };
+  /**
+   * Generates html string for the check button
+   *
+   * @returns {String}
+   */
+  var checkButtonTemplate = function () {
+    return "<button class=\"quiz-question-check\">" + configuration.labels.check + "</button>";
+
+  };
+  /**
+   * Generates html string for the answer
+   *
+   * @param {jQuery} $el
+   * @param {Boolean} multiple
+   * @param {String} name
+   * @returns {String}
+   */
+  var answerTemplate = function ($el, multiple, name) {
+    var correct, text;
+
+    correct = _.isString($el.attr("correct"));
+    text = $el.text();
+
+    if (multiple) {
+      return "<div class=\"quiz-answer\">" +
+        "<input data-correct=" + correct + " name=\"" + name + "\" type=\"checkbox\" value=\"" + text + "\">" + text +
+        "<span class=\"quiz-answer-check\"></span>" +
+        "</div>";
+    } else {
+      return "<div class=\"quiz-answer\">" +
+        "<input data-correct=" + correct + " name=\"" + name + "\" type=\"radio\" value=\"" + text + "\">" + text +
+        "<span class=\"quiz-answer-check\"></span>" +
+        "</div>";
+    }
+  };
+  /**
+   * Generates html string for the message for explanation
+   * @param text
+   */
+  var explanationTemplate = function (text) {
+    return "<div class=\"quiz-question-explanation hidden\">" + text + "</div>";
+  };
+  /**
+   * Generates html string for the message for the answer
+   */
+  var messageTemplate = function () {
+    return "<div class=\"quiz-question-message hidden\"></div>";
+  };
+  /**
+   * Action to take when no answer is checked in the question
+   *
+   * @param {jQuery} $question
+   */
+  var noAnswerChecked = function ($question) {
+    var $message;
+
+    $message = $question.find(".quiz-question-message");
+    $message.show().text(configuration.text.noChosen);
+  };
+  /**
+   * Analyzes answers to questions and takes action
+   *
+   * @param {jQuery} $question the question element to analyze
+   * @param {Number} numberOfCorrect the number of correct answers
+   * @param {Number} totalNumberOfAnswers total number of existing answers to question
+   * @param {jQuery} $correctChecked correct answers checked
+   * @param {jQuery} $incorrectChecked incorrect answers checked
+   */
+  var analyseAnswers = function ($question, numberOfCorrect, totalNumberOfAnswers, $correctChecked, $incorrectChecked) {
+    var numberIncorrectChecked, numberCorrectChecked;
+
+    numberCorrectChecked = $correctChecked.length;
+    numberIncorrectChecked = $incorrectChecked.length;
+
+    //no selected
+    if (numberCorrectChecked === 0 && numberIncorrectChecked === 0) {
+      noAnswerChecked($question);
+      return;
+    }
+    //mark answers
+    markAnswersAsCorrectOrIncorrect($correctChecked, $incorrectChecked);
+    //if incorrect
+    if ($correctChecked.length < numberOfCorrect || $incorrectChecked.length > 0) {
+      handleIncorrect($question);
+      return;
+    }
+    //if correct
+    if ($correctChecked.length === numberOfCorrect && $incorrectChecked.length === 0) {
+      handleCorrect($question);
+    }
+  };
+  /**
+   * Handles correct state of the question
+   *
+   * @param {jQuery} $question
+   */
+  var handleCorrect = function ($question) {
+    var $message, $explanation;
+
+    $message = getMessageElement($question);
+    $explanation = getExplanationElement($question);
+    $message.text(configuration.text.rightAnswer).removeClass("hidden");
+    $explanation.removeClass("hidden");
+  };
+  /**
+   * Handles incorrect state of the question
+   *
+   * @param {jQuery} $question
+   */
+  var handleIncorrect = function ($question) {
+    var $message;
+
+    $message = getMessageElement($question);
+    $message.text(configuration.text.wrongAnswer).removeClass("hidden");
+  };
+  /**
+   * Marks answers with corresponding classes
+   *
+   * @param {jQuery} $correctChecked
+   * @param {jQuery} $incorrectChecked
+   */
+  var markAnswersAsCorrectOrIncorrect = function ($correctChecked, $incorrectChecked) {
+    $correctChecked.each(function () {
+      $(this).parent().find(".quiz-answer-check").addClass("correct");
+    });
+    $incorrectChecked.each(function () {
+      $(this).parent().find(".quiz-answer-check").addClass("incorrect");
+    });
+  };
+  /**
+   * Returns all answers elements of the question
+   *
+   * @param {jQuery} $question
+   * @returns {jQuery}
+   */
+  var getAllAnswersElements = function ($question) {
+    return $question.find(".quiz-answer");
+  };
+  /**
+   * Returns message element of the question
+   *
+   * @param {jQuery} $question
+   * @returns {jQuery}
+   */
+  var getMessageElement = function ($question) {
+    return $question.find(".quiz-question-message");
+  };
+  /**
+   * Returns explanation element of the question
+   *
+   * @param {jQuery} $question
+   * @returns {jQuery}
+   */
+  var getExplanationElement = function ($question) {
+    return $question.find(".quiz-question-explanation");
+  };
+  /**
+   * Clears question state - clears messages and correct/incorrect states
+   *
+   * @param {jQuery} $question question element to clear
+   */
+  var clearQuestionState = function ($question) {
+    var $answers, $message, $explanation;
+
+    $answers = getAllAnswersElements($question);
+    $message = getMessageElement($question);
+    $explanation = getExplanationElement($question);
+    $answers.each(function () {
+      $(this).find(".quiz-answer-check").removeClass("correct").removeClass("incorrect")
+    });
+    $message.text("").addClass("hidden");
+    $explanation.addClass("hidden");
+  };
+  /**
+   * Handles check button click
+   */
+  var onClickCheckButton = function (ev) {
+    var $target, $question, numberOfCorrect, totalNumberOfAnswers, $incorrectChecked, $correctChecked;
+
+    $target = $(ev.currentTarget);
+    $question = $target.closest(".quiz-question");
+    clearQuestionState($question);
+
+    numberOfCorrect = $question.find(".quiz-answer input[data-correct=true]").length;
+    totalNumberOfAnswers = $question.find(".quiz-answer").length;
+    $correctChecked = $question.find(".quiz-answer input[data-correct=true]:checked");
+    $incorrectChecked = $question.find(".quiz-answer input[data-correct=false]:checked");
+
+    analyseAnswers($question, numberOfCorrect, totalNumberOfAnswers, $correctChecked, $incorrectChecked);
+  };
+  /**
+   * Transforms quiz element into appropriate markup
+   *
+   * @param {jQuery} $quiz
+   */
+  var prepareQuiz = function ($quiz) {
+    var name, $questions, html;
+
+    // Create HTML for the quiz
+    html = "";
+    name = $quiz.prop("name") || $quiz.attr("name") || "";
+    $questions = $quiz.find("question");
+
+    html += "<div class=\"quiz\">";
+    html += "<div class=\"quiz-name\">" + name + "</div>";
+    $questions.each(function () {
+      html += questionTemplate($(this));
+    });
+    html += "</div>";
+    $quiz.html(html);
+    // Assign events
+    $quiz.find(".quiz-question-check").click(onClickCheckButton);
+  };
+  /**
+   * Starting point
+   */
+  var init = function () {
+    $("quiz").each(function () {
+      prepareQuiz($(this));
+    });
+  };
+
+  configuration = $.extend(true, {}, LABELS_AND_TEXT_ENUM, {});
+  init();
+});
