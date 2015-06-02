@@ -79,7 +79,7 @@
 
 <quiz name="Запитання" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
-        <p>Чому дорівнює значення дробу: $$\dfrac{\dfrac{5}{7}}{1\dfrac{4}{6}}$$?</p>
+        <p>Чому дорівнює значення дробу?</p> $$\dfrac{\dfrac{5}{7}}{1\dfrac{4}{6}}$$
         <answer correct>$$\dfrac{3}{7}$$</answer>
         <answer>$$\dfrac{70}{30}$$</answer>
         <answer>$$\dfrac{50}{30}$$</answer>
