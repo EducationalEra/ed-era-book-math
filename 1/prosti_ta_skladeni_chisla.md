@@ -123,7 +123,7 @@ $$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
 
 <quiz name="Запитання" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
-        <p>Який НСК чисел $$115$$ і $$920$$?</p>
+        <p>Яке НСК чисел $$115$$ і $$920$$?</p>
         <answer>$$115$$</answer>
         <answer>$$23$$</answer>
         <answer correct>$$920$$</answer>
