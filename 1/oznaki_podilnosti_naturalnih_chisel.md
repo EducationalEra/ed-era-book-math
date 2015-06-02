@@ -44,8 +44,8 @@
 </div>
 </div>
 
-<quiz name="question" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
-    <question text="" multiple>
+<quiz name="Запитання" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
         <p>Чи ділиться число $$10939824$$ на $$9$$?</p>
         <answer correct>так</answer>
         <answer>ні</answer>
