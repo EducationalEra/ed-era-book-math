@@ -13,7 +13,7 @@
 }
 
 #youtube-logo {
-      background-image: url('youtube-dark.png');
+      background-image: url('vidpic1.jpg');
       height: 45px;
       width: 64px;
       position: absolute;
@@ -24,7 +24,7 @@
 }
 
 .popup:hover #youtube-logo {
-      background-image: url('youtube-red.png');
+      background-image: url('vidpic2.jpg');
 }
 
 @media only screen and (min-width:320px){
