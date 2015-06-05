@@ -86,8 +86,3 @@
         <answer>$$-3; \dfrac{2}{3}; \sqrt{7}; 17; -100$$</answer>
     </question>
 </quiz>
-
-<div class="popup" style="background-image: src="../pics/pic2.png";">
-<div id="youtube-logo">
-</div>
-</div>
