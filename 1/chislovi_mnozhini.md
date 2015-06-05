@@ -87,7 +87,7 @@
     </question>
 </quiz>
 
-<div class="popup" style="background-image: url('http://www.keenthemes.com/preview/metronic/theme/asse..');">
+<div class="popup" style="background-image: src="../pics/pic2.png";">
 <div id="youtube-logo">
 </div>
 </div>
