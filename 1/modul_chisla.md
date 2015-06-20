@@ -1,5 +1,13 @@
 # Модуль числа
-{% modalYoutube %}https://www.youtube.com/embed/Z7uj0_Jgmnc|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
+
+<div>
+{% modalYoutube %}https://www.youtube.com/embed/Z7uj0_Jgmnc|
+<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-math/master/picsforvid/modul_chisla.png');">
+  <div id="youtube-logo">
+  </div>
+</div>
+|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+</div>
 
 Модуль, або абсолютна величина дійсного числа $a$, – <p1>невід’ємна величина</p1>, яка позначається наступним чином:
 
