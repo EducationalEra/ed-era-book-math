@@ -49,7 +49,7 @@
 </div>
 </div>
 
-<quiz name="Запитання" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Чи ділиться число $$10939824$$ на $$9$$?</p>
         <answer correct>так</answer>
