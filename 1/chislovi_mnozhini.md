@@ -78,7 +78,7 @@
 
 <p><i>Наприклад:</i> $$6 \in \mathbb{N}, -1 \in \mathbb{Z}, 0,25 \in \mathbb{Q}, -\sqrt{26} \in \mathbb{R}.$$</p>
 
-<quiz name="Запитання" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>В якому рядку наведені тільки цілі числа?</p>
         <answer correct>$$-10000; 37; 0; 38; \dfrac{3}{3}$$</answer>
