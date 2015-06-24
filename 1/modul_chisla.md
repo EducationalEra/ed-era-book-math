@@ -24,4 +24,12 @@
 
 <p align="center"><img class="image" src="../pics/pic4.svg"/></p>
 
-
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Обчисліть значення виразу $$|\dfrac{\pi}{2}+2|-|\dfrac{3\pi}{2}-4|$$</p>
+        <answer>$$0$$</answer>
+        <answer>$$-6$$</answer>
+        <answer correct>$$6-\pi$$</answer>
+        <answer>$$\pi+1$$</answer>
+    </question>
+</quiz>
