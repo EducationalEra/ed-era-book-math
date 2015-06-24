@@ -1,7 +1,7 @@
 # Summary
 
-1. [Зміст](README.md)
-2. [Вступне слово](vstup.md)
+* [Зміст](README.md)
+* [Вступне слово](vstup.md)
 * [Арифметика](1/chislovi_mnozhini.md)
    1. [Числовi множини](1/chislovi_mnozhini.md)
    * [Простi та складенi числа](1/prosti_ta_skladeni_chisla.md)
