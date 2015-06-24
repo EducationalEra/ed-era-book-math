@@ -9,7 +9,7 @@
 |<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 </div>
 
-Модуль, або абсолютна величина дійсного числа $a$, – <p1>невід’ємна величина</p1>, яка позначається наступним чином:
+Модуль, або абсолютна величина дійсного числа $a$, – <span class="p1">невід’ємна величина</span>, яка позначається наступним чином:
 
 <div class="space"><p align="center">$$ |a| =
 \begin{cases}
