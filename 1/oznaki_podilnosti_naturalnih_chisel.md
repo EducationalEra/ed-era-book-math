@@ -12,7 +12,7 @@
 |<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 </div>
 
-<font color="#0F5181">**Число $$a$$ дiлиться на**:</font>
+<span class="p1">**Число $$a$$ дiлиться на**:</span>
 * $$2$$, якщо воно парне;
 
 * $$3$$, якщо сума всiх цифр, що складають число, дiлиться на $$3$$;
