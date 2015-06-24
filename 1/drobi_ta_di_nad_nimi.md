@@ -92,4 +92,12 @@
         <answer>$$\dfrac{50}{30}$$</answer>
         <answer>$$1\dfrac{2}{3}$$</answer>
     </question>
+    <question text="">
+        <p>Обчисліть значення виразу $$5\dfrac{3}{5}\cdot7\dfrac{1}{2}:\dfrac{3}{20}-250$$</p>
+        <answer>$$10$$</answer>
+        <answer>$$20$$</answer>
+        <answer correct>$$30$$</answer>
+        <answer>$$40$$</answer>
+        <answer>$$50$$</answer>
+    </question>
 </quiz>
