@@ -522,7 +522,7 @@ default – "White"
 
 
 .btn-knopka {
-  background-color: #FBC74C;
+  background-image: linear-gradient(0deg, #FFBD0D 0%, #FFFFFE 100%);
   border: 1px solid #FFBD0D;
   border-radius: 4px;
   padding: 4px 3px;
