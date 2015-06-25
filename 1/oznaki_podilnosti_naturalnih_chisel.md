@@ -2,15 +2,12 @@
 
 Ознаки подiльностi стають в нагодi, коли треба дiзнатись, чи дiлиться дане число на iнше без остачi, не витрачаючи час на процес дiлення.
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/RL1yKRaIWkE" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
 
-<div>
-{% modalYoutube %}https://www.youtube.com/embed/RL1yKRaIWkE|
-<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-math/master/picsforvid/oznaki_podilnosti.png');">
-  <div id="youtube-logo">
-  </div>
-</div>
-|<a href="https://study.ed-era.com/courses/EdEra/M101/m101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
-</div>
 
 <span class="p1">**Число $$a$$ дiлиться на**:</span>
 * $$2$$, якщо воно парне;
