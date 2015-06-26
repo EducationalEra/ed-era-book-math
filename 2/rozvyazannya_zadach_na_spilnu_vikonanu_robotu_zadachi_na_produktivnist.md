@@ -20,6 +20,12 @@
 
 <p align="center">$$v_{\Sigma} = v_{1} + v_{2} = \dfrac{S}{t_{1}} + \dfrac{S}{t_{2}}.$$</p>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/euXvbUuqIGA" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
@@ -35,20 +41,19 @@
 </div>
 
 <div class="fluidMedia">
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/euXvbUuqIGA" frameborder="0" allowfullscreen></iframe>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/2aWKX3qhCHs" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="popup">
 </div>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
-        <p>Петро та Марічка можуть зібрати врожай яблук за $$12$$ годин. Марічка та Сергій зберуть цей врожай за $$18$$ годин, а Петро та Сергій – за $$9$$ годин.</p>
-        <p>За скільки годин буде зібраний врожай, якщо вони працюватимуть втрьох?</p>
-        <answer>$$3$$ год $$36$$ хв</answer>
-        <answer>$$5$$ год $$9$$ хв</answer>
-        <answer>$$7$$ год $$12$$ хв</answer>
-        <answer correct>$$8$$ год $$0$$ хв</answer>
-        <answer>$$13$$ год $$4$$ хв</answer>
+        <p>За який час менша труба самостійно заповний весь резервуар? (відповідь округліть до найближчого цілого числа)</p>
+        <answer>$$57$$ c</answer>
+        <answer>$$109$$ c</answer>
+        <answer>$$237$$ c</answer>
+        <answer correct>$$119$$ c</answer>
+        <answer>$$432$$ c</answer>
     </question>
 </quiz>
 
