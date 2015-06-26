@@ -14,6 +14,8 @@
 <p align="center">b ——— d</p><br>
 
 <b>Основна властивiсть пропорцiї</b> – добуток крайнiх членiв дорiвнює добутку середнiх членiв:
-\[\dfrac{a}{b}=\dfrac{c}{d} \Longleftrightarrow ad=bc.\]
+$$\dfrac{a}{b}=\dfrac{c}{d} \Longleftrightarrow ad=bc.$$
+
+<i>Наприклад:</i>
 
 
