@@ -10,13 +10,13 @@
 </div>
 
 Часто пропорцiю записують у виглядi:<br>
-<p align="center">$$a ——— c$$</p><br>
-<p align="center">$$b ——— d$$</p><br>
+<p align="center">$$a\qquad———\qquad c$$</p><br>
+<p align="center">$$b\qquad———\qquad d$$</p><br>
 
 <b>Основна властивiсть пропорцiї</b> – добуток крайнiх членiв дорiвнює добутку середнiх членiв:
 <p align="center">$$\dfrac{a}{b}=\dfrac{c}{d} \Longleftrightarrow ad=bc.$$</p>
 
-<i>Наприклад:</i> $$\dfrac{55}{13}=\dfrac{110}{26} \Rightarrow 55\cdot26=13\cdot110=1430$$<br>
+<i>Наприклад:</i> $$\dfrac{55}{13}=\dfrac{110}{26} \Rightarrow 55\cdot26=13\cdot110=1430.$$<br>
 
 Властивiсть переставляння. Якщо у пропорцiї помiняти мiсцями крайнi або середнi члени, або i тi i тi, знову вийде пропорцiя. Iншими словами можна переставляти члени пропорцiї «хрест-навхрест»:
 
