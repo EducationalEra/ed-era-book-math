@@ -8,3 +8,8 @@
 </div>
 </div>
 </div>
+
+Часто пропорцiю записують у виглядi:<br>
+<p align="center">a<hr size=1 width=33>c</p><br>
+<p align="center"></p>
+
