@@ -64,3 +64,35 @@ x\quad—\quad90\%
 <p>$$X_n=X_0 \left(1+\dfrac{p}{100}\right)^n.$$</p>
 
 <p>Як бачимо, щороку додається все більша й більша сума (бо відсотки обчислюються з накопиченої суми). Аналогічна ситуація – коли на товар декілька разів нараховується знижка.</p>
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/1PdDgSEcnTU" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Отже, в обох пробірках по $$20$$ мл води. В першу додали $$7$$ грамів солі, в третю - $$2$$ грами.</p>
+        <p>Яким вийшов перший розчин?</p>
+        <answer>$$20,6\%$$</answer>
+        <answer correct>$$25,9\%$$</answer>
+        <answer>$$35,0\%$$</answer>
+        <answer>$$44,2\%$$</answer>
+        <answer>$$53,8\%$$</answer>
+    </question>
+    <question text="">
+        <p>Яким вийшов третій розчин?</p>
+        <answer>$$8,3\%$$</answer>
+        <answer correct>$$9,1\%$$</answer>
+        <answer>$$10,0\%$$</answer>
+        <answer>$$10,9\%$$</answer>
+        <answer>$$11,1\%$$</answer>
+    </question>
+</quiz>
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/dnFGDiOJ4qE" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
