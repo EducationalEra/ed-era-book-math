@@ -35,5 +35,16 @@
 </div>
 
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Петро та Марічка можуть зібрати врожай яблук за $$12$$ годин. Марічка та Сергій зберуть цей врожай за $$18$$ годин, а Петро та Сергій – за $$9$$ годин.</p>
+        <p>За скільки годин буде зібраний врожай, якщо вони працюватимуть втрьох?</p>
+        <answer>$$3$$ год $$36$$ хв</answer>
+        <answer>$$5$$ год $$9$$ хв</answer>
+        <answer>$$7$$ год $$12$$ хв</answer>
+        <answer correct>$$8$$ год $$0$$ хв</answer>
+        <answer>$$13$$ год $$4$$ хв</answer>
+    </question>
+</quiz>
 
 
