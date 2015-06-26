@@ -13,7 +13,7 @@
 <p align="center">$$a\qquad———\qquad c$$</p><br>
 <p align="center">$$b\qquad———\qquad d$$</p><br>
 
-<b>Основна властивiсть пропорцiї</b> – добуток крайнiх членiв дорiвнює добутку середнiх членiв:<br>
+<p><b>Основна властивiсть пропорцiї</b> – добуток крайнiх членiв дорiвнює добутку середнiх членiв:</p>
 
 <p align="center">$$\dfrac{a}{b}=\dfrac{c}{d} \Longleftrightarrow ad=bc.$$</p>
 
