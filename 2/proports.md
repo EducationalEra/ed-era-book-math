@@ -22,5 +22,5 @@
 
 $$\dfrac{a}{b}=\dfrac{c}{d} \Rightarrow \dfrac{a}{c}=\dfrac{b}{d} \Rightarrow \dfrac{d}{b}=\dfrac{c}{a} \Rightarrow \dfrac{d}{c}=\dfrac{b}{a}.$$
 
-
+Як видно зi спiввiдношень вище випливає <b>властивiсть обернення<b> – можна перевернути обидва дроби пропорцiї i рiвнiсть не порушиться.
 
