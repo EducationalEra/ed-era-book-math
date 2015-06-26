@@ -26,9 +26,10 @@ $$\dfrac{a}{b}=\dfrac{c}{d} \Rightarrow \dfrac{a}{c}=\dfrac{b}{d} \Rightarrow \d
 
 <div class="space">
 <div class="alg-wrap">
-<span class="alg">Алгоритм</span>
+<span class="alg">Алгоритм</span> <b>Знаходження невiдомого члена пропорцiї</b>
 <div class="alg-text">
-Текст внутри блока ...
+Для того щоб знайти невiдомий член пропорцiї необхiдно скористатись основною властивiстю пропорцiї, пiсля чого подiлити обидвi частини на член пропорцiї, що
+стоїть разом з невiдомим.
 </div>
 </div>
 </div>
