@@ -6,9 +6,10 @@
     3. [Ознаки подiльностi натуральних чисел](1/oznaki_podilnosti_naturalnih_chisel.md)
     4. [Дроби та дiї над ними](1/drobi_ta_di_nad_nimi.md)
     5. [Модуль числа](1/modul_chisla.md)
-* Пропорції та відсотки
-   1. Відсотки
-   * Пропорції
+* [Пропорції та відсотки](2/proports.md)
+   1. [Пропорції](2/proports.md)
+   * [Відсотки](2/vdsotki.md)
+   * [Розв’язання задач на спiльну виконану роботу (задачi на продуктивнiсть)](2/rozvyazannya_zadach_na_spilnu_vikonanu_robotu_zadachi_na_produktivnist.md)
 * Одночлени та многочлени
    1. Степiнь з цiлим показником
    * Одночлен
