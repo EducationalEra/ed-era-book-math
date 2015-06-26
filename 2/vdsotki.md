@@ -41,7 +41,7 @@
 <p align="center">$$\begin{cases}
 5\quad---\quad10\%\\
 x\quad---\quad90\%
-\end{cases} \Rightarrow x = \dfrac{5\cdot 90\%}{10\%} = 45 <i>г</i>.$$</p>
+\end{cases} \Rightarrow x = \dfrac{5\cdot 90\%}{10\%} = 45$$ (<i>г</i>).</p>
 </div>
 </div>
 </div>
