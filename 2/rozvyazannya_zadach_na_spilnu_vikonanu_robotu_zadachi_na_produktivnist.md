@@ -20,10 +20,12 @@
 
 <p align="center">$$v_{\Sigma} = v_{1} + v_{2} = \dfrac{S}{t_{1}} + \dfrac{S}{t_{2}}.$$</p></div>
 
+<div class="space">
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/euXvbUuqIGA" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="popup">
+</div>
 </div>
 
 <div class="space">
