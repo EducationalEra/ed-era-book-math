@@ -24,3 +24,11 @@ $$\dfrac{a}{b}=\dfrac{c}{d} \Rightarrow \dfrac{a}{c}=\dfrac{b}{d} \Rightarrow \d
 
 Як видно зi спiввiдношень вище випливає <b>властивiсть обернення<b> – можна перевернути обидва дроби пропорцiї i рiвнiсть не порушиться.
 
+<div class="space">
+<div class="alg-wrap">
+<span class="alg">Алгоритм</span>
+<div class="alg-text">
+Текст внутри блока ...
+</div>
+</div>
+</div>
