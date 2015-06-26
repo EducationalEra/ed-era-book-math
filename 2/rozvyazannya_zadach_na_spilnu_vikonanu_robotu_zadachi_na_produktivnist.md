@@ -11,7 +11,7 @@
 
 <p>Цi параметри пов’язанi спiввiдношенням:</p>
 
-<p align="center"><b>Об’єм роботи = продуктивність $$\times$$ час $$\Longleftrightarrow$$ $$\boldsymbol{S=v\cdot t}.$$</p>
+<p align="center"><b>Об’єм роботи</b> = <b>продуктивність $$\times$$ час $$\Longleftrightarrow$$ $$\boldsymbol{S=v\cdot t}.$$</p>
 
 
 <p>Якщо об’єм роботи не вказаний явно – його краще прийняти рівним одиниці для спрощення розрахунків.</p>
