@@ -8,7 +8,7 @@
    * [Ознаки подiльностi натуральних чисел](1/oznaki_podilnosti_naturalnih_chisel.md)
    * [Дроби та дiї над ними](1/drobi_ta_di_nad_nimi.md)
    * [Модуль числа](1/modul_chisla.md)
-* [Пропорції та відсотки](2/vdsotki.md)
+* [Пропорції та відсотки](2/proports.md)
    * [Пропорції](2/proports.md)
    * [Відсотки](2/vdsotki.md)
 * Одночлени та многочлени
