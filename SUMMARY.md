@@ -12,14 +12,14 @@
    * [Пропорції](2/proports.md)
    * [Відсотки](2/vdsotki.md)
    * [Розв’язання задач на спiльну виконану роботу (задачi на продуктивнiсть)](2/rozvyazannya_zadach_na_spilnu_vikonanu_robotu_zadachi_na_produktivnist.md)
-* [Одночлени та многочлени](3/odnochleni_ta_mnogochleni.md)
-   * [Степiнь з цiлим показником](3/stepin_z_tsilim_pokaznikom.md)
-   * [Одночлен](3/odnochlen.md)
-   * [Многочлен](3/mnogochlen.md)
-   * [Дiї над многочленами](3/di_nad_mnogochlenami.md)
-   * [Формули скороченого множення](3/formuli_skorochenogo_mnozhennya.md)
-   * [Розкладання многочлена на множники](3/rozkladannya_mnogochlena_na_mnozhniki.md)
-   * [Бiном Ньютона](3/binom_nyutona.md)
+* Одночлени та многочлени
+   * Степiнь з цiлим показником
+   * Одночлен
+   * Многочлен
+   * Дiї над многочленами
+   * Формули скороченого множення
+   * Розкладання многочлена на множники
+   * Бiном Ньютона
 * Корiнь та його властивостi
    * Рацiональнi дроби
    * Область визначення та область допустимих значень
