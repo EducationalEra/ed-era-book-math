@@ -19,7 +19,7 @@
    * [Дiї над многочленами](3/di_nad_mnogochlenami.md)
    * [Формули скороченого множення](3/formuli_skorochenogo_mnozhennya.md)
    * [Розкладання многочлена на множники](3/rozkladannya_mnogochlena_na_mnozhniki.md)
-   * Бiном Ньютона
+   * [Бiном Ньютона](3/binom_nyutona.md)
 * Корiнь та його властивостi
    * Рацiональнi дроби
    * Область визначення та область допустимих значень
