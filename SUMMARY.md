@@ -12,7 +12,7 @@
    * [Пропорції](2/proports.md)
    * [Відсотки](2/vdsotki.md)
    * [Розв’язання задач на спiльну виконану роботу (задачi на продуктивнiсть)](2/rozvyazannya_zadach_na_spilnu_vikonanu_robotu_zadachi_na_produktivnist.md)
-* Одночлени та многочлени
+* [Одночлени та многочлени](3/odnochleni_ta_mnogochleni.md)
    * Степiнь з цiлим показником
    * Одночлен
    * Многочлен
