@@ -21,6 +21,9 @@
 <p><i>Наприклад:</i> $$x^2 y- xy^5 + 3x^2$$ – многочлен шостого ступеня.</p>
 
 <div class="space">
+</div>
+
+<div class="space">
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
