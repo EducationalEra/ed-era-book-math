@@ -19,17 +19,17 @@
 
 <p><b>Основні властивості степенів:</b></p>
 
-1. $$a^0 = 1,\thinspace a\neq0$$<br>
-2. $$a^1 = a$$<br>
-3. $$a^m\cdot a^n=a^{(m+n)}$$<br>
+1. <p>$$a^0 = 1,\thinspace a\neq0$$</p><br>
+2. <p>$$a^1 = a$$</p><br>
+3. <p>$$a^m\cdot a^n=a^{(m+n)}$$</p><br>
    <p><i>Наприклад:</i>$$3^2\cdot 3^3 = 3^5 = 243$$</p><br>
-5. $$\dfrac{a^m}{a^n} =a^{(m-n)}$$<br>
+4. <p>$$\dfrac{a^m}{a^n} =a^{(m-n)}$$</p><br>
    <p><i>Наприклад:</i> $$\dfrac{2^9}{2^4} = 2^5 = 32$$</p><br>
-7. $$(a^m)^n=a^{(m\cdot n)}$$<br>
+5. <p>$$(a^m)^n=a^{(m\cdot n)}$$</p><br>
    <p><i>Наприклад:</i> $$(5^3)^2 = 5^6 = 15625$$</p><br>
-9. $$(a\cdot b)^n=a^n\cdot b^n$$<br>
+6. <p>$$(a\cdot b)^n=a^n\cdot b^n$$</p><br>
    <p><i>Наприклад:</i> $$22^3 = (11\cdot 2)^3 = 11^3\cdot 2^3 = 10648$$</p><br>
-11. $$\left(\dfrac{a}{b}\right)^n = \dfrac{a^n}{b^n}$$<br>
+7. <p>$$\left(\dfrac{a}{b}\right)^n = \dfrac{a^n}{b^n}$$</p><br>
    <p><i>Наприклад:</i> $$\left(\dfrac{3}{2}\right)^2 = \dfrac{3^2}{2^2} = \dfrac{9}{4}$$</p><br>
 
 <p>Також справедливі такі вирази: $$0^n = 0;\quad 1^n = 1.$$</p>
