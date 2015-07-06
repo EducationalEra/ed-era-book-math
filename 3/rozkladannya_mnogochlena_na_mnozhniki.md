@@ -42,3 +42,18 @@
 де $$x_{1,2}$$ – корені квадратного тричлена (корені рівняння  $ax^2+bx+c=0$).<br>
 Вони визначаються за формулами<br>
 <p align="center">$$x_{1,2} = - \dfrac{b \pm \sqrt{b^2 - 4ac}}{2a}.$$</p>
+
+<div class="space">
+</div>
+
+<div class="task-wrap">
+<span class="task">Приклад</span>
+<div class="task-text">
+<p>Розкласти многочлен $$3x^2-12x-15$$ на множники.</p>
+<p><b><i>Розв’язок.</i></b></p>
+<p>Знайдемо корені рівняння $$3x^2-12x-15=0:$$</p>
+<p align="center">$$x_{1,2} = - \dfrac{-12 \pm \sqrt{(-12)^2 -4\cdot3\cdot(-15)}}{2\cdot 3} = \dfrac{12 \mp \sqrt{324}}{6} = \dfrac{12 \mp 18}{6} \Rightarrow \begin{cases} x_1 = -1; \\ x_2 = 5. \end{cases}.$$</p>
+<p>Отже, скориставшись формулою розкладу маємо: $$3x^2-12x-15=3(x+1)(x-5)$$.</p>
+<p><b>Вiдповiдь.</b>$$3(x+1)(x-5).$$</p>
+</div>
+</div>
