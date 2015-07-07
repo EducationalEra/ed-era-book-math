@@ -41,10 +41,10 @@
 <p><i>Наприклад:</i> $$\sqrt{15}=\sqrt{3}\cdot\sqrt{5}$$<br>
 * $$\sqrt{\dfrac{a}{b}}=\dfrac{\sqrt{a}}{\sqrt{b}}, a\geq0, b\geq0.$$</p>
 <p><i>Наприклад:</i> $$\sqrt{15}=\dfrac{\sqrt{30}}{\sqrt2}.$$</p>
-* $b\sqrt a = \begin{cases}
+* $$b\sqrt a = \begin{cases}
 				\sqrt{b^2a}, b\geq0;\\
 				-\sqrt{b^2a}, b\leq0.
-			\end{cases}$<br>
+			\end{cases}$$<br>
 <p><i>Наприклад:</i> $$2\sqrt{15}=\sqrt{60}; -2\sqrt{15}=-\sqrt{60}.$$</p>
 * $$\sqrt{b^2a}=|b|\sqrt{a}.$$<br>
 <p><i>Наприклад:</i> $$\sqrt{90}=3\sqrt{10}.$$</p>
