@@ -23,7 +23,7 @@
 * [Корiнь та його властивостi](4/drobovo-ratsionalni_virazi.md)
    * [Дробово-рацiональнi вирази](4/drobovo-ratsionalni_virazi.md)
    * [Квадратний корiнь та його основнi властивостi](4/kvadratnii_korin_ta_iogo_osnovni_vlastivosti.md)
-   * Корінь n-го степеня та його основні властивості
+   * [Корінь n-го степеня та його основні властивості](4/korn_n-go_stepenya_ta_iogo_osnovn_vlastivost.md)
    * Ірраціональні вирази
        * Доповнюючий множник
        * Звiльнення вiд iррацiональностi у знаменнику (чисельнику) iррацiо-
