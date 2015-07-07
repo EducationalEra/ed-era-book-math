@@ -76,15 +76,11 @@
 	$$\begin{cases}
 	x=-5;\\
 	x=6.
-	\end{cases}$
-	\end{esol}
-	\begin{eans}
-	$\begin{cases}
+	\end{cases}$$</p>
+<p><b>Вiдповiдь.</b>$$\begin{cases}
 	x=-5;\\
 	x=6.
-	\end{cases}$$
-</p>
-<p><b>Вiдповiдь.</b>$$x\neq 0, \pm 3.$$</p>
+	\end{cases}$$</p>
 </div>
 </div>
 </div>
