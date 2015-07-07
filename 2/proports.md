@@ -10,8 +10,8 @@
 </div>
 
 Часто пропорцiю записують у виглядi:<br>
-<p align="center">$$a\qquad———\qquad c$$</p><br>
-<p align="center">$$b\qquad———\qquad d$$</p><br>
+<p align="center">$$a<hr noshade size=1 width=33>c$$</p><br>
+<p align="center">$$b<hr noshade size=1 width=33>d$$</p><br>
 
 <p><b>Основна властивiсть пропорцiї</b> – добуток крайнiх членiв дорiвнює добутку середнiх членiв:</p>
 
