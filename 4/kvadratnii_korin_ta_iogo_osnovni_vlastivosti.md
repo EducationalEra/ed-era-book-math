@@ -33,20 +33,20 @@
 </div>
 
 <p><b>Основні властивості квадратного кореня:</b></p>
-* $$\sqrt{a^2}=|a|, a \in \mathbb{R}.$$<br>
+* <p>$$\sqrt{a^2}=|a|, a \in \mathbb{R}.$$</p>
 <p><i>Наприклад:</i> $$\sqrt{15^2}=15.$$</p>
-* $$(\sqrt{a})^2=a.$$<br>
+* <p>$$(\sqrt{a})^2=a.$$</p>
 <p><i>Наприклад:</i> $$\sqrt{(-15)^2}=15, (\sqrt{15})^2=15.$$</p>
-* $$\sqrt{ab}=\sqrt{a}\cdot\sqrt{b}.$$<br>
-<p><i>Наприклад:</i> $$\sqrt{15}=\sqrt{3}\cdot\sqrt{5}$$<br>
-* $$\sqrt{\dfrac{a}{b}}=\dfrac{\sqrt{a}}{\sqrt{b}}, a\geq0, b\geq0.$$</p>
+* <p>$$\sqrt{ab}=\sqrt{a}\cdot\sqrt{b}.$$</p>
+<p><i>Наприклад:</i> $$\sqrt{15}=\sqrt{3}\cdot\sqrt{5}$$</p>
+* <p>$$\sqrt{\dfrac{a}{b}}=\dfrac{\sqrt{a}}{\sqrt{b}}, a\geq0, b\geq0.$$</p>
 <p><i>Наприклад:</i> $$\sqrt{15}=\dfrac{\sqrt{30}}{\sqrt2}.$$</p>
-* $$b\sqrt a = \begin{cases}
+* <p>$$b\sqrt a = \begin{cases}
 				\sqrt{b^2a}, b\geq0;\\
 				-\sqrt{b^2a}, b\leq0.
-			\end{cases}$$<br>
+			\end{cases}$$</p>
 <p><i>Наприклад:</i> $$2\sqrt{15}=\sqrt{60}; -2\sqrt{15}=-\sqrt{60}.$$</p>
-* $$\sqrt{b^2a}=|b|\sqrt{a}.$$<br>
+* <p>$$\sqrt{b^2a}=|b|\sqrt{a}.$$</p>
 <p><i>Наприклад:</i> $$\sqrt{90}=3\sqrt{10}.$$</p>
 
 <div class="space">
