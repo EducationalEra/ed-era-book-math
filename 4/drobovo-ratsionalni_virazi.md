@@ -41,11 +41,38 @@
 <span class="eoz">Означення</span> 
 <div class="eoz-text">
 <b>Рівність дробу нулеві.</b> Дріб $$\dfrac{M}{N}$$ дорівнює нулеві за умови, що вираз $$M$$ у чисельнику рівний нулеві, а вираз $$N$$ у знаменнику відмінний від нуля:<br>
-$$\begin{cases}
+<p align="center">$$\begin{cases}
 	M=0;\\
 	N=0;
 	\end{cases}
-	\Longrightarrow \dfrac{M}{N}=0.$$
+	\Longrightarrow \dfrac{M}{N}=0.$$</p>
+</div>
+</div>
+</div>
+
+<div class="space">
+<div class="task-wrap">
+<span class="task">Приклад</span>
+<div class="task-text">
+<p>Знайдемо, за яких значень $$x$$ виконується рівність $$\dfrac{(x-3)(x+5)(x-6)}{x^2-9}=0.$$</p>
+<p><b><i>Розв’язок.</i></b></p>
+<p>З умови рівності дробу нулеві, прирівнюємо чисельник нулеві, та перевіряємо, щоб знаменник був відмінний від нуля (це і є ОДЗ).</p>
+<p>ОДЗ: $$x^2-9=(x-3)(x+3)\neq 0 \Longrightarrow x \neq \pm 3.$$ Чисельник рівний нулеві, якщо всі його множники рівні нулеві:<br>
+	$$(x-3)(x+5)(x-6)=0 \Longleftrightarrow
+	\begin{cases}
+	x-3=0;\\
+	x+5=0;\\
+	x-6=0;
+	\end{cases}
+	\Longleftrightarrow
+	\begin{cases}
+	x=3;\\
+	x=-5;\\
+	x=6.
+	\end{cases}
+	$$
+</p>
+<p><b>Вiдповiдь.</b>$$x\neq 0, \pm 3.$$</p>
 </div>
 </div>
 </div>
