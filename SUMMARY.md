@@ -26,7 +26,7 @@
    * [Корінь n-го степеня та його основні властивості](4/korn_n-go_stepenya_ta_iogo_osnovn_vlastivost.md)
    * [Ірраціональні вирази](4/rratsonaln_virazi.md)
        * [Доповнюючий множник](4/dopovnyuyuchii_mnozhnik.md)
-       * Звiльнення вiд iррацiональностi у знаменнику (чисельнику) iррацiо-
+       * [Звiльнення вiд iррацiональностi у знаменнику (чисельнику) iррацiо-](4/zvilnennya_vid_irratsionalnosti_u_znamenniku_chiselniku_irratsio-.md)
        * Доповнюючi множники для основних типiв iррацiональностей у зна-
 * Показниковi та логарифмiчнi тотожностi
    * Показниковi тотожностi
