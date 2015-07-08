@@ -57,3 +57,10 @@
 <p align="center">$$a^{\frac{m}{n}}=\sqrt[n]{a^m}.$$</p>
 
 <p>Надалі будуть розглядатись окремо корені парного степеня з $$n=2k$$, для яких $$a\geq0$$ (арифметичні корені) та непарного степеня з $$n=2k+1$$, для яких $$a\in \mathbb{R}$$ (і арифметичні і не арифметичні корені).</p>
+
+<div class="space">
+</div>
+
+<div class="space"><p align="center"><img align="middle" class="image" src="../pics/m211.png"/></p></div>
+
+<p>Також справедливі вирази: $$\sqrt[nk]{a^{mk}}=\sqrt[n]{a^m}, a \geq0; \sqrt[n]{0}=0; \sqrt[n]{1}=1.$$</p>
