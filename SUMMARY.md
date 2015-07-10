@@ -33,7 +33,7 @@
    * [Показниковi тотожностi](5/pokaznikovi_totozhnosti.md)
    * [Логарифм](4/logarifm.md)
    * [Логарифмiчнi тотожностi](5/logarifmichni_totozhnosti.md)
-   * Методи розв’язання задач: логарифмування, потенцiювання
+   * [Методи розв’язання задач: логарифмування, потенцiювання](5/metodi_rozvyazannya_zadach_logarifmuvannya,_potentsiyuvannya.md)
 * Лiнiйнi та квадратнi рiвняння
    * Рівняння та його корені
    * Основні властивості рівнянь
