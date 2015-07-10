@@ -21,3 +21,4 @@
 <p><i>Наприклад:</i>$$3^x\cdot4^x=(3\cdot4)^x=12^x.$$</p>
 9. <p>$$\dfrac{a^x}{b^x}=\left(\dfrac{a}{b}\right)^x$$.</p>
 <p><i>Наприклад:</i>$$\dfrac{5^x}{3^x}=\left(\dfrac{5}{3}\right)^x.$$</p>
+
