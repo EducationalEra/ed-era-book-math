@@ -31,7 +31,7 @@
    * Додаток
 * [Показниковi та логарифмiчнi тотожностi](5/pokaznikovi_totozhnosti.md)
    * [Показниковi тотожностi](5/pokaznikovi_totozhnosti.md)
-   * [Логарифм](4/logarifm.md)
+   * [Логарифм](5/logarifm.md)
    * [Логарифмiчнi тотожностi](5/logarifmichni_totozhnosti.md)
    * [Логарифмування та потенцiювання](5/metodi_rozvyazannya_zadach_logarifmuvannya,_potentsiyuvannya.md)
 * Лiнiйнi та квадратнi рiвняння
