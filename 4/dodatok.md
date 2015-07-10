@@ -33,6 +33,9 @@
 </p>
 
 <div class="space">
+</div>
+
+<div class="space">
 <div class="alg-wrap">
 <span class="alg">Алгоритм</span> <b>Pішення системи рівнянь</b>
 <div class="alg-text">
@@ -62,3 +65,4 @@
 <p align="center">$$e^2-Ae+\dfrac{B}{4}=0.$$</p>
 
 <p>Корені квадратного рівняння $$ax^2+bx+c=0$$ знаходяться за формулами: $$x_{1,2}=<br>=\dfrac{-b\pm\sqrt{b^2-4ac}}{2a}.$$</p>
+
