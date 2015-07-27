@@ -2,16 +2,16 @@
 
 * [Зміст](README.md)
 * [Вступне слово](vstup.md)
-* [Пропорції та відсотки](2/proports.md)
-   * [Пропорції](2/proports.md)
-   * [Відсотки](2/vdsotki.md)
-   * [Розв’язання задач на спiльну виконану роботу (задачi на продуктивнiсть)](2/rozvyazannya_zadach_na_spilnu_vikonanu_robotu_zadachi_na_produktivnist.md)
 * [Арифметика](1/chislovi_mnozhini.md)
    * [Числовi множини](1/chislovi_mnozhini.md)
    * [Простi та складенi числа](1/prosti_ta_skladeni_chisla.md)
    * [Ознаки подiльностi натуральних чисел](1/oznaki_podilnosti_naturalnih_chisel.md)
    * [Дроби та дiї над ними](1/drobi_ta_di_nad_nimi.md)
    * [Модуль числа](1/modul_chisla.md)
+* [Пропорції та відсотки](2/proports.md)
+   * [Пропорції](2/proports.md)
+   * [Відсотки](2/vdsotki.md)
+   * [Розв’язання задач на спiльну виконану роботу (задачi на продуктивнiсть)](2/rozvyazannya_zadach_na_spilnu_vikonanu_robotu_zadachi_na_produktivnist.md)
 * Одночлени та многочлени
    * Степiнь з цiлим показником
    * Одночлен
