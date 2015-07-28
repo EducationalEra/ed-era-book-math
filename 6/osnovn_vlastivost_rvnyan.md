@@ -22,7 +22,7 @@
 		P_n(x) = 0. \hfill
 		\end{gathered}
 		\right.$$</p>
-<p><i>Наприклад:</i>$x^3 - 6x^2 + 11x - 6 = 0 \Longleftrightarrow (x - 1)(x - 2)(x - 3) = 0 \Longleftrightarrow</p> <p>\Longleftrightarrow \left[ \begin{gathered}
+<p><i>Наприклад:</i>$x^3 - 6x^2 + 11x - 6 = 0 \Longleftrightarrow (x - 1)(x - 2)(x - 3) = 0 \Longleftrightarrow$$</p> <p>$$\Longleftrightarrow \left[ \begin{gathered}
 	x - 1 = 0, \hfill \\
 	x - 2 = 0, \hfill \\
 	x - 3 = 0. \hfill
@@ -31,7 +31,7 @@
 	x_1 = 1,\\
 	x_2 = 2,\\
 	x_3 = 3.
-	\end{cases}$
+	\end{cases}$$
 </p>
 
 <p>При виконанні рівносильних перетворень <b>область визначення рівняння</b> повинна лишатись <b>незмінною!</b></p>
