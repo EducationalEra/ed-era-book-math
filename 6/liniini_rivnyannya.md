@@ -15,3 +15,18 @@
 * $$a = 0, b \neq 0$$, рівняння не має жодного кореня: $$0\cdot x = b \Longleftrightarrow x \in \emptyset$$;
 * $$a = 0, b = 0$$, рівняння має безліч коренів: $$0\cdot x = 0 \Longleftrightarrow x \in \mathbb{R}$$.
 
+<p>Будь-яке рівняння, яке рівносильними перетвореннями зводиться до лінійного є також лінійним.</p>
+
+<p><i>Наприклад:</i>лінійними є рівняння $$3x = 5; 3 = 2 - 5x; 4(x - 1) = x - 5$; не є лінійним рівняння $(x - 2)(x - 1) = 2$$.</p>
+
+<div class="space">
+<div class="task-wrap">
+<span class="task">Приклад</span>
+<div class="task-text">
+<p>1. $$6 = 2 - 4x \Longleftrightarrow 4x = 4 \Longleftrightarrow x = 1.$$</p>
+<p>2. $$3x = 8 \Longleftrightarrow x = \dfrac{8}{3}.$$</p>
+<p>3. $$5(x - 1) = x + 3 \Longleftrightarrow 5x - 5 = x + 3 \Longleftrightarrow 4x = 8 \Longleftrightarrow x = 2.$$</p>
+</div>
+</div>
+</div>
+
