@@ -79,7 +79,7 @@
 
 <div class="space">
 <div class="task-wrap">
-<span class="task">Означення</span>
+<span class="task">Приклад</span>
 <div class="task-text">
 1. Розв’язати рівняння: $$x^2 - 5x + 6 = 0$$.
 <p><b><i>Розв'язок.</i></b> Шукаємо дискримінант: $$D = (-5)^2 - 4\cdot1\cdot6 = 25 - 24 = 1 > 0$$, отже рівняння має два дійсних кореня:</p>
