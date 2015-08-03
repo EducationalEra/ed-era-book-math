@@ -55,7 +55,6 @@
        * [Прості рівняння з модулями](7/prost_rvnyannya_z_modulyami.md)
        * [Метод інтервалів](7/metod_ntervalv.md)
    * [Лінійне рiвняння з параметрами](7/lnine_rivnyannya_z_parametrami.md)
-   * [Квадратне рівняння з параметрами](7/kvadratne_rvnyannya_z_parametrami.md)
 * Системи алгебраїчних рiвнянь
    * Системи рівнянь з двома змінними
    * Метод підстановки
