@@ -51,7 +51,7 @@
    * [Цiлi рацiональнi рiвняння вищих степенів](7/tsili_ratsionalni_rivnyannya_vischih_stepenv.md)
    * [Метод підбору коренів](7/metod_pdboru_korenv.md)
    * [Метод заміни змінної](7/metod_zamni_zmnno.md)
-   * Рiвняння з модулями
+   * [Рiвняння з модулями](7/rivnyannya_z_modulyami.md)
    * Метод інтервалів
    * Лінійне рiвняння з параметрами
    * Квадратне рівняння з параметрами
