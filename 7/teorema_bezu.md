@@ -41,11 +41,11 @@
 <p>Тепер заповнюємо порожні клітинки нижнього рядка:</p>
 
 <ul>
-<li>перша: $$(-2)\cdot<span color="#faaf00">1</span> + <span color="#0F5181">0</span> = <span color="#faaf00">-2</span>$$,</li>
-<li>друга: $$(-2)\cdot(<span color="#faaf00">-2</span>) + (<span color="#0f5181">-3</span>) = <span color="#faaf00">1</span>$$,</li>
-<li>третя: $$(-2)\cdot<span color="#faaf00">1</span> + <span color="#0f5181">0</span> = <span color="#faaf00">-2</span>$$,</li>
-<li>четверта: $$(-2)\cdot(<span color="#faaf00">-2</span>) + <span color="#0f5181">1</span> = <span color="#faaf00">5</span>$$,</li>
-<li>п’ята: $$(-2)\cdot<span color="#faaf00">5</span> + (<span color="#0f5181">-7</span>) = -17$$.</li>
+<li>перша: $$(-2)\cdot$$<span color="#faaf00">$$1$$</span> + <span color="#0F5181">$$0$$</span> $$=$$ <span color="#faaf00">$$-2$$</span>,</li>
+<li>друга: $$(-2)\cdot($$<span color="#faaf00">$$-2$$</span>$$) + ($$<span color="#0f5181">$$-3$$</span>$$) = $$<span color="#faaf00">$$1$$</span>,</li>
+<li>третя: $$(-2)\cdot$$<span color="#faaf00">$$1$$</span> $$+$$ <span color="#0f5181">$$0$$</span> $$=$$ <span color="#faaf00">$$-2$$</span>,</li>
+<li>четверта: $$(-2)\cdot($$<span color="#faaf00">$$-2$$</span>$$) + $$<span color="#0f5181">$$1$$</span>$$ = $$<span color="#faaf00">$$5$$</span>,</li>
+<li>п’ята: $$(-2)\cdot$$<span color="#faaf00">$$5$$</span>$$ + ($$<span color="#0f5181">$$-7$$</span>$$) = -17$$.$$</li>
 </ul>
 
 <p>Як бачимо, можна тоді записати</p> 
