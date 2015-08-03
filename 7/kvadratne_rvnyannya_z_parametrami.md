@@ -31,3 +31,34 @@
 </div>
 </div>
 
+<div class="space">
+<div class="task-wrap">
+<span class="task">Приклад</span>
+<div class="task-text">
+<p>Розв’язати рівняння $$(1-a^2)x^2-2(a+1)x=1$$.</p>
+<p><b><i>Розв'язок.</i></b></p>
+<p>Знайдемо «контрольні» значення параметру $$a$$, при яких коефіцієнт при $$x^2$$ стане рівним нулеві:</p>
+<p align="center">$$1-a^2=0\Longleftrightarrow a=\pm1.$$</p>
+<p>Розв’яжемо рівняння при $$a=-1$$:</p>
+<p align="center">$$0x^2-2(-1+1)\cdot x=1\Longleftrightarrow0x=1\Longleftrightarrow x\in\emptyset$$</p>
+<p>Розв’яжемо рівняння при $$a=1$$:</p>
+<p align="center">$$0x^2-2(1+1)\cdot x=1\Longleftrightarrow x=-\dfrac{1}{4}$$.</p>
+<p>Тепер розглянемо випадок $$a\neq1$$ - рівняння є квадратним.</p>
+<p>Шукаємо дискримінант:</p>
+<p align="center">$$D=(-2(a+1))^2-4(1-a^2)\cdot(-1)=4(a^2+2a+1)+4(1-a^2)=4(a^2+2a+1+1-a^2)=4(2a+2)=8(a+1).$$</p>
+<p>Знаходимо «контрольну» точку з умови $$D=0$$:</p>
+<p align="center">$$8(a+1)=0\Longleftrightarrow a=-1.$$</p>
+<p>Але вже накладена умова $$a\neq\pm1$$ тому $$D\neq0$$.</p>
+<p>Дискримінант може бути лише більшим або меншим нуля (пам’ятаємо при цьому $$a\neq1$$):</p>
+<ul>
+<li><p>$$a>-1\Longrightarrow D>0$$, і рівняння має два дійсних корені:</p>
+<p align="center">$$x_{1,2} = \dfrac{2(a+1)\pm\sqrt{8(a+1)}}{2(1-a^2)}=\dfrac{a+1\pm\sqrt{2(a+1)}}{1-a^2};$$</p></li>
+<li><p>$$a<-1\Longrightarrow D<0$$, і рівняння дійсних коренів не має: $$x\in\emptyset$$.</p>
+<p>У відповіді об’єднаємо це з випадком $$a=-1$$, де теж $$x\in\emptyset.$$</p></li>
+</ul>
+<p><b>Відповідь.</b>$$при a\in(-\infty;-1]: x\in\emptyset;$$</p>
+<p>}$$при a\in\{1\}: x=\dfrac{1}{4};$$</p>
+<p>$$при a\in(-1;1)\cup(1;+\infty): x_{1,2}=\dfrac{a+1\pm\sqrt{2(a+1)}}{1-a^2}.$$</p>
+</div>
+</div>
+</div>
