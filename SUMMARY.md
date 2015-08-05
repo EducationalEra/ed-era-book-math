@@ -58,7 +58,7 @@
        * Лінійне рівняння з параметрами
        * Квадратне рівняння з параметрами
 * [Системи алгебраїчних рiвнянь](7/zagaln_vdomost.md)
-   * [Загальні відомості](7/zagaln_vdomost.md)
+   * [Загальні відомості](8/zagaln_vdomost.md)
    * [Метод підстановки](8/metod_pdstanovki.md)
    * [Метод алгебраїчного додавання](8/metod_algebrachnogo_dodavannya.md)
    * [Метод заміни змінної](8/metod_zamni_zmnno.md)
