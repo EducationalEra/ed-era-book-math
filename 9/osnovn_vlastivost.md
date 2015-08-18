@@ -12,13 +12,7 @@
 </ul>
 <p><i>Наприклад:</i> якщо $$x<3$$ і $$3<y$$, то $$x<y$$.</p></li>
 <li><p>Розкрити дужки в будь-якій частині нерівності.</p>
-<p><i>Наприклад:</i></p>
-<p align="center">$$\begin{align}
-			{\color{EdErablue}(}x-4{\color{EdErablue})}{\color{EdErablue}(}1-x{\color{EdErablue})} &\geq 0  \tag*{Вихідна нерівність} \nonumber \\
-			{\color{EdErablue}(}x - 4 - x^2 + 4x{\color{EdErablue})} &\geq 0  \tag*{Розкриваємо дужки} \nonumber \\
-			-x^2 + 5x - 4 &\geq 0 \tag*{Спрощуємо}\nonumber 
-			\end{align}$$
-</p></li>
+<p><i>Наприклад:</i></p></li>
 </ol>
 
 
