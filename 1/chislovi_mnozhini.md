@@ -5,6 +5,10 @@
 
 <div class="space"><p align="center"><img align="middle" class="image" src="../pics/pic1.png"/></p></div>
 
+<div class="space"><p align="center"><img align="middle" class="image" src="../pics/p14_2.png"/></p></div>
+
+<div class="space"><p align="center"><img align="middle" class="image" src="../pics/p14_2 (1).png"/></p></div>
+
 <div class="space">Найпростішою та найзрозумілішою множиною чисел є натуральні числа.</div>
 
 <div class="space">
