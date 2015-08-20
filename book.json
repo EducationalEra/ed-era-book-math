@@ -34,8 +34,7 @@
     "links": {
         "gitbook": false,
         "sidebar": {
-          "Перейти до бібліотеки EdEra": "https://www.books.ed-era.com",
-          "Математика: арифметика, рівняння та нерівності": "https://www.ed-era.com/books/math"
+          "Перейти до бібліотеки EdEra": "https://www.books.ed-era.com"
         },
         "sharing": {
             "vk":true
