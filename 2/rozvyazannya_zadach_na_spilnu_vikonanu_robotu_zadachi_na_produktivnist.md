@@ -51,11 +51,11 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>За який час менша труба самостійно заповний весь резервуар? (відповідь округліть до найближчого цілого числа)</p>
-        <answer>$$57$$ c</answer>
-        <answer>$$109$$ c</answer>
-        <answer>$$237$$ c</answer>
-        <answer correct>$$119$$ c</answer>
-        <answer>$$432$$ c</answer>
+        <answer>57 c</answer>
+        <answer>109 c</answer>
+        <answer>237 c</answer>
+        <answer correct>119 c</answer>
+        <answer>432 c</answer>
     </question>
 </quiz>
 
