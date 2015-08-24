@@ -24,7 +24,7 @@
 
 <p>Множину натуральних чисел позначають знаком $$\mathbb{N}$$.</p>
 
-<div class="space"><p>Множина цiлих чисел теж iнтуїтивно зрозумiла будь-якiй людинi.</p></div>
+<div class="space"></div>
 
 <div class="space"><div class="eoz-wrap">
 <span class="eoz">Означення</span>
