@@ -18,7 +18,7 @@
    * [Многочлен](3/mnogochlen.md)
    * [Дiї над многочленами](3/di_nad_mnogochlenami.md)
    * [Формули скороченого множення](3/formuli_skorochenogo_mnozhennya.md)
-   * Розкладання многочлена на множники
+   * [Розкладання многочлена на множники](3/rozkladannya_mnogochlena_na_mnozhniki.md)
    * Бiном Ньютона
 * Корiнь та його властивостi
    * Дробово-рацiональнi вирази
