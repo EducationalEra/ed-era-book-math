@@ -22,7 +22,7 @@
    * Бiном Ньютона
 * Корiнь та його властивостi
    * Дробово-рацiональнi вирази
-   * [Квадратний корiнь та його основнi властивостi](4/kvadratnii_korin_ta_iogo_osnovni_vlastivosti.md)
+   * Квадратний корiнь та його основнi властивостi
    * [Корінь n-го степеня та його основні властивості](4/korn_n-go_stepenya_ta_iogo_osnovn_vlastivost.md)
    * [Ірраціональні вирази](4/rratsonaln_virazi.md)
        * [Доповнюючий множник](4/dopovnyuyuchii_mnozhnik.md)
