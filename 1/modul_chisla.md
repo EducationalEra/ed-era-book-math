@@ -6,6 +6,8 @@
 <div class="popup">
 </div>
 
+<div class="space"></div>
+
 Модуль, або абсолютна величина дійсного числа $a$, – <span class="p1">невід’ємна величина</span>, яка позначається наступним чином:
 
 <div class="space"><p align="center">$$ |a| =
