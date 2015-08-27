@@ -28,7 +28,7 @@
        * [Доповнюючий множник](4/dopovnyuyuchii_mnozhnik.md)
        * [Звiльнення вiд iррацiональностi у знаменнику (чисельнику) iррацiонального дробу](4/zvilnennya_vid_irratsionalnosti_u_znamenniku_chiselniku_irratsio-.md)
        * [Доповнюючi множники для основних типiв iррацiональностей у знаменнику (чисельнику)](4/dopovnyuyuchi_mnozhniki_dlya_osnovnih_tipiv_irratsionalnostei_u_zna.md)
-   * Додаток
+   * [Додаток](4/dodatok.md)
 * Показниковi та логарифмiчнi тотожностi
    * Показниковi тотожностi
    * Логарифм
