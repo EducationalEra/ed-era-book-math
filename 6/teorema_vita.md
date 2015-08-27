@@ -1,7 +1,7 @@
 #Теорема Вiєта
 
 <p>Можна поділити всі коефіцієнти квадратного рівняння $$ax^2 + bx + c = 0$$ на старший коефіцієнт $$a$$: $$x^2 + \dfrac{b}{a}x + \dfrac{c}{a} = 0$$. Таке рівняння називають <b>зведеним</b>.</p>
-
+<div class="space"></div>
 <div class="space">
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
@@ -12,7 +12,7 @@
 </div>
 
 <p><i>Наприклад:</i>$$x^2 - 2x + 1 =0; x^2 - x =0.$$</p>
-
+<div class="space"></div>
 <p>У пункті 6.3.4 <a  href="http://math.ed-era.com/6/faktorizatsya_kvadratnogo_rvnyannya_rozkladannya_na_mnozhniki.html">Факторизацiя квадратного рiвняння (розкладання на множники)</a> була виведена тотожність $$x^2 + \dfrac{b}{a}x + \dfrac{c}{a} = (x - x_1)(x - x_2)$$.</p>
 
 <p>Якщо розкрити дужки у правій частині тотожності:</p>
@@ -25,7 +25,7 @@
 <p align="center">$$x_1x_2 = \dfrac{c}{a}.$$</p>
 
 <p>Ці тотожності були вперше отримані Франсуа Вієтом у XVI ст. та лежать в основі теореми Вієта.</p>
-
+<div class="space"></div>
 <div class="space">
 <div class="ebio-wrap">
 <span class="ebio">Теорема Вієта</span>
