@@ -35,7 +35,7 @@
    * Логарифмiчнi тотожностi
    * Логарифмування та потенцiювання
 * [Лiнiйнi та квадратнi рiвняння](6/liniini_ta_kvadratni_rivnyannya.md)
-   * Рівняння та його корені
+   * [Рівняння та його корені](6/rvnyannya_ta_iogo_koren.md)
        * [Загальні відомості](6/zagaln_vdomost.md)
        * [Основні властивості рівнянь](6/osnovn_vlastivost_rvnyan.md)
    * [Лiнiйнi рiвняння](6/liniini_rivnyannya.md)
