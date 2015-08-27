@@ -82,18 +82,18 @@ Aвтiвка, що рухається зi швидкiстю $$50$$ <i>км/го�
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Відстань між Києвом та Одесою складає $$480$$ км.</br>Яким є масштаб карти, якщо виміряна лінійкою відстань - $$96$$ см?</p>
-        <answer>$$1:50000$$</answer>
-        <answer>$$1:100000$$</answer>
-        <answer correct>$$1:500000$$</answer>
-        <answer>$$1:1000000$$</answer>
-        <answer>$$1:2000000$$</answer>
+        <answer>1:50000</answer>
+        <answer>1:100000</answer>
+        <answer correct>1:500000</answer>
+        <answer>1:1000000</answer>
+        <answer>1:2000000</answer>
     </question>
     <question text="">
         <p>Cкільки ця відстань складатиме на карті з масштабом $$1:2000000$$?</p>
-        <answer>$$12$$ см</answer>
-        <answer>$$18$$ см</answer>
-        <answer>$$20$$ см</answer>
-        <answer correct>$$24$$ см</answer>
-        <answer>$$36$$ см</answer>
+        <answer>12 см</answer>
+        <answer>18 см</answer>
+        <answer>20 см</answer>
+        <answer correct>24 см</answer>
+        <answer>36 см</answer>
     </question>
 </quiz>
