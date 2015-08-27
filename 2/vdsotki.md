@@ -70,6 +70,8 @@ x\quad—\quad90\%
 <div class="popup">
 </div>
 
+<div class="space"></div>
+
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Отже, в обох пробірках по $$20$$ мл води. В першу додали $$7$$ грамів солі, в третю - $$2$$ грами.</br>Яким вийшов перший розчин?</p>
