@@ -43,7 +43,7 @@
        * Загальні відомості
        * Неповні квадратні рівняння
        * Повне квадратне рівняння та дискримiнант
-       * [Факторизація квадратного рівняння (розкладання на множники)](6/faktorizatsya_kvadratnogo_rvnyannya_rozkladannya_na_mnozhniki.md)
+       * Факторизація квадратного рівняння (розкладання на множники)
        * [Теорема Вiєта](6/teorema_vita.md)
    * [Бiквадратнi рiвняння, та рівняння, що зводяться до квадратних](6/bikvadratni_rivnyannya,_ta_rvnyannya,_scho_zvodyatsya_do_kvadratnih.md)
 * Iншi види цiлих рiвнянь
