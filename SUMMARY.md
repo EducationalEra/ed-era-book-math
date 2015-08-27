@@ -14,7 +14,7 @@
    * [Розв’язання задач на спiльну виконану роботу (задачi на продуктивнiсть)](2/rozvyazannya_zadach_na_spilnu_vikonanu_robotu_zadachi_na_produktivnist.md)
 * Одночлени та многочлени
    * Степiнь з цiлим показником
-   * [Одночлен](3/odnochlen.md)
+   * Одночлен
    * [Многочлен](3/mnogochlen.md)
    * [Дiї над многочленами](3/di_nad_mnogochlenami.md)
    * [Формули скороченого множення](3/formuli_skorochenogo_mnozhennya.md)
