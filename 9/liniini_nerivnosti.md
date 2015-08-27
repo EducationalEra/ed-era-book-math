@@ -68,3 +68,22 @@
 </div>
 </div>
 </div>
+
+<div class="space">
+<div class="task-wrap">
+<span class="task">Приклад</span>
+<div class="task-text">
+<p>Розв’язати нерівність: $$5(x-1)>x+3$$.</p>
+<b><i>Розв’язок</i></b>.</p>
+<p>Розкриваємо дужки та збираємо змінну $$x$$ в лівій частині нерівності:</p>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e10.png"/></p></div>
+<p>Всі вільні доданки залишаємо в правій частині нерівності:</p>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e11.png"/></p></div>
+<p>Ділимо обидві частини на коефіцієнт при змінній:</p>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e12.png"/></p></div>
+<p>Записуємо відповідь у інтервальному представленні та зображаємо її на числовій прямій:</p>
+<div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/p14_10.png"/></p></div>
+<b>Вiдповiдь.</b> $$x \in (2;+\infty)$$.
+</div>
+</div>
+</div>
