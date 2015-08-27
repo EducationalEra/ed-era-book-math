@@ -3,9 +3,9 @@
 <p>Часто виникає необхідність звільнитись від ірраціональності у знаменнику (чисельнику) дробово-ірраціонального виразу.</p>
 
 <p>Це можна забезпечити скористатись основною властивістю дробу – <b>помножити і чисельник і знаменник на доповнюючий множник</b> для знаменника (чисельника):</p>
-
+<div class="space"></div>
 <p align="center">$$\dfrac{\overbrace{M(x)}^\text{ірраціональний вираз}}{\underbrace{N(x)}_\text{ірраціональний вираз}}=\dfrac{\overbrace{M(x)\cdot\bar N(x)}^\text{ірраціональний вираз}}{\underbrace{N(x)\cdot\bar N(x)}_\text{раціональний вираз}}=\dfrac{\overbrace{M(x)\cdot\bar M(x)}^\text{раціональний вираз}}{\underbrace{N(x)\cdot\bar M(x)}_\text{ірраціональний вираз}}.$$</p>
-
+<div class="space"></div>
 <div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
