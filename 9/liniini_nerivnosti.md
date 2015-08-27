@@ -25,7 +25,7 @@
 
 <div class="space">
 <div class="alg-wrap">
-<span class="alg">Алгоритм</span> Pозв’язання лінійних нерівностей
+<span class="alg">Алгоритм</span> <b>Pозв’язання лінійних нерівностей</b>
 <div class="alg-text">
 <ol>
 <li>Спростити обидві частини нерівності.</li>
