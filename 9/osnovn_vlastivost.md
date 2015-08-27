@@ -27,7 +27,7 @@
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e4.png"/></p></div>
 <li><p>Якщо вираз від’ємний – знак нерівності змінюється на протилежний.</p></li>
 <p><i>Наприклад:</i></p></li>
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e5.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="75%" height="75%" class="image" src="../pics/p14_e5.png"/></p></div>
 </ul>
 </ol>
 
