@@ -11,7 +11,7 @@
 </div>
 
 Ця формула вже зустрічалася у розділі 3.6 <a href="http://math.ed-era.com/3/rozkladannya_mnogochlena_na_mnozhniki.html">Розкладання многочлена на множники</a>. Цього разу вона наводиться з доведенням.
-
+<div class="space"></div>
 <div class="space">
 <div class="ebio-wrap">
 <span class="ebio">Доведення</span>
