@@ -32,7 +32,7 @@
 * Показниковi та логарифмiчнi тотожностi
    * Показниковi тотожностi
    * Логарифм
-   * [Логарифмiчнi тотожностi](5/logarifmichni_totozhnosti.md)
+   * Логарифмiчнi тотожностi
    * [Логарифмування та потенцiювання](5/metodi_rozvyazannya_zadach_logarifmuvannya,_potentsiyuvannya.md)
 * Лiнiйнi та квадратнi рiвняння
    * Рівняння та його корені
