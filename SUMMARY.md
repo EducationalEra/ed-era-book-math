@@ -15,7 +15,7 @@
 * Одночлени та многочлени
    * Степiнь з цiлим показником
    * Одночлен
-   * [Многочлен](3/mnogochlen.md)
+   * Многочлен
    * [Дiї над многочленами](3/di_nad_mnogochlenami.md)
    * [Формули скороченого множення](3/formuli_skorochenogo_mnozhennya.md)
    * [Розкладання многочлена на множники](3/rozkladannya_mnogochlena_na_mnozhniki.md)
