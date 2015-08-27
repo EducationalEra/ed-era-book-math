@@ -28,6 +28,8 @@
 </div>
 </div>
 
+<div class="space"></div>
+
 <div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
@@ -47,6 +49,8 @@
 </div>
 <div class="popup">
 </div>
+
+<div class="space"></div>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
