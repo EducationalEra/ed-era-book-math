@@ -42,9 +42,15 @@
 
 <ul>
 <li><b>Відкритий</b> інтервал $$(a,b)$$ не включає кінцеві точки і відповідає нерівності $$a < x < b$$.</li>
+<div class="space"><p align="center"><img align="middle" class="image" src="../pics/p14_2.png"/></p></div>
 <li>Якщо кінцеві точки включаються до інтервалу то він називається <b>закритим</b>, позначається $$[a,b]$$ і відповідає нерівності $$a \leq x \leq b$$.</li>
+<div class="space"><p align="center"><img align="middle" class="image" src="../pics/p14_3.png"/></p></div>
 <li>Інколи одна границя включається до інтервалу, а інша – ні. Такі випадки називають <b>напівінтервалами</b>, позначають $$(a,b]$$ та $$[a,b)$$ і їм відповідають нерівності $$a < x \leq b$$ та $$a \leq x < b$$.</li>
+<div class="space"><p align="center"><img align="middle" class="image" src="../pics/p14_4.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" class="image" src="../pics/p14_5.png"/></p></div>
 <li>Якщо інтервал необмежений з однієї сторони, його називають <b>нескінченим</b>. Наприклад інтервал $$[a,\infty)$$ відповідає нерівності $$x\geq a$$, а інтервал $$(-\infty,b)$$ – нерівності $$x<b$$.</li>
+<div class="space"><p align="center"><img align="middle" class="image" src="../pics/p14_6.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" class="image" src="../pics/p14_7.png"/></p></div>
 </ul>
 
 <div class="space">
