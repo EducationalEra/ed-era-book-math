@@ -13,7 +13,7 @@
 <p><i>Наприклад:</i> якщо $$x<3$$ і $$3<y$$, то $$x<y$$.</p></li>
 <li><p>Розкрити дужки в будь-якій частині нерівності.</p>
 <p><i>Наприклад:</i></p></li>
-<div class="space"><p align="center"><img align="middle" class="image" src="../pics/p14_e1.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e1.png"/></p></div>
 </ol>
 
 
