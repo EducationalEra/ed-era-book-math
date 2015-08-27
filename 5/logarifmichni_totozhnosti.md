@@ -4,21 +4,35 @@
 
 <p>Основні логарифмічні тотожності:</p>
 
-1. <p>$$a^{\log_{a}b}=b$$.</p>
-2. <p>$$\log_{a}1=0$$.</p>
-3. <p>$\log_{a}a=1$.</p>
-4. <p>$$\log_{a}{a^b}=b$$.</p>
-5. <p>$$\log_{a}{xy}=\log_{a}{|x|}+\log_{a}{|y|}, xy>0$$.</p>
+<ol>
+<li><p>$$a^{\log_{a}b}=b$$.</p></li>
+<li><p>$$\log_{a}1=0$$.</p></li>
+<li><p>$\log_{a}a=1$.</p></li>
+<li><p>$$\log_{a}{a^b}=b$$.</p></li>
+<li><p>$$\log_{a}{xy}=\log_{a}{|x|}+\log_{a}{|y|}, xy>0$$.</p></li>
+<div class="space"></div>
 <p><i>Наприклад:</i>$$\log_{3}54=\log_{3}{2\cdot27}=\log_{3}2+\log_{3}27=\log_{3}2+\log_{3}{3^3}=\log_{3}2+3.$$</p>
-6. <p>$$\log_{a}{\dfrac{x}{y}}=\log_{a}{|x|}-\log_{a}{|y|}, xy>0$$.</p>
+<div class="space"></div>
+<li><p>$$\log_{a}{\dfrac{x}{y}}=\log_{a}{|x|}-\log_{a}{|y|}, xy>0$$.</p></li>
+<div class="space"></div>
 <p><i>Наприклад:</i>$$\log_{2}{\dfrac{16}{9}}=\log_{2}16-\log_{2}9=\log_{2}{2^4}-\log_{2}{9}=4-\log_{2}{9}.$$</p>
-7. <p>$$\log_{a}{x^p}=p\cdot\log_{a}{|x|}, x^p>0$$.</p>
+<div class="space"></div>
+<li><p>$$\log_{a}{x^p}=p\cdot\log_{a}{|x|}, x^p>0$$.</p></li>
+<div class="space"></div>
 <p><i>Наприклад:</i>$$\log_{5}64=\log_{5}{2^6}=6\log_{5}2.$$</p>
-8. <p>$$\log_{a^q}x=\dfrac{1}{q}\log_{a}x, q\neq0$$.</p>
+<div class="space"></div>
+<li><p>$$\log_{a^q}x=\dfrac{1}{q}\log_{a}x, q\neq0$$.</p></li>
+<div class="space"></div>
 <p><i>Наприклад:</i>$$\log_{9}23=\log_{3^2}23=\dfrac{1}{2}\log_{3}23.$$</p>
-9. <p>$$\log_{a^q}{x^p}=\dfrac{p}{q}\log_{a}x, q\neq0$$ - випливає з формул ($$7$$) та ($$8$$).</p>
+<div class="space"></div>
+<li><p>$$\log_{a^q}{x^p}=\dfrac{p}{q}\log_{a}x, q\neq0$$ - випливає з формул ($$7$$) та ($$8$$).</p></li>
+<div class="space"></div>
 <p><i>Наприклад:</i>$$\log_{16}125=\log_{2^4}{5^3}=\dfrac{3}{4}\log_{2}5.$$</p>
-10. <p>$$\log_{a}x=\dfrac{\log_{b}x}{\log_{b}a}$$ - формула переходу до іншої основи.</p>
+<div class="space"></div>
+<li><p>$$\log_{a}x=\dfrac{\log_{b}x}{\log_{b}a}$$ - формула переходу до іншої основи.</p></li>
+<div class="space"></div>
 <p><i>Наприклад:</i>$$\log_{2}27=\dfrac{\log_{3}27}{\log_{3}2}=\dfrac{\log_{3}{3^3}}{\log_{3}2}=\dfrac{3}{\log_{3}2}.$$</p>
-11. <p>$$\log_{a}b=\dfrac{1}{\log_{b}a}$$ - випливає з формули ($$10$$).</p>
-12. <p>$$a^{\log_{c}b}=b^{\log_{c}a}$$ - випливає з формули ($$7$$).</p>
+<div class="space"></div>
+<li><p>$$\log_{a}b=\dfrac{1}{\log_{b}a}$$ - випливає з формули ($$10$$).</p></li>
+<li><p>$$a^{\log_{c}b}=b^{\log_{c}a}$$ - випливає з формули ($$7$$).</p></li>
+</ol>
