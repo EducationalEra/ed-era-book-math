@@ -21,7 +21,7 @@
    * Розкладання многочлена на множники
    * Бiном Ньютона
 * Корiнь та його властивостi
-   * [Дробово-рацiональнi вирази](4/drobovo-ratsionalni_virazi.md)
+   * Дробово-рацiональнi вирази
    * [Квадратний корiнь та його основнi властивостi](4/kvadratnii_korin_ta_iogo_osnovni_vlastivosti.md)
    * [Корінь n-го степеня та його основні властивості](4/korn_n-go_stepenya_ta_iogo_osnovn_vlastivost.md)
    * [Ірраціональні вирази](4/rratsonaln_virazi.md)
