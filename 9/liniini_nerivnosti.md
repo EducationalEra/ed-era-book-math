@@ -36,3 +36,35 @@
 </div>
 </div>
 </div>
+
+<div class="space">
+<div class="task-wrap">
+<span class="task">Приклад</span>
+<div class="task-text">
+<p>Розв’язати нерівність: $$3x < 8$$.</p>
+<b><i>Розв’язок</i></b>.</p>
+<p>Спрощувати тут вже нема чого, всі доданки з $$x$$ в лівій частині, вільні доданки – у правій. Переходимо одразу до пункту <b>$$3$$</b>: необхідно розділити обидві частини нерівності на коефіцієнт при змінній $$x$$ та спростити отриманий вираз.</p>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e7.png"/></p></div>
+<p>Єдине, що залишилось – записати відповідь у інтервальному представленні та зобразити її на числовій прямій:</p>
+<div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/p14_8.png"/></p></div>
+<b>Вiдповiдь.</b> $$x \in (-\infty;\dfrac{8}{3})$$.
+</div>
+</div>
+</div>
+
+<div class="space">
+<div class="task-wrap">
+<span class="task">Приклад</span>
+<div class="task-text">
+<p>Розв’язати нерівність: $$-2\leq2-4x$$.</p>
+<b><i>Розв’язок</i></b>.</p>
+<p>Всі доданки з $$x$$ вже знаходяться у правій частині, збираємо всі вільні доданки у лівій:</p>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e8.png"/></p></div>
+<p>Ділимо обидві частини на коефіцієнт при змінній:</p>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e9.png"/></p></div>
+<p>Тепер записуємо відповідь у інтервальному представленні та зображаємо її на числовій прямій:</p>
+<div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/p14_9.png"/></p></div>
+<b>Вiдповiдь.</b> $$x \in (-\infty;1]$$.
+</div>
+</div>
+</div>
