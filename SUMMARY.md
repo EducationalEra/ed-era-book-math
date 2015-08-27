@@ -30,7 +30,7 @@
        * Доповнюючi множники для основних типiв iррацiональностей у знаменнику (чисельнику)
    * Додаток
 * Показниковi та логарифмiчнi тотожностi
-   * [Показниковi тотожностi](5/pokaznikovi_totozhnosti.md)
+   * Показниковi тотожностi
    * [Логарифм](5/logarifm.md)
    * [Логарифмiчнi тотожностi](5/logarifmichni_totozhnosti.md)
    * [Логарифмування та потенцiювання](5/metodi_rozvyazannya_zadach_logarifmuvannya,_potentsiyuvannya.md)
