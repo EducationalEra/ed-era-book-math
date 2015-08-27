@@ -35,22 +35,35 @@
 
 <p><b>Основні властивості квадратного кореня:</b></p>
 
-
-* <p>$$\sqrt{a^2}=|a|, a \in \mathbb{R}.$$</p>
+<ul>
+<li><p>$$\sqrt{a^2}=|a|, a \in \mathbb{R}.$$</p></li>
+<div class="space"></div>
 <p><i>Наприклад:</i> $$\sqrt{15^2}=15.$$</p>
-* <p>$$(\sqrt{a})^2=a.$$</p>
+<div class="space"></div>
+<li><p>$$(\sqrt{a})^2=a.$$</p></li>
+<div class="space"></div>
 <p><i>Наприклад:</i> $$\sqrt{(-15)^2}=15, (\sqrt{15})^2=15.$$</p>
-* <p>$$\sqrt{ab}=\sqrt{a}\cdot\sqrt{b}.$$</p>
+<div class="space"></div>
+<li><p>$$\sqrt{ab}=\sqrt{a}\cdot\sqrt{b}.$$</p></li>
+<div class="space"></div>
 <p><i>Наприклад:</i> $$\sqrt{15}=\sqrt{3}\cdot\sqrt{5}$$</p>
-* <p>$$\sqrt{\dfrac{a}{b}}=\dfrac{\sqrt{a}}{\sqrt{b}}, a\geq0, b\geq0.$$</p>
+<div class="space"></div>
+<li><p>$$\sqrt{\dfrac{a}{b}}=\dfrac{\sqrt{a}}{\sqrt{b}}, a\geq0, b\geq0.$$</p></li>
+<div class="space"></div>
 <p><i>Наприклад:</i> $$\sqrt{15}=\dfrac{\sqrt{30}}{\sqrt2}.$$</p>
-* <p>$$b\sqrt a = \begin{cases}
+<div class="space"></div>
+<li><p>$$b\sqrt a = \begin{cases}
 				\sqrt{b^2a}, b\geq0;\\
 				-\sqrt{b^2a}, b\leq0.
-			\end{cases}$$</p>
+			\end{cases}$$</p></li>
+<div class="space"></div>
 <p><i>Наприклад:</i> $$2\sqrt{15}=\sqrt{60}; -2\sqrt{15}=-\sqrt{60}.$$</p>
-* <p>$$\sqrt{b^2a}=|b|\sqrt{a}.$$</p>
+<div class="space"></div>
+<li><p>$$\sqrt{b^2a}=|b|\sqrt{a}.$$</p></li>
+<div class="space"></div>
 <p><i>Наприклад:</i> $$\sqrt{90}=3\sqrt{10}.$$</p>
+<div class="space"></div>
+</ul>
 
 <div class="space">
 </div>
