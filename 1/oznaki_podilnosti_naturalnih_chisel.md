@@ -8,6 +8,7 @@
 <div class="popup">
 </div>
 
+<div class="space"></div>
 
 <span class="p1">**Число $$a$$ дiлиться на**:</span>
 * $$2$$, якщо воно парне;
