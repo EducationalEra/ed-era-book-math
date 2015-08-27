@@ -45,7 +45,7 @@
        * [Повне квадратне рівняння та дискримiнант](6/povne_kvadratne_rvnyannya_ta_diskriminant.md)
        * [Факторизація квадратного рівняння (розкладання на множники)](6/faktorizatsya_kvadratnogo_rvnyannya_rozkladannya_na_mnozhniki.md)
        * [Теорема Вiєта](6/teorema_vita.md)
-   * Бiквадратнi рiвняння, та рівняння, що зводяться до квадратних
+   * [Бiквадратнi рiвняння, та рівняння, що зводяться до квадратних](6/bikvadratni_rivnyannya,_ta_rvnyannya,_scho_zvodyatsya_do_kvadratnih.md)
 * Iншi види цiлих рiвнянь
    * Теорема Безу та схема Горнера
    * Цiлi рацiональнi рiвняння вищих степенів
