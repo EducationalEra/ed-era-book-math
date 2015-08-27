@@ -38,7 +38,7 @@
    * [Рівняння та його корені](6/rvnyannya_ta_iogo_koren.md)
        * Загальні відомості
        * Основні властивості рівнянь
-   * [Лiнiйнi рiвняння](6/liniini_rivnyannya.md)
+   * Лiнiйнi рiвняння
    * [Квадратнi рiвняння](6/kvadratni_rivnyannya.md)
        * [Загальні відомості](6/zagaln_vdomosti_kvadratni.md)
        * [Неповні квадратні рівняння](6/nepovn_kvadratn_rvnyannya.md)
