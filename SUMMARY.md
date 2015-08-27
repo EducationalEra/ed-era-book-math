@@ -44,7 +44,7 @@
        * [Неповні квадратні рівняння](6/nepovn_kvadratn_rvnyannya.md)
        * [Повне квадратне рівняння та дискримiнант](6/povne_kvadratne_rvnyannya_ta_diskriminant.md)
        * [Факторизація квадратного рівняння (розкладання на множники)](6/faktorizatsya_kvadratnogo_rvnyannya_rozkladannya_na_mnozhniki.md)
-       * Теорема Вiєта
+       * [Теорема Вiєта](6/teorema_vita.md)
    * Бiквадратнi рiвняння, та рівняння, що зводяться до квадратних
 * Iншi види цiлих рiвнянь
    * Теорема Безу та схема Горнера
