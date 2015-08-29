@@ -53,7 +53,7 @@
    * Метод заміни змінної
    * Рiвняння з модулями
        * Прості рівняння з модулями
-       * [Метод інтервалів](7/metod_ntervalv.md)
+       * Метод інтервалів
    * [Рівняння з параметрами](7/rvnyannya_z_parametrami.md)
        * [Лінійне рівняння з параметрами](7/lnine_rvnyannya_z_parametrami.md)
        * [Квадратне рівняння з параметрами](7/kvadratne_rvnyannya_z_parametrami.md)
