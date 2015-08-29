@@ -25,6 +25,8 @@ c\cdot F_1(x, y) + d\cdot F_2(x, y) = 0;
 
 <p>Після спрощення системи методом алгебраїчного додавання часто також потрібно застосовувати метод підстановки, розглянутий вище.</p>
 
+<div class="center"></div>
+
 <div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
