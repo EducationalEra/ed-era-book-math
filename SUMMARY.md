@@ -48,7 +48,7 @@
    * Бiквадратнi рiвняння, та рівняння, що зводяться до квадратних
 * Iншi види цiлих рiвнянь
    * Теорема Безу та схема Горнера
-   * [Цiлi рацiональнi рiвняння вищих степенів](7/tsili_ratsionalni_rivnyannya_vischih_stepenv.md)
+   * Цiлi рацiональнi рiвняння вищих степенів
    * [Метод підбору коренів](7/metod_pdboru_korenv.md)
    * [Метод заміни змінної](7/metod_zamni_zmnno.md)
    * [Рiвняння з модулями](7/rivnyannya_z_modulyami.md)
