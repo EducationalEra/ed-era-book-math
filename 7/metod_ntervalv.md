@@ -51,19 +51,19 @@
 </table>
 <li><p>Розв’язуємо рівняння на чотирьох інтервалах, позбавляючись знаків модуля та перевіряємо відповідність коренів інтервалу:</p>
 <ul>
-<li><p align="center">$$x\in (-\infty;-3)$$</p>
+<li><p>$$x\in (-\infty;-3)$$</p>
 <p>Розкриваємо знаки модуля:</p>
 <p align="center">$$-(x+1)-(-(x+3))+(2-x)=4\Longleftrightarrow-x+4=4\Longleftrightarrow x=0$$</p>
 <p>Але $$x=0\notin(-\infty;-3)$$ - розв’язок лежить не на інтервалі, що розглядається, тому $$x\in \emptyset$$ на даному інтервалі.</p></li>
-<li><p align="center">$$x \in[-3;-1)$$</p>
+<li><p>$$x \in[-3;-1)$$</p>
 <p>Розкриваємо знаки модуля:</p>
 <p align="center">$$-(x+1)-(x+3)+(2-x)=4\Longleftrightarrow-3x-2=4\Longleftrightarrow x=-2.$$</p>
 <p>$$x=-2\in[-3;-1)$$, тому є коренем.</p></li>
-<li><p align="center">$$x\in [-1;2]$$</p>
+<li><p>$$x\in [-1;2]$$</p>
 <p>Розкриваємо знаки модуля:</p>
 <p align="center">$$(x+1)-(x+3)+(2-x)=4\Longleftrightarrow-x=4\Longleftrightarrow x=-4.$$</p>
 <p>Але $$x=-4\notin[-1;2]$$ – розв’язок лежить не на інтервалі, що розглядається, тому $$x\in \emptyset$$ на даному інтервалі.</p></li>
-<li><p align="center">$$x\in (2;+\infty)$$</p>
+<li><p>$$x\in (2;+\infty)$$</p>
 <p>Розкриваємо знаки модуля:</p>
 <p align="center">$$(x+1)-(x+3)-(2-x)=4\Longleftrightarrow x-4=4\Longleftrightarrow x=8.$$</p>
 <p>$$x=8\in(2;+\infty),$$ тому є коренем.</p></li>
