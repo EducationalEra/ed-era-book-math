@@ -9,6 +9,8 @@ x + y = u,\\
 x\cdot y = v.
 \end{cases}$$</p>
 
+<div class="center"></div>
+
 <div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
