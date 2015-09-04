@@ -49,8 +49,35 @@
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
+        <p>Чи ділиться число $$10939824$$ на $$2$$?</p>
+        <answer correct>так</answer>
+        <answer>ні</answer>
+    </question>
+    <explanation>
+    Бо число парне.
+    </explanation>
+    <question text="">
+        <p>Чи ділиться число $$10939824$$ на $$3$$?</p>
+        <answer correct>так</answer>
+        <answer>ні</answer>
+    </question>
+    <explanation>
+    Знайдему суму всіх цифр, що складають число: $$1+0+9+3+9+8+2+4=36$$. Число $$36$$ ділиться на $$3$$, тому і число $$10939824$$ ділиться на $$3$$.
+    </explanation>
+    <question text="">
+        <p>Чи ділиться число $$10939824$$ на $$5$$?</p>
+        <answer>так</answer>
+        <answer correct>ні</answer>
+    </question>
+    <explanation>
+    Бо чило не закінчується на $$0$$ чи $$5$$.
+    </explanation>
+    <question text="">
         <p>Чи ділиться число $$10939824$$ на $$9$$?</p>
         <answer correct>так</answer>
         <answer>ні</answer>
     </question>
+    <explanation>
+     Знайдему суму всіх цифр, що складають число: $$1+0+9+3+9+8+2+4=36$$. Число $$36$$ ділиться на $$9$$, тому і число $$10939824$$ ділиться на $$9$$.
+    </explanation>
 </quiz>
