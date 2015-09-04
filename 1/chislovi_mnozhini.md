@@ -87,4 +87,10 @@
         <answer>$$0; 3,7; 99; \pi; 24$$</answer>
         <answer>$$-3; \dfrac{2}{3}; \sqrt{7}; 17; -100$$</answer>
     </question>
+    <question text="">
+        <p>До якої множини належить число $$\pi$$</p>
+        <answer correct>ірраціональні числа</answer>
+        <answer>раціональні числа</answer>
+        <answer>цілі числа</answer>
+    </question>
 </quiz>
