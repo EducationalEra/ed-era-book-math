@@ -48,6 +48,8 @@
 
 * Ділення. Операції ділення дробів еквівалентна операція множення на дріб, що є перевернутим: $$\dfrac{a}{c}:\dfrac{b}{d} = \dfrac{a}{c}\cdot \dfrac{d}{b}= \dfrac{a\cdot d}{c\cdot b}.$$
 
+<div class="space"></div>
+
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/1dnjaA-RC_A" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -102,4 +104,7 @@
         <answer>$$40$$</answer>
         <answer>$$50$$</answer>
     </question>
+    <explanation>
+    Спростимо дріб: $$5\dfrac{3}{5}\cdot7\dfrac{1}{2}:\dfrac{3}{20}-250=\dfrac{28}{5}\cdot\dfrac{15}{2}\cdot\dfrac{20}{3}-250=28\cdot5\cdot2-250=30$$
+    </explanation>
 </quiz>
