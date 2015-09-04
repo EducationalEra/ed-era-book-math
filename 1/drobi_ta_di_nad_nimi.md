@@ -91,6 +91,9 @@
         <answer>$$\dfrac{50}{30}$$</answer>
         <answer>$$1\dfrac{2}{3}$$</answer>
     </question>
+    <explanation>
+    Спростимо дріб: $$\dfrac{\dfrac{5}{7}}{1\dfrac{4}{6}}=\dfrac{\dfrac{5}{7}}{\dfrac{10}{6}}=\dfrac{5}{7}\cdot\dfrac{6}{10}=\dfrac{2}{7}$$
+    </explanation>
     <question text="">
         <p>Обчисліть значення виразу $$5\dfrac{3}{5}\cdot7\dfrac{1}{2}:\dfrac{3}{20}-250$$</p>
         <answer>$$10$$</answer>
