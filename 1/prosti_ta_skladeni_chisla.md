@@ -83,7 +83,26 @@ $$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
         <answer>$$4$$</answer>
     </question>
     <explanation>
-    
+    <p>Запишемо розклад даних чисел на простi множники:</p>
+    <p>$$460=2\cdot2\cdot5\cdot23$$</p>
+    <p>$$280=2\cdot2\cdot2\cdot5\cdot7$$</p>
+    <p>Виписуємо найменшi степенi спiльних множникiв та перемножимо:</p>
+    <p>НСД $$(460,280) = 2^2 \cdot 5^1 = 20.$$</p>
+    </explanation>
+     <question text="">
+        <p>Який НСД чисел $$16$$, $$20$$ і $$28$$?</p>
+        <answer>$$2$$</answer>
+        <answer correct>$$4$$</answer>
+        <answer>$$8$$</answer>
+        <answer>$$12$$</answer>
+    </question>
+    <explanation>
+    <p>Запишемо розклад даних чисел на простi множники:</p>
+    <p>$$16=2\cdot2\cdot2\cdot2$$</p>
+    <p>$$20=2\cdot2\cdot2\cdot5$$</p>
+    <p>$$28=2\cdot2\cdot2\cdot7$$</p>
+    <p>Виписуємо найменшi степенi спiльних множникiв та перемножимо:</p>
+    <p>НСД $$(16,20,28) = 2^2 = 4.$$</p>
     </explanation>
 </quiz>
 
