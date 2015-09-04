@@ -82,6 +82,9 @@ $$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
         <answer correct>$$20$$</answer>
         <answer>$$4$$</answer>
     </question>
+    <explanation>
+    
+    </explanation>
 </quiz>
 
 <div class="space">
