@@ -37,7 +37,7 @@
  <question text="">
         <p>Обчисліть значення виразу $$|2-3|+|3+1|$$</p>
         <answer>$$1$$</answer>
-        <answer>$$3$</answer>
+        <answer>$$3$$</answer>
         <answer correct>$$5$$</answer>
         <answer>$$7$$</answer>
 <explanation>
