@@ -81,7 +81,6 @@ $$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
         <answer>$$5$$</answer>
         <answer correct>$$20$$</answer>
         <answer>$$4$$</answer>
-    </question>
     <explanation>
     <p>Запишемо розклад даних чисел на простi множники:</p>
     <p>$$460=2\cdot2\cdot5\cdot23$$</p>
@@ -89,13 +88,13 @@ $$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
     <p>Виписуємо найменшi степенi спiльних множникiв та перемножимо:</p>
     <p>НСД $$(460,280) = 2^2 \cdot 5^1 = 20.$$</p>
     </explanation>
+        </question>
      <question text="">
         <p>Який НСД чисел $$16$$, $$20$$ і $$28$$?</p>
         <answer>$$2$$</answer>
         <answer correct>$$4$$</answer>
         <answer>$$8$$</answer>
         <answer>$$12$$</answer>
-    </question>
     <explanation>
     <p>Запишемо розклад даних чисел на простi множники:</p>
     <p>$$16=2\cdot2\cdot2\cdot2$$</p>
@@ -104,6 +103,7 @@ $$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
     <p>Виписуємо найменшi степенi спiльних множникiв та перемножимо:</p>
     <p>НСД $$(16,20,28) = 2^2 = 4.$$</p>
     </explanation>
+        </question>
 </quiz>
 
 <div class="space">
@@ -155,7 +155,6 @@ $$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
         <answer>$$23$$</answer>
         <answer correct>$$920$$</answer>
         <answer>$$1840$$</answer>
-    </question>
     <explanation>
     <p>Запишемо розклад даних чисел на простi множники:</p>
     <p>$$115=5\cdot23$$</p>
@@ -163,19 +162,20 @@ $$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
     <p>Виписуємо найбiльшi степенi всiх множникiв та перемножимо:</p>
     <p>НСД $$(115,920) =2^3 \cdot 5 \cdot 23 = 920.$$</p>
     </explanation>
+        </question>
     <question text="">
     <p>Яке НСК чисел $$2$$, $$3$$ і $$4$$?</p>
         <answer>$$4$$</answer>
         <answer>$$8$$</answer>
         <answer correct>$$12$$</answer>
         <answer>$$24$$</answer>
-    </question>
     <explanation>
     <p>Запишемо розклад даних чисел на простi множники:</p>
     <p>$$4=2\cdot2$$</p>
     <p>Виписуємо найбiльшi степенi всiх множникiв та перемножимо:</p>
     <p>НСД $$(115,920) =2 \cdot 2 \cdot 3 = 12.$$</p>
     </explanation>
+        </question>
 </quiz>
 
 **Запис чисел за допомогою лiтер**. Будь-яке двозначне число можна записати у виглядi $$10a+b$$, де $$a$$ – цифра десяткiв $$(a\neq0)$$, а $$b$$ – цифра одиниць. Двозначне число, що складається з $$a$$ десяткiв та $$b$$ одиниць, записують $$(\overline{ab})$$ $$($$риска зверху говорить, що це не добуток двох змiнних $$a$$ i $$b)$$. Аналогiчно тризначне число $$(\overline{abc}) = 100a + 10b + c, a \neq 0.$$
