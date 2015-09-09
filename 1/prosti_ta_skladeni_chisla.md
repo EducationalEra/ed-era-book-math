@@ -163,6 +163,7 @@ $$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
     <p>Виписуємо найбiльшi степенi всiх множникiв та перемножимо:</p>
     <p>НСД $$(115,920) =2^3 \cdot 5 \cdot 23 = 920.$$</p>
     </explanation>
+    <question text="">
     <p>Яке НСК чисел $$2$$, $$3$$ і $$4$$?</p>
         <answer>$$4$$</answer>
         <answer>$$8$$</answer>
