@@ -19,18 +19,20 @@
 <div class="space"></div>
 <p><b>Основні властивості степенів:</b></p>
 
-1. <p>$$a^0 = 1,\thinspace a\neq0$$</p><br>
-2. <p>$$a^1 = a$$</p><br>
-3. <p>$$a^m\cdot a^n=a^{(m+n)}$$</p><br>
-   <p><i>Наприклад:</i>$$3^2\cdot 3^3 = 3^5 = 243$$</p><br>
-4. <p>$$\dfrac{a^m}{a^n} =a^{(m-n)}$$</p><br>
-   <p><i>Наприклад:</i> $$\dfrac{2^9}{2^4} = 2^5 = 32$$</p><br>
-5. <p>$$(a^m)^n=a^{(m\cdot n)}$$</p><br>
-   <p><i>Наприклад:</i> $$(5^3)^2 = 5^6 = 15625$$</p><br>
-6. <p>$$(a\cdot b)^n=a^n\cdot b^n$$</p><br>
-   <p><i>Наприклад:</i> $$22^3 = (11\cdot 2)^3 = 11^3\cdot 2^3 = 10648$$</p><br>
-7. <p>$$\left(\dfrac{a}{b}\right)^n = \dfrac{a^n}{b^n}$$</p><br>
-   <p><i>Наприклад:</i> $$\left(\dfrac{3}{2}\right)^2 = \dfrac{3^2}{2^2} = \dfrac{9}{4}$$</p><br>
+<ul>
+<li><p>$$a^0 = 1,\thinspace a\neq0$$</p></li>
+<li><p>$$a^1 = a$$</p></li>
+<li><p>$$a^m\cdot a^n=a^{(m+n)}$$</p></li>
+<p><i>Наприклад:</i>$$3^2\cdot 3^3 = 3^5 = 243$$</p>
+<li><p>$$\dfrac{a^m}{a^n} =a^{(m-n)}$$</p></li>
+<p><i>Наприклад:</i> $$\dfrac{2^9}{2^4} = 2^5 = 32$$</p>
+<li><p>$$(a^m)^n=a^{(m\cdot n)}$$</p></li>
+<p><i>Наприклад:</i> $$(5^3)^2 = 5^6 = 15625$$</p>
+<li><p>$$(a\cdot b)^n=a^n\cdot b^n$$</p></li>
+<p><i>Наприклад:</i> $$22^3 = (11\cdot 2)^3 = 11^3\cdot 2^3 = 10648$$</p>
+<li><p>$$\left(\dfrac{a}{b}\right)^n = \dfrac{a^n}{b^n}$$</p></li>
+<p><i>Наприклад:</i> $$\left(\dfrac{3}{2}\right)^2 = \dfrac{3^2}{2^2} = \dfrac{9}{4}$$</p>
+</ul>
 
 <p>Також справедливі такі вирази: $$0^n = 0; 1^n = 1.$$</p>
 
