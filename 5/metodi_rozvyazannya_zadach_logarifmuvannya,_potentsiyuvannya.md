@@ -48,7 +48,7 @@ b(x)>0.
 <p align="center">$$\log_{2}x=\ln{\sqrt{24}}-\ln{a^{\frac{3}{2}}}+\ln{b^3} \Rightarrow \log_{2}x=\ln{b^3}\sqrt{\dfrac{27}{a^3}}.$$</p>
 <p>Переходимо до однієї основи:</p>
 <p align="center">$$\log_{2}x=\ln {b^3}\sqrt{\dfrac{27}{a^3}} \Leftrightarrow \log_{2}x=\dfrac{\log_{2}{b^3}\sqrt{\dfrac{27}{a^3}}}{\log_{2}e} \Leftrightarrow x=\dfrac{b^3}{\log_{2}e}\sqrt{\dfrac{27}{a^3}}.$$</p>
-<p><b>Вiдповiдь.</b>$$x=\dfrac{b^3}{\log_{2}e}\sqrt{\dfrac{27}{a^3}}.$$</p>
+<p><b>Вiдповiдь.</b> $$x=\dfrac{b^3}{\log_{2}e}\sqrt{\dfrac{27}{a^3}}.$$</p>
 </div>
 </div>
 </div>
