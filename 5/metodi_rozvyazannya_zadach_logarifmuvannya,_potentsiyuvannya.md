@@ -17,7 +17,7 @@
 <p><b><i>Розв’язок.</i></b></p>
 <p>Логарифмуємо обидві частини рівності, та користуємось основними тотожностями:</p>
 <p align="center">$$\log_{a}x=\log_{a}25a\dfrac{b^2}{c}=\log_{a}25 + \log_{a}a + \log_{a}{b^2} - \log_{a}c=2\log_{a}5+2\log_{a}b-\log_{a}c + 1.$$</p>
-<p><b>Вiдповiдь.</b>$$\log_{a}x=2\log_{a}5+2\log_{a}b-\log_{a}c + 1.$$</p>
+<p><b>Вiдповiдь.</b> $$\log_{a}x=2\log_{a}5+2\log_{a}b-\log_{a}c + 1.$$</p>
 </div>
 </div>
 </div>
