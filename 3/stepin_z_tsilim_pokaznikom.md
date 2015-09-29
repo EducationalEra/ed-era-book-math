@@ -50,6 +50,9 @@
         <answer>$$49$$</answer>
         <answer>$$81$$</answer>
         <answer>$$7$$</answer>
+        <explanation>
+        Значення даного виразу знаходимо наступним чином: $$7^3=7\cdot7\cdot7=49\cdot7=343$$
+        </explanation>
     </question>
     <question text="">
         <p>Знайдіть значення виразу: $$4^{-2}$$</p>
@@ -58,6 +61,9 @@
         <answer correct>$$\dfrac{1}{16}$$</answer>
         <answer>$$-\dfrac{1}{16}$$</answer>
         <answer>$$64$$</answer>
+        <explanation>
+        Значення даного виразу знаходимо наступним чином: $$4^{-2}=\dfrac{1}{4^2}=\dfrac{1}{4\cdot4}=\dfrac{1}{16}$$
+        </explanation>
     </question>
     <question text="">
         <p>Знайдіть значення виразу: $$(2^3)^2$$</p>
@@ -66,5 +72,8 @@
         <answer correct>$$64$$</answer>
         <answer>$$80$$</answer>
         <answer>$$16$$</answer>
+        <explanation>
+        Значення даного виразу знаходимо наступним чином: $$(2^3)^2=(2\cdot2\cdot2)^2=(4\cdot2)^2=8^2=8\cdot8=64$$
+        </explanation>
     </question>
 </quiz>
