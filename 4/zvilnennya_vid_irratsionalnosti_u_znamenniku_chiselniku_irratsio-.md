@@ -31,17 +31,17 @@
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
-        <p></p>
-        <answer>$$$$</answer>
-        <answer correct>$$$$</answer>
-        <answer>$$$$</answer>
-        <answer>$$$$</answer>
+        <p>Звільніться від ірраціональності у знаменнику дробу: $$\dfrac{1}{\sqrt(7)-2}$$</p>
+        <answer>$$\dfrac{-\sqrt(7)-2}{4}$$</answer>
+        <answer correct>$$\dfrac{\sqrt(7)+2}{3}$$</answer>
+        <answer>$$\dfrac{\sqrt(7)+2}{2}$$</answer>
+        <answer>$$1$$</answer>
         <explanation>
-        
+        Домножимо знаменник дробу на доповнюючий множник: $$\dfrac{\sqrt(7)+2}{(\sqrt(7)-2)(\sqrt(7)+2)}=\dfrac{\sqrt(7)+2}{3}$$
         </explanation>
     </question>
     <question text="">
-        <p></p>
+        <p>Звільніться від ірраціональності у знаменнику дробу: $$\dfrac{1}{\sqrt[5]{(x^3+1)^2}}$$</p>
         <answer correct>$$$$</answer>
         <answer>$$$$</answer>
         <answer>$$$$</answer>
