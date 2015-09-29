@@ -60,11 +60,11 @@
         <answer correct>$$x^2y+xy^2$$</answer>
     </question>
     <question text="">
-        <p>Приведіть до стандартного вигляду вираз: $$(4x^{2}y^{3}z)\cdot(5x^{7}y^{15})$$</p>
-        <answer>$$4x^{9}y^{18}$$</answer>
-        <answer correct>$$20x^{9}y^{18}z$$</answer>
-        <answer>$$20x^{9}z$$</answer>
-        <answer>$$5y^{18}z$$</answer>
-        <answer>$$x^{18}y^{9}z$$</answer>
+        <p>Зведіть подібні доданки: $$4a^2b^2c + 4a^3 - 2a^2b^2c - 4a^3 + 8abc^3 + 5a^2b^2c - 16abc^3$$</p>
+        <answer>$$2a^2b^2c-16abc^3$$</answer>
+        <answer correct>$$7a^2b^2c-8abc^3$$</answer>
+        <answer>$$7a^2b^2c$$</answer>
+        <answer>$$4a^3$$</answer>
+        <answer>$$3a^2b^2c+5abc^3$$</answer>
     </question>
 </quiz>
