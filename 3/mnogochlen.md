@@ -24,6 +24,12 @@
 <div class="space">
 </div>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/DRYIydf75mo" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <div class="space">
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
