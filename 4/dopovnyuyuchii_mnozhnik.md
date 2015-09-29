@@ -8,17 +8,23 @@
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
-        <p>Спростіть вираз: $$\sqrt[3]{81}$$</p>
-        <answer>$$-3$$</answer>
-        <answer correct>$$3$$</answer>
-        <answer>$$9$$</answer>
-        <answer>$$-9$$</answer>
+        <p>Вкажіть доповнюючий множник для виразу: $$\sqrt{2} - 3$$</p>
+        <answer>$$3-\sqrt{2}$$</answer>
+        <answer correct>$$3 + \sqrt{2}$$</answer>
+        <answer>$$\sqrt{3} + 2$$</answer>
+        <answer>$$\sqrt{3} + 2$$</answer>
+        <explanation>
+        Вираз $$3 + \sqrt{2}$$ є доповнюючим множником, бо добуток $$(\sqrt{2} - 3)(\sqrt{2} + 3) = 2 -3\sqrt{2} + 3\sqrt{2} - 9 = -7$$ є раціональним виразом.
+        </explanation>
     </question>
     <question text="">
-        <p>Спростіть вираз: $$\sqrt[4]{-4}$$</p>
-        <answer correct>такий корінь невизначений</answer>
-        <answer>$$1$$</answer>
-        <answer>$$2$$</answer>
-        <answer>$$4$$</answer>
+        <p>Вкажіть доповнюючий множник для виразу $$\sqrt[5]{x+3}$$</p>
+        <answer correct>$$\sqrt[5]{(x+3)^4}$$</answer>
+        <answer>$$\sqrt[5]{(x+3)^11}$$</answer>
+        <answer>$$\sqrt[5]{(x+3)^5}$$</answer>
+        <answer>$$\sqrt[5]{(x^2+3)^2}$$</answer>
+        <explanation>
+        Вираз $$\sqrt[5]{(x+3)^4}$$ є доповнюючим множником, бо добуток $$\sqrt[5]{x+3}\cdot \sqrt[5]{(x+3)^4}= x+3$$ є раціональним виразом.
+        </explanation>
     </question>
 </quiz>
