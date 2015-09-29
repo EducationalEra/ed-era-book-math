@@ -41,13 +41,13 @@
         </explanation>
     </question>
     <question text="">
-        <p>Звільніться від ірраціональності у знаменнику дробу: $$\dfrac{1}{\sqrt[5]{(x^3+1)^2}}$$</p>
-        <answer correct>$$$$</answer>
-        <answer>$$$$</answer>
-        <answer>$$$$</answer>
-        <answer>$$$$</answer>
+        <p>Звільніться від ірраціональності у знаменнику дробу: $$\dfrac{14}{\sqrt[5]{(x^3+1)^2}}$$</p>
+        <answer correct>$$\dfrac{14\sqrt[5]{(x^3+1)^3}}{x^3+1}$$</answer>
+        <answer>$$\dfrac{14\sqrt[5]{(x^3+1)^2}}{x^3+1}$$</answer>
+        <answer>$$\dfrac{14\sqrt[3]{(x^3+1)^3}}{x^3+1}$$</answer>
+        <answer>$$\dfrac{14\sqrt[5]{(x^3+1)^4}}{x^3+1}$$</answer>
         <explanation>
-        
+         Домножимо знаменник дробу на доповнюючий множник: $$\dfrac{14}{\sqrt[5]{(x^3+1)^2}} = \dfrac{14\sqrt[5]{(x^3+1)^3}}{\sqrt[5]{(x^3+1)^2}\sqrt[5]{(x^3+1)^3}} = \dfrac{14\sqrt[5]{(x^3+1)^3}}{x^3+1}$$
         </explanation>
     </question>
 </quiz>
