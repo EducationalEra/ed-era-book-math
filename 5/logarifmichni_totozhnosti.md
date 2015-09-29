@@ -25,7 +25,7 @@
 <div class="space"></div>
 <p><i>Наприклад:</i>$$\log_{9}23=\log_{3^2}23=\dfrac{1}{2}\log_{3}23.$$</p>
 <div class="space"></div>
-<li><p>$$\log_{a^q}{x^p}=\dfrac{p}{q}\log_{a}x, q\neq0$$ - випливає з формул ($$7$$) та ($$8$$).</p></li>
+<li><p>$$\log_{a^q}{x^p}=\dfrac{p}{q}\log_{a}x, q\neq0$$ — випливає з формул ($$7$$) та ($$8$$).</p></li>
 <div class="space"></div>
 <p><i>Наприклад:</i>$$\log_{16}125=\log_{2^4}{5^3}=\dfrac{3}{4}\log_{2}5.$$</p>
 <div class="space"></div>
@@ -33,6 +33,6 @@
 <div class="space"></div>
 <p><i>Наприклад:</i>$$\log_{2}27=\dfrac{\log_{3}27}{\log_{3}2}=\dfrac{\log_{3}{3^3}}{\log_{3}2}=\dfrac{3}{\log_{3}2}.$$</p>
 <div class="space"></div>
-<li><p>$$\log_{a}b=\dfrac{1}{\log_{b}a}$$ - випливає з формули ($$10$$).</p></li>
-<li><p>$$a^{\log_{c}b}=b^{\log_{c}a}$$ - випливає з формули ($$7$$).</p></li>
+<li><p>$$\log_{a}b=\dfrac{1}{\log_{b}a}$$ — випливає з формули ($$10$$).</p></li>
+<li><p>$$a^{\log_{c}b}=b^{\log_{c}a}$$ — випливає з формули ($$7$$).</p></li>
 </ol>
