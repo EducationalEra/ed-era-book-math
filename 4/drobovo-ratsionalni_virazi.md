@@ -110,7 +110,7 @@
         <answer>$$x=\pm5$$</answer>
         <answer>$$x=\pm3$$</answer>
         <explanation>
-        
+        Знайдемо ОДЗ: $$x\neq\pm5$$. Рівність дробу нулю справджується при $$x=-3; 5$$. Отже, єдиною відповіддю є $$x=-3$$.
         </explanation>
     </question>
 </quiz>
