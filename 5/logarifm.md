@@ -19,6 +19,12 @@
 
 <p align="center">$$a^{\log_{a}b}=b \Leftrightarrow \log_{a}{a^b}=b.$$</p>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/DRNF38JX5vg" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <p>Логарифм за основою $$10$$ має спеціальне позначення $$\log_{10}b=\lg{b}$$ і називається <b>десятковим логарифмом</b>.</p>
 
 <p>Для десяткових логарифмів справедливі рівності: $$10^{\lg{x}}=x; \lg{10^x}=x.$$</p>
