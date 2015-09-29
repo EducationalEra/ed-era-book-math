@@ -87,3 +87,30 @@
 </div>
 </div>
 </div>
+
+<div class="space"></div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Знайдіть ОДЗ виразу: $$\dfrac{(x+\dfrac{2}{x-2})(x-4)}{x^2-4}$$</p>
+        <answer>$$x \neq -2$$</answer>
+        <answer>$$x \neq 2$$</answer>
+        <answer correct>$$x \neq \pm 2$$</answer>
+        <answer>$$x \neq 4$$</answer>
+        <answer>$$x \neq \pm 4$$</answer>
+        <explanation>
+         Із першого множника чисельника $$\dfrac{2}{x-2}$$ знаходимо, що $$x\neq2$$.  Із загального знаменника бачимо, що $$x^2-4\neq0$$. Розкладаємо на множники: $$(x+2)(x-2)\neq0$$. Отже, $$x\neq\pm2$$.
+        </explanation>
+    </question>
+    <question text="">
+        <p>При якому значенні $$x$$ справджується рівність: $$\dfrac{(x+3)(x-5)}{x^2-25}$$</p>
+        <answer correct>$$x=-3$$</answer>
+        <answer>$$x=-3,5$$</answer>
+        <answer>$$x=5$$</answer>
+        <answer>$$x=\pm5$$</answer>
+        <answer>$$x=\pm3$$</answer>
+        <explanation>
+        
+        </explanation>
+    </question>
+</quiz>
