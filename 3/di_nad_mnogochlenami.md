@@ -30,3 +30,27 @@
 </div>
 
 <div class="space"><p align="center"><img align="middle" class="image" src="../pics/m1_3_1.png"/></p></div>
+
+<div class="space"></div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Знайдіть суму двох многочленів: $$(-3a^2b + 4ab + a) - (-3a^2b + 18ab + a - 5b)$$</p>
+        <answer>$$2a + b$$</answer>
+        <answer>$$-14ab + 2a + 5b$$</answer>
+        <answer correct>$$-14ab + 5b$$</answer>
+        <answer>$$2a + 5b + 6a^b$$</answer>
+        <answer>$$6a^2b + 5b$$</answer>
+        <explanation>
+        $$(-3a^2b + 4ab + a) - (-3a^2b +18ab + a - 5b) = -3a^2b + 4ab + a + 3a^2b - 18ab - a + 5b = -14ab + 5b$$
+        </explanation>
+    </question>
+    <question text="">
+        <p>Знайдіть добуток двох многочленів: $$$$</p>
+        <answer>$$$$</answer>
+        <answer correct>$$$$</answer>
+        <answer>$$$$</answer>
+        <answer>$$$$</answer>
+        <answer>$$$$</answer>
+    </question>
+</quiz>
