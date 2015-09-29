@@ -41,5 +41,24 @@ a\neq1;\\
 b>0.
 \end{cases}$$</p>
 
+<div class="space"></div>
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Чому дорівнює $$\log_1{10}$$?</p>
+        <answer>$$10^1$$</answer>
+        <answer>$$1^{10}$$</answer>
+        <answer correct>такий вираз невизначений</answer>
+        <answer>$$\sqrt{10}$$</answer>
+        <answer>$$1$$</answer>
+    </question>
+    <question text="">
+        <p>Чому дорівнює $$\log_3{9}$$?</p>
+        <answer>$$-2$$</answer>
+        <answer>$$3$$</answer>
+        <answer correct>$$2$$</answer>
+        <answer>$$-3$$</answer>
+        <answer>такий вираз невизначений</answer>
+    </question>
+</quiz>
 
