@@ -27,5 +27,32 @@
 <div class="space"></div>
 <p><i>Наприклад:</i>$$48ab^7 c^3$$ – одночлен одинадцятого степеня.</p>
 
+<div class="space"></div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Приведіть до стандартного вигляду вираз: $$7 \cdot a^3\cdot 4 \cdot b^7 \cdot a^2 \cdot c \cdot a^{-7} \cdot b^{-1} \cdot 2 \cdot c^{-10}$$</p>
+        <answer>$$28a^{-1}b^{7}c^{-10}$$</answer>
+        <answer correct>$$56a^{-2}b^{6}c^{-9}$$</answer>
+        <answer>$$14a^{3}b^{4}c^{9}$$</answer>
+        <answer>$$56a^{-1}b^{6}c^{-9}$$</answer>
+        <answer>$$a^{2}b^{-6}c^{9}$$</answer>
+        <explanation>
+        Значення даного виразу знаходимо наступним чином: $$7^3=7\cdot7\cdot7=49\cdot7=343$$
+        </explanation>
+    </question>
+    <question text="">
+        <p>Знайдіть значення виразу: $$4^{-2}$$</p>
+        <answer>$$16$$</answer>
+        <answer>$$-16$$</answer>
+        <answer correct>$$\dfrac{1}{16}$$</answer>
+        <answer>$$-\dfrac{1}{16}$$</answer>
+        <answer>$$64$$</answer>
+        <explanation>
+        Значення даного виразу знаходимо наступним чином: $$4^{-2}=\dfrac{1}{4^2}=\dfrac{1}{4\cdot4}=\dfrac{1}{16}$$
+        </explanation>
+    </question>
+</quiz>
+
 
 
