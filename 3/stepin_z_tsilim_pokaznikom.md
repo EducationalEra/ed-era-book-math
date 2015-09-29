@@ -36,6 +36,10 @@
 
 <p>Також справедливі такі вирази: $$0^n = 0; 1^n = 1.$$</p>
 
-
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/sui7taGUDFI" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
 
 
