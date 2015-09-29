@@ -69,3 +69,22 @@
 </div>
 
 <p><b>ОДЗ для підкореневого виразу</b> $$\sqrt{a}$$: $$a\geq0$$</p>
+
+<div class="space"></div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Спростіть вираз: $$\sqrt{72}$$</p>
+        <answer>$$3\sqrt{4}3$$</answer>
+        <answer correct>$$6\sqrt{2}$$</answer>
+        <answer>$$2\sqrt{16}$$</answer>
+        <answer>$$4\sqrt{3}$$</answer>
+    </question>
+    <question text="">
+        <p>Спростіть вираз: $$\sqrt{a^5}$$</p>
+        <answer correct>$$a^2\sqrt{a}$$</answer>
+        <answer>$$a^2$$</answer>
+        <answer>$$a^3\sqrt{a}$$</answer>
+        <answer>$$\sqrt{a}$$</answer>
+    </question>
+</quiz>
