@@ -63,12 +63,15 @@ b(x)>0.
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
-        <p></p>
-        <answer>$$$$</answer>
-        <answer>$$$$</answer>
-        <answer correct>$$$$</answer>
-        <answer>$$$$</answer>
-        <answer>$$$$</answer>
+        <p>Знайти логарифм виразу $$3a^2\dfrac{c^3}{b^4}$$ за основою $$b$$</p>
+        <answer>$$log_{b}3+log_{b}a+log_{b}c-4$$</answer>
+        <answer>$$-4$$</answer>
+        <answer correct>$$log_{b}3+2log_{b}a+3log_{b}c-4$$</answer>
+        <answer>$$log_{b}c-4$$</answer>
+        <answer>$$2log_{b}a+3log_{b}c$$</answer>
+        <explanation>
+         $$3a^2\dfrac{c^3}{b^4} = log_{b}3 + log_{b}a^2 + log_{b}c^3 - log_{b}b^4 = log_{b}3 + 2log_{b}a + 3log_{b}c -4log_{b}b = log_{b}3+2log_{b}a+3log_{b}c-4$$
+        </explanation>
     </question>
     <question text="">
         <p></p>
