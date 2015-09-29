@@ -22,6 +22,9 @@
 <div class="popup">
 </div>
 
+<div class="space">
+</div>
+
 <div class="space"><p align="center"><img align="middle" class="image" src="../pics/m1_3_2.png"/></p></div>
 
 <p><i>Наприклад:</i> $(a+b)^7=a^7+7a^6 b+21a^5 b^2+35a^4 b^3+35a^3 b^4+21a^2 b^4+7ab^6+b^7.$</p>
