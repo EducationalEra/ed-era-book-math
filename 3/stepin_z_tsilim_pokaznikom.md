@@ -42,6 +42,8 @@
 <div class="popup">
 </div>
 
+<div class="space"></div>
+
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Знайдіть значення виразу: $$7^3$$</p>
