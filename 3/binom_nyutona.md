@@ -27,4 +27,15 @@
 
 <div class="space"><p align="center"><img align="middle" class="image" src="../pics/m1_3_2.png"/></p></div>
 
-<p><i>Наприклад:</i> $(a+b)^7=a^7+7a^6 b+21a^5 b^2+35a^4 b^3+35a^3 b^4+21a^2 b^4+7ab^6+b^7.$</p>
+<p><i>Наприклад:</i> $$(a+b)^7=a^7+7a^6 b+21a^5 b^2+35a^4 b^3+35a^3 b^4+21a^2 b^4+7ab^6+b^7.$$</p>
+
+<div class="space"></div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Винесіть спільний множник за дужки: $$2\cdot a^2\cdot b + 6\cdot a\cdot b^2 + 4\cdot a\cdot b\cdot x$$</p>
+        <answer>$$6ab(\dfrac{a}{3}+b+x)$$</answer>
+        <answer>$$a^2 \cdot b(2+3a \cdot b + 4x)$$</answer>
+        <answer correct>$$2ab(a+3b+2x)$$</answer>
+    </question>
+</quiz>
