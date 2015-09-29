@@ -73,3 +73,22 @@
 <div class="space"><p align="center"><img align="middle" class="image" src="../pics/m211.png"/></p></div>
 
 <p>Також справедливі вирази: $$\sqrt[nk]{a^{mk}}=\sqrt[n]{a^m}, a \geq0; \sqrt[n]{0}=0; \sqrt[n]{1}=1.$$</p>
+
+<div class="space"></div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Спростіть вираз: $$\sqrt[3]{81}$$</p>
+        <answer>$$-3$$</answer>
+        <answer correct>$$3$$</answer>
+        <answer>$$9$$</answer>
+        <answer>$$-9$$</answer>
+    </question>
+    <question text="">
+        <p>Спростіть вираз: $$\sqrt[4]{-4}$$</p>
+        <answer correct>такий корінь невизначений</answer>
+        <answer>$$1$$</answer>
+        <answer>$$2$$</answer>
+        <answer>$$4$$</answer>
+    </question>
+</quiz>
