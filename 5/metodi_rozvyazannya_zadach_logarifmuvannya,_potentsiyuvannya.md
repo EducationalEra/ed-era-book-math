@@ -31,6 +31,12 @@
 </div>
 </div>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/S2PqSiV5gW0" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <p>Якщо по обидві сторони рівності стоять логарифми без коефіцієнтів з однаковими основами, то при потенціюванні значки логарифмів прибираються:</p> <p align="center">$$\log_{a}{b(x)}=\log_{a}{c(x)} \Leftrightarrow \begin{cases}
 b(x)=c(x);\\
 b(x)>0.
