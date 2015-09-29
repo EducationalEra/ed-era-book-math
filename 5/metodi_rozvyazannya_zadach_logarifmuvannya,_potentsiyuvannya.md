@@ -59,3 +59,23 @@ b(x)>0.
 </div>
 </div>
 
+<div class="space"></div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p></p>
+        <answer>$$$$</answer>
+        <answer>$$$$</answer>
+        <answer correct>$$$$</answer>
+        <answer>$$$$</answer>
+        <answer>$$$$</answer>
+    </question>
+    <question text="">
+        <p></p>
+        <answer>$$$$</answer>
+        <answer>$$$$</answer>
+        <answer correct>$$$$</answer>
+        <answer>$$$$</answer>
+        <answer>$$$$</answer>
+    </question>
+</quiz>
