@@ -42,4 +42,29 @@
 <div class="popup">
 </div>
 
-
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Знайдіть значення виразу: $$7^3$$</p>
+        <answer>$$249$$</answer>
+        <answer correct>$$343$$</answer>
+        <answer>$$49$$</answer>
+        <answer>$$81$$</answer>
+        <answer>$$7$$</answer>
+    </question>
+    <question text="">
+        <p>Знайдіть значення виразу: $$4^{-2}$$</p>
+        <answer>$$16$$</answer>
+        <answer>$$-16$$</answer>
+        <answer correct>$$\dfrac{1}{16}$$</answer>
+        <answer>$$-\dfrac{1}{16}$$</answer>
+        <answer>$$64$$</answer>
+    </question>
+    <question text="">
+        <p>Знайдіть значення виразу: $$(2^3)^2$$</p>
+        <answer>$$16$$</answer>
+        <answer>$$8$$</answer>
+        <answer correct>$$64$$</answer>
+        <answer>$$80$$</answer>
+        <answer>$$16$$</answer>
+    </question>
+</quiz>
