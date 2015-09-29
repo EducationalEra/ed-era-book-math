@@ -6,6 +6,13 @@
 <div class="space"></div>
 <p align="center">$$\dfrac{\overbrace{M(x)}^\text{ірраціональний вираз}}{\underbrace{N(x)}_\text{ірраціональний вираз}}=\dfrac{\overbrace{M(x)\cdot\bar N(x)}^\text{ірраціональний вираз}}{\underbrace{N(x)\cdot\bar N(x)}_\text{раціональний вираз}}=\dfrac{\overbrace{M(x)\cdot\bar M(x)}^\text{раціональний вираз}}{\underbrace{N(x)\cdot\bar M(x)}_\text{ірраціональний вираз}}.$$</p>
 <div class="space"></div>
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/xRrjEfFLwGo" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
