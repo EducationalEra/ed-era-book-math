@@ -33,9 +33,14 @@
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
-        <p>Винесіть спільний множник за дужки: $$2\cdot a^2\cdot b + 6\cdot a\cdot b^2 + 4\cdot a\cdot b\cdot x$$</p>
-        <answer>$$6ab(\dfrac{a}{3}+b+x)$$</answer>
-        <answer>$$a^2 \cdot b(2+3a \cdot b + 4x)$$</answer>
-        <answer correct>$$2ab(a+3b+2x)$$</answer>
+        <p>Обчислити: $$(4-3)^3$$</p>
+        <answer>$$3$$</answer>
+        <answer>$$2$$</answer>
+        <answer correct>$$1$$</answer>
+        <answer>$$4$$</answer>
+        <answer>$$5$$</answer>
+        <explanation>
+        $$(4-3)^3=4^3 + 3\cdot4^2\cdot(-3) + 3\cdot4\cdot(-3)^2 + (-3)^3 =4\cdot4\cdot4 + 3\cdot4\cdot4\cdot(-3) + 3\cdot4\cdot(-3)\cdot(-3) + (-3)\cdot(-3)\cdot(-3)=64-144+108-27=1$$
+        </explanation>
     </question>
 </quiz>
