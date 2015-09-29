@@ -27,11 +27,12 @@
         1. [Доповнюючий множник](4/dopovnyuyuchii_mnozhnik.md)
         * [Звiльнення вiд iррацiональностi у знаменнику (чисельнику) iррацiонального дробу](4/zvilnennya_vid_irratsionalnosti_u_znamenniku_chiselniku_irratsio-.md)
         * [Доповнюючi множники для основних типiв iррацiональностей у знаменнику (чисельнику)](4/dopovnyuyuchi_mnozhniki_dlya_osnovnih_tipiv_irratsionalnostei_u_zna.md)
-* [Показниковi та логарифмiчнi тотожностi]
-    1. [Показниковi тотожностi]
-    2. [Логарифм]
-    3. [Логарифмiчнi тотожностi]
-    4. [Логарифмування та потенцiювання]
+    5. [Додаток](4/dodatok.md)
+* [Показниковi та логарифмiчнi тотожностi](5/pokaznikovi_totozhnosti.md)
+    1. [Показниковi тотожностi](5/pokaznikovi_totozhnosti.md)
+    2. [Логарифм](5/logarifm.md)
+    3. [Логарифмiчнi тотожностi](5/logarifmichni_totozhnosti.md)
+    4. [Логарифмування та потенцiювання](5/metodi_rozvyazannya_zadach_logarifmuvannya,_potentsiyuvannya.md)
 * Лiнiйнi та квадратнi рiвняння
     1. Рівняння та його корені
         1. Загальні відомості
