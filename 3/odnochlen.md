@@ -13,6 +13,12 @@
 <div class="space"></div>
 <p><b>Стандартний вигляд одночлена:</b> єдиний числовий множник (коефіцієнт) записаний на початку та після цього степені різних змінних.</p>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/Kyp1Gl2EuX4" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <p>В результатi <b>множення одночленiв</b> виходить теж одночлен, що записують у стандартному виглядi, та використовують для цього властивостi множення та правила множення степенiв з однаковими основами.</p>
 <div class="space"></div>
 <p><i>Наприклад:</i>$$(4abc)\cdot(12b^6 c^2 )=48ab^7 c^3.$$</p>
