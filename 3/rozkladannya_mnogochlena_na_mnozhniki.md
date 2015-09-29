@@ -65,3 +65,14 @@
 <p><b>Вiдповiдь.</b>$$3(x+1)(x-5).$$</p>
 </div>
 </div>
+
+<div class="space"></div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Винесіть спільний множник за дужки: $$2\cdot a^2\cdot b + 6\cdot a\cdot b^2 + 4\cdot a\cdot b\cdot x$$</p>
+        <answer>$$6ab(\dfrac{a}{3}+b+x)$$</answer>
+        <answer>$$a^2 \cdot b(2+3a \cdot b + 4x)$$</answer>
+        <answer correct>$$2ab(a+3b+2x)$$</answer>
+    </question>
+</quiz>
