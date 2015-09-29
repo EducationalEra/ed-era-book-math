@@ -39,9 +39,6 @@
         <answer>$$14a^{3}b^{4}c^{9}$$</answer>
         <answer>$$56a^{-1}b^{6}c^{-9}$$</answer>
         <answer>$$a^{2}b^{-6}c^{9}$$</answer>
-        <explanation>
-        Значення даного виразу знаходимо наступним чином: $$7^3=7\cdot7\cdot7=49\cdot7=343$$
-        </explanation>
     </question>
     <question text="">
         <p>Приведіть до стандартного вигляду вираз: $$(4x^{2}y^{3}z)\cdot(5x^{7}y^{15})$$</p>
