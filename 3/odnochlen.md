@@ -44,15 +44,12 @@
         </explanation>
     </question>
     <question text="">
-        <p>Знайдіть значення виразу: $$4^{-2}$$</p>
-        <answer>$$16$$</answer>
-        <answer>$$-16$$</answer>
-        <answer correct>$$\dfrac{1}{16}$$</answer>
-        <answer>$$-\dfrac{1}{16}$$</answer>
-        <answer>$$64$$</answer>
-        <explanation>
-        Значення даного виразу знаходимо наступним чином: $$4^{-2}=\dfrac{1}{4^2}=\dfrac{1}{4\cdot4}=\dfrac{1}{16}$$
-        </explanation>
+        <p>Приведіть до стандартного вигляду вираз: $$(4x^{2}y^{3}z)\cdot(5x^{7}y^{15})$$</p>
+        <answer>$$4x^{9}y^{18}$$</answer>
+        <answer correct>$$20x^{9}y^{18}z$$</answer>
+        <answer>$$20x^{9}z$$</answer>
+        <answer>$$5y^{18}z$$</answer>
+        <answer>$$x^{18}y^{9}z$$</answer>
     </question>
 </quiz>
 
