@@ -1,38 +1,38 @@
 # Summary
 
-* [Зміст](README.md)
-* [Вступне слово](vstup.md)
+1. [Вступне слово](vstup.md)
 * [Арифметика](1/chislovi_mnozhini.md)
-   * [Числовi множини](1/chislovi_mnozhini.md)
-   * [Простi та складенi числа](1/prosti_ta_skladeni_chisla.md)
-   * [Ознаки подiльностi натуральних чисел](1/oznaki_podilnosti_naturalnih_chisel.md)
-   * [Дроби та дiї над ними](1/drobi_ta_di_nad_nimi.md)
-   * [Модуль числа](1/modul_chisla.md)
+    1. [Числові множини](1/chislovi_mnozhini.md)
+    2. [Прості та складені числа](1/prosti_ta_skladeni_chisla.md)
+    3. [Ознаки подiльностi натуральних чисел](1/oznaki_podilnosti_naturalnih_chisel.md)
+    4. [Дроби та дiї над ними](1/drobi_ta_di_nad_nimi.md)
+    5. [Модуль числа](1/modul_chisla.md)
 * [Пропорції та відсотки](2/proports.md)
-   * [Пропорції](2/proports.md)
+   1. [Пропорції](2/proports.md)
    * [Відсотки](2/vdsotki.md)
    * [Розв’язання задач на спiльну виконану роботу (задачi на продуктивнiсть)](2/rozvyazannya_zadach_na_spilnu_vikonanu_robotu_zadachi_na_produktivnist.md)
-* Одночлени та многочлени
-   1. Степiнь з цiлим показником
-   * Одночлен
-   * Многочлен
-   * Дiї над многочленами
-   * Формули скороченого множення
-   * Розкладання многочлена на множники
-   * Бiном Ньютона
-* Корiнь та його властивостi
-    1. Дробово-рацiональнi вирази
-    2. Квадратний корiнь та його основнi властивостi
-    3. Корінь n-го степеня та його основні властивості
-    4. Ірраціональні вирази
-        1. Доповнюючий множник
-        * Звiльнення вiд iррацiональностi у знаменнику (чисельнику) iррацiонального дробу
-        * Доповнюючi множники для основних типiв iррацiональностей у знаменнику (чисельнику)
-* Показниковi та логарифмiчнi тотожностi
-    1. Показниковi тотожностi
-    2. Логарифм
-    3. Логарифмiчнi тотожностi
-    4. Логарифмування та потенцiювання
+* [Одночлени та многочлени](3/stepin_z_tsilim_pokaznikom.md)
+   1. [Степiнь з цiлим показником](3/stepin_z_tsilim_pokaznikom.md)
+   * [Одночлен](3/odnochlen.md)
+   * [Многочлен](3/mnogochlen.md)
+   * [Дiї над многочленами](3/di_nad_mnogochlenami.md)
+   * [Формули скороченого множення](3/formuli_skorochenogo_mnozhennya.md)
+   * [Розкладання многочлена на множники](3/rozkladannya_mnogochlena_na_mnozhniki.md)
+   * [Бiном Ньютона](3/binom_nyutona.md)
+* [Корiнь та його властивостi](4/drobovo-ratsionalni_virazi.md)
+    1. [Дробово-рацiональнi вирази](4/drobovo-ratsionalni_virazi.md)
+    2. [Квадратний корiнь та його основнi властивостi](4/kvadratnii_korin_ta_iogo_osnovni_vlastivosti.md)
+    3. [Корінь n-го степеня та його основні властивості](4/korn_n-go_stepenya_ta_iogo_osnovn_vlastivost.md)
+    4. [Ірраціональні вирази](4/rratsonaln_virazi.md)
+        1. [Доповнюючий множник](4/dopovnyuyuchii_mnozhnik.md)
+        * [Звiльнення вiд iррацiональностi у знаменнику (чисельнику) iррацiонального дробу](4/zvilnennya_vid_irratsionalnosti_u_znamenniku_chiselniku_irratsio-.md)
+        * [Доповнюючi множники для основних типiв iррацiональностей у знаменнику (чисельнику)](4/dopovnyuyuchi_mnozhniki_dlya_osnovnih_tipiv_irratsionalnostei_u_zna.md)
+    5. [Додаток](4/dodatok.md)
+* [Показниковi та логарифмiчнi тотожностi](5/pokaznikovi_totozhnosti.md)
+    1. [Показниковi тотожностi](5/pokaznikovi_totozhnosti.md)
+    2. [Логарифм](5/logarifm.md)
+    3. [Логарифмiчнi тотожностi](5/logarifmichni_totozhnosti.md)
+    4. [Логарифмування та потенцiювання](5/metodi_rozvyazannya_zadach_logarifmuvannya,_potentsiyuvannya.md)
 * Лiнiйнi та квадратнi рiвняння
     1. Рівняння та його корені
         1. Загальні відомості
