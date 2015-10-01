@@ -52,7 +52,7 @@
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
-        <p>Зведіть подібні доданки: $$3x^2y-2xy^2-2x^y+3xy^2$$</p>
+        <p>Зведіть подібні доданки: $$3x^2y-2xy^2-2x^2y+3xy^2$$</p>
         <answer>$$x^2y-xy^2$$</answer>
         <answer>$$3x^2y+2xy^2$$</answer>
         <answer>$$3x^2y-2xy^2$$</answer>
