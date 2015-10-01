@@ -78,7 +78,7 @@
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
-        <p>Спростіть вираз: $$\sqrt[3]{81}$$</p>
+        <p>Спростіть вираз: $$\sqrt[4]{81}$$</p>
         <answer>$$-3$$</answer>
         <answer correct>$$3$$</answer>
         <answer>$$9$$</answer>
