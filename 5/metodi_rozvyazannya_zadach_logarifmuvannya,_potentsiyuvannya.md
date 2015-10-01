@@ -51,10 +51,10 @@ b(x)>0.
 <p><b><i>Розв’язок.</i></b></p>
 <p>Зводимо праву частину, щоб уся була під знаком логарифма:</p>
 <p align="center">$$2\log_{2}x=\ln24-3\ln a+6\ln b \Rightarrow \log_{2}x=\dfrac{1}{2}\ln24-\dfrac{3}{2}\ln a+\dfrac{6}{2}\ln b;$$</p>
-<p align="center">$$\log_{2}x=\ln{\sqrt{24}}-\ln{a^{\frac{3}{2}}}+\ln{b^3} \Rightarrow \log_{2}x=\ln{b^3}\sqrt{\dfrac{27}{a^3}}.$$</p>
+<p align="center">$$\log_{2}x=\ln{\sqrt{24}}-\ln{a^{\frac{3}{2}}}+\ln{b^3} \Rightarrow \log_{2}x=\ln{b^3}\sqrt{\dfrac{24}{a^3}}.$$</p>
 <p>Переходимо до однієї основи:</p>
-<p align="center">$$\log_{2}x=\ln {b^3}\sqrt{\dfrac{27}{a^3}} \Leftrightarrow \log_{2}x=\dfrac{\log_{2}{b^3}\sqrt{\dfrac{27}{a^3}}}{\log_{2}e} \Leftrightarrow x=\dfrac{b^3}{\log_{2}e}\sqrt{\dfrac{27}{a^3}}.$$</p>
-<p><b>Вiдповiдь.</b> $$x=\dfrac{b^3}{\log_{2}e}\sqrt{\dfrac{27}{a^3}}.$$</p>
+<p align="center">$$\log_{2}x=\ln {b^3}\sqrt{\dfrac{24}{a^3}} \Leftrightarrow \log_{2}x=\dfrac{\log_{2}{b^3}\sqrt{\dfrac{24}{a^3}}}{\log_{2}e} \Leftrightarrow x=\dfrac{b^3}{\log_{2}e}\sqrt{\dfrac{24}{a^3}}.$$</p>
+<p><b>Вiдповiдь.</b> $$x=\dfrac{b^3}{\log_{2}e}\sqrt{\dfrac{24}{a^3}}.$$</p>
 </div>
 </div>
 </div>
