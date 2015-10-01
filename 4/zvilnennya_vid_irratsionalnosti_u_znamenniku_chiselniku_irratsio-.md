@@ -37,7 +37,7 @@
         <answer>$$\dfrac{\sqrt{7}+2}{2}$$</answer>
         <answer>$$1$$</answer>
         <explanation>
-        Домножимо знаменник дробу на доповнюючий множник: $$\dfrac{\sqrt(7)+2}{(\sqrt(7)-2)(\sqrt(7)+2)}=\dfrac{\sqrt(7)+2}{3}$$
+        Домножимо знаменник дробу на доповнюючий множник: $$\dfrac{\sqrt{7}+2}{(\sqrt{7}-2)(\sqrt{7}+2)}=\dfrac{\sqrt{7}+2}{3}$$
         </explanation>
     </question>
     <question text="">
