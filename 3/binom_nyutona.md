@@ -40,7 +40,7 @@
         <answer>$$4$$</answer>
         <answer>$$5$$</answer>
         <explanation>
-        $$(4-3)^3=4^3 + 3\cdot4^2\cdot(-3) + 3\cdot4\cdot(-3)^2 + (-3)^3 =4\cdot4\cdot4 + 3\cdot4\cdot4\cdot(-3) + 3\cdot4\cdot(-3)\cdot(-3) + (-3)\cdot(-3)\cdot(-3)=64-144+108-27=1$$
+        $$(5-3)^3=5^3 + 3\cdot5^2\cdot(-3) + 3\cdot5\cdot(-3)^2 + (-3)^3 =5\cdot5\cdot5 + 3\cdot5\cdot5\cdot(-3) + 3\cdot5\cdot(-3)\cdot(-3) + (-3)\cdot(-3)\cdot(-3)=125-225+135-27=8$$
         </explanation>
     </question>
     <question text="">
