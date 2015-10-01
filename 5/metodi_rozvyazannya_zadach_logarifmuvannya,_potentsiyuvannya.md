@@ -70,7 +70,7 @@ b(x)>0.
         <answer>$$log_{b}c-4$$</answer>
         <answer>$$2log_{b}a+3log_{b}c$$</answer>
         <explanation>
-         $$3a^2\dfrac{c^3}{b^4} = log_{b}3 + log_{b}a^2 + log_{b}c^3 - log_{b}b^4 = log_{b}3 + 2log_{b}a + 3log_{b}c -4log_{b}b = log_{b}3+2log_{b}a+3log_{b}c-4$$
+         <p>$$3a^2\dfrac{c^3}{b^4} = log_{b}3 + log_{b}a^2 + log_{b}c^3 - log_{b}b^4 = log_{b}3 + 2log_{b}a + 3log_{b}c -4log_{b}b =$$</p> <p>$$= log_{b}3+2log_{b}a+3log_{b}c-4$$</p>
         </explanation>
     </question>
     <question text="">
