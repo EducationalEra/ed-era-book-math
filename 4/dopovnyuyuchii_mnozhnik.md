@@ -20,7 +20,7 @@
     <question text="">
         <p>Вкажіть доповнюючий множник для виразу $$\sqrt[5]{x+3}$$</p>
         <answer correct>$$\sqrt[5]{(x+3)^4}$$</answer>
-        <answer>$$\sqrt[5]{(x+3)^11}$$</answer>
+        <answer>$$\sqrt[5]{(x+3)^{11}}$$</answer>
         <answer>$$\sqrt[5]{(x+3)^5}$$</answer>
         <answer>$$\sqrt[5]{(x^2+3)^2}$$</answer>
         <explanation>
