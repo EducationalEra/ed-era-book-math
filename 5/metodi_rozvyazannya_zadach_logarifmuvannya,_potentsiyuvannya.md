@@ -75,14 +75,14 @@ b(x)>0.
     </question>
     <question text="">
         <p>Пропотенціюйте вираз $$2log_{2}x = ln a^{\frac{4}{3}}$$</p>
-        <answer>$$x=a^{\frac{4}{6}}$$</answer>
-        <answer>$$x=a^{\frac{6}{4}}$$</answer>
+        <answer>$$x=a^{\frac{2}{3}}$$</answer>
+        <answer>$$x=a^{\frac{3}{2}}$$</answer>
         <answer correct>$$x=a^{\frac{4}{6}}\dfrac{1}{log_{2}e}$$</answer>
         <explanation>
         $$log_{2}x=\dfrac{1}{2}ln a^{\frac{4}{3}}$$
-        $$log_{2}x=lna^{\frac{4}{6}$$
-        $$log_{2}x = \dfrac{log_{2}a^{\frac{4}{6}}}{log_{2}e}$$
-        $$x=a^{\frac{4}{6}}\dfrac{1}{log_{2}e}$$
+        $$log_{2}x=lna^{\frac{2}{3}$$
+        $$log_{2}x = \dfrac{log_{2}a^{\frac{2}{3}}}{log_{2}e}$$
+        $$x=a^{\frac{2}{3}}\dfrac{1}{log_{2}e}$$
         </explanation>
     </question>
 </quiz>
