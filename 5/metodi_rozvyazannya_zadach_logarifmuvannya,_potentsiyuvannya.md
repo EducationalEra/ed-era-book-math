@@ -79,9 +79,9 @@ b(x)>0.
         <answer>$$x=a^{\frac{3}{2}}$$</answer>
         <answer correct>$$x=a^{\frac{4}{6}}\dfrac{1}{log_{2}e}$$</answer>
         <explanation>
-        $$log_{2}x=\dfrac{1}{2}ln a^{\frac{4}{3}}$$
-        $$log_{2}x=lna^{\frac{2}{3}$$
-        $$log_{2}x = \dfrac{log_{2}a^{\frac{2}{3}}}{log_{2}e}$$
+        $$log_{2} x=\dfrac{1}{2}ln a^{\frac{4}{3}}$$
+        $$log_{2} x=lna^{\frac{2}{3}$$
+        $$log_{2} x = \dfrac{log_{2}a^{\frac{2}{3}}}{log_{2}e}$$
         $$x=a^{\frac{2}{3}}\dfrac{1}{log_{2}e}$$
         </explanation>
     </question>
