@@ -53,7 +53,7 @@
         <answer>$$5x^3y^3+3x^2y^2-7xy-5xy^3-x^3y-2x^2-5y^2$$</answer>
         <answer>$$x^3y^3+3x^2y^2+7xy-5xy^3+x^3y-2x^2+y^2$$</answer>
         <explanation>
-        $$(xy^2 - x + y)\cdot(x^2y + 2x - 5y) = xy^2\cdot x^2y + xy^2\cdot2x + xy^2\cdot(-5y) - x\cdot x^2y -x\cdot2x -x\cdot(-5y) + y\cdot x^2y</br> +y\cdot2x +y\cdot(-5y)=x^3y^3+2x^2y^2-5xy^3-x^3y-2x^2+5xy+x^2y^2+2xy-5y^2=x^3y^3+3x^2y^2+7xy-5xy^3-x^3y-2x^2-5y^2$$
+        <p>$$(xy^2 - x + y)\cdot(x^2y + 2x - 5y) = xy^2\cdot x^2y + xy^2\cdot2x + xy^2\cdot(-5y) - x\cdot x^2y -x\cdot2x -x\cdot(-5y) + y\cdot x^2y</br> +y\cdot2x +y\cdot(-5y)=x^3y^3+2x^2y^2-5xy^3-x^3y-2x^2+5xy+x^2y^2+2xy-5y^2=x^3y^3+3x^2y^2+7xy-5xy^3-x^3y-2x^2-5y^2$$</p>
         </explanation>
     </question>
 </quiz>
