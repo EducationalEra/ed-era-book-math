@@ -45,6 +45,11 @@
 <p><b><i>Розв'язок.</i></b></p>
 <ol>
 <li>Знаходимо множину дільників вільного доданка $$-30$$ : $$\pm1$$, $$\pm2$$, $$\pm3$$, $$\pm5$$, $$\pm6$$, $$\pm10$$, $$\pm15$$, $$\pm30$$.</li>
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/9NsQmA7E6Z8" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
 <li><p>Перевіряємо, чи є коренями знайдені дільники за схемою Горнера (працюємо завжди з верхнім рядком):</p>
 <table>
 <tr>
