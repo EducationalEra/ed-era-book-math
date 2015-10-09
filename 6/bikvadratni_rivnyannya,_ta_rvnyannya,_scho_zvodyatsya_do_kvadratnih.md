@@ -9,6 +9,12 @@
 </div>
 </div>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/PTxIbXj0iYE" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <p>Взагалі будь-яке рівняння вигляду $$ax^{2n} + bx^n + c =0$$ (в тому числі і біквадратне) можна звести до квадратного заміною $$x^n = t$$ (для біквадратного $$x^2 = t$$).</p>
 <div class="space"></div>
 <div class="space">
