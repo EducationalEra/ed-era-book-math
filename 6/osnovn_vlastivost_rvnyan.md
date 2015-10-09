@@ -56,3 +56,20 @@
 </div>
 <div class="popup">
 </div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Який перехід є рівносильним для рівняння $$x^2-3x=4+2x$$?</p>
+        <answer>$$x^2+4=0$$</answer>
+        <answer>$$x^2+x-4=0$$</answer>
+        <answer correct>$$x^2-5x-4=0$$</answer>
+        <answer>$$x=0$$</answer>
+        </question>
+    <question text="">
+    <p>Який перехід є рівносильним для рівняння $$-x-15=5x^3+4x$$?</p>
+        <answer>$$x^3=0$$</answer>
+        <answer>$$5x^3-15+5=0$$</answer>
+        <answer correct>$$x^3+x+3=0$$</answer>
+        <answer>$$x^3-x+3=0$$</answer>
+        </question>
+</quiz>
