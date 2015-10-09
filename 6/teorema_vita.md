@@ -68,3 +68,19 @@
 </div>
 </div>
 </div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+    <p>Чому дорівнює модуль різниці коренів рівняння $$x^2 - 4x + 4 = 1$$?</p>
+        <answer>$$4$$</answer>
+        <answer>$$3$$</answer>
+        <answer correct>$$2$$</answer>
+        <answer>$$1$$</answer>
+        <explanation>
+        <p>Перенесемо всі доданки у ліву частину рівняння:</p>
+        <p>$$x^2-4x+3=0$$</p>
+        <p>За теоремою Вієта знаходимо корені рівняння: $$x_{1,2} = {1; 3}$$</p>
+        <p>Тоді модуль різниці коренів дорівнює: $$|3-1|= 2$$</p>
+        </explanation>
+        </question>
+</quiz>
