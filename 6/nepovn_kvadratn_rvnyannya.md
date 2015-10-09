@@ -52,9 +52,17 @@
         </question>
     <question text="">
     <p>Розв'язати рівняння: $$x^2-9=0$$</p>
-        <answer>$$1$$</answer>
-        <answer>$$2$$</answer>
-        <answer correct>$$3$$</answer>
-        <answer>$$4$$</answer>
+        <answer>$$\pm1$$</answer>
+        <answer>$$\pm2$$</answer>
+        <answer correct>$$\pm3$$</answer>
+        <answer>$$0$$</answer>
+        <explanation>
+        <p>Додамо до обох частин рівняння $$9$$:</p>
+        <p>$$x^2-9+9=0+9$$</p>
+        <p>$$x^2=9$$</p>
+        <p>Візьмемо квадратний корінь з обох частин рівняння:</p>
+        <p>$$\sqrt{x^2}=\sqrt{9}$$</p>
+        <p>$$x_{1,2}=\pm3$$</p>
+        </explanation>
         </question>
 </quiz>
