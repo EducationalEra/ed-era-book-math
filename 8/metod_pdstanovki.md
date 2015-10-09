@@ -42,3 +42,87 @@ y = f(x).
 <div class="popup">
 </div>
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Розв'язати систему рівнянь: 
+        $$\begin{cases}
+        x+y=1\\
+        x-y=7
+        \end{cases}$$</p>
+        <answer correct>$$(4;-3)$$</answer>
+        <answer>$$(4;3)$$</answer>
+        <answer>$$(-4;-3)$$</answer>
+        <answer>$$(-4;3)$$</answer>
+        <explanation>
+        <p>Виразимо $$x$$ через $$y$$:</p>
+        <p>$$\begin{cases}
+        x=1-y\\
+        x-y=7
+        \end{cases}$$</p>
+        <p>Підставимо у друге рівняння $$x$$ і спростимо систему:</p>
+        <p>$$\begin{cases}
+        x=1-y\\
+        1-y-y=7
+        \end{cases}$$</p>
+        <p>$$\begin{cases}
+        x=1-y\\
+        -2y=6
+        \end{cases}$$</p>
+        <p>Помножимо друге рівняння системи на $$-\dfrac{1}{2}$$:</p>
+        <p>$$\begin{cases}
+        x=1-y\\
+        y=-3
+        \end{cases}$$</p>
+        <p>Тепер, знаючи значення $$y$$, знайдемо значення $$x$$:</p>
+        <p>$$\begin{cases}
+        x=1-(-3)\\
+        y=-3
+        \end{cases}$$</p>
+        <p>$$\begin{cases}
+        x=4\\
+        y=-3
+        \end{cases}$$</p>
+        </explanation>
+        </question>
+    <question text="">
+    <p>Розв'язати систему рівнянь:
+    $$\begin{cases}
+    3x+5y=21\\
+    8x-3y=7
+    \end{cases}$$</p>
+        <answer>$$(2;-3)$$</answer>
+        <answer>$$(-2;3)$$</answer>
+        <answer correct>$$(2;3)$$</answer>
+        <answer>$$(-2;-3)$$</answer>
+        <explanation>
+        <p>Перше рівняння помножимо на $$\dfrac{1}{3}$$, і виразимо $$x$$ через $$y$$:</p>
+        <p>$$\begin{cases}
+        x=-\dfrac{5}{3}y+7\\
+        8x-3y=7
+        \end{cases}$$</p></p>
+        <p>Підставимо у друге рівняння $$x$$ і спростимо систему:</p>
+        <p>$$\begin{cases}
+        x=-\dfrac{5}{3}y+7\\
+        8(-\dfrac{5}{3}y+7)-3y=7
+        \end{cases}$$</p>
+        <p>$$\begin{cases}
+        x=-\dfrac{5}{3}y+7\\
+        -\dfrac{49}{3}y=-49
+        \end{cases}$$</p>
+        Помножимо друге рівняння системи на $$-\dfrac{3}{49}$$:</p>
+        <p>$$\begin{cases}
+        x=-\dfrac{5}{3}y+7\\
+        y=3
+        \end{cases}$$</p>
+        <p>Тепер, знаючи значення $$y$$, знайдемо значення $$x$$:</p>
+        <p>$$\begin{cases}
+        x=-\dfrac{5}{3}\cdot3+7\\
+        y=3
+        \end{cases}$$</p>
+        <p>$$\begin{cases}
+        x=2\\
+        y=3
+        \end{cases}$$</p>
+        </explanation>
+        </question>
+</quiz>
