@@ -57,6 +57,12 @@
 </div>
 </div>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/PSqWe4i7WAM" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <p>Якщо у рівняннях вигляду $$(x+a)(x+b)(x+c)(x+d)=e$$ виконується рівність $$a+b=c+d=k$$ або інших пар цих чисел, зручно розкрити дужки, згрупувавши множники попарно (при рівності $$a+b=c+d$$ — перший з другим, та третій з четвертим) та скористатись заміною вигляду: $$t=x^2+kx$$.</p>
 
 <div class="space">
