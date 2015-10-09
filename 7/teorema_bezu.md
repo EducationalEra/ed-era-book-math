@@ -11,6 +11,12 @@
 </div>
 </div>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/qUREL_CCrOI" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <div class="space">
 <div class="ebio-wrap">
 <span class="ebio">Доведення</span>
