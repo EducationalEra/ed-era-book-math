@@ -33,33 +33,33 @@
     2. [Логарифм](5/logarifm.md)
     3. [Логарифмiчнi тотожностi](5/logarifmichni_totozhnosti.md)
     4. [Логарифмування та потенцiювання](5/metodi_rozvyazannya_zadach_logarifmuvannya,_potentsiyuvannya.md)
-* Лiнiйнi та квадратнi рiвняння
-    1. Рівняння та його корені
-        1. Загальні відомості
-        2. Основні властивості рівнянь
-    3. Лiнiйнi рiвняння
-    4. Квадратнi рiвняння
-        1. Загальні відомості
-        2. Неповні квадратні рівняння
-        3. Повне квадратне рівняння та дискримiнант
-        4. Факторизація квадратного рівняння (розкладання на множники)
-        5. Теорема Вiєта
-    5. Бiквадратнi рiвняння, та рівняння, що зводяться до квадратних
-* Iншi види цiлих рiвнянь
-    1. Теорема Безу та Схема Горнера 
-    2. Цiлi рацiональнi рiвняння вищих степенів
-        1. Метод підбору коренів
-        2. Метод заміни змінної
-    3. Рiвняння з модулями
-        1. Метод інтервалів
-    4. Рівняння з параметрами
-        1. Лінійне рiвняння з параметрами
-        2. Квадратне рівняння з параметрами
-* Системи алгебраїчних рiвнянь
-    1. Системи рівнянь з двома змінними
-    2. Метод підстановки
-    3. Метод алгебраїчного додавання
-    4. Метод заміни змінної
+* [Лiнiйнi та квадратнi рiвняння](6/zagaln_vdomost.md)
+   1. [Рівняння та його корені](6/zagaln_vdomost.md)
+       1. [Загальні відомості](6/zagaln_vdomost.md)
+       * [Основні властивості рівнянь](6/osnovn_vlastivost_rvnyan.md)
+   * [Лiнiйнi рiвняння](6/liniini_rivnyannya.md)
+   * [Квадратнi рiвняння](6/zagaln_vdomosti_kvadratni.md)
+       1. [Загальні відомості](6/zagaln_vdomosti_kvadratni.md)
+       * [Неповні квадратні рівняння](6/nepovn_kvadratn_rvnyannya.md)
+       * [Повне квадратне рівняння та дискримiнант](6/povne_kvadratne_rvnyannya_ta_diskriminant.md)
+       * [Факторизація квадратного рівняння (розкладання на множники)](6/faktorizatsya_kvadratnogo_rvnyannya_rozkladannya_na_mnozhniki.md)
+       * [Теорема Вiєта](6/teorema_vita.md)
+   * [Бiквадратнi рiвняння, та рівняння, що зводяться до квадратних](6/bikvadratni_rivnyannya,_ta_rvnyannya,_scho_zvodyatsya_do_kvadratnih.md)
+* [Iншi види цiлих рiвнянь](7/teorema_bezu.md)
+   1. [Теорема Безу та Схема Горнера](7/teorema_bezu.md)
+   * [Цiлi рацiональнi рiвняння вищих степенів](7/tsili_ratsionalni_rivnyannya_vischih_stepenv.md)
+       1. [Метод підбору коренів](7/metod_pdboru_korenv.md)
+       * [Метод заміни змінної](7/metod_zamni_zmnno.md)
+   * [Рiвняння з модулями](7/prost_rvnyannya_z_modulyami.md)
+       1. [Метод інтервалів](7/metod_ntervalv.md)
+   * [Рівняння з параметрами](7/rvnyannya_z_parametrami.md)
+       1. [Лінійне рiвняння з параметрами](7/lnine_rvnyannya_z_parametrami.md)
+       * [Квадратне рівняння з параметрами](7/kvadratne_rvnyannya_z_parametrami.md)
+* [Системи алгебраїчних рiвнянь](8/zagaln_vdomost.md)
+   1. [Системи рівнянь з двома змінними](8/zagaln_vdomost.md)
+   * [Метод підстановки](8/metod_pdstanovki.md)
+   * [Метод алгебраїчного додавання](8/metod_algebrachnogo_dodavannya.md)
+   * [Метод заміни змінної](8/metod_zamni_zmnno.md)
 * Цілі нерівності
     1. Загальні відомості про нерівності
     2. Основні властивості
