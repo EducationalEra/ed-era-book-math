@@ -34,3 +34,35 @@
 </div>
 </div>
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Розв'язати рівняння: $$2x+3=-x$$</p>
+        <answer correct>$$-1$$</answer>
+        <answer>$$1$$</answer>
+        <answer>$$3$$</answer>
+        <answer>$$-3$$</answer>
+        <explanation>
+        <p>Додамо до обох частин рівняння $$x$$:</p>
+        <p>$$2x+3+x=-x+x$$</p>
+        <p>$$3x+3=0$$</p>
+        <p>Додамо до обох частин рівняння $$-3$$:</p>
+        <p>$$3x+3-3=0-3$$</p>
+        <p>$$3x=-3$$</p>
+        <p>Розділимо обидві частини рівняння $$3$$:</p>
+        <p>$$x=-1$$</p>
+        </explanation>
+        </question>
+    <question text="">
+    <p>Розв'язати рівняння: $$x-7=0$$</p>
+        <answer>$$1$$</answer>
+        <answer>$$2$$</answer>
+        <answer correct>$$3$$</answer>
+        <answer>$$4$$</answer>
+        <explanation>
+        <p>Додамо до обох частин рівняння $$7$$:</p>
+        <p>$$x-7+7=0+7$$</p>
+        <p>Отримаємо:</p>
+        <p>$$x=7$$</p>
+        </explanation>
+        </question>
+</quiz>
