@@ -51,3 +51,8 @@
 <p><i>Наприклад:</i> якщо в рівнянні $$3x - 5 + \dfrac{1}{x - 1} - \dfrac{1}{x - 1}= -2$$ звести подібні доданки, то отримане рівняння $$3x - 5 = -2$$ не буде рівносильним вихідному. $$x = 1$$ є коренем другого рівняння, проте не є коренем першого, адже в такому випадку ліва частина не буде змістовною (ОДЗ: $$x \neq 1$$ — на нуль ділити неможна).</p>
 
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/jISOKlsqZxA" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
