@@ -60,3 +60,19 @@
 <div class="space"></div>
 <p><i>Наприклад:</i> рівняння $$(x - 5)(x + 5) = 0$$ та $$x^2 = 25$$ мають одні й ті самі корені: $$-5$$ та $$5$$. Тому можна записати $$(x - 5)(x + 5) = 0 \Longleftrightarrow x^2 = 25$$.</p>
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Скільки коренів має рівняння $$x+3=0$$?</p>
+        <answer correct>$$1$$</answer>
+        <answer>$$2$$</answer>
+        <answer>$$3$$</answer>
+        <answer>$$4$$</answer>
+        </question>
+    <question text="">
+    <p>Скільки коренів має рівняння $$(x+3)(x+3)(x-2)(x+5)=0$$?</p>
+        <answer>$$1$$</answer>
+        <answer>$$2$$</answer>
+        <answer correct>$$3$$</answer>
+        <answer>$$4$$</answer>
+        </question>
+</quiz>
