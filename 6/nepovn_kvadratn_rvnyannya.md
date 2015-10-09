@@ -26,7 +26,7 @@
 		\begin{cases}
 		x_1 = 0,\\
 		x_2 = \dfrac{1}{6}.
-		\end{cases}$$.</p>
+		\end{cases}$$</p>
 <div class="space"></div>
 <li>$$b = c = 0$: маємо рівняння $ax^2 = 0 \Longleftrightarrow x^2 = 0 \Longleftrightarrow x_1 = x_2 = 0$$.</li>
 <div class="space"></div>
@@ -34,3 +34,27 @@
 </ul>
 
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Розв'язати рівняння: $$x^2-1=0$$</p>
+        <answer correct>$$\pm1$$</answer>
+        <answer>$$\pm2$$</answer>
+        <answer>$$\pm3$$</answer>
+        <answer>$$0$$</answer>
+        <explanation>
+        <p>Додамо до обох частин рівняння $$1$$:</p>
+        <p>$$x^2-1+1=0+1$$</p>
+        <p>$$x^2=1$$</p>
+        <p>Візьмемо квадратний корінь з обох частин рівняння:</p>
+        <p>$$\sqrt{x^2}=\sqrt{1}$$</p>
+        <p>$$x_{1,2}=\pm1$$</p>
+        </explanation>
+        </question>
+    <question text="">
+    <p>Розв'язати рівняння: $$x^2-9=0$$</p>
+        <answer>$$1$$</answer>
+        <answer>$$2$$</answer>
+        <answer correct>$$3$$</answer>
+        <answer>$$4$$</answer>
+        </question>
+</quiz>
