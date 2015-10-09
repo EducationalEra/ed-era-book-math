@@ -106,3 +106,44 @@
 </div>
 </div>
 </div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question  multiple>
+        <p>Розв'язати рівняння: $$x^2+3x-3=7$$</p>
+        <answer correct>$$x=2$$</answer>
+        <answer>$$x=0$$</answer>
+        <answer>$$x=-2$$</answer>
+        <answer>$$x=5$$</answer>
+        <answer correct>$$x=-5$$</answer>
+        <answer>$$x=7$$</answer>
+        <answer>$$x=-4$$</answer>
+        <explanation>
+        <p>Перенесемо доданки з правої частини рівняння в ліву:</p>
+        <p>$$x^2+3x-3-7=0$$</p>
+        <p>$$x^2+3x-10=0$$</p>
+        <p>Знайдемо дискримінант квадратного рівняння:</p>
+        <p>$$D=(3)^2-4\cdot1\cdot(-10)=9+40=49$$</p>
+        <p>Через те, що дискримінант більше нуля, квадратне рівняння має два дійсних кореня:</p>
+        <p>$$x_{1,2}=\dfrac{-3\pm7}{2\cdot1}=\{2,-5\}$$</p>
+        </explanation>
+        </question>
+    <question  multiple>
+    <p>Розв'язати рівняння: $$x^2-5x=x-5$$</p>
+        <answer correct>$$x \in \emptyset$$</answer>
+        <answer>$$x=0$$</answer>
+        <answer>$$x=1$$</answer>
+        <answer>$$x=-1$$</answer>
+        <answer>$$x=-5$$</answer>
+        <answer>$$x=7$$</answer>
+        <answer>$$x=-4$$</answer>
+        <explanation>
+        <p>Перенесемо доданки з правої частини рівняння в ліву:</p>
+        <p>$$x^2-5x-x+5=0$$</p>
+        <p>$$5x^2-6x+5=0$$</p>
+        <p>Знайдемо дискримінант квадратного рівняння:</p>
+        <p>$$D=(6)^2-4\cdot5\cdot5=36-100=-64$$</p>
+        <p>Через те, що дискримінант менше нуля, квадратне рівняння не має дійсних коренів.</p>
+        <p>$$x \in \emptyset$$</p>
+        </explanation>
+        </question>
+</quiz>
