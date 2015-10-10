@@ -48,7 +48,7 @@
 <b>Знайти значення змінної $$x$$, якщо вона повинна задовольняти умови: $$\begin{eqnarray}\dfrac{x}{2} - 1 > 0 & або & -\dfrac{1}{4}(x+1) > 0 \nonumber \end{eqnarray}$$</b>
 <p><b><i>Розв’язок.</i></b></p>
 <p>Розв’яжемо окремо два рівняння з умови, а потім знайдемо об’єднання (<b>або</b>) отриманих розв’язків.</p>
-<p>$$\begin{eqnarray} 
+<p align="center">$$\begin{eqnarray} 
 			\dfrac{x}{2} - 1 > 0 & або & -\dfrac{1}{4}(x+1) > 0 \nonumber \\
 			\dfrac{x}{2} > 1 & & x + 1 < 0 \nonumber \\
 			x > 2 & & x < -1 \nonumber
@@ -69,14 +69,14 @@
 <span class="task">Приклад</span>
 <div class="task-text">
 <b>Знайти значення змінної $$x$$, якщо вона повинна задовольняти умови: $$\begin{eqnarray} -3(x-5)\leq 6 & i & x-2<5 \nonumber \end{eqnarray}$$</p>
-<p>$$\begin{eqnarray} 
+<p align="center">$$\begin{eqnarray} 
 			\dfrac{x}{2} - 1 > 0 & або & -\dfrac{1}{4}(x+1) > 0 \nonumber \\
 			\dfrac{x}{2} > 1 & & x + 1 < 0 \nonumber \\
 			x > 2 & & x < -1 \nonumber
 			\end{eqnarray}$$</p>
 <p><b><i>Розв’язок.</i></b></p>
 <p>Розв’яжемо окремо два рівняння з умови, а потім знайдемо перетин (<b>i</b>) отриманих розв’язків.</p>
-<p>$$\begin{eqnarray} -3(x-5)\leq 6 & i & x-2<5 \nonumber \\
+<p align="center">$$\begin{eqnarray} -3(x-5)\leq 6 & i & x-2<5 \nonumber \\
 			-3x+15 \leq 6 && x<7 \nonumber \\
 			-3x \leq -9  \nonumber \\
 			x \geq 3 \nonumber
