@@ -21,10 +21,12 @@
 </div>
 </div>
 
+<div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
 <b>Знайти об’єднання та перетин інтервалів $$[1;7]$$ та $$(5;9)$$.</b>
+<p><b><i>Розв’язок.</i></b></p>
 <p>Зобразимо інтервали на числовій прямій:</p>
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_13.png"/></p></div>
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_14.png"/></p></div>
@@ -37,11 +39,14 @@
 <p><b>Вiдповiдь.</b>$$[1;9), (5;7].$$</p>
 </div>
 </div>
+</div>
 
+<div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
 <b>Знайти значення змінної $$x$$, якщо вона повинна задовольняти умови: $$\begin{eqnarray}\dfrac{x}{2} - 1 > 0 & або & -\dfrac{1}{4}(x+1) > 0 \nonumber \end{eqnarray}$$</b>
+<p><b><i>Розв’язок.</i></b></p>
 <p>Розв’яжемо окремо два рівняння з умови, а потім знайдемо об’єднання (<b>або</b>) отриманих розв’язків.</p>
 <p>$$\begin{eqnarray} 
 			\dfrac{x}{2} - 1 > 0 & або & -\dfrac{1}{4}(x+1) > 0 \nonumber \\
@@ -57,16 +62,33 @@
 <p><b>Вiдповiдь.</b>$$(-\infty,-1) \cup (2,\infty).$$</p>
 </div>
 </div>
+</div>
 
+<div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
-<b>Знайти значення змінної $$x$$, якщо вона повинна задовольняти умови: $$\begin{eqnarray} -3(x-5)\leq 6 &\text{\textbf{i}}& x-2<5 \nonumber \end{eqnarray}$$</p>
+<b>Знайти значення змінної $$x$$, якщо вона повинна задовольняти умови: $$\begin{eqnarray} -3(x-5)\leq 6 & i & x-2<5 \nonumber \end{eqnarray}$$</p>
 <p>$$\begin{eqnarray} 
 			\dfrac{x}{2} - 1 > 0 & або & -\dfrac{1}{4}(x+1) > 0 \nonumber \\
 			\dfrac{x}{2} > 1 & & x + 1 < 0 \nonumber \\
 			x > 2 & & x < -1 \nonumber
 			\end{eqnarray}$$</p>
-<p><b>Вiдповiдь.</b>$$(-\infty,-1) \cup (2,\infty).$$</p>
+<p><b><i>Розв’язок.</i></b></p>
+<p>Розв’яжемо окремо два рівняння з умови, а потім знайдемо перетин (<b>i</b>) отриманих розв’язків.</p>
+<p>$$\begin{eqnarray} -3(x-5)\leq 6 & i & x-2<5 \nonumber \\
+			-3x+15 \leq 6 && x<7 \nonumber \\
+			-3x \leq -9  \nonumber \\
+			x \geq 3 \nonumber
+			\end{eqnarray}$$</p>
+<p>Отже, маємо такі умови для змінної:  $$x\geq3$$ або $$x<7$$.</p>
+<p>Іншим чином це запишеться як: $$3\leq x<7$$.</p>
+<p>Зобразимо ці розв’язки на числовій прямій та знайдемо їхнє об’єднання:</p>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_20.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_21.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_22.png"/></p></div>
+<p>Отже, значення змінної $$x$$ повинно лежати у межах $$[3,7)$$ щоб задовольнити умові.</p>
+<p><b>Вiдповiдь.</b>$$[3,7).$$</p>
+</div>
 </div>
 </div>
