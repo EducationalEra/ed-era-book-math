@@ -61,3 +61,13 @@ g(x)\geq0.
 </div>
 </div>
 </div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Яке з чисел є коренем рівняння $$|x-3|=4x+6$$?</p>
+        <answer>$$x=0$$</answer>
+        <answer>$$x=\dfrac{2}{3}$$</answer>
+        <answer>$$x=-1$$</answer>
+        <answer correct>$$x=-\dfrac{3}{5}$$</answer>
+        </question>
+<quiz>
