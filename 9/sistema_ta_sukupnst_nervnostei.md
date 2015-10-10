@@ -47,10 +47,14 @@
 			\dfrac{x}{2} - 1 > 0 & або & -\dfrac{1}{4}(x+1) > 0 \nonumber \\
 			\dfrac{x}{2} > 1 & & x + 1 < 0 \nonumber \\
 			x > 2 & & x < -1 \nonumber
-			\end{eqnarray}
-$$</p>
+			\end{eqnarray}$$</p>
 <p>Отже, маємо такі умови для змінної:  $$x>2$$ або $$x<-1$$.</p>
+<p>Зобразимо ці розв’язки на числовій прямій та знайдемо їхнє об’єднання:</p>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_17.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_18.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_19.png"/></p></div>
+<p>Отже, значення змінної $$x$$ повинно лежати у межах $$(-\infty,-1) \cup (2,\infty)$$ щоб задовольнити умові.</p>
 <p></p>
-<p><b>Вiдповiдь.</b>$$[1;9), (5;7].$$</p>
+<p><b>Вiдповiдь.</b>$$(-\infty,-1) \cup (2,\infty).$$</p>
 </div>
 </div>
