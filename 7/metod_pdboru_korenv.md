@@ -135,3 +135,13 @@
 </div>
 </div>
 </div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Яке з наведених чисел НЕ МОЖЕ бути коренем рівняння $$x^3-6x^2+11x-6$$?</p>
+        <answer correct>$$0$$</answer>
+        <answer>$$1$$</answer>
+        <answer>$$2$$</answer>
+        <answer>$$3$$</answer>
+        </question>
+<quiz>
