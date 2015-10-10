@@ -26,7 +26,14 @@
 <div class="task-text">
 <b>Знайти об’єднання та перетин інтервалів $$[1;7]$$ та $$(5;9)$$.</b>
 <p>Зобразимо інтервали на числовій прямій:</p>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_13.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_14.png"/></p></div>
 <p>Для знаходження об’єднання потрібно взяти ті частини прямої, які належать першому <b>або</b> другому (хоча б одному) інтервалам.</p>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_15.png"/></p></div>
 <p>Отже $$[1;7] \cup (5;9) = [1;9)$$.</p>
+<p>Для знаходження перетину потрібно взяти ті частини прямої, які належать першому <b>i</b> другому (обом одночасно) інтервалам.</p>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_16.png"/></p></div>
+<p>Отже $$[1;7] \cap (5;9) = (5;7]$$.</p>
+<p><b>Вiдповiдь.</b>$$[1;9), (5;7].$$</p>
 </div>
 </div>
