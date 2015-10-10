@@ -54,7 +54,19 @@
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_18.png"/></p></div>
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_19.png"/></p></div>
 <p>Отже, значення змінної $$x$$ повинно лежати у межах $$(-\infty,-1) \cup (2,\infty)$$ щоб задовольнити умові.</p>
-<p></p>
+<p><b>Вiдповiдь.</b>$$(-\infty,-1) \cup (2,\infty).$$</p>
+</div>
+</div>
+
+<div class="task-wrap">
+<span class="task">Приклад</span>
+<div class="task-text">
+<b>Знайти значення змінної $$x$$, якщо вона повинна задовольняти умови: $$\begin{eqnarray} -3(x-5)\leq 6 &\text{\textbf{i}}& x-2<5 \nonumber \end{eqnarray}$$</p>
+<p>$$\begin{eqnarray} 
+			\dfrac{x}{2} - 1 > 0 & або & -\dfrac{1}{4}(x+1) > 0 \nonumber \\
+			\dfrac{x}{2} > 1 & & x + 1 < 0 \nonumber \\
+			x > 2 & & x < -1 \nonumber
+			\end{eqnarray}$$</p>
 <p><b>Вiдповiдь.</b>$$(-\infty,-1) \cup (2,\infty).$$</p>
 </div>
 </div>
