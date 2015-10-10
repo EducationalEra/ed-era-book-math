@@ -63,3 +63,22 @@
 
 <p align="center">$$x^5 - 3x^3 + x - 7 = (x + 2)(x^4 - 2x^3 +x^2 - 2x + 5) - 17.$$</p>
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Розв'язати рівняння: $$2x+3=-x$$</p>
+        <answer correct>$$x=-1$$</answer>
+        <answer>$$x=1$$</answer>
+        <answer>$$x=3$$</answer>
+        <answer>$$x=-3$$</answer>
+        <explanation>
+        <p>Додамо до обох частин рівняння $$x$$:</p>
+        <p>$$2x+3+x=-x+x$$</p>
+        <p>$$3x+3=0$$</p>
+        <p>Додамо до обох частин рівняння $$-3$$:</p>
+        <p>$$3x+3-3=0-3$$</p>
+        <p>$$3x=-3$$</p>
+        <p>Розділимо обидві частини рівняння $$3$$:</p>
+        <p>$$x=-1$$</p>
+        </explanation>
+        </question>
+</quiz>
