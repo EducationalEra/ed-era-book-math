@@ -93,3 +93,13 @@
 </div>
 </div>
 
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Якою заміною скористатись при розв’язанні рівняння $$11x^4-12=4(9-3x^3)$$?</p>
+        <answer correct>$$t=x^2$$</answer>
+        <answer>$$t=−x$$</answer>
+        <answer>$$t=x^4$$</answer>
+        <answer>$$t=-2x^3$$</answer>
+        </question>
+<quiz>
