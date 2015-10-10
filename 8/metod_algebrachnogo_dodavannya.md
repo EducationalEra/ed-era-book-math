@@ -86,3 +86,18 @@ c\cdot F_1(x, y) + d\cdot F_2(x, y) = 0;
 </div>
 </div>
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Вкажіть множину розв'язків системи рівнянь: $$\begin{cases}x-y=1, \\ x+y=2. \end{cases}$$</p>
+        <answer correct>$$\{\dfrac{3}{2};\dfrac{1}{2}\}$$</answer>
+        <answer>$$\{-\dfrac{1}{2};\dfrac{3}{2}\}$$</answer>
+        <answer>$$\{\dfrac{1}{2};\dfrac{3}{2}\}$$</answer>
+        <answer>$$\{-\dfrac{3}{2};-\dfrac{1}{2}\}$$</answer>
+        <explanation>
+        Додамо перше і друге рівняння:
+        $$\begin{cases}x-y=1, \\ 2x=3. \end{cases}$$
+        Звідси знаходимо розв'язок системи рівнянь:
+        $$\begin{cases}y=\dfrac{1}{2}, \\ x=\dfrac{3}{2}. \end{cases}$$
+        </explanation>
+        </question>
+<quiz>
