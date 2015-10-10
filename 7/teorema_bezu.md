@@ -32,7 +32,7 @@
 
 <div class="space">
 <div class="alg-wrap">
-<span class="alg">Схема Горнера:</span>
+<span class="alg">Алгоритм</span><b>Схема Горнера</b>
 <div class="alg-text">
 <ol>
 <li>Записати таблицю з двох рядків.</li>
