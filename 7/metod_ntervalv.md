@@ -78,3 +78,13 @@
 </div>
 </div>
 </div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>На якому числовому проміжку всі підмодульні вирази рівняння $$|2x+2|+|x−1|−|5+x|−|2−x|=10$$ є невід'ємними?</p>
+        <answer>$$(-\infty;-5)$$</answer>
+        <answer correct>$$(1;2\]$$</answer>
+        <answer>$$(-1;1\]$$</answer>
+        <answer>$$(2;\infty)$$</answer>
+        </question>
+<quiz>
