@@ -60,6 +60,9 @@
 <p align="center">$$\dfrac{0^2-14\cdot0+2}{0^2+4\cdot0+2} +1 = \dfrac{5\cdot0}{0^2-3\cdot0+2}\Longleftrightarrow \dfrac{2}{2}+1=0$$</p>
 <p>Така рівність не справджується, тому можна спокійно ділити і чисельник і знаменник дробів на $$x$$:</p>
 <div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/143/p34_e6.png"/></p></div>
+<p>Розв’язуємо рівняння з чисельника:</p>
+<div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/143/p34_e7.png"/></p></div>
+<p>Поглянемо на ОДЗ змінної, знаменник повинен бути відмінним від нуля: $$(t-3)(t+4)\neq0$$. Це даэ два заборонених значення змінної: $$t\neq3;t\neq-4$$. Обидва знайдені значення задовольняють ОДЗ.</p>
 <b>Вiдповiдь.</b> $$x=0$$.
 </div>
 </div>
