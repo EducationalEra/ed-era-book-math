@@ -38,6 +38,9 @@
 <ol>
 <li>Перетворюємо рівняння до вигляду $$\dfrac{P(x)}{Q(x)} = 0$$:</li>
 <div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/143/p34_e4.png"/></p></div>
+<li>Розв’язуємо рівняння з чисельника:</li>
+<div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/143/p34_e5.png"/></p></div>
+<li>Тепер поглянемо на знаменник. ОДЗ такого дробу знаходиться з умови\\ $$(x+3)(x+1)\neq0$$. Отже отримуємо ОДЗ: $$x\neq-3;x\neq-1$$.</li>
 </ol>
 <b>Вiдповiдь.</b> Отже, $$x \in (-\sqrt{5};0) \cup (0;\sqrt{5})$$.
 </div>
