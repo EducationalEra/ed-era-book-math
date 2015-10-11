@@ -32,7 +32,7 @@
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
-Знайти корені рівняння $$\dfrac{x-3}{x^2+4x+3} + \dfrac{1}{x+1} = -\dfrac{x}{x+3}$$ . 
+Знайти корені рівняння $$\dfrac{x-3}{x^2+4x+3} + \dfrac{1}{x+1} = -\dfrac{x}{x+3}$$. 
 <p><b><i>Розв’язок</i></b>.</p>
 <p>Користуємося вищезазначеним алгоритмом.</p>
 <ol>
@@ -41,8 +41,22 @@
 <li>Розв’язуємо рівняння з чисельника:</li>
 <div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/143/p34_e5.png"/></p></div>
 <li>Тепер поглянемо на знаменник. ОДЗ такого дробу знаходиться з умови\\ $$(x+3)(x+1)\neq0$$. Отже отримуємо ОДЗ: $$x\neq-3;x\neq-1$$.</li>
+<p>Серед знайдених двох коренів ОДЗ задовольняє лише один $$x=0$$.</p>
 </ol>
-<b>Вiдповiдь.</b> Отже, $$x \in (-\sqrt{5};0) \cup (0;\sqrt{5})$$.
+<b>Вiдповiдь.</b> $$x=0$$.
+</div>
+</div>
+</div>
+
+<div class="space">
+<div class="task-wrap">
+<span class="task">Приклад</span>
+<div class="task-text">
+Знайти корені рівняння $\dfrac{x^2-14x+2}{x^2+4x+2}+1=\dfrac{5x}{x^2-3x+2}$  
+<p><b><i>Розв’язок</i></b>.</p>
+
+
+<b>Вiдповiдь.</b> $$x=0$$.
 </div>
 </div>
 </div>
