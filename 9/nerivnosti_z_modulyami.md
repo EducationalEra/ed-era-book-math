@@ -55,3 +55,64 @@ x\leq-2.
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_33.png"/></p></div>
 
 
+<div class="space">
+<div class="alg-wrap">
+<span class="alg">Алгоритм</span>
+<div class="alg-text">
+<p>Всі нерівності зі значками можна звести до таких трьох випадків:</p>
+<ol>
+<li>$$|f(x)|<g(x) \Longleftrightarrow \begin{cases} 
+f(x)<g(x),\\ 
+f(x)>-g(x). 
+\end{cases}$$</li>
+<li>$$|f(x)|>g(x) \Longleftrightarrow \begin{cases} 
+f(x)>g(x),\\ 
+f(x)<-g(x). 
+\end{cases}$$</li>
+<li>$$|f(x)|>|g(x)| \Longleftrightarrow f^2(x) > g^2(x).$$</li>
+</ol>
+</div>
+</div>
+</div>
+
+<p>Для нестрогих нерівностей все працює точно так само.</p>
+
+<div class="space">
+<div class="task-wrap">
+<span class="task">Приклад</span>
+<div class="task-text">
+<b>Межі коливання середньої місячної температури повітря за $$2013$$ рік в м. Києві описуються такою нерівністю: $$|T-8,65|\leq 12,95$$. Знайдіть максимальне та мінімальне значення середньої місячної температури у $$2013$$ році.</b>
+<p><b><i>Розв’язок.</i></b></p>
+<p>Позбавляємося значка модуля:</p>
+<p align="center">$$|T-8,65|\leq 12,95\Longleftrightarrow-12,95\leq T-8,65\leq 12,95$$</p>
+<p>Розв'язуємо отриману нерівність:</p>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e16.png"/></p></div>
+<p>Зображаємо це на числовій прямій:</p>
+<p align="center">$$T \in [-4,3;21,6]$$</p>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_34.png"/></p></div>
+<p><b>Вiдповiдь.</b>$$T_{min}=-4,3; T_{max}=21,6.$$</p>
+</div>
+</div>
+</div>
+
+<div class="space">
+<div class="task-wrap">
+<span class="task">Приклад</span>
+<div class="task-text">
+<b>Розв’язати нерівність: $$|5-2(x+1)|>x-1$$.</b>
+<p><b><i>Розв’язок.</i></b></p>
+<p>Позбавляємося значка модуля:</p>
+<p align="center">$$|5-2(x+1)|>x-1\Longleftrightarrow\left[\begin{gathered} 
+\hspace{-0.65cm}5-2(x+1)>x-1,\\ 
+5-2(x+1)<-(x-1). 
+\end{gathered}\right.$$</p>
+<p>Розв’язуємо два рівняння сукупності окремо:</p>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e17.png"/></p></div>
+<p>Зобразимо ці розв’язки на числовій прямій та знайдемо їхнє об’єднання:</p>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_35.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_36.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_37.png"/></p></div>
+<p><b>Вiдповiдь.</b>$$x \in \left(-\infty;\dfrac{4}{3}\right)\cup(2;\infty).$$</p>
+</div>
+</div>
+</div>
