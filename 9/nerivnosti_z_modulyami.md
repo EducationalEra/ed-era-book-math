@@ -86,7 +86,7 @@ f(x)<-g(x).
 <p>Позбавляємося значка модуля:</p>
 <p align="center">$$|T-8,65|\leq 12,95\Longleftrightarrow-12,95\leq T-8,65\leq 12,95$$</p>
 <p>Розв'язуємо отриману нерівність:</p>
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e16.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/p14_e16.png"/></p></div>
 <p>Зображаємо це на числовій прямій:</p>
 <p align="center">$$T \in [-4,3;21,6]$$</p>
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_34.png"/></p></div>
