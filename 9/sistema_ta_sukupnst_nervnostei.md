@@ -114,7 +114,7 @@ x \geq 3 \nonumber
 <span class="ebio">Система нерівностей</span>
 <div class="ebio-text">
 <p>Якщо між двома нерівностями стоїть слово «<b>і</b>» - тобто мається на увазі <b>перетин розв’язків нерівностей</b> – це значить, що змінна повинна <b>задовольнити обидві нерівності</b> одночасно. Перед нами ніщо інше, як <b>система нерівностей</b>. Такі нерівності записуються одна під іншою з <b>великою фігурною скобкою зліва</b>. Умова попереднього прикладу тоді виглядатиме як:</p>
-<p>$$-3(x-5)\leq 6 \quad i \quad x-2<5 \quad \Longleftrightarrow \quad \begin{cases} 
+<p align="center">$$-3(x-5)\leq 6 \quad i \quad x-2<5 \quad \Longleftrightarrow \quad \begin{cases} 
 -3(x-5)\leq 6,\\ 
 x-2<5. 
 \end{cases}$$</p>
@@ -131,12 +131,22 @@ $$</p>
 
 <div class="space">
 <div class="ebio-wrap">
-<span class="ebio">Скорочений запис перетину нерівностей</span>
+<span class="ebio">Сукупність нерівностей</span>
 <div class="ebio-text">
-<p>Якщо $$a<b$$, і має місце перетин нерівностей:</p>
-<p align="center">$$a<x$$$$\quad$$ і $$\quad$$ $$x<b$$</p>
-<p>то це можна записати у скороченій формі, як</p>
-<p align="center">$$a<x<b.$$</p>
+<p>Якщо між двома нерівностями стоїть слово «<b>або</b>» - тобто мається на увазі <b>об’єднання розв’язків нерівностей</b> – це значить, що змінна повинна <b>задовольнити хоча б одну з нерівностей</b>. Таке об’єднання називається сукупністю нерівностей. В цьому випадку нерівності записуються одна під іншою з <b>великою квадратною скобкою зліва</b>. Умова попереднього прикладу тоді виглядатиме як:</p>
+<p align="center">$$ 
+\dfrac{x}{2} - 1 > 0 \quad або \quad -\dfrac{1}{4}(x+1) > 0 \quad\Longleftrightarrow\quad \left[\begin{gathered} 
+\hspace{-0.25cm}\dfrac{x}{2} - 1 > 0,\\ 
+-\dfrac{1}{4}(x+1) > 0. 
+\end{gathered}\right. 
+$$</p>
+<p align="center">спростивши:</p>
+<p align="center">$$ 
+x > 2 \quad або \quad x<-1 \quad\Longleftrightarrow\quad\left[\begin{gathered} 
+\hspace{-0.25cm}x>2,\\ 
+x<-1. 
+\end{gathered}\right. 
+$$</p>
 </div>
 </div>
 </div>
