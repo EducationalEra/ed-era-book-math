@@ -27,3 +27,19 @@
 </div>
 </div>
 </div>
+
+<div class="space">
+<div class="task-wrap">
+<span class="task">Приклад</span>
+<div class="task-text">
+Знайти корені рівняння $$\dfrac{x-3}{x^2+4x+3} + \dfrac{1}{x+1} = -\dfrac{x}{x+3}$$ . 
+<p><b><i>Розв’язок</i></b>.</p>
+<p>Користуємося вищезазначеним алгоритмом.</p>
+<ol>
+<li>Перетворюємо рівняння до вигляду $$\dfrac{P(x)}{Q(x)} = 0$$:</li>
+<div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/143/p34_e4.png"/></p></div>
+</ol>
+<b>Вiдповiдь.</b> Отже, $$x \in (-\sqrt{5};0) \cup (0;\sqrt{5})$$.
+</div>
+</div>
+</div>
