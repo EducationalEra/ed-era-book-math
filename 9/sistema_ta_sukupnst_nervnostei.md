@@ -92,3 +92,51 @@ x \geq 3 \nonumber
 </div>
 </div>
 </div>
+
+<div class="space">
+<div class="ebio-wrap">
+<span class="ebio">Скорочений запис перетину нерівностей</span>
+<div class="ebio-text">
+<p>Якщо $$a<b$$, і має місце перетин нерівностей:</p>
+<p align="center">$$a<x$$$$\quad$$ і $$\quad$$ $$x<b$$</p>
+<p>то це можна записати у скороченій формі, як</p>
+<p align="center">$$a<x<b.$$</p>
+</div>
+</div>
+</div>
+
+<p>Всі операції в такому записі проводяться одночасно над всіма трьома сторонами нерівності. Під час розв’язання метою є <b>залишити змінну $$x$$ «на самоті» в центральній частині</b> нерівності.</p>
+
+<p>Насправді, ми вже навчились розв’язувати найпростіші системи та сукупності нерівностей.</p>
+
+<div class="space">
+<div class="ebio-wrap">
+<span class="ebio">Система нерівностей</span>
+<div class="ebio-text">
+<p>Якщо між двома нерівностями стоїть слово «<b>і</b>» - тобто мається на увазі <b>перетин розв’язків нерівностей</b> – це значить, що змінна повинна <b>задовольнити обидві нерівності</b> одночасно. Перед нами ніщо інше, як <b>система нерівностей</b>. Такі нерівності записуються одна під іншою з <b>великою фігурною скобкою зліва</b>. Умова попереднього прикладу тоді виглядатиме як:</p>
+<p>$$-3(x-5)\leq 6 \quad i \quad x-2<5 \quad \Longleftrightarrow \quad \begin{cases} 
+-3(x-5)\leq 6,\\ 
+x-2<5. 
+\end{cases}$$</p>
+<p align="center">спростивши:</p>
+<p align="center">$$ 
+x \geq 3 \quad i \quad x<7 \quad\Longleftrightarrow\quad3\leq x<7\quad\Longleftrightarrow\quad \begin{cases} 
+x \geq 3,\\ 
+x<7. 
+\end{cases}  
+$$</p>
+</div>
+</div>
+</div>
+
+<div class="space">
+<div class="ebio-wrap">
+<span class="ebio">Скорочений запис перетину нерівностей</span>
+<div class="ebio-text">
+<p>Якщо $$a<b$$, і має місце перетин нерівностей:</p>
+<p align="center">$$a<x$$$$\quad$$ і $$\quad$$ $$x<b$$</p>
+<p>то це можна записати у скороченій формі, як</p>
+<p align="center">$$a<x<b.$$</p>
+</div>
+</div>
+</div>
