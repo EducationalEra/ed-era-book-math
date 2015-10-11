@@ -4,11 +4,11 @@
 
 <p>Один з найшвидших серійних авто в світі – Mercedes-AMG $$C63$$ може з місця прискоритись до $$100$$ км/год за $$4,1$$ с, маючи при цьому максимальну швидкість $$250$$ км/год.</p>
 
-<div class="space"><p align="center"><img align="middle" width="75%" height="50%" class="image" src="../pics/143/merc1.png"/><img align="middle" width="75%" height="50%" class="image" src="../pics/143/merc2.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="75%" height="50%" class="image" src="../pics/143/merc1.jpg"/><img align="middle" width="75%" height="50%" class="image" src="../pics/143/merc2.jpg"/></p></div>
 
 <p>А тепер погляньте на болід Ferrari гоночної серії Формула $$1$$.</p>
 
-<div class="space"><p align="center"><img align="middle" width="75%" height="50%" class="image" src="../pics/143/ferrari.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="75%" height="50%" class="image" src="../pics/143/ferrari.jpg"/></p></div>
 
 <p>Цей красень зривається з місця до $$100$$ км/год за $$1,7$$ с, до $$200$$ км/год за $$3,8$$ с, та має максимальну швидкість приблизно $$350$$ км/год! Неймовірно, чи не так?</p>
 
