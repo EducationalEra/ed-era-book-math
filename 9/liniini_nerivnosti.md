@@ -95,11 +95,11 @@
 <p>Розв’язати нерівність: $$\dfrac{(2x-1)^2}{4}-\dfrac{3(x-1)}{4} \geq x^2$$.</p>
 <b><i>Розв’язок</i></b>.</p>
 <p>Розкриваємо дужки та спрощуємо вирази в лівій частині нерівності:</p>
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e11.png"/></p></div>
-<p>Збираємо всі доданки зі змінною $$x$$ в лівій частині, а вільні доданки – в правій:</p>
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e12.png"/></p></div>
-<p>Ділимо на коефіцієнт при змінній:</p>
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e13.png"/></p></div>
+<p>Збираємо всі доданки зі змінною $$x$$ в лівій частині, а вільні доданки – в правій:</p>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e14.png"/></p></div>
+<p>Ділимо на коефіцієнт при змінній:</p>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e15.png"/></p></div>
 <p>Записуємо відповідь в інтервальному представленні та зображаємо її на числовій прямій:</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/p14_11.png"/></p></div>
 <b>Вiдповiдь.</b> $$x \in \left(-\infty;\dfrac{4}{7}\right]$$.
