@@ -38,9 +38,9 @@
 <ol>
 <li>Виразимо нерівність у вигляді $$P(x)>0$$ або $$P(x)<0$$:</li>
 <p>Перетворюємо нерівність таким чином, аби праворуч залишився нуль:</p>
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p24_e1.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/142/p24_e1.png"/></p></div>
 <li>Розв’яжемо рівняння $$P(x)=0$$ розклавши многочлен у лівій частині на множники:</li>
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p24_e2.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/142/p24_e2.png"/></p></div>
 <p>Отже, граничні точки: $$-4;-2;2$$.</p>
 <li>Зобразимо ці точки на числовій прямій.</li>
 <p>В результаті утворилося чотири інтервали:</p>
@@ -114,7 +114,7 @@
 <p>Зобразимо їх на числовій прямій.</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_6.png"/></p></div>
 <li>Шукаємо знак функції на правому інтервалі $$(2;\infty)$$. Підставимо тестове значення «<font color="#0F5180"><i>мільярд</i></font>».</li>
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p24_e3.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/142/p24_e3.png"/></p></div>
 <p>Функція $$P(x)$$ в точці <font color="#0F5180"><i>мільярд</i></font> має два додатних множники і один від’ємний, отже, функція в цій точці буде від’ємною.</p>
 <p>Отже правий інтервал має додатній знак. Всі корені мають непарну кратність «$$1$$», тому решту знаків чередуємо рухаючись справа наліво при переході через граничні точки:</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_7.png"/></p></div>
