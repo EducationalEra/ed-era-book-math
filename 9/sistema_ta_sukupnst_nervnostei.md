@@ -213,8 +213,7 @@ x &\leq& \dfrac{3}{4} \nonumber
 $$\begin{eqnarray} 
 5x-2 &>& 1-x\nonumber\\ 
 6x &>& 3\nonumber\\ 
-x &>& \dfrac{1}{2}\nonumber\\ 
-&& \nonumber 
+x &>& \dfrac{1}{2}\nonumber
 \end{eqnarray}$$
 </td>
 </table>
