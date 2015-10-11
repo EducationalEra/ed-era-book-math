@@ -23,7 +23,7 @@
 <p>В загальному випадку застосуємо метод інтервалів.</p>
 <ol>
 <li>Зводимо нерівність до стандартного вигляду $$\dfrac{P(x)}{Q(x)}>0$$ або $$\dfrac{P(x)}{Q(x)}<0$$:</li>
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/142/p24_e81.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="40%" height="40%" class="image" src="../pics/142/p24_e81.png"/></p></div>
 <li>Шукаємо граничні точки, для цього розкладаємо многочлени з чисельника і знаменника на множники.</li>
 <p>В знаменнику все просто: $$3-ax = a\left(\dfrac{3}{a}-x\right)$$, в чисельнику: $$x^2+ax=x(x+a)$$.</p>
 <p>Отже нерівність можна переписати у вигляді:</p>
