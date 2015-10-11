@@ -150,3 +150,80 @@ $$</p>
 </div>
 </div>
 </div>
+
+<p>Системи і сукупності нерівностей дуже просто та наочно розв’язуються за допомогою інтервального представлення розв’язків.</p>
+
+<p>Надалі ми будемо користуватись поняттями системи і сукупності нерівностей для розв’язання нерівностей з модулями. </p>
+
+<div class="space">
+<div class="task-wrap">
+<span class="task">Приклад</span>
+<div class="task-text">
+<b>Розв’язати систему нерівностей: $$\begin{cases} 
+5x+2(1-x) \geq x+5,\\ 
+\dfrac{x}{2}+5>-2(5+x). 
+\end{cases}$$</b>
+<p><b><i>Розв’язок.</i></b></p>
+<p>Розв’язуємо кожну з нерівностей окремо:</p>
+<table>
+<td>
+$$\begin{eqnarray} 
+5x+2(1-x) &\geq& x+5 \nonumber\\ 
+5x+2-2x &\geq& x+5 \nonumber\\ 
+2x &\geq& 3 \nonumber\\ 
+x &\geq& \dfrac{3}{2} \nonumber 
+\end{eqnarray}$$
+</td>
+<td>
+$$\begin{eqnarray} 
+\dfrac{x}{2}+5 &>& -2(5+x)\nonumber\\ 
+\dfrac{x}{2}+5 &>& -10-2x\nonumber\\ 
+\dfrac{5x}{2} &>& -15\nonumber\\ 
+x &>& -6\nonumber 
+\end{eqnarray}$$
+</td>
+</table>
+<p>Залишилося зобразити розв’язки на числовій прямій та знайти їхній перетин.</p>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_23.png"/></p></div>
+<p><b>Вiдповiдь.</b>$$x \in \left[\dfrac{3}{2};\infty\right).$$</p>
+</div>
+</div>
+</div>
+
+<div class="space">
+<div class="task-wrap">
+<span class="task">Приклад</span>
+<div class="task-text">
+<b>Розв’язати сукупність нерівностей: $$\left[\begin{gathered} 
+x+2\leq8-3(x+1),\\ 
+5x-2>1-x. 
+\end{gathered}\right.$$</b>
+<p><b><i>Розв’язок.</i></b></p>
+<p>Розв’язуємо кожну з нерівностей окремо:</p>
+<table>
+<td>
+$$\begin{eqnarray} 
+x+2 &\leq& 8-3(x+1) \nonumber\\ 
+x+2 &\leq& 8-3x-3 \nonumber\\ 
+4x &\leq& 3 \nonumber\\ 
+x &\leq& \dfrac{3}{4} \nonumber 
+\end{eqnarray}$$
+</td>
+<td>
+$$\begin{eqnarray} 
+5x-2 &>& 1-x\nonumber\\ 
+6x &>& 3\nonumber\\ 
+x &>& \dfrac{1}{2}\nonumber\\ 
+&& \nonumber 
+\end{eqnarray}$$
+</td>
+</table>
+<p>Залишилося зобразити розв’язки на числовій прямій та знайти їхнє об'єднання.</p>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_24.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_25.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_26.png"/></p></div>
+<p><b>Вiдповiдь.</b>$$x \in \mathbb{R}.$$</p>
+</div>
+</div>
+</div>
+
