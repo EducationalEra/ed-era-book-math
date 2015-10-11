@@ -15,7 +15,7 @@
 <p><b><i>Розв’язок</i></b>.</p>
 <p>Перше «контрольне» значення параметру: $$a=0$$.</p>
 <p>В такому випадку нерівність перетворюється на раціональну: $$\dfrac{x^2+3}{3}>1$$. Розв’яжемо її:</p>
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/142/p24_e8.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/142/p24_e8.png"/></p></div>
 <p>Зображуємо розв’язок на числовій вісі: </p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_19.png"/></p></div>
 <p>Отже при $$a=0$$ маємо $$x\in(-\infty;0)\cup(0;\infty)$$.</p>
