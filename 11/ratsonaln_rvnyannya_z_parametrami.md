@@ -71,7 +71,7 @@
 </ul>
 </ol>
 <p>Тепер головне не заплутатись і перерахувати всі розглянуті випадки:</p>
-<b>Вiдповiдь.</b> $$x=0$$.
+<b>Вiдповiдь.</b> <div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/143/p34_e12.png"/></p></div>
 </div>
 </div>
 </div>
