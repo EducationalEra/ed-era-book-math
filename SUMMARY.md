@@ -52,7 +52,7 @@
    * [Метод заміни змінної](8/metod_zamni_zmnno.md)
 * Цілі нерівності
    * Основні властивості
-   * [Лiнiйнi нерiвностi](9/liniini_nerivnosti.md)
+   * Лiнiйнi нерiвностi
    * [Система та сукупність нерівностей](9/sistema_ta_sukupnst_nervnostei.md)
    * [Нерiвностi з модулями](9/nerivnosti_z_modulyami.md)
 * Метод інтервалів
