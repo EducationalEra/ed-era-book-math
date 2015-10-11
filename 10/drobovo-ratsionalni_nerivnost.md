@@ -74,7 +74,7 @@
 <p>Зобразимо їх на числовій прямій. Точка $$x=-3$$ має кратність «$$2$$» - малюємо одну «пелюстку» на числовій вісі. Точка $$x=-2$$ має кратність «$$3$$» - малюємо дві «пелюстки»:</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_16.png"/></p></div>
 <li>Шукаємо знак функції на правому інтервалі $$(3;\infty)$$. Підставимо тестове значення «<font color="#0F5180"><i>мільярд</i></font>».</li>
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/142/p24_e7.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/142/p24_e7.png"/></p></div>
 <p>Всі чотири множники додатні, функція на цьому інтервалі має додатній знак.</p>
 <p>Все, що потрібно зробити – проставити знаки на решті інтервалах справа наліво, почергово змінюючи знак на протилежний:</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_17.png"/></p></div>
