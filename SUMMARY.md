@@ -54,7 +54,7 @@
    * [Основні властивості](9/osnovn_vlastivost.md)
    * [Лiнiйнi нерiвностi](9/liniini_nerivnosti.md)
    * [Система та сукупність нерівностей](9/sistema_ta_sukupnst_nervnostei.md)
-   * Нерiвностi з модулями
+   * [Нерiвностi з модулями](9/nerivnosti_z_modulyami.md)
 * Метод інтервалів
    * Квадратні нерівності
    * Метод інтервалів
