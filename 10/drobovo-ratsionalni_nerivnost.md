@@ -46,11 +46,14 @@
 <p align="center">$$\dfrac{(\sqrt{5}-x)(\sqrt{5}+x)}{x}<0$$</p>
 <li>Граничні точки многочлена $$P(x)$$ в чисельнику: $$-\sqrt{5};\sqrt{5}$$, а граничні точки многочлена $$Q(x)$$ в знаменнику: $$0$$. Загальні граничні точки: $$-\sqrt{5};0;\sqrt{5}$$.</li>
 <p>Зобразимо їх на числовій прямій:</p>
+<div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_13.png"/></p></div>
 <li>Шукаємо знак функції на правому інтервалі $$(\sqrt{5};\infty)$$. Підставимо тестове значення «<font color="#0F5180"><i>мільярд</i></font>».</li>
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/142/p24_e6.png"/></p></div>
 <p>Два множники додатні, один від’ємний – функція на цьому інтервалі має від’ємний знак.</p>
 <p>Все, що потрібно зробити – проставити знаки на решті інтервалах справа наліво, почергово змінюючи знак на протилежний:</p>
+<div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_14.png"/></p></div>
 <li>Залишилось обрати інтервали, де функція додатна, бо за умовою $$\dfrac{P(x)}{Q(x)}<0$$. Такими є інтервали $$(-\sqrt{5};0)$$ та $$(0;\sqrt{5})$$.</li>
+<div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_15.png"/></p></div>
 </ol>
 <b>Вiдповiдь.</b> Отже, $$x \in (-\sqrt{5};0) \cup (0;\sqrt{5})$$.
 </div>
