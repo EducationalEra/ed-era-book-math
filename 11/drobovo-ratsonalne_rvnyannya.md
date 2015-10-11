@@ -63,7 +63,38 @@
 <p>Розв’язуємо рівняння з чисельника:</p>
 <div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/143/p34_e7.png"/></p></div>
 <p>Поглянемо на ОДЗ змінної, знаменник повинен бути відмінним від нуля: $$(t-3)(t+4)\neq0$$. Це даэ два заборонених значення змінної: $$t\neq3;t\neq-4$$. Обидва знайдені значення задовольняють ОДЗ.</p>
-<b>Вiдповiдь.</b> $$x=0$$.
+<p>Повертаємося до вихідної змінної $$x$$ і отримуємо ще два дробових раціональних рівняння:</p>
+<p align="center">$$\left[ \begin{gathered} 
+x + \dfrac{2}{x} = 10, \hfill \\ 
+x + \dfrac{2}{x} = \dfrac{1}{2} \hfill \\ 
+\end{gathered} 
+\right.$$</p>
+<p>Так, як раніше ми вже перевірили, що $$x\neq0$$ – можемо спокійно домножити обидві частини рівнянь на $$x$$ та розв'язати отримані квадратні рівняння:</p>
+<table>
+<tr>
+<td>$$\left(x + \dfrac{2}{x} \right)\cdot x=10\cdot x$$</td>
+<td>$$\left(x + \dfrac{2}{x} \right)\cdot x= \dfrac{1}{2}\cdot x$$</td>
+</tr>
+<tr>
+<td>$$x^2+2=10x$$</td>
+<td>$$x^2+2=\dfrac{x}{2}$$</td>
+</tr>
+<tr>
+<td>$$x^2-10x+2=0$$</td>
+<td>$$x^2-\dfrac{x}{2}+2=0$$</td>
+</tr>
+<tr>
+<td>$$D=(-10)^2-4\cdot1\cdot2=92>0$$</td>
+<td>$$D=\left(-\dfrac{1}{2} \right)^2-4\cdot1\cdot2=-\dfrac{31}{4}<0$$</td>
+</tr>
+<tr>
+<td>$$x_{1,2}=\dfrac{10\pm\sqrt{92}}{2}=5\pm\sqrt{23}$$</td>
+<td>$$x \in \emptyset$$</td>
+</tr>
+</table>
+<p>Отже, вихідне рівняння має корені $$x_{1,2}=5\pm\sqrt{23}$$.</p>
+<b>Вiдповiдь.</b> $$x_{1,2}=5\pm\sqrt{23}$$.
 </div>
 </div>
 </div>
+
