@@ -113,13 +113,14 @@
 <ol start="3">
 <li>Граничні точки многочлена: $$-2;2;3$$.</li>
 <p>Зобразимо їх на числовій прямій.</p>
-
+<div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_7.png"/></p></div>
 <li>Шукаємо знак функції на правому інтервалі $$(2;\infty)$$. Підставимо тестове значення «<font color="#0F5180"><i>мільярд</i></font>».</li>
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/142/p24_e3.png"/></p></div>
 <p>Функція $$P(x)$$ в точці <font color="#0F5180"><i>мільярд</i></font> має два додатних множники і один від’ємний, отже, функція в цій точці буде від’ємною.</p>
 <p>Отже правий інтервал має додатній знак. Всі корені мають непарну кратність «$$1$$», тому решту знаків чередуємо рухаючись справа наліво при переході через граничні точки:</p>
-<div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_7.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_8.png"/></p></div>
 <li>Залишилось обрати інтервали, де функція від’ємна, бо за умовою $$P(x)<0$$. Такими є інтервали $$(-\infty;-3)$$ та $$(-2;2)$$.</li>
+<div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_9.png"/></p></div>
 </ol>
 <b>Вiдповiдь.</b> Отже, $$x \in (-\infty;-3) \cup (-2;2)$$.
 </div>
