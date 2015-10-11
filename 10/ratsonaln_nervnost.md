@@ -6,7 +6,7 @@
 
 <p>Пропоную подивитися <a href="http://youtu.be/iD4qsWnjsNU">відеозапис стрибка</a>. Вражає, чи не так?</p>
 
-<div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_1.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="75%" height="50%" class="image" src="../pics/142/p24_1.png"/></p></div>
 
 <p>А тепер спробуємо описати цей стрибок математично. На примітивному рівні, звичайно. Висота Бурдж Халіфа – $$828$$ метрів. Залежність висоти від часу при вільному падінні описується квадратичною функцією:</p>
 
