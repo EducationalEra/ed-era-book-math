@@ -8,6 +8,12 @@
 
 <div class="space"><p align="center"><img align="middle" width="75%" height="50%" class="image" src="../pics/142/p24_1.png"/></p></div>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/PBmhpruaDpA" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <p>А тепер спробуємо описати цей стрибок математично. На примітивному рівні, звичайно. Висота Бурдж Халіфи – $$828$$ метрів. Залежність висоти від часу при вільному падінні описується квадратичною функцією:</p>
 
 <p alighn=center>$$h(t) = h_{0} + v_{0}t - \dfrac{gt^2}{2}$$</p>
