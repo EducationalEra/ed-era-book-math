@@ -50,7 +50,7 @@
    * [Метод підстановки](8/metod_pdstanovki.md)
    * [Метод алгебраїчного додавання](8/metod_algebrachnogo_dodavannya.md)
    * [Метод заміни змінної](8/metod_zamni_zmnno.md)
-* Цілі нерівності
+* [Цілі нерівності](9/zagaln_vdomost_pro_nervnost.md)
    * Основні властивості
    * [Лiнiйнi нерiвностi](9/liniini_nerivnosti.md)
    * Система та сукупність нерівностей
