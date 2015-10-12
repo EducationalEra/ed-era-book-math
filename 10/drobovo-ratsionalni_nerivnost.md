@@ -85,3 +85,20 @@
 </div>
 </div>
 </div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+ <question text="">
+        <p>Скільки граничних точок має нерівність: $$\dfrac{(x-5)(x+1)(x-2)}{x^2-25}$$</p>
+        <answer correct>$$4$$</answer>
+        <answer>$$5$$</answer>
+        <answer>$$6$$</answer>
+        <answer>$$7$$</answer>
+</question>
+<question text="">
+        <p>На скільки інтервалів розбивається числова пряма для нерівності: $$\dfrac{(x-5)(x+3)(x-3)}{x^2+9}$$</p>
+        <answer>$$2$$</answer>
+        <answer>$$3$$</answer>
+        <answer correct>$$4$$</answer>
+        <answer>$$5$$</answer>
+</question>
+</quiz>
