@@ -55,7 +55,7 @@
    * [Лiнiйнi нерiвностi](9/liniini_nerivnosti.md)
    * [Система та сукупність нерівностей](9/sistema_ta_sukupnst_nervnostei.md)
    * [Нерiвностi з модулями](9/nerivnosti_z_modulyami.md)
-* Метод інтервалів
+* [Метод інтервалів](10/ratsonaln_nervnost.md)
    * Раціональні нерівності
    * Метод інтервалів
    * Дробово-рацiональнi нерiвності
