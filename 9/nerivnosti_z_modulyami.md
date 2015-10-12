@@ -117,3 +117,21 @@ f(x)<-g(x).
 </div>
 </div>
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+ <question text="">
+        <p>Розв'яжіть нерівність: $$|x−5|>4$$</p>
+        <answer correct>$$(-\infty;1)\cup(9;\infty)$$</answer>
+        <answer>$$(-\infty;1)\cap(9;\infty)$$</answer>
+        <answer>$$(1;9)$$</answer>
+        <answer>$$(-\infty;\infty)$$</answer>
+        <explanation>
+        <p>Розкриємо модуль з додатним знаком:</p>
+        <p>$$x-5>4$$</p>
+        <p>$$x>9$$</p>
+        <p>Розкриємо модуль з від'ємним знаком:</p>
+        <p>$$-x+5>4$$</p>
+        <p>$$x<1$$</p>
+        <p>Об'єднання інтервалів і буде розв'яззком: $$(-\infty;1)\cup(9;\infty)$$</p>
+        </explanation>
+</question>
+</quiz>
