@@ -104,3 +104,12 @@ t^2 - 148,57 &< 0 \nonumber \\
 
 <p><i>Наприклад:</i> $$x^2>0;\quad x^2-3>x;\quad(x-2)(x+3)(x-5)^2\leq0;\quad x^4-5x^3+x-7<10x^2.$$</p>
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+ <question text="">
+        <p>Якою на вашу думку була швидкість стрибунів на момент відкриття парашуту?</p>
+        <answer>$$30$$ м/с</answer>
+        <answer>$$60$$ м/с</answer>
+        <answer>$$90$$ м/с</answer>
+        <answer correct>$$120$$ м/с</answer>
+</question>
+</quiz>
