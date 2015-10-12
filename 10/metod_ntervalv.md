@@ -4,6 +4,12 @@
 
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_3.png"/></p></div>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/rDMuFT8bhWQ" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <p>Графіки допоможуть нам зрозуміти сутність методу інтервалів. Наприклад, поглянемо на графік функції</p> <p align="center">$$f(x)=x^3+2x^2-5x-6$$</p>
 
 <p>Основна думка полягає в тому, що <b>раціональна функція може змінювати знак лише у точках, в яких вона рівна нулеві.</b></p>
