@@ -20,7 +20,7 @@
 <p>Уявіть, яку перевагу болід Формули $$1$$ матиме на трасі над суперкаром Mercedes.</p>
 
 <p>Ось це відео – чудова демонстрація цьому.</p> 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/3RuUp5MT3Uc" frameborder="0" allowfullscreen></iframe></p>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/3RuUp5MT3Uc" frameborder="0" allowfullscreen></iframe>
 
 <p>Додамо трошки математики.</p>
 
@@ -55,7 +55,7 @@ N \neq 0
 
 <p>Дуже раджу подивитись випуск програми «Інженерні ідеї з Річардом Хамондом» про Формулу $$1$$:</p>
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/e4AS2kZnHk0" frameborder="0" allowfullscreen></iframe></p>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/e4AS2kZnHk0" frameborder="0" allowfullscreen></iframe>
 
 
 
