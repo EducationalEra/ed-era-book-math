@@ -226,3 +226,61 @@ x &>& \dfrac{1}{2}\nonumber
 </div>
 </div>
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+ <question text="">
+        <p>Розв'язати систему нерівностей:
+$$\begin{cases}
+4x-6(x-1)<2x+3\\
+6(x-1)-x>4
+\end{cases}$$</p>
+        <answer correct>$$x<\dfrac{9}{4}$$</answer>
+        <answer>$$x>2$$</answer>
+        <answer>$$x<-2$$</answer>
+        <answer>$$x<0$$</answer>
+        <explanation>
+        <p>Спростимо систему нерівностей:</p>
+        <p>$$\begin{cases}
+4x-6x-6<2x+3\\
+6x-6-x>4
+\end{cases}$$</p>
+<p>$$\begin{cases}
+-4x<9\\
+5x>10
+\end{cases}$$</p>
+<p>$$\begin{cases}
+x>\dfrac{9}{4}\\
+x>2
+\end{cases}$$</p>
+<p>Спільний інтервал для цих двох нерівностей:</p>
+<p>$$x>\dfrac{9}{4}$$</p>
+        </explanation>
+</question>
+<question text="">
+        <p>Розв'язати систему нерівностей:
+$$\begin{cases}
+x<4-3x-2(1-x)\\
+7x+4>1+x-3(4x-1)
+\end{cases}$$</p>
+        <answer>$$x \in [0;1]$$</answer>
+        <answer>$$x \in (0;-1)$$</answer>
+        <answer>$$x >0$$</answer>
+        <answer correct>$$\(x \in (0;1)$$</answer>
+        <explanation>
+        <p>Спростимо систему нерівностей:</p>
+        <p>$$\begin{cases}
+x<4-3x-2+2x\\
+7x+4>1+x-12x+3
+\end{cases}$$</p>
+<p>$$\begin{cases}
+2x<2\\
+18x>0
+\end{cases}$$</p>
+<p>$$\begin{cases}
+x<1\\
+x>0
+\end{cases}$$</p>
+<p>Спільний інтервал для цих двох нерівностей:</p>
+<p>$$x \in (0;1)$$</p>
+        </explanation>
+</question>
+</quiz>
