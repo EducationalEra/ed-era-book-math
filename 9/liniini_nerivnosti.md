@@ -107,3 +107,35 @@
 </div>
 </div>
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+ <question text="">
+        <p>Розв'язати нерівність: $$4(x-2)>5(x-3)$$</p>
+        <answer correct>$$x<7$$</answer>
+        <answer>$$x>7$$</answer>
+        <answer>$$x<-7$$</answer>
+        <answer>$$x>-7$$</answer>
+        <explanation>
+        <p>Розкриємо дужки і спростимо нерівність:</p>
+        <p>$$4x-8>5x-15$$</p>
+        <p>$$4x-5x>-15+8$$</p>
+        <p>$$-x>-7$$</p>
+        <p>Помножимо обидві частини нерівності на $$-1$$, при цьому знак нерівності зміниться на протилежний:</p>
+        <p>$$x<7$$</p>
+        </explanation>
+</question>
+<question text="">
+        <p>Розв'язати нерівність: $$7x-1+4(x+3)<6x$$</p>
+        <answer>$$x>\dfrac{11}{5}$$</answer>
+        <answer>$$x<\dfrac{11}{5}$$</answer>
+        <answer>$$x>-\dfrac{11}{5}$$</answer>
+        <answer correct>$$x<-\dfrac{11}{5}$$</answer>
+        <explanation>
+        <p>Pозкриємо дужки і спростимо нерівність:</p>
+        <p>$$7x-1+4x+12<6x$$</p>
+        <p>$$11x-6x<-11$$</p>
+        <p>$$5x<-11$$</p>
+        <p>Помножимо обидві частини нерівності на $$\dfrac{1}{5}$$:</p>
+        <p>$$x<-\dfrac{11}{5}$$</p>
+        </explanation>
+</question>
+</quiz>
