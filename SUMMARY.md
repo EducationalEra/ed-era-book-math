@@ -51,7 +51,7 @@
    * [Метод алгебраїчного додавання](8/metod_algebrachnogo_dodavannya.md)
    * [Метод заміни змінної](8/metod_zamni_zmnno.md)
 * [Цілі нерівності](9/zagaln_vdomost_pro_nervnost.md)
-   * Основні властивості
+   * [Основні властивості](9/osnovn_vlastivost.md)
    * [Лiнiйнi нерiвностi](9/liniini_nerivnosti.md)
    * Система та сукупність нерівностей
    * Нерiвностi з модулями
