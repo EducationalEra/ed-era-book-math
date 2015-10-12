@@ -58,6 +58,12 @@
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/p14_7.png"/></p></div>
 </ul>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/Haxwi95BmWQ" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <div class="space">
 <div class="ebio-wrap">
 <span class="ebio">Дужки та крапочки</span>
