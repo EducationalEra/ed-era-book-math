@@ -62,3 +62,13 @@
 </div>
 </div>
 </div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+ <question multiple>
+        <p>Які типи критичних значень параметра зустрінуться під час розв'язання нерівності $$\dfrac{(a-1)x^2-5x+10}{5(a-2)}>0$$?</p>
+        <answer correct>перетворення квадратичного виразу на лінійний</answer>
+        <answer correct>рівність дискримінанту нулеві</answer>
+        <answer correct>рівність знаменнику нулеві</answer>
+        <answer>рівність підмодульного виразу нулеві</answer>
+</question>
+</quiz>
