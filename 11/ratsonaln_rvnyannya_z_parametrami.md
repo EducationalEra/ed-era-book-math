@@ -75,3 +75,15 @@
 </div>
 </div>
 </div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+ <question multiple>
+        <p>За яких значень параметра $$a$$ рівняння $$\dfrac{a-x}{x^2+x-72}=0$$ не матиме коренів?</p>
+        <answer correct>$$-9$$</answer>
+        <answer>$$-5$$</answer>
+        <answer>$$0$$</answer>
+        <answer correct>$$8$$</answer>
+        <answer>$$10$$</answer>
+        <answer>$$14$$</answer>
+</question>
+</quiz>
