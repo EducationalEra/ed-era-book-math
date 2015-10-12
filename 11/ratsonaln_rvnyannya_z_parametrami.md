@@ -14,6 +14,11 @@
 Розв’язати рівняння $$\dfrac{x+5}{ax+2}-\dfrac{ax+4}{1-x}=0$$. 
 <p><b><i>Розв’язок</i></b>.</p>
 <p>Маємо дробове раціональне рівняння.</p>
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/mbOe51sfq7o" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
 <p>Зводимо його до стандратного вигляду $$\dfrac{P(x)}{Q(x)} = 0$$:</p>
 <div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/143/p34_e8.png"/></p></div>
 <p align="center">$$(a^2-1) x^2-(2a+4)x-3=0$$</p>
@@ -34,7 +39,7 @@
 <p>Розглянемо два випадки для позбавлення значка модуля:</p>
 <p>При $$a>-\dfrac{1}{2}$$:</p>
 <p align="center">$$x_1=\dfrac{a+2+(2a+1)}{a^2-1}=\dfrac{3a+3}{(a+1)(a-1)}=\dfrac{3(a+1)}{(a+1)(a-1)}=\dfrac{3}{a-1}$$</p>
-<p align="center">$x_2=\dfrac{a+2-(2a+1)}{a^2-1}=\dfrac{-a+1}{(a+1)(a-1)}=\dfrac{-1}{a+1}$</p>
+<p align="center">$$x_2=\dfrac{a+2-(2a+1)}{a^2-1}=\dfrac{-a+1}{(a+1)(a-1)}=\dfrac{-1}{a+1}$$</p>
 <p>При $$a<-\dfrac{1}{2}$$:</p>
 <p align="center">$$x_1=\dfrac{a+2-(2a+1)}{a^2-1}=\dfrac{-a+1}{(a+1)(a-1)}=\dfrac{-1}{a+1}$$</p>
 <p align="center">$$x_2=\dfrac{a+2+(2a+1)}{a^2-1}=\dfrac{3a+3}{(a+1)(a-1)}=\dfrac{3(a+1)}{(a+1)(a-1)}=\dfrac{3}{a-1}$$</p>
