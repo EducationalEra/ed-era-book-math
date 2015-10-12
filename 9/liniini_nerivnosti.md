@@ -9,6 +9,12 @@
 </div>
 </div>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/LTtMdF3H4Cs" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <p>Повернемося до нашого прикладу з мобільним зв’язком: Скільки Мб інтернет-трафіку може використати Сашко з бюджетом $$75$$ грн.? На це питання можна відповісти, розв’язавши нерівність</p>
 
 <p align="center">$$40 + 0,05x \leq 75$$</p>
@@ -105,6 +111,12 @@
 <b>Вiдповiдь.</b> $$x \in \left(-\infty;\dfrac{4}{7}\right]$$.
 </div>
 </div>
+</div>
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/qBgsj6gxhYk" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
 </div>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
