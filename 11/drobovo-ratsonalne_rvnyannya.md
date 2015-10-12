@@ -98,3 +98,19 @@ x + \dfrac{2}{x} = \dfrac{1}{2} \hfill \\
 </div>
 </div>
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+ <question text="">
+        <p>Розв'яжіть рівняння: $$\dfrac{7x-2}{2x-7}=1$$</p>
+        <answer correct>$$x=-1$$</answer>
+        <answer>$$x=7$$</answer>
+        <answer>$$x=5$$</answer>
+        <answer>$$x=-2$$</answer>
+        <p>Претворимо рівняння до вигляду $$\dfrac{P(x)}{Q(x)}=0$$</p>
+        <p>$$\dfrac{(7x-2)-(2x-7)}{2x-7}=0$$</p>
+        <p>Розв'язуємо рівняння чисельника:</p>
+        <p>$$7x-2-2x+7=0$$</p>
+        <p>$$x=-1$$</p>
+        <p>Звернемо увагу на знаменник: $$x\neq\dfrac{7}{2}$$</p>
+        <p>отже, відповідь $$x=-1$$</p>
+</question>
+</quiz>
