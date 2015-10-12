@@ -53,7 +53,7 @@
 * [Цілі нерівності](9/zagaln_vdomost_pro_nervnost.md)
    * [Основні властивості](9/osnovn_vlastivost.md)
    * [Лiнiйнi нерiвностi](9/liniini_nerivnosti.md)
-   * Система та сукупність нерівностей
+   * [Система та сукупність нерівностей](9/sistema_ta_sukupnst_nervnostei.md)
    * Нерiвностi з модулями
 * Метод інтервалів
    * Раціональні нерівності
