@@ -105,6 +105,7 @@ x + \dfrac{2}{x} = \dfrac{1}{2} \hfill \\
         <answer>$$x=7$$</answer>
         <answer>$$x=5$$</answer>
         <answer>$$x=-2$$</answer>
+        <explanation>
         <p>Претворимо рівняння до вигляду $$\dfrac{P(x)}{Q(x)}=0$$</p>
         <p>$$\dfrac{(7x-2)-(2x-7)}{2x-7}=0$$</p>
         <p>Розв'язуємо рівняння чисельника:</p>
@@ -112,5 +113,6 @@ x + \dfrac{2}{x} = \dfrac{1}{2} \hfill \\
         <p>$$x=-1$$</p>
         <p>Звернемо увагу на знаменник: $$x\neq\dfrac{7}{2}$$</p>
         <p>отже, відповідь $$x=-1$$</p>
+        </explanation>
 </question>
 </quiz>
