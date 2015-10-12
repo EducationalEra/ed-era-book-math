@@ -29,6 +29,12 @@ x>-3.
 
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_29.png"/></p></div>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/DdlJOHgJIls" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <p>Можна піти простішим шляхом: нерівність $$|x|<3$$ задовольняють значення $$x$$, що лежать на відстані менше $$3$$ від $$0$$ на числовій прямій:</p>
 
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_30.png"/></p></div>
