@@ -2,11 +2,13 @@
 
 <p>Бурдж Халіфа – найвища споруда в світі, що розташована в місті Дубай, Об'єднані Арабські Емірати. Вона сягає $$828$$ метрів і складається зі $$162$$ поверхів. Вежу можна побачити з відстані $$90$$ км!</p>
 
+<div class="space"><p align="center"><img align="middle" width="75%" height="50%" class="image" src="../pics/142/p24_1.png"/></p></div>
+
 <p>Бейс-джампінг – екстремальний вид спорту. B.A.S.E. – скорочення слів Building, Antenna, Span, Earth – об’єктів, з яких стрибають бейс-джампери. В $$2014$$ році двоє французьких джамперів Фред Ф'юген та Вінс Реффет встановили новий рекорд Гіннеса  - найвищий бейс-стрибок з будівлі – $$828$$ метрів. Вони стрибнули з самісінької кінцівки шпиля Бурдж-Халіфи.</p>
 
-<p>Пропоную подивитися <a href="http://youtu.be/iD4qsWnjsNU">відеозапис стрибка</a>. Вражає, чи не так?</p>
+<p>Пропоную подивитися відеозапис стрибка. Вражає, чи не так?</p>
 
-<div class="space"><p align="center"><img align="middle" width="75%" height="50%" class="image" src="../pics/142/p24_1.png"/></p></div>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/iD4qsWnjsNU" frameborder="0" allowfullscreen></iframe>
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/PBmhpruaDpA" frameborder="0" allowfullscreen></iframe>
