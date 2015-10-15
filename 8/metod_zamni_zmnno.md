@@ -152,7 +152,7 @@ x\cdot y = v.
 <li><p>$$x + y > 0, x - y > 0$$: $$\begin{cases}
 					x + y = 4,\\
 					x - y = 2.
-					\end{cases}$$</p></li>
+					\end{cases}$$</p>
 <p>Складаємо та віднімаємо рівняння:</p>
 <p align="center">$$\begin{cases}
 				x + y = 4,\\
@@ -165,11 +165,13 @@ x\cdot y = v.
 				\begin{cases}
 				x_1 = 3,\\
 				y_1 = 1.
-				\end{cases}$$</p>
+				\end{cases}$$
+</p></li>
 <li><p>$$x + y > 0, x - y < 0$$: $$\begin{cases}
 		x + y = 4,\\
 		-(x - y) = 2.
-		\end{cases}$$</p></li>
+		\end{cases}$$
+</p>
 <p>Складаємо та віднімаємо рівняння:</p>
 <p align="center">$$\begin{cases}
 	x + y = 4,\\
@@ -182,11 +184,12 @@ x\cdot y = v.
 	\begin{cases}
 	x_2 = 1,\\
 	y_2 = 3.
-	\end{cases}$$</p>
+	\end{cases}$$</p></li>
 <li><p>$$x + y < 0, x - y < 0$$: $$\begin{cases}
 		-(x + y) = 4,\\
 		-(x - y) = 2.
-		\end{cases}$$</p></li>
+		\end{cases}$$
+</p>
 <p>Складаємо та віднімаємо рівняння:</p>
 <p align="center">$$\begin{cases}
 	-x - y = 4,\\
@@ -199,11 +202,12 @@ x\cdot y = v.
 	\begin{cases}
 	x_3 = -3,\\
 	y_3 = -1.
-	\end{cases}$$</p>
+	\end{cases}$$</p></li>
 <li><p>$$x + y < 0, x - y > 0$$: $$\begin{cases}
 		-(x + y) = 4,\\
 		x - y = 2.
-		\end{cases}$$</p></li>
+		\end{cases}$$
+</p>
 <p>Складаємо та віднімаємо рівняння:</p>
 <p align="center">$$\begin{cases}
 	-x - y = 4,\\
@@ -216,9 +220,9 @@ x\cdot y = v.
 	\begin{cases}
 	x_4 = -1,\\
 	y_4 = -3.
-	\end{cases}$$</p>	
+	\end{cases}$$</p></li>	
 </ol>
-<p><b>Відповідь.</b>$ $\{(3; 1), (1; 3), (-3; -1), (-1; -3)\}.$$</p>
+<p><b>Відповідь.</b> $$\{(3; 1), (1; 3), (-3; -1), (-1; -3)\}.$$</p>
 </div>
 </div>
 </div>
@@ -231,4 +235,4 @@ x\cdot y = v.
         <answer correct>$$u=x+y, v=x-y$$</answer>
         <answer>$$u=x^2+xy, v=y^2+xy$$</answer>
         </question>
-</quiz>
+<quiz>
