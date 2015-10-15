@@ -100,4 +100,4 @@ c\cdot F_1(x, y) + d\cdot F_2(x, y) = 0;
         $$\begin{cases}y=\dfrac{1}{2}, \\ x=\dfrac{3}{2}. \end{cases}$$
         </explanation>
         </question>
-<quiz>
+</quiz>
