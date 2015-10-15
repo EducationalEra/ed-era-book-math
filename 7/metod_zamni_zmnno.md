@@ -47,12 +47,12 @@
 			\right. \Longleftrightarrow \left[ \begin{gathered}
 			x=3, \hfill \\
 			x=2, \hfill \\
-			x=2,5, \hfill \\
+			x=3,5, \hfill \\
 			x=1,5. \hfill \\
 			\end{gathered}
 			\right.$$
 </p>
-<p><b>Відповідь.</b>$$\{1,5; 2; 2,5; 3\}.$$</p>
+<p><b>Відповідь.</b>$$\{1,5; 2; 3; 3,5\}.$$</p>
 </div>
 </div>
 </div>
