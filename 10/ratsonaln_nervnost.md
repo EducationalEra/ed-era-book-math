@@ -8,7 +8,9 @@
 
 <p>Пропоную подивитися відеозапис стрибка. Вражає, чи не так?</p>
 
+<div class="space">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/iD4qsWnjsNU" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/PBmhpruaDpA" frameborder="0" allowfullscreen></iframe>
