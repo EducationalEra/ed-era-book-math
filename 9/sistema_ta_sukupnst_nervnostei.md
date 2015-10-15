@@ -69,11 +69,6 @@
 <span class="task">Приклад</span>
 <div class="task-text">
 <b>Знайти значення змінної $$x$$, якщо вона повинна задовольняти умови: $$\begin{eqnarray} -3(x-5)\leq 6 & i & x-2<5 \nonumber \end{eqnarray}$$</p>
-<p align="center">$$\begin{eqnarray} -3(x-5)\leq 6 & i & x-2<5 \nonumber \\
--3x+15 \leq 6 && x<7 \nonumber \\
--3x \leq -9 \nonumber \\
-x \geq 3 \nonumber
-\end{eqnarray}$$</p>
 <p><b><i>Розв’язок.</i></b></p>
 <p>Розв’яжемо окремо два рівняння з умови, а потім знайдемо перетин (<b>i</b>) отриманих розв’язків.</p>
 <p align="center">$$\begin{eqnarray} -3(x-5)\leq 6 & i & x-2<5 \nonumber \\
