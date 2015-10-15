@@ -46,7 +46,7 @@
 
 <p>Записуємо таблицю з двох рядків. У верхньому записуємо всі коефіцієнти многочлена $$P(x)$$. Старший коефіцієнт дублюється в нижній рядок, а зліва від нього записуємо $$a = -2$$:</p>
 
-<div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/132_p1.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="85%" class="image" src="../pics/132_p1.png"/></p></div>
 
 <p>Тепер заповнюємо порожні клітинки нижнього рядка:</p>
 
@@ -58,7 +58,7 @@
 <li>п’ята: $$(-2)\cdot$$<span color="#faaf00">$$5$$</span>$$ + ($$<span color="#0f5181">$$-7$$</span>$$) = -17$$.</li>
 </ul>
 
-<div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/132_p2.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="85%" class="image" src="../pics/132_p2.png"/></p></div>
 
 <p>Як бачимо, можна тоді записати</p> 
 
