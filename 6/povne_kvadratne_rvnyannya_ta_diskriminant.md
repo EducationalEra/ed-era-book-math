@@ -127,7 +127,7 @@
         <p>$$x_{1,2}=\dfrac{-3\pm7}{2\cdot1}=\{2,-5\}$$</p>
         </explanation>
         </question>
-    <question  multiple>
+    <question text="">
     <p>Розв'язати рівняння: $$x^2-5x=x-5$$</p>
         <answer correct>$$x \in \emptyset$$</answer>
         <answer>$$x=0$$</answer>
