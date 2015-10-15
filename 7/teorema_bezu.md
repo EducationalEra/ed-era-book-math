@@ -58,6 +58,8 @@
 <li>п’ята: $$(-2)\cdot$$<span color="#faaf00">$$5$$</span>$$ + ($$<span color="#0f5181">$$-7$$</span>$$) = -17$$.</li>
 </ul>
 
+<div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/132_p2.png"/></p></div>
+
 <p>Як бачимо, можна тоді записати</p> 
 
 <p align="center">$$x^5 - 3x^3 + x - 7 = (x + 2)(x^4 - 2x^3 +x^2 - 2x + 5) - 17.$$</p>
