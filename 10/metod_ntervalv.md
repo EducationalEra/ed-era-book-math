@@ -2,7 +2,7 @@
 
 <p>Будь-яку раціональну нерівність можна легко розв'язати за допомогою <b>методу інтервалів</b>. Зі схожою процедурою ми вже зустрічалися під час розв'язання рівнянь з модулями (див. розділ 8.2 <a href="http://math.ed-era.com/7/prost_rvnyannya_z_modulyami.html">Рівняння з модулями</a>). Саме таким методом ми скористалися для знаходження часу на відкриття парашута в попередній задачі.</p>
 
-<div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_3.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="65%" class="image" src="../pics/142/p24_3.png"/></p></div>
 
 <div class="space">
 <div class="fluidMedia">
