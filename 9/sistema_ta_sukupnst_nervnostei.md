@@ -228,7 +228,7 @@ $$\begin{cases}
 4x-6(x-1)<2x+3\\
 6(x-1)-x>4
 \end{cases}$$</p>
-        <answer correct>$$x<\dfrac{9}{4}$$</answer>
+        <answer correct>$$x>\dfrac{9}{4}$$</answer>
         <answer>$$x>2$$</answer>
         <answer>$$x<-2$$</answer>
         <answer>$$x<0$$</answer>
@@ -259,7 +259,7 @@ x<4-3x-2(1-x)\\
         <answer>$$x \in [0;1]$$</answer>
         <answer>$$x \in (0;-1)$$</answer>
         <answer>$$x >0$$</answer>
-        <answer correct>$$\(x \in (0;1)$$</answer>
+        <answer correct>$$x \in (0;1)$$</answer>
         <explanation>
         <p>Спростимо систему нерівностей:</p>
         <p>$$\begin{cases}
