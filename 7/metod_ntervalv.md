@@ -87,4 +87,4 @@
         <answer>$$(-1;1]$$</answer>
         <answer>$$(2;\infty)$$</answer>
         </question>
-<quiz>
+</quiz>
