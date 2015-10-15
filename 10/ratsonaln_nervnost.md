@@ -12,10 +12,12 @@
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/iD4qsWnjsNU" frameborder="0" allowfullscreen></iframe>
 </div>
 
+<div class="space">
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/PBmhpruaDpA" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="popup">
+</div>
 </div>
 
 <p>А тепер спробуємо описати цей стрибок математично. На примітивному рівні, звичайно. Висота Бурдж Халіфи – $$828$$ метрів. Залежність висоти від часу при вільному падінні описується квадратичною функцією:</p>
