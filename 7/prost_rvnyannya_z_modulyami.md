@@ -70,4 +70,4 @@ g(x)\geq0.
         <answer>$$x=-1$$</answer>
         <answer correct>$$x=-\dfrac{3}{5}$$</answer>
         </question>
-<quiz>
+</quiz>
