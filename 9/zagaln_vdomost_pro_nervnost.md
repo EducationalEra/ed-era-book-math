@@ -124,7 +124,7 @@
 <question multiple>
         <p>Вкажіть всі нескінчені інтервали:</p>
         <answer>$$(1;3)$$</answer>
-        <answer correct>$$[1;2)$$</answer>
+        <answer>$$[1;2)$$</answer>
         <answer>$$(-21;0)$$</answer>
         <answer>$$[17;54]$$</answer>
         <answer correct>$$(-\infty;0)$$</answer>
