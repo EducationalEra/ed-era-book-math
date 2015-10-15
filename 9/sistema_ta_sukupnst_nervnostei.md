@@ -73,8 +73,8 @@
 <p>Розв’яжемо окремо два рівняння з умови, а потім знайдемо перетин (<b>i</b>) отриманих розв’язків.</p>
 <p align="center">$$\begin{eqnarray} -3(x-5)\leq 6 & i & x-2<5 \nonumber \\
 			-3x+15 \leq 6 && x<7 \nonumber \\
-			-3x \leq -9  \nonumber \\
-			x \geq 3 \nonumber
+			-3x \leq -9 && x<7 \nonumber \\
+			x \geq 3 && x<7 \nonumber
 			\end{eqnarray}$$</p>
 <p>Отже, маємо такі умови для змінної:  $$x\geq3$$ або $$x<7$$.</p>
 <p>Іншим чином це запишемо так: $$3\leq x<7$$.</p>
