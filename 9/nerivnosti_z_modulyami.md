@@ -65,7 +65,7 @@ x\leq-2.
 <div class="alg-wrap">
 <span class="alg">Алгоритм</span>
 <div class="alg-text">
-<p>Всі нерівності зі значками можна звести до таких трьох випадків:</p>
+<p>Всі нерівності з модулями можна звести до таких трьох випадків:</p>
 <ol>
 <li>$$|f(x)|<g(x) \Longleftrightarrow \begin{cases} 
 f(x)<g(x),\\ 
