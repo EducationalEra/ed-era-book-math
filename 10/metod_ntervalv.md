@@ -24,7 +24,7 @@
 
 <div class="space">
 <div class="alg-wrap">
-<span class="alg">Алгоритм</span><b>Метод інтервалів</b>
+<span class="alg">Алгоритм</span> <b>Метод інтервалів</b>
 <div class="alg-text">
 <ol>
 <li>Виразити нерівність у вигляді $$P(x)>0$$ або $$P(x)<0$$, де $$P(x)$$ – многочлен.</li>
