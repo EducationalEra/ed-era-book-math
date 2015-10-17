@@ -56,7 +56,8 @@ N \neq 0
 
 <p>Дуже раджу подивитись випуск програми «Інженерні ідеї з Річардом Хамондом» про Формулу $$1$$:</p>
 
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/e4AS2kZnHk0" frameborder="0" allowfullscreen></iframe>
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/e4AS2kZnHk0" frameborder="0" allowfullscreen></iframe></div>
 
 
 
