@@ -19,8 +19,9 @@
 
 <p>Уявіть, яку перевагу болід Формули $$1$$ матиме на трасі над суперкаром Mercedes.</p>
 
-<p>Ось це відео – чудова демонстрація цьому.</p> 
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/3RuUp5MT3Uc" frameborder="0" allowfullscreen></iframe>
+<p>Ось це відео – чудова демонстрація цьому.</p>
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/3RuUp5MT3Uc" frameborder="0" allowfullscreen></iframe></div>
 
 <p>Додамо трошки математики.</p>
 
