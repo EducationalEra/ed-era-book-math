@@ -128,7 +128,7 @@
         </explanation>
         </question>
     <question text="">
-    <p>Розв'язати рівняння: $$x^2-5x=x-5$$</p>
+    <p>Розв'язати рівняння: $$5x^2-5x=x-5$$</p>
         <answer correct>$$x \in \emptyset$$</answer>
         <answer>$$x=0$$</answer>
         <answer>$$x=1$$</answer>
@@ -138,7 +138,7 @@
         <answer>$$x=-4$$</answer>
         <explanation>
         <p>Перенесемо доданки з правої частини рівняння в ліву:</p>
-        <p>$$x^2-5x-x+5=0$$</p>
+        <p>$$5x^2-5x-x+5=0$$</p>
         <p>$$5x^2-6x+5=0$$</p>
         <p>Знайдемо дискримінант квадратного рівняння:</p>
         <p>$$D=(6)^2-4\cdot5\cdot5=36-100=-64$$</p>
