@@ -77,8 +77,8 @@
 <p>За т. Вієта, $$t_1+t_2=2;t_1\cdot t_2=-3$$. Ці умови задовольняють корені: $$t_1=3; t_2=-1$$.</p>
 <p>Тепер, повернувшись до вихідної змінної, потрібно розв’язати сукупність рівнянь:</p>
 <p align="center">$$\left[ \begin{gathered}
-			x^2+3x=2, \hfill \\
-			x^2+3x=4. \hfill
+			x^2+3x=3, \hfill \\
+			x^2+3x=-1. \hfill
 			\end{gathered}
 			\right.$$
 </p>
@@ -102,4 +102,4 @@
         <answer>$$t=x^4$$</answer>
         <answer>$$t=-2x^3$$</answer>
         </question>
-<quiz>
+</quiz>
