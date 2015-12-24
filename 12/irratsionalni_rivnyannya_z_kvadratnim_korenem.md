@@ -42,3 +42,24 @@
 </div>
 </div>
 </div>
+
+<div class="space">
+<div class="task-wrap">
+<span class="task">Приклад</span>
+<div class="task-text">
+<p>Розв’язати рівняння $$2\sqrt{2x+1}-5x+2=x$$.</p>
+<p>Розв’язок.</p>
+<ol>
+<li>Залишаємо доданок з коренем на самоті в лівій частині рівняння:</li>
+<img src="pic_e5.png">
+<li>Підносимо обидві частини рівняння до квадрату:</li>
+<img src="pic_e6.png">
+<li>Розв’язуємо отримане рівняння:</li>
+<img src="pic_e7.png">
+<p>Перевіряємо отримані розв’язки:</p>
+<img src="pic_e8.png">
+</ol>
+<p>Відповідь: $$x=\dfrac{8}{9}$$.</p>
+</div>
+</div>
+</div>
