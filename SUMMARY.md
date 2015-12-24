@@ -64,7 +64,7 @@
    * [Раціональні рівняння з параметрами](11/ratsonaln_rvnyannya_z_parametrami.md)
 * [Ірраціональні рівняння](12/irratsonaln_rvnyannya.md)
    * [Корабель на горизонтi](12/korabel_na_gorizonti.md)
-   * [Iррацiональнi рiвняння з квадратним коренем](12/12/irratsionalni_rivnyannya_z_kvadratnim_korenem.md)
+   * [Iррацiональнi рiвняння з квадратним коренем](12/irratsionalni_rivnyannya_z_kvadratnim_korenem.md)
    * Корабль поза горизонтом
 * Ірраціональні нерівності
    * Методологiя розв’язання в залежностi вiд парності/непарностi степеня кореня
