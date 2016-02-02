@@ -45,7 +45,7 @@
 <div class="space"></div>
 <p align="center">$$ax^2+bx+c=a(x-x_1)(x-x_2),$$</p>
 <div class="space"></div>
-<p>де $$x_{1,2}$$ – корені квадратного тричлена (корені рівняння  $ax^2+bx+c=0$).</p>
+<p>де $$x_{1,2}$$ – корені квадратного тричлена (корені рівняння  $$ax^2+bx+c=0$$).</p>
 <p>Вони визначаються за формулами</p>
 <div class="space"></div>
 <p align="center">$$x_{1,2} = - \dfrac{b \pm \sqrt{b^2 - 4ac}}{2a}.$$</p>
