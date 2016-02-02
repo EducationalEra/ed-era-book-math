@@ -7,7 +7,7 @@
 <ol>
 <li><p>$$a^{\log_{a}b}=b$$.</p></li>
 <li><p>$$\log_{a}1=0$$.</p></li>
-<li><p>$\log_{a}a=1$.</p></li>
+<li><p>$$\log_{a}a=1$$.</p></li>
 <li><p>$$\log_{a}{a^b}=b$$.</p></li>
 <li><p>$$\log_{a}{xy}=\log_{a}{|x|}+\log_{a}{|y|}, xy>0$$.</p></li>
 <div class="space"></div>
