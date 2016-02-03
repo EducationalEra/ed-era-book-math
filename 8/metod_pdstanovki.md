@@ -41,6 +41,7 @@ y = f(x).
 </div>
 <div class="popup">
 </div>
+
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Розв'язати систему рівнянь: 
