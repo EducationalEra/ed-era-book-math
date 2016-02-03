@@ -235,4 +235,14 @@ x\cdot y = v.
         <answer correct>$$u=x+y, v=x-y$$</answer>
         <answer>$$u=x^2+xy, v=y^2+xy$$</answer>
         </question>
-<quiz>
+</quiz>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Якою заміною доречно скористатись під час розв’язання системи рівнянь? $$\begin{cases}x^2-y^2=1, \\ x^2+y^2-2xy=1. \end{cases}$$</p>
+        <answer>$$u=x^2, v=y^2$$</answer>
+        <answer>$$u=x^2-y^2, v=x^2+y^2$$</answer>
+        <answer correct>$$u=x+y, v=x-y$$</answer>
+        <answer>$$u=x^2+xy, v=y^2+xy$$</answer>
+        </question>
+</quiz>
