@@ -14,9 +14,6 @@
         "disqus": {
             "shortName": "ederabooks"
         },
-        "mathjax":{
-            "forceSVG": true
-        },
         "sharing": {
             "facebook": true,
             "twitter": true,
