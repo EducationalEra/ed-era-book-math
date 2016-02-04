@@ -67,7 +67,7 @@
    * [Iррацiональнi рiвняння з квадратним коренем](12/irratsionalni_rivnyannya_z_kvadratnim_korenem.md)
    * [Корабль поза горизонтом](12/korabl_poza_gorizontom.md)
 * [Ірраціональні нерівності](13/irratsionalni_nervnosti.md)
-   * Методологiя розв’язання в залежностi вiд парності/непарностi степеня кореня
+   * [Методологiя розв’язання в залежностi вiд парності/непарностi степеня кореня](13/metodologiya_rozvyazannya_v_zalezhnosti_vid_parnosti.md)
    * Метод iнтервалiв для iррацiональних нерiвностей
    * Нерiвностi з параметрами
 * Показникові рівняння
