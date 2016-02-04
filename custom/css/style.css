@@ -477,6 +477,10 @@ default – "White"
     border-color: rgba(0, 0, 0, 0) !important;
 }
 
+.none tr {
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
 /*video + description */
 .description {
   display: block;
