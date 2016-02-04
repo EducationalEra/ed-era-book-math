@@ -4,7 +4,7 @@
 
 Спочатку залишаємо доданок з коренем на самоті в лівій частині рівняння:
 
-<table border="0" class="none">
+<table style="border: none;" class="none">
 <tr>
 <td>$$2x+\sqrt{4x^2-1}>3$$</td>
 <td>Вихідна нерівність</td>
