@@ -4,4 +4,4 @@
 
 Спочатку залишаємо доданок з коренем на самоті в лівій частині рівняння:
 
-$$2x+\sqrt{4x^2-1}>3$$ <span style="text-align: right; color:blue;">Вихідна нерівність</span>
+$$2x+\sqrt{4x^2-1}>3$$ <span style="float: right; clear: right; color:blue;">Вихідна нерівність</span>
