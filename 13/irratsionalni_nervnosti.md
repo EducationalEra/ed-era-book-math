@@ -14,7 +14,3 @@
 </div>
 
 <p><i>Наприклад:</i> $$\sqrt{2x}-4>x+5, \, 2-\sqrt{x+1}\leq x, \, x^{\frac{3}{4}}+x^{\frac{1}{2}}<1.$$</p>
-
-
-<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-<span class="formula">\(\frac 1 2 \)</span>
