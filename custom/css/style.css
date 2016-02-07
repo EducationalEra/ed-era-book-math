@@ -661,6 +661,6 @@ default – "White"
 }
 
 /* No vertical lines in MathJax */
-span {
+nobr > .math > span {
     border-left-width: 0 !important;
 }
