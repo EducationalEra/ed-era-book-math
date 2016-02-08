@@ -49,7 +49,16 @@
 
 <p>Вуаля. Страшний корінь раптом зник, і ми маємо звичайне рівняння.</p>
 
-<img src="pic_e4.png">
+<table style="border: none;" class="none">
+<tr>
+<td>$$x+2 \color{#0F5181}- \color{#0F5181}2 = 16 \color{#0F5181}- \color{#0F5181}2$$</td>
+<td><font color="0F5181"><i>Віднімаємо</i> 2 <i>від обох частин</i></font></td>
+</tr>
+<tr>
+<td>$$x = 14$$</td>
+<td><font color="0F5181"><i>Спрощуємо</i></font></td>
+</tr>
+</table>
 
 <div class="space">
 <div class="alg-wrap">
