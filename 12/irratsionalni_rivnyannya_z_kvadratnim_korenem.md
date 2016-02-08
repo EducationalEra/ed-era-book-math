@@ -26,7 +26,7 @@
 </tr>
 <tr>
 <td>$$\sqrt{x+2} + 1 \color{#0F5181}- \color{#0F5181}1 = 5 \color{#0F5181}- \color{#0F5181}1$$</td>
-<td><font color="0F5181"><i>Віднімаємо</i> 1 <i>від обох частин</i></font></td>
+<td><font color="0F5181"><i>Віднімаємо $$1$$ від обох частин</i></font></td>
 </tr>
 <tr>
 <td>$$\sqrt{x+2} = 4$$</td>
@@ -52,7 +52,7 @@
 <table style="border: none;" class="none">
 <tr>
 <td>$$x+2 \color{#0F5181}- \color{#0F5181}2 = 16 \color{#0F5181}- \color{#0F5181}2$$</td>
-<td><font color="0F5181"><i>Віднімаємо</i> 2 <i>від обох частин</i></font></td>
+<td><font color="0F5181"><i>Віднімаємо $$2$$ від обох частин</i></font></td>
 </tr>
 <tr>
 <td>$$x = 14$$</td>
@@ -82,9 +82,50 @@
 <p>Розв’язок.</p>
 <ol>
 <li>Залишаємо доданок з коренем на самоті в лівій частині рівняння:</li>
-<img src="pic_e5.png">
+<table style="border: none;" class="none">
+<tr>
+<td>$$2\sqrt{2x+1} - 5x + 2 = x$$</td>
+<td><font color="0F5181"><i>Вихідне рівняння</i></font></td>
+</tr>
+<tr>
+<td>$$2\sqrt{2x+1} - 5x + 2 \color{#0F5181}+ \color{#0F5181}5\color{#0F5181}x \color{#0F5181}- \color{#0F5181}2 = x \color{#0F5181}+ \color{#0F5181}5\color{#0F5181}x \color{#0F5181}- \color{#0F5181}2$$</td>
+<td><font color="0F5181"><i>Додаємо $$5x-2$$ до обох частин</i></i></font></td>
+</tr>
+<tr>
+<td>$$2\sqrt{2x+1} = 6x - 2$$</td>
+<td><font color="0F5181"><i>Спрощуємо</i></font></td>
+</tr>
+<tr>
+<td>$$\dfrac{2}{\color{#0F5181}2}\sqrt{2x+1} = \dfrac{6x - 2}{\color{#0F5181}2}$$</td>
+<td><font color="0F5181"><i>Ділимо обидві частини на $$2$$</i></font></td>
+</tr>
+<tr>
+<td>$$\sqrt{2x+1} = 3x - 1$$</td>
+<td><font color="0F5181"><i>Спрощуємо</i></font></td>
+</tr>
+</table>
+
 <li>Підносимо обидві частини рівняння до квадрату:</li>
-<img src="pic_e6.png">
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$\color{#0F5181}(\sqrt{2x+1}\color{#0F5181})^\color{#0F5181}2 = \color{#0F5181}(3x-1\color{#0F5181})^\color{#0F5181}2$$</td>
+<td><font color="0F5181"><i>Підносимо обидві частини до квадрату</i></font></td>
+</tr>
+<tr>
+<td>$$2x + 1 = 9x^2 - 6x + 1$$</td>
+<td><font color="0F5181"><i>Спрощуємо</i></font></td>
+</tr>
+<tr>
+<td>$$2x + 1 \color{#0F5181}- \color{#0F5181}2\color{#0F5181}x \color{#0F5181}- \color{#0F5181}1 = 9x^2 - 6x + 1 \color{#0F5181}- \color{#0F5181}2\color{#0F5181}x \color{#0F5181}- \color{#0F5181}1$$</td>
+<td><font color="0F5181"><i>Віднімаємо $$2x-1$$ від обох частин</i></font></td>
+</tr>
+<tr>
+<td>$$0 = 9x^2 - 8x$$</td>
+<td><font color="0F5181"><i>Спрощуємо</i></font></td>
+</tr>
+</table>
+
 <li>Розв’язуємо отримане рівняння:</li>
 <img src="pic_e7.png">
 <p>Перевіряємо отримані розв’язки:</p>
