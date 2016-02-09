@@ -218,19 +218,16 @@ x &>& -\dfrac{59}{20}
 <table>
 <tr>
 <td style="border: none;" class="none"></td>
-<td>$$2x+\sqrt{4x^2-1}>3$$</td>
-<td><font color="0F5181"><i>Вихідна нерівність</i></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>-8</td>
 </tr>
-<tr>
-<td>
+<td>-2</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </td>
-<td>$$2x+\sqrt{4x^2-1}\color{#0F5180}{-2x}>3\color{#0F5180}{-2x}$$</td>
-<td><font color="0F5181"><i>Віднімаємо $$2x$$ від обох частин</i></td>
-</tr>
-<tr>
-<td>
-</td>
-<td>$$\sqrt{4x^2-1}>3-2x$$</td>
-<td><font color="0F5181"><i>Спрощуємо</i></td>
-</tr>
 </table>
