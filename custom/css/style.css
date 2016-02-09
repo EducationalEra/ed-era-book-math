@@ -481,6 +481,18 @@ default – "White"
     background-color: rgba(0, 0, 0, 0) !important;
 }
 
+td.border {
+    border: 1px solid #ddd; !important;
+}
+
+.book.color-theme-1 td.border {
+    border-color: #f5d06c; !important;
+}
+
+.book.color-theme-2 td.border {
+    border-color: #3b3f54; !important;
+}
+
 /*video + description */
 .description {
   display: block;
@@ -663,6 +675,8 @@ default – "White"
 i.expl {
     color: #0F5181;
 }
+
+
 
 /* No vertical lines in MathJax */
 nobr > .math > span {
