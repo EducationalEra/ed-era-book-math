@@ -7,7 +7,7 @@
 <table style="border: none;" class="none">
 <tr>
 <td>$$2x+\sqrt{4x^2-1}>3$$</td>
-<td><span class="p1">*Вихідна нерівність*</span></td>
+<td><span class="p1"><i>Вихідна нерівність</i></span></td>
 </tr>
 <tr>
 <td>$$2x+\sqrt{4x^2-1}-2x>3-2x$$</td>
