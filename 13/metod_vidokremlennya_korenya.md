@@ -182,6 +182,19 @@ x &>& -\dfrac{59}{20}
 
 Починаємо відокремлювати корінь:
 
-
+<table style="border: none;" class="none">
+<tr>
+<td>$$x+\sqrt[3]{3x^2-3x-7}>1$$</td>
+<td><span class="p1"><i>Вихідна нерівність</i></span></td>
+</tr>
+<tr>
+<td>$$x+\sqrt[3]{3x^2-3x-7}\color{#0F5180}{-x}>1\color{#0F5180}{-x}$$</td>
+<td><span class="p1"><i>Віднімаємо $$x$$ від обох частин</i></span></td>
+</tr>
+<tr>
+<td>$$\sqrt[3]{3x^2-3x-7}>1-x$$</td>
+<td><span class="p1"><i>Спрощуємо</i></span></td>
+</tr>
+</table>
 
 Розв’яжемо отриману нерівність методом інтервалів.
