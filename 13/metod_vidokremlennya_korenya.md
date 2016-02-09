@@ -47,3 +47,21 @@
 
 Далі ця система рівнянь розв’язується легко і швидко (див. [Лекцію 9](https://study.ed-era.com/courses/EdEra/m102/M102/courseware/54554820f4534ac6a104d66974169b0a/f822671bcc834b78a597f9fd0112c324/)). Розв’язуємо кожну з нерівностей окремо:
 
+<table>
+<td>
+$$\begin{eqnarray} 
+3-2x &\geq& 0 \nonumber\\ 
+-2x &\leq& -3 \nonumber\\ 
+x &\leq& \dfrac{3}{2} \nonumber
+\end{eqnarray}$$
+</td>
+<td>
+$$\begin{eqnarray} 
+4x^2-1 &>& (3-2x)^2 \nonumber\\ 
+4x^2-1 &>& 9-12x+4x^2\nonumber\\ 
+12x &>& 10 \nonumber\\
+x &>& \dfrac{5}{6}
+\end{eqnarray}$$
+</td>
+</table>
+
