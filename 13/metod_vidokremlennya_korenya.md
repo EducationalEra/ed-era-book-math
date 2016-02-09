@@ -93,9 +93,9 @@ x &>& \dfrac{5}{6}
 <table>
 <td>
 $$\begin{eqnarray} 
-3-2x &\geq& 0 \nonumber\\ 
--2x &\geq& -3 \nonumber\\ 
-x &\leq& \dfrac{3}{2} \nonumber
+3-2x &<& 0 \nonumber\\ 
+-2x &<& -3 \nonumber\\ 
+x &>& \dfrac{3}{2} \nonumber
 \end{eqnarray}$$
 </td>
 <td>
