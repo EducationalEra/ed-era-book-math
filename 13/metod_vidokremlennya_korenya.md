@@ -51,7 +51,7 @@
 <td>
 $$\begin{eqnarray} 
 3-2x &\geq& 0 \nonumber\\ 
--2x &\leq& -3 \nonumber\\ 
+-2x &\geq& -3 \nonumber\\ 
 x &\leq& \dfrac{3}{2} \nonumber
 \end{eqnarray}$$
 </td>
