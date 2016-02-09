@@ -103,7 +103,7 @@ $$\begin{eqnarray}
 4x^2-1 &\geq& 0 \nonumber\\ 
 4x^2-1 &\geq& 0 \nonumber\\ 
 (x-\dfrac{1}{2})(x+\dfrac{1}{2}) &\geq& 0 \nonumber\\
-x &>& \dfrac{5}{6}
+x &\geq& \dfrac{1}{2} \cup x &\leq& -\dfrac{1}{2}
 \end{eqnarray}$$
 </td>
 </table>
