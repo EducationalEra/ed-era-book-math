@@ -10,7 +10,7 @@
 <td><span class="p1"><i>Вихідна нерівність</i></span></td>
 </tr>
 <tr>
-<td>$$2x+\sqrt{4x^2-1}-2x>3-2x$$</td>
+<td>$$2x+\sqrt{4x^2-1}\color{#0F5180}{-2x}>3\color{#0F5180}{-2x}$$</td>
 <td><span class="p1"><i>Віднімаємо $$2x$$ від обох частин</i></span></td>
 </tr>
 <tr>
