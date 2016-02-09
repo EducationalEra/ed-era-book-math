@@ -100,9 +100,9 @@ x &>& \dfrac{3}{2} \nonumber
 </td>
 <td>
 $$\begin{eqnarray} 
-4x^2-1 &>& (3-2x)^2 \nonumber\\ 
-4x^2-1 &>& 9-12x+4x^2\nonumber\\ 
-12x &>& 10 \nonumber\\
+4x^2-1 &\geq& 0 \nonumber\\ 
+4x^2-1 &\geq& 0 \nonumber\\ 
+(x-\dfrac{1}{2})(x+\dfrac{1}{2}) &\geq& 0 \nonumber\\
 x &>& \dfrac{5}{6}
 \end{eqnarray}$$
 </td>
