@@ -87,3 +87,23 @@ x &>& \dfrac{5}{6}
 	4x^2-1\geq0.
 	\end{cases}$$
 </p>
+
+Розв’язуємо кожну з нерівностей окремо:
+
+<table>
+<td>
+$$\begin{eqnarray} 
+3-2x &<& 0 \nonumber\\ 
+-2x &<& -3 \nonumber\\ 
+x &>& \dfrac{3}{2} \nonumber
+\end{eqnarray}$$
+</td>
+<td>
+$$\begin{eqnarray} 
+4x^2-1 &\geq& 0 \nonumber\\ 
+x^2-\dfrac{1}{4} &\geq& 0 \nonumber\\ 
+\left(x-\dfrac{1}{2}\right)\left(x+\dfrac{1}{2}\right) &>& 0 \nonumber\\
+x &>& \dfrac{5}{6}
+\end{eqnarray}$$
+</td>
+</table>
