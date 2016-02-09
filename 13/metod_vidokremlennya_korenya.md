@@ -7,15 +7,15 @@
 <table style="border: none;" class="none">
 <tr>
 <td>$$2x+\sqrt{4x^2-1}>3$$</td>
-<td><font color="0F5181"><i>Вихідна нерівність</i></td>
+<td><i class="expl">Вихідна нерівність</i></td>
 </tr>
 <tr>
 <td>$$2x+\sqrt{4x^2-1}\color{#0F5180}{-2x}>3\color{#0F5180}{-2x}$$</td>
-<td><font color="0F5181"><i>Віднімаємо $$2x$$ від обох частин</i></td>
+<td><i class="expl">Віднімаємо $$2x$$ від обох частин</i></td>
 </tr>
 <tr>
 <td>$$\sqrt{4x^2-1}>3-2x$$</td>
-<td><font color="0F5181"><i>Спрощуємо</i></td>
+<td><i class="expl">Спрощуємо</i></td>
 </tr>
 </table>
 
@@ -185,27 +185,27 @@ x &>& -\dfrac{59}{20}
 <table style="border: none;" class="none">
 <tr>
 <td>$$x+\sqrt[3]{3x^2-3x-7}>1$$</td>
-<td><i><font color="0F5181">Вихідна нерівність</font></i></td>
+<td><i class="expl">Вихідна нерівність</font></i></td>
 </tr>
 <tr>
 <td>$$x+\sqrt[3]{3x^2-3x-7}\color{#0F5180}{-x}>1\color{#0F5180}{-x}$$</td>
-<td><font color="0F5181"><i>Віднімаємо $$x$$ від обох частин</i></td>
+<td><i class="expl">Віднімаємо $$x$$ від обох частин</i></td>
 </tr>
 <tr>
 <td>$$\sqrt[3]{3x^2-3x-7}>1-x$$</td>
-<td><font color="0F5181"><i>Спрощуємо</i></td>
+<td><i class="expl">Спрощуємо</i></td>
 </tr>
 <tr>
 <td>$$(\sqrt[3]{3x^2-3x-7})^3>(1-x)^3$$</td>
-<td><font color="0F5181"><i>Підносимо до кубу обидві частини. Ніяких обмежень ОДЗ немає, бо це корінь непарного степеня</i></td>
+<td><i class="expl">Підносимо до кубу обидві частини. Ніяких обмежень ОДЗ немає, бо це корінь непарного степеня</i></td>
 </tr>
 <tr>
 <td>$$3x^2-3x-7>1-3x+3x^2-x^3$$</td>
-<td><font color="0F5181"><i>Спрощуємо</i></td>
+<td><i class="expl">Спрощуємо</i></td>
 </tr>
 <tr>
 <td>$$x^3-8>0$$</td>
-<td><font color="0F5181"><i>Збираємо всі доданки в лівій частині нерівності та спрощуємо</i></td>
+<td><i class="expl">Збираємо всі доданки в лівій частині нерівності та спрощуємо</i></td>
 </tr>
 </table>
 
@@ -259,7 +259,7 @@ x &>& -\dfrac{59}{20}
 
 /*Картинка з інтервалами*/
 
-Беремо наше тестове значення <font color="0F5181"><i>мільярд</i>.
+Беремо наше тестове значення <i class="expl">мільярд</i>.
 
 <p align="center">P(<i style="color:#0F5181;">мільярд</i>) = $$(\underbrace{\color{#0F5181}{\textit{мільярд}}-2}_{>\thinspace\mbox{0}})$$ $$(\underbrace{\color{#0F5181}{\textit{мільярд}^2}-2⋅\color{#0F5181}{\textit{мільярд}}+4}_{>\thinspace\mbox{0}})$$ $$>0$$</p>
 
