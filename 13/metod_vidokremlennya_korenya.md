@@ -47,5 +47,20 @@
 
 Далі ця система рівнянь розв’язується легко і швидко (див. [Лекцію 9](https://study.ed-era.com/courses/EdEra/m102/M102/courseware/54554820f4534ac6a104d66974169b0a/f822671bcc834b78a597f9fd0112c324/)). Розв’язуємо кожну з нерівностей окремо:
 
-
+<table>
+<td>
+$$\begin{eqnarray} 
+3-2x &\geq& 0 \nonumber\\ 
+-2x &\geq& -3 \nonumber\\ 
+x &\leq& 3/2 \nonumber
+\end{eqnarray}$$
+</td>
+<td>
+$$\begin{eqnarray} 
+5x-2 &>& 1-x\nonumber\\ 
+6x &>& 3\nonumber\\ 
+x &>& \dfrac{1}{2}\nonumber
+\end{eqnarray}$$
+</td>
+</table>
 
