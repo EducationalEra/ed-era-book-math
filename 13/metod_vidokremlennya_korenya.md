@@ -261,4 +261,4 @@ x &>& -\dfrac{59}{20}
 
 Беремо наше тестове значення <font color="0F5181"><i>мільярд</i>.
 
-$$P(<font color="0F5181"><i>мільярд</i>)=
+P(<i style="color:#0F5181;">мільярд</i>) = $$(\underbrace{\color{#0F5181}{\textit{мільярд}}-2}_{>\thinspace\mbox{0}})$$ $$(\underbrace{\color{#0F5181}{\textit{мільярд}^2}-2⋅\color{#0F5181}{\textit{мільярд}}+4}_{>\thinspace\mbox{0}})$$ $$>0$$
