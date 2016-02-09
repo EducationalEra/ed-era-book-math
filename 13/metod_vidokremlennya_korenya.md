@@ -7,15 +7,15 @@
 <table style="border: none;" class="none">
 <tr>
 <td>$$2x+\sqrt{4x^2-1}>3$$</td>
-<td><span class="p1"><i>Вихідна нерівність</i></span></td>
+<td><font color="0F5181"><i>Вихідна нерівність</i></td>
 </tr>
 <tr>
 <td>$$2x+\sqrt{4x^2-1}\color{#0F5180}{-2x}>3\color{#0F5180}{-2x}$$</td>
-<td><span class="p1"><i>Віднімаємо $$2x$$ від обох частин</i></span></td>
+<td><font color="0F5181"><i>Віднімаємо $$2x$$ від обох частин</i></td>
 </tr>
 <tr>
 <td>$$\sqrt{4x^2-1}>3-2x$$</td>
-<td><span class="p1"><i>Спрощуємо</i></span></td>
+<td><font color="0F5181"><i>Спрощуємо</i></td>
 </tr>
 </table>
 
@@ -185,27 +185,27 @@ x &>& -\dfrac{59}{20}
 <table style="border: none;" class="none">
 <tr>
 <td>$$x+\sqrt[3]{3x^2-3x-7}>1$$</td>
-<td><span class="p1"><i>Вихідна нерівність</i></span></td>
+<td><i><font color="0F5181">Вихідна нерівність</font></i></td>
 </tr>
 <tr>
 <td>$$x+\sqrt[3]{3x^2-3x-7}\color{#0F5180}{-x}>1\color{#0F5180}{-x}$$</td>
-<td><span class="p1"><i>Віднімаємо $$x$$ від обох частин</i></span></td>
+<td><font color="0F5181"><i>Віднімаємо $$x$$ від обох частин</i></td>
 </tr>
 <tr>
 <td>$$\sqrt[3]{3x^2-3x-7}>1-x$$</td>
-<td><span class="p1"><i>Спрощуємо</i></span></td>
+<td><font color="0F5181"><i>Спрощуємо</i></td>
 </tr>
 <tr>
 <td>$$(\sqrt[3]{3x^2-3x-7})^3>(1-x)^3$$</td>
-<td><span class="p1"><i>Підносимо до кубу обидві частини. Ніяких обмежень ОДЗ немає, бо це корінь непарного степеня</i></span></td>
+<td><font color="0F5181"><i>Підносимо до кубу обидві частини. Ніяких обмежень ОДЗ немає, бо це корінь непарного степеня</i></td>
 </tr>
 <tr>
 <td>$$3x^2-3x-7>1-3x+3x^2-x^3$$</td>
-<td><span class="p1"><i>Спрощуємо</i></span></td>
+<td><font color="0F5181"><i>Спрощуємо</i></td>
 </tr>
 <tr>
 <td>$$x^3-8>0$$</td>
-<td><span class="p1"><i>Збираємо всі доданки в лівій частині нерівності та спрощуємо</i></span></td>
+<td><font color="0F5181"><i>Збираємо всі доданки в лівій частині нерівності та спрощуємо</i></td>
 </tr>
 </table>
 
