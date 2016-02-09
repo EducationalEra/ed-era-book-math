@@ -474,14 +474,14 @@ default – "White"
 }
 
 .none td {
-    border-color: rgba(0, 0, 0, 0) !important;
+    border-color: rgba(0, 0, 0, 0);
 }
 
 .none tr {
-    background-color: rgba(0, 0, 0, 0) !important;
+    background-color: rgba(0, 0, 0, 0);
 }
 
-.none > td.border {
+td.border {
     border: 1px solid #ddd; !important;
 }
 
