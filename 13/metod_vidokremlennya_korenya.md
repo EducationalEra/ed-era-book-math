@@ -204,7 +204,7 @@ x &>& -\dfrac{59}{20}
 <td><span class="p1"><i>Спрощуємо</i></span></td>
 </tr>
 <tr>
-<td>$$3x^2-3x-7>1-3x+3x^2-x^3$$</td>
+<td>$$x^3-8>0$$</td>
 <td><span class="p1"><i>Спрощуємо</i></span></td>
 </tr>
 </table>
