@@ -215,19 +215,19 @@ x &>& -\dfrac{59}{20}
 
 Тепер за схемою Горнера розділимо $$x^3-8$$ на $$x+2.$$ Для цього запишемо табличку з коефіцієнтами. Перший коефіцієнт копіюємо:
 
-<table class="none">
-<tr>
+<table class="gorner">
+<tr class="empty">
 <td></td>
-<td class="border">$$1$$</td>
-<td class="border">$$0$$</td>
-<td >$$0$$</td>
-<td class="border">$$-8$$</td>
+<td>$$1$$</td>
+<td>$$0$$</td>
+<td>$$0$$</td>
+<td>$$-8$$</td>
 </tr>
-<td class="border">$$-2$$</td>
-<td class="border">$$1$$</td>
-<td class="border"></td>
-<td class="border"></td>
-<td class="border"></td>
+<td>$$-2$$</td>
+<td>$$1$$</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </td>
 </table>
