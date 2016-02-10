@@ -43,7 +43,7 @@
 </tr>
 <tr>
 <td>$$27= h$$</td>
-<td><font color="0F5181"><i>Спрощуємо</i></font></td>
+<td><font color="1570bd"><i>Спрощуємо</i></font></td>
 </tr>
 </table>
 
