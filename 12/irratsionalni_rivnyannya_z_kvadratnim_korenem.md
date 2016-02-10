@@ -22,15 +22,15 @@
 <table style="border: none;" class="none">
 <tr>
 <td>$$\sqrt{x+2} + 1 = 5$$</td>
-<td><i><font color="0F5181">Вихідне рівняння</font></i></td>
+<td><i><font color="1570bd">Вихідне рівняння</font></i></td>
 </tr>
 <tr>
-<td>$$\sqrt{x+2} + 1 \color{#0F5181}- \color{#0F5181}1 = 5 \color{#0F5181}- \color{#0F5181}1$$</td>
-<td><font color="0F5181"><i>Віднімаємо $$1$$ від обох частин</i></font></td>
+<td>$$\sqrt{x+2} + 1 \color{#1570bd}- \color{#1570bd}1 = 5 \color{#1570bd}- \color{#1570bd}1$$</td>
+<td><font color="1570bd"><i>Віднімаємо $$1$$ від обох частин</i></font></td>
 </tr>
 <tr>
 <td>$$\sqrt{x+2} = 4$$</td>
-<td><font color="0F5181"><i>Спрощуємо</i></font></td>
+<td><font color="1570bd"><i>Спрощуємо</i></font></td>
 </tr>
 </table>
 
@@ -38,12 +38,12 @@
 
 <table style="border: none;" class="none">
 <tr>
-<td>$$\color{#0F5181}(\sqrt{x+2}\color{#0F5181})^\color{#0F5181}2 = \color{#0F5181}(4\color{#0F5181})^\color{#0F5181}2$$</td>
-<td><i><font color="0F5181">Підносимо обидві частини до квадрату</font></i></td>
+<td>$$\color{#1570bd}(\sqrt{x+2}\color{#1570bd})^\color{#1570bd}2 = \color{#1570bd}(4\color{#1570bd})^\color{#1570bd}2$$</td>
+<td><i><font color="1570bd">Підносимо обидві частини до квадрату</font></i></td>
 </tr>
 <tr>
 <td>$$x+2 = 16$$</td>
-<td><font color="0F5181"><i>Спрощуємо</i></font></td>
+<td><font color="1570bd"><i>Спрощуємо</i></font></td>
 </tr>
 </table>
 
@@ -51,12 +51,12 @@
 
 <table style="border: none;" class="none">
 <tr>
-<td>$$x+2 \color{#0F5181}- \color{#0F5181}2 = 16 \color{#0F5181}- \color{#0F5181}2$$</td>
-<td><font color="0F5181"><i>Віднімаємо $$2$$ від обох частин</i></font></td>
+<td>$$x+2 \color{#1570bd}- \color{#1570bd}2 = 16 \color{#1570bd}- \color{#1570bd}2$$</td>
+<td><font color="1570bd"><i>Віднімаємо $$2$$ від обох частин</i></font></td>
 </tr>
 <tr>
 <td>$$x = 14$$</td>
-<td><font color="0F5181"><i>Спрощуємо</i></font></td>
+<td><font color="1570bd"><i>Спрощуємо</i></font></td>
 </tr>
 </table>
 
@@ -85,23 +85,23 @@
 <table style="border: none;" class="none">
 <tr>
 <td>$$2\sqrt{2x+1} - 5x + 2 = x$$</td>
-<td><font color="0F5181"><i>Вихідне рівняння</i></font></td>
+<td><font color="1570bd"><i>Вихідне рівняння</i></font></td>
 </tr>
 <tr>
-<td>$$2\sqrt{2x+1} - 5x + 2 \color{#0F5181}+ \color{#0F5181}5\color{#0F5181}x \color{#0F5181}- \color{#0F5181}2 = x \color{#0F5181}+ \color{#0F5181}5\color{#0F5181}x \color{#0F5181}- \color{#0F5181}2$$</td>
-<td><font color="0F5181"><i>Додаємо $$5x-2$$ до обох частин</i></i></font></td>
+<td>$$2\sqrt{2x+1} - 5x + 2 \color{#1570bd}+ \color{#1570bd}5\color{#1570bd}x \color{#1570bd}- \color{#1570bd}2 = x \color{#1570bd}+ \color{#1570bd}5\color{#1570bd}x \color{#1570bd}- \color{#1570bd}2$$</td>
+<td><font color="1570bd"><i>Додаємо $$5x-2$$ до обох частин</i></i></font></td>
 </tr>
 <tr>
 <td>$$2\sqrt{2x+1} = 6x - 2$$</td>
-<td><font color="0F5181"><i>Спрощуємо</i></font></td>
+<td><font color="1570bd"><i>Спрощуємо</i></font></td>
 </tr>
 <tr>
-<td>$$\dfrac{2}{\color{#0F5181}2}\sqrt{2x+1} = \dfrac{6x - 2}{\color{#0F5181}2}$$</td>
-<td><font color="0F5181"><i>Ділимо обидві частини на $$2$$</i></font></td>
+<td>$$\dfrac{2}{\color{#1570bd}2}\sqrt{2x+1} = \dfrac{6x - 2}{\color{#1570bd}2}$$</td>
+<td><font color="1570bd"><i>Ділимо обидві частини на $$2$$</i></font></td>
 </tr>
 <tr>
 <td>$$\sqrt{2x+1} = 3x - 1$$</td>
-<td><font color="0F5181"><i>Спрощуємо</i></font></td>
+<td><font color="1570bd"><i>Спрощуємо</i></font></td>
 </tr>
 </table>
 
@@ -109,27 +109,102 @@
 
 <table style="border: none;" class="none">
 <tr>
-<td>$$\color{#0F5181}(\sqrt{2x+1}\color{#0F5181})^\color{#0F5181}2 = \color{#0F5181}(3x-1\color{#0F5181})^\color{#0F5181}2$$</td>
-<td><font color="0F5181"><i>Підносимо обидві частини до квадрату</i></font></td>
+<td>$$\color{#1570bd}(\sqrt{2x+1}\color{#1570bd})^\color{#1570bd}2 = \color{#1570bd}(3x-1\color{#1570bd})^\color{#1570bd}2$$</td>
+<td><font color="1570bd"><i>Підносимо обидві частини до квадрату</i></font></td>
 </tr>
 <tr>
 <td>$$2x + 1 = 9x^2 - 6x + 1$$</td>
-<td><font color="0F5181"><i>Спрощуємо</i></font></td>
+<td><font color="1570bd"><i>Спрощуємо</i></font></td>
 </tr>
 <tr>
-<td>$$2x + 1 \color{#0F5181}- \color{#0F5181}2\color{#0F5181}x \color{#0F5181}- \color{#0F5181}1 = 9x^2 - 6x + 1 \color{#0F5181}- \color{#0F5181}2\color{#0F5181}x \color{#0F5181}- \color{#0F5181}1$$</td>
-<td><font color="0F5181"><i>Віднімаємо $$2x-1$$ від обох частин</i></font></td>
+<td>$$2x + 1 \color{#1570bd}- \color{#1570bd}2\color{#1570bd}x \color{#1570bd}- \color{#1570bd}1 = 9x^2 - 6x + 1 \color{#1570bd}- \color{#1570bd}2\color{#1570bd}x \color{#1570bd}- \color{#1570bd}1$$</td>
+<td><font color="1570bd"><i>Віднімаємо $$2x-1$$ від обох частин</i></font></td>
 </tr>
 <tr>
 <td>$$0 = 9x^2 - 8x$$</td>
-<td><font color="0F5181"><i>Спрощуємо</i></font></td>
+<td><font color="1570bd"><i>Спрощуємо</i></font></td>
 </tr>
 </table>
 
 <li>Розв’язуємо отримане рівняння:</li>
-<img src="pic_e7.png">
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$9x^2 - 8x = 0$$</td>
+<td><font color="1570bd"><i>Вихідне рівняння</i></font></td>
+</tr>
+<tr>
+<td>$$\color{#1570bd}x\color{#1570bd}(9x-8\color{#1570bd}) = 0$$</td>
+<td><font color="1570bd"><i>Виносимо спільний множник $$x$$ за дужки</i></font></td>
+</tr>
+<tr>
+<td>$$\left[
+    \begin{array}{}
+      x = 0,\\
+      9x-8 = 0
+    \end{array}
+    \right.$$</td>
+<td><font color="1570bd"><i>Переписуємо рівняння у вигляді сукупності двох простіших рівнянь</i></font></td>
+</tr>
+<tr>
+<td>$$\left[
+    \begin{array}{}
+      x = 0,\\
+      x = \dfrac{8}{9}
+    \end{array}
+    \right.$$</td>
+<td><font color="1570bd"><i>Отримуємо розв'язок</i></font></td>
+</tr>
+</table>
+
 <p>Перевіряємо отримані розв’язки:</p>
-<img src="pic_e8.png">
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$2\sqrt{2x+1} - 5x + 2 \ = \ x$$</td>
+<td><font color="1570bd"><i>Вихідне рівняння</i></font></td>
+</tr>
+<tr>
+<td>$$2\sqrt{2 \color{#1570bd}\cdot \color{#1570bd}0 + 1} - 5 \color{#1570bd}\cdot \color{#1570bd}0 + 2 \ = \ ?\color{#1570bd}0$$</td>
+<td><font color="1570bd"><i>Підставляємо $$0$$ замість $$x$$</i></font></td>
+</tr>
+<tr>
+<td>$$2\sqrt{1} + 2 \ = \ ?\color{#1570bd}0$$</td>
+<td><font color="1570bd"><i>Спрощуємо</i></font></td>
+</tr>
+<tr>
+<td>$$4 \ = \ 0$$</td>
+<td><font color="1570bd"><i>Невірно</i></font></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="1570bd"><i></i></font></td>
+</tr>
+<tr>
+<td>$$2\sqrt{2x+1} - 5x + 2 = \ x$$</td>
+<td><font color="1570bd"><i>Вихідне рівняння</i></font></td>
+</tr>
+<tr>
+<td>$$2\sqrt{2 \color{#1570bd}\cdot \dfrac{\color{#1570bd}8}{\color{#1570bd}9} + 1} - 5 \cdot \dfrac{8}{9} + 2 = \ ? \dfrac{\color{#1570bd}8}{\color{#1570bd}9}$$</td>
+<td><font color="1570bd"><i>Підставляємо $$\dfrac{8}{9}$$ замість $$x$$</i></font></td>
+</tr>
+<tr>
+<td>$$2\sqrt{\dfrac{25}{9}} - \dfrac{22}{9} = \ ?\dfrac{8}{9}$$</td>
+<td><font color="1570bd"><i>Спрощуємо</i></font></td>
+</tr>
+<tr>
+<td>$$2\sqrt{\dfrac{25}{9}} = \ ? \dfrac{30}{9}$$</td>
+<td><font color="1570bd"><i></i></font></td>
+</tr>
+<tr>
+<td>$$\sqrt{\dfrac{25}{9}} = \ ?\dfrac{15}{9}$$</td>
+<td><font color="1570bd"><i></i></font></td>
+</tr>
+<tr>
+<td>$$\dfrac{5}{3} = \ ?\dfrac{15}{9}$$</td>
+<td><font color="1570bd"><i>Вірно</i></font></td>
+</tr>
+</table>
 </ol>
 <p>Відповідь: $$x=\dfrac{8}{9}$$.</p>
 </div>
