@@ -37,8 +37,66 @@
 <p>Користуємося вищезазначеним алгоритмом.</p>
 <ol>
 <li>Перетворюємо рівняння до вигляду $$\dfrac{P(x)}{Q(x)} = 0$$:</li>
-<div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/143/p34_e4.png"/></p></div>
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$\dfrac{x-3}{x^2+4x+3} + \dfrac{1}{x+1} = - \dfrac{x}{x+3}$$</td>
+<td><i><font color="0F5181">Вихідне рівняння</font></i></td>
+</tr>
+<tr>
+<td>$$\dfrac{x-3}{x^2+4x+3} + \dfrac{1}{x+1} + \dfrac{x}{x+3} = 0$$</td>
+<td><font color="0F5181"><i>Додаємо $$\dfrac{x}{x+3}$$ до обох частин та спрощуємо</i></font></td>
+</tr>
+<tr>
+<td>$$\dfrac{x-3+x+3+(x+1)x}{\color{#0F5181}(\color{#0F5181}x\color{#0F5181}+\color{#0F5181}3\color{#0F5181})\color{#0F5181}(\color{#0F5181}x\color{#0F5181}+\color{#0F5181}1\color{#0F5181})} = 0$$</td>
+<td><font color="0F5181"><i>Зводимо до спільного знаменника</i></font></td>
+</tr>
+<tr>
+<td>$$\dfrac{\color{#0F5181}x^\color{#0F5181}2\color{#0F5181}+\color{#0F5181}3\color{#0F5181}x}{(x+3)(x+1)} = 0$$</td>
+<td><font color="0F5181"><i>Спрощуємо</i></font></td>
+</tr>
+<tr>
+<td>$$\dfrac{\color{#0F5181}x(x+3)}{(x+3)(x+1)} = 0$$</td>
+<td><font color="0F5181"><i>Виносимо $$x$$ в чисельнику за дужки</i></font></td>
+</tr>
+</table>
+
 <li>Розв’язуємо рівняння з чисельника:</li>
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$x(x+3) = 0$$</td>
+<td><i><font color="0F5181">Вихідне рівняння</font></i></td>
+</tr>
+<tr>
+<td>$$\left[
+    \begin{array}{}
+        x = 0 \\
+        x + 3 = 0
+    \end{array}
+    \right.$$</td>
+<td><font color="0F5181"><i>Добуток множників рівний нулю записати як сукупність множників, кожен з яких рівний нулю</i></font></td>
+</tr>
+<tr>
+<td>$$\left[
+    \begin{array}{}
+        x = 0 \\
+        x + 3 \color{#0F5181}- \color{#0F5181}3 = 0 \color{#0F5181}- \color{#0F5181}3
+    \end{array}
+    \right.$$</td>
+<td><font color="0F5181"><i>У другому рівнянні віднімемо $$3$$ від обох частин</i></font></td>
+</tr>
+<tr>
+<td>$$\left[
+    \begin{array}{}
+        x_1 = 0 \\
+        x_2 = - 3
+    \end{array}
+    \right.$$</td>
+<td><font color="0F5181"><i>Спрощуємо</i></font></td>
+</tr>
+</table>
+
 <div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/143/p34_e5.png"/></p></div>
 <li>Тепер поглянемо на знаменник. ОДЗ такого дробу знаходимо з умови\\ $$(x+3)(x+1)\neq0$$. Отже, отримуємо ОДЗ: $$x\neq-3;x\neq-1$$.</li>
 <p>Серед знайдених двох коренів ОДЗ задовольняє лише один $$x=0$$.</p>
