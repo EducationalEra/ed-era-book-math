@@ -481,16 +481,8 @@ default – "White"
     background-color: rgba(0, 0, 0, 0);
 }
 
-td.border {
-    border: 1px solid #ddd; !important;
-}
-
-.book.color-theme-1 td.border {
-    border-color: #f5d06c; !important;
-}
-
-.book.color-theme-2 td.border {
-    border-color: #3b3f54; !important;
+td.none {
+    border: 0px solid #ddd; !important;
 }
 
 /*video + description */
