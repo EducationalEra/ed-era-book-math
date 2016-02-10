@@ -481,10 +481,6 @@ default – "White"
     background-color: rgba(0, 0, 0, 0);
 }
 
-td.none {
-    border: 0px solid #ddd; !important;
-}
-
 /*video + description */
 .description {
   display: block;
