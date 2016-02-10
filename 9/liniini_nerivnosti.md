@@ -15,6 +15,8 @@
 <div class="popup">
 </div>
 
+<br>
+
 <p>Повернемося до нашого прикладу з мобільним зв’язком: Скільки Мб інтернет-трафіку може використати Сашко з бюджетом $$75$$ грн.? На це питання можна відповісти, розв’язавши нерівність</p>
 
 <p align="center">$$40 + 0,05x \leq 75$$</p>
@@ -25,7 +27,20 @@
 
 <p>Нашою метою є <b>залишити $$x$$ «на самоті» в лівій частині</b>:</p>
 
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e6.png"/></p></div>
+
+<table style="border: none;" class="none" cellpadding=4>
+<tr>
+<td>$$
+    \begin{align}
+        40 + 0,05x & \le 75 \\
+        40 + 0,05x \color{#1570bd}- \color{#1570bd}4\color{#1570bd}0 & \le 75 \color{#1570bd}- \color{#1570bd}4\color{#1570bd}0 \\
+        0,05x & \le 35 \\
+        \dfrac{0,05}{\color{#1570bd}0\color{#1570bd},\color{#1570bd}0\color{#1570bd}5}x & \le \dfrac{35}{\color{#1570bd}0\color{#1570bd},\color{#1570bd}0\color{#1570bd}5} \\
+        x & \le 700
+    \end{align}$$</td>
+<td><font color="1570bd"><i>Вихідна нерівність<br>Віднімаємо $$40$$ від обох частин<br>Спрощуємо<br>Ділимо обидві частини нерівності на $$0,05$$<br>Спрощуємо</i></font></td>
+</tr>
+</table>
 
 <p>Отже, на місяць, маючи $$75$$ грн і тариф «Шалений день», Сашко може витрачати $$700$$ МБ мобільного інтернету. Ми розпочали з нерівності $$40+0,05x\leq75$$ та перейшли до рівносильної нерівності $$x\leq700$$.</p>
 
@@ -50,7 +65,19 @@
 <p>Розв’язати нерівність: $$3x < 8$$.</p>
 <b><i>Розв’язок</i></b>.</p>
 <p>Спрощувати тут вже нема чого, всі доданки з $$x$$ в лівій частині, вільні доданки – у правій. Переходимо відразу до пункту <b>$$3$$</b>: необхідно розділити обидві частини нерівності на коефіцієнт при змінній $$x$$ та спростити отриманий вираз.</p>
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e7.png"/></p></div>
+
+<table style="border: none;" class="none" cellpadding=4>
+<tr>
+<td>$$
+    \begin{align}
+    3x & \lt 8 \\
+    \dfrac{3}{3}x & \lt \dfrac{8}{3} \\
+    x & \lt \dfrac{8}{3}
+    \end{align}$$</td>
+<td><font color="1570bd"><i>Вихідна нерівність<br>Ділимо обидві частини на $$3$$<br><br>Спрощуємо</i></font></td>
+</tr>
+</table>
+
 <p>Єдине, що залишилось – записати відповідь в інтервальному представленні та зобразити її на числовій прямій:</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/p14_8.png"/></p></div>
 <b>Вiдповiдь.</b> $$x \in (-\infty;\dfrac{8}{3})$$.
@@ -65,7 +92,19 @@
 <p>Розв’язати нерівність: $$-2\leq2-4x$$.</p>
 <b><i>Розв’язок</i></b>.</p>
 <p>Всі доданки з $$x$$ вже розміщені в правій частині, збираємо всі вільні доданки в лівій:</p>
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e8.png"/></p></div>
+
+<table style="border: none;" class="none" cellpadding=4>
+<tr>
+<td>$$
+    \begin{align}
+    -2 & \le 2 - 4x \\
+    -2 \color{#1570bd}- \color{#1570bd}2 & \le 2 - 4x \color{#1570bd}- \color{#1570bd}2 \\
+    -4 & \le -4x
+    \end{align}$$</td>
+<td><font color="1570bd"><i>Вихідна нерівність<br>Віднімаємо $$2$$ від обох частин<br>Спрощуємо </i></font></td>
+</tr>
+</table>
+
 <p>Ділимо обидві частини на коефіцієнт при змінній:</p>
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e9.png"/></p></div>
 <p>Тепер записуємо відповідь в інтервальному представленні та зображаємо її на числовій прямій:</p>
