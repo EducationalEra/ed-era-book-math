@@ -28,7 +28,7 @@
 <p>Нашою метою є <b>залишити $$x$$ «на самоті» в лівій частині</b>:</p>
 
 
-<table style="border: none;" class="none" cellpadding=4>
+<table style="border: none;" class="none">
 <tr>
 <td>$$
     \begin{align}
@@ -66,7 +66,7 @@
 <b><i>Розв’язок</i></b>.</p>
 <p>Спрощувати тут вже нема чого, всі доданки з $$x$$ в лівій частині, вільні доданки – у правій. Переходимо відразу до пункту <b>$$3$$</b>: необхідно розділити обидві частини нерівності на коефіцієнт при змінній $$x$$ та спростити отриманий вираз.</p>
 
-<table style="border: none;" class="none" cellpadding=4>
+<table style="border: none;" class="none">
 <tr>
 <td>$$
     \begin{align}
@@ -93,7 +93,7 @@
 <b><i>Розв’язок</i></b>.</p>
 <p>Всі доданки з $$x$$ вже розміщені в правій частині, збираємо всі вільні доданки в лівій:</p>
 
-<table style="border: none;" class="none" cellpadding=4>
+<table style="border: none;" class="none">
 <tr>
 <td>$$
     \begin{align}
@@ -106,7 +106,18 @@
 </table>
 
 <p>Ділимо обидві частини на коефіцієнт при змінній:</p>
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e9.png"/></p></div>
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$
+    \begin{align}
+    \dfrac{-4}{\color{#1570bd}-\color{#1570bd}4} & \color{#1570bd}\ge \dfrac{-4}{\color{#1570bd}-\color{#1570bd}4}x \\
+    1 & \ge x
+    \end{align}$$</td>
+<td><font color="1570bd"><i>Ділимо обидві частини на $$-4$$ та змінюємо знак нерівності на протилежний<br>Спрощуємо</i></font></td>
+</tr>
+</table>
+
 <p>Тепер записуємо відповідь в інтервальному представленні та зображаємо її на числовій прямій:</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/p14_9.png"/></p></div>
 <b>Вiдповiдь.</b> $$x \in (-\infty;1]$$.
@@ -121,11 +132,46 @@
 <p>Розв’язати нерівність: $$5(x-1)>x+3$$.</p>
 <b><i>Розв’язок</i></b>.</p>
 <p>Розкриваємо дужки та збираємо змінну $$x$$ в лівій частині нерівності:</p>
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e10.png"/></p></div>
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$
+    \begin{align}
+    5(x-1) & \gt x + 3 \\ 
+    5x - 5 & \gt x + 3 \\ 
+    5x - 5 \color{#1570bd}- \color{#1570bd}x & \gt x + 3 \color{#1570bd}- \color{#1570bd}x \\ 
+    4x - 5 & \gt 3 \\ 
+    \end{align}$$</td>
+<td><font color="1570bd"><i>Вихідна нерівність<br>Розкриваємо дужки в лівій частині<br>Віднімаємо $$x$$ від обох частин<br>Спрощуємо</i></font></td>
+</tr>
+</table>
+
 <p>Всі вільні доданки залишаємо в правій частині нерівності:</p>
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e11.png"/></p></div>
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$
+    \begin{align}
+    4x - 5 \color{#1570bd}+ \color{#1570bd}5 & \gt 3 \color{#1570bd}+ \color{#1570bd}5 \\ 
+    4x & \gt 8 \\
+    \end{align}$$</td>
+<td><font color="1570bd"><i>Додаємо $$5$$ до обох частин<br>Спрощуємо </i></font></td>
+</tr>
+</table>
+
 <p>Ділимо обидві частини на коефіцієнт при змінній:</p>
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e12.png"/></p></div>
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$
+    \begin{align}
+    \dfrac{4}{\color{#1570bd}4}x & \gt \dfrac{8}{\color{#1570bd}4} \\ 
+    x & \gt 2 \\
+    \end{align}$$</td>
+<td><font color="1570bd"><i>Ділимо обидві частини на $$4$$<br>Спрощуємо</i></font></td>
+</tr>
+</table>
+
 <p>Записуємо відповідь в інтервальному представленні та зображаємо її на числовій прямій:</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/p14_10.png"/></p></div>
 <b>Вiдповiдь.</b> $$x \in (2;+\infty)$$.
@@ -140,6 +186,22 @@
 <p>Розв’язати нерівність: $$\dfrac{(2x-1)^2}{4}-\dfrac{3(x-1)}{4} \geq x^2$$.</p>
 <b><i>Розв’язок</i></b>.</p>
 <p>Розкриваємо дужки та спрощуємо вирази в лівій частині нерівності:</p>
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$
+    \begin{align}
+    \dfrac{(2x-1)^2}{4} - \dfrac{3(x-1)}{4} & \ge x^2    \\ 
+    4 \left(\dfrac{(2x-1)^2}{4} - \dfrac{3(x-1)}{4}\right) & \ge 4(x^2)    \\
+    \dfrac{1 \cdot 4}{4}(2x-1)^2 - \dfrac{3 \cdot 4}{4}(x-1) & \ge 4x^2     \\
+    (2x-1)^2 - 3(x-1) & \ge 4x^2    \\
+    (4x^2 - 4x + 1) - (3x-3) & \ge 4x^2    \\
+    4x^2 - 7x + 4 & \ge 4x^2    \\
+    \end{align}$$</td>
+<td><font color="1570bd"><i>Вихідна нерівність<br><br>Множимо обидві частини на $$4$$<br><br>Розкриваємо дужки<br><br>Спрощуємо<br>Розкриваємо дужки<br>Спрощуємо</i></font></td>
+</tr>
+</table>
+
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e13.png"/></p></div>
 <p>Збираємо всі доданки зі змінною $$x$$ в лівій частині, а вільні доданки – в правій:</p>
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e14.png"/></p></div>
@@ -157,6 +219,8 @@
 </div>
 <div class="popup">
 </div>
+
+<br>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
  <question text="">
