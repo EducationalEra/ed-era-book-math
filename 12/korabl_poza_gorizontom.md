@@ -172,11 +172,76 @@
 <p>Тепер розв’язуємо саме рівняння за стандартним алгоритмом:</p>
 <ol>
 <li>Залишаємо доданок з коренем на самоті в лівій частині рівняння:</li>
-<img src="pic_e13.png">
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$\sqrt{10-7x} + \sqrt{3x+5} = 5$$</td>
+<td><font color="1570bd"><i>Вихідне рівняння</i></font></td>
+</tr>
+<tr>
+<td>$$\sqrt{10-7x} + \sqrt{3x+5} \color{#1570bd}- \sqrt{\color{#1570bd}3\color{#1570bd}x\color{#1570bd}+\color{#1570bd}5} = 5 \color{#1570bd}- \sqrt{\color{#1570bd}3\color{#1570bd}x\color{#1570bd}+\color{#1570bd}5}$$</td>
+<td><font color="1570bd"><i>Віднімаємо $$\sqrt{3x+5}$$ від обох частин</i></i></font></td>
+</tr>
+<tr>
+<td>$$\sqrt{10-7x} = 5 - \sqrt{3x+5}$$</td>
+<td><font color="1570bd"><i>Спрощуємо</i></font></td>
+</tr>
+</table>
+
 <li>Підносимо обидві частини рівняння до квадрату:</li>
-<img src="pic_e14.png">
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$\color{#1570bd}(\sqrt{10-7x}\color{#1570bd})^\color{#1570bd}2 = \color{#1570bd}(5 - \sqrt{3x+5}\color{#1570bd})^\color{#1570bd}2$$</td>
+<td><font color="1570bd"><i>Підносимо обидві частини до квадрату</i></font></td>
+</tr>
+<tr>
+<td>$$10 - 7x = 25 - 10\sqrt{3x + 5} + 3x + 5$$</td>
+<td><font color="1570bd"><i>Спрощуємо</i></i></font></td>
+</tr>
+<tr>
+<td>$$10 - 7x \color{#1570bd}- \color{#1570bd}(\color{#1570bd}3\color{#1570bd}x \color{#1570bd}+ \color{#1570bd}3\color{#1570bd}0\color{#1570bd}) = 25 - 10\sqrt{3x + 5} + 3x + 5 \color{#1570bd}- \color{#1570bd}(\color{#1570bd}3\color{#1570bd}x\color{#1570bd}+\color{#1570bd}3\color{#1570bd}0\color{#1570bd})$$</td>
+<td><font color="1570bd"><i>Віднімаємо $$(3x+30)$$від обох частин</i></font></td>
+</tr>
+<tr>
+<td>$$-20 - 10x = -10\sqrt{3x+5}$$</td>
+<td><font color="1570bd"><i>Спрощуємо</i></font></td>
+</tr>
+</table>
+
 <li>Отримане рівняння знову містить значок кореня. Повторюємо кроки 1 та 2. Залишаємо доданок з коренем на самоті в правій частині рівняння. Потім підносимо обидві частини рівняння до квадрату і спрощуємо:</li>
-<img src="pic_e15.png">
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$\dfrac{-20 - 10x}{\color{#1570bd}-\color{#1570bd}1\color{#1570bd}0} = \dfrac{-10\sqrt{3x+5}}{\color{#1570bd}-\color{#1570bd}1\color{#1570bd}0}$$</td>
+<td><font color="1570bd"><i>Ділимо обидві частини на $$-10$$</i></font></td>
+</tr>
+<tr>
+<td>$$2+x = \sqrt{3x+5}$$</td>
+<td><font color="1570bd"><i>Спрощуємо</i></i></font></td>
+</tr>
+<tr>
+<td>$$\color{#1570bd}(2+x\color{#1570bd})^\color{#1570bd}2 = \color{#1570bd}(\sqrt{3x+5}\color{#1570bd})^\color{#1570bd}2$$</td>
+<td><font color="1570bd"><i>Підносимо обидві частини до квадрату</i></font></td>
+</tr>
+<tr>
+<td>$$x^2 + 4x + 4 = 3x+5$$</td>
+<td><font color="1570bd"><i>Спрощуємо</i></font></td>
+</tr>
+<tr>
+<td>$$x^2 + 4x + 4 \color{#1570bd}- \color{#1570bd}3\color{#1570bd}x \color{#1570bd}- \color{#1570bd}5 = 3x+5 \color{#1570bd}- \color{#1570bd}3\color{#1570bd}x \color{#1570bd}- \color{#1570bd}5$$</td>
+<td><font color="1570bd"><i>Віднімаємо $$(3x+5)$$ від обох частин</i></font></td>
+</tr>
+<tr>
+<td>$$x^2 + x - 1 = 0$$</td>
+<td><font color="1570bd"><i>Спрощуємо</i></font></td>
+</tr>
+<tr>
+<td>$$D = 1^2 - 4 \cdot 1 \cdot (-1) = 5, \\ x_{1,2} = \dfrac{-1 \pm \sqrt{5}}{2}$$</td>
+<td><font color="1570bd"><i>Шукаємо дискримінант<br>та корені рівняння</i></font></td>
+</tr>
+</table>
+
 <li>Тепер перевіряємо корені на відповідність ОДЗ замість підстановки.
 Для цього потрібно прикинути значення коренів. Квадратний корінь з $$5$$ – ірраціональне число. Ми точно знаємо, що воно лежить між $$2$$ і $$3$$, бо $$2^2=4$$, а $$3^2=9$$. при чому набагато ближче до $$2$$. Візьмемо приблизно $$2,2$$:</li>
 <p align="center">$$x_1 \approx \dfrac{-1-2,2}{2}=-1,6,$$</p>
