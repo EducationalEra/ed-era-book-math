@@ -41,23 +41,23 @@
 <table style="border: none;" class="none">
 <tr>
 <td>$$\dfrac{x-3}{x^2+4x+3} + \dfrac{1}{x+1} = - \dfrac{x}{x+3}$$</td>
-<td><i><font color="0F5181">Вихідне рівняння</font></i></td>
+<td><i><font color="1570bd">Вихідне рівняння</font></i></td>
 </tr>
 <tr>
 <td>$$\dfrac{x-3}{x^2+4x+3} + \dfrac{1}{x+1} + \dfrac{x}{x+3} = 0$$</td>
-<td><font color="0F5181"><i>Додаємо $$\dfrac{x}{x+3}$$ до обох частин та спрощуємо</i></font></td>
+<td><font color="1570bd"><i>Додаємо $$\dfrac{x}{x+3}$$ до обох частин та спрощуємо</i></font></td>
 </tr>
 <tr>
-<td>$$\dfrac{x-3+x+3+(x+1)x}{\color{#0F5181}(\color{#0F5181}x\color{#0F5181}+\color{#0F5181}3\color{#0F5181})\color{#0F5181}(\color{#0F5181}x\color{#0F5181}+\color{#0F5181}1\color{#0F5181})} = 0$$</td>
-<td><font color="0F5181"><i>Зводимо до спільного знаменника</i></font></td>
+<td>$$\dfrac{x-3+x+3+(x+1)x}{\color{#1570bd}(\color{#1570bd}x\color{#1570bd}+\color{#1570bd}3\color{#1570bd})\color{#1570bd}(\color{#1570bd}x\color{#1570bd}+\color{#1570bd}1\color{#1570bd})} = 0$$</td>
+<td><font color="1570bd"><i>Зводимо до спільного знаменника</i></font></td>
 </tr>
 <tr>
-<td>$$\dfrac{\color{#0F5181}x^\color{#0F5181}2\color{#0F5181}+\color{#0F5181}3\color{#0F5181}x}{(x+3)(x+1)} = 0$$</td>
-<td><font color="0F5181"><i>Спрощуємо</i></font></td>
+<td>$$\dfrac{\color{#1570bd}x^\color{#1570bd}2\color{#1570bd}+\color{#1570bd}3\color{#1570bd}x}{(x+3)(x+1)} = 0$$</td>
+<td><font color="1570bd"><i>Спрощуємо</i></font></td>
 </tr>
 <tr>
-<td>$$\dfrac{\color{#0F5181}x(x+3)}{(x+3)(x+1)} = 0$$</td>
-<td><font color="0F5181"><i>Виносимо $$x$$ в чисельнику за дужки</i></font></td>
+<td>$$\dfrac{\color{#1570bd}x(x+3)}{(x+3)(x+1)} = 0$$</td>
+<td><font color="1570bd"><i>Виносимо $$x$$ в чисельнику за дужки</i></font></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@
 <table style="border: none;" class="none">
 <tr>
 <td>$$x(x+3) = 0$$</td>
-<td><i><font color="0F5181">Вихідне рівняння</font></i></td>
+<td><i><font color="1570bd">Вихідне рівняння</font></i></td>
 </tr>
 <tr>
 <td>$$\left[
@@ -75,16 +75,16 @@
         x + 3 = 0
     \end{array}
     \right.$$</td>
-<td><font color="0F5181"><i>Добуток множників рівний нулю записати як сукупність множників, кожен з яких рівний нулю</i></font></td>
+<td><font color="1570bd"><i>Добуток множників рівний нулю записати як сукупність множників, кожен з яких рівний нулю</i></font></td>
 </tr>
 <tr>
 <td>$$\left[
     \begin{array}{}
         x = 0 \\
-        x + 3 \color{#0F5181}- \color{#0F5181}3 = 0 \color{#0F5181}- \color{#0F5181}3
+        x + 3 \color{#1570bd}- \color{#1570bd}3 = 0 \color{#1570bd}- \color{#1570bd}3
     \end{array}
     \right.$$</td>
-<td><font color="0F5181"><i>У другому рівнянні віднімемо $$3$$ від обох частин</i></font></td>
+<td><font color="1570bd"><i>У другому рівнянні віднімемо $$3$$ від обох частин</i></font></td>
 </tr>
 <tr>
 <td>$$\left[
@@ -93,7 +93,7 @@
         x_2 = - 3
     \end{array}
     \right.$$</td>
-<td><font color="0F5181"><i>Спрощуємо</i></font></td>
+<td><font color="1570bd"><i>Спрощуємо</i></font></td>
 </tr>
 </table>
 
@@ -114,9 +114,32 @@
 <p>Перед нами дробове раціональне рівняння. Зводимо його до вигляду $$\dfrac{P(x)}{Q(x)} = 0$$.</p>
 <p>Скористаємося одним трюком. Якщо уважно придивитися до коефіцієнтів квадратних тричленів у рівнянні, можна побачити, що деякі з них збігаються:</p>
 <p>Якщо в такому рівняння поділити і чисельник, і знаменник на $$x$$ – можна буде зробити дуже вдалу заміну. Але спочатку треба перевірити, чи не є $$x=0$$ коренем рівняння, бо на $$0$$ ділити не можна:</p>
-<p align="center">$$\dfrac{0^2-14\cdot0+2}{0^2+4\cdot0+2} +1 = \dfrac{5\cdot0}{0^2-3\cdot0+2}\Longleftrightarrow \dfrac{2}{2}+1=0$$</p>
+<p align="center">$$\dfrac{0^2-14 \cdot 0+2}{0^2+4\cdot0+2} +1 = \dfrac{5\cdot0}{0^2-3\cdot0+2}\Longleftrightarrow \dfrac{2}{2}+1=0$$</p>
 <p>Така рівність не справджується, тому можна спокійно ділити і чисельник, і знаменник дробів на $$x$$:</p>
-<div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/143/p34_e6.png"/></p></div>
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$\dfrac{\dfrac{x^2 - 14x + 2}{\color{#1570bd}x}}{\dfrac{x^2 + 4x + 2}{\color{#1570bd}x}} + 1 = \dfrac{\dfrac{5x}{\color{#1570bd}x}}{\dfrac{x^2-3x+2}{\color{#1570bd}x}}$$</td>
+<td><i><font color="1570bd">Ділимо чисельник і знаменник дробів на $$x$$</font></i></td>
+</tr>
+<tr>
+<td>$$\dfrac{\color{#1570bd}x - 14 + \dfrac{\color{#1570bd}2}{\color{#1570bd}x}}{\color{#1570bd}x + 4 + \dfrac{\color{#1570bd}2}{\color{#1570bd}x}} + 1 = \dfrac{5}{\color{#1570bd}x-3+\dfrac{\color{#1570bd}2}{\color{#1570bd}x}}$$</td>
+<td><font color="1570bd"><i>Спрощуємо</i></font></td>
+</tr>
+<tr>
+<td>$$\dfrac{t-14}{t+4} + 1 = \dfrac{5}{t-3}$$</td>
+<td><font color="1570bd"><i>Робимо заміну $$t= x + \dfrac{2}{x}$$</i></font></td>
+</tr>
+<tr>
+<td>$$\dfrac{t-14}{t+4} + 1 - \dfrac{5}{t-3} = 0$$</td>
+<td><font color="1570bd"><i>Збираємо всі доданки в лівій частині</i></font></td>
+</tr>
+<tr>
+<td>$$\dfrac{2t^2 - 21t + 10}{(t-3)(t+4)} = 0$$</td>
+<td><font color="1570bd"><i>Зводимо до спільного знаменника та спрощуємо</i></font></td>
+</tr>
+</table>
+
 <p>Розв’язуємо рівняння з чисельника:</p>
 <div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/143/p34_e7.png"/></p></div>
 <p>Поглянемо на ОДЗ змінної, знаменник повинен бути відмінним від нуля: $$(t-3)(t+4)\neq0$$. Це дає два заборонених значення змінної: $$t\neq3;t\neq-4$$. Обидва знайдені значення задовольняють ОДЗ.</p>
