@@ -202,7 +202,6 @@
 </tr>
 </table>
 
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e13.png"/></p></div>
 <p>Збираємо всі доданки зі змінною $$x$$ в лівій частині, а вільні доданки – в правій:</p>
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e14.png"/></p></div>
 <p>Ділимо на коефіцієнт при змінній:</p>
