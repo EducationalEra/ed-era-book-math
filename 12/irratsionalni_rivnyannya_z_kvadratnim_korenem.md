@@ -2,7 +2,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Ірраціональне рівняння</b> — це рівняння, що містить змінну під знаком кореня, або в дробовому степені.
 </div>
