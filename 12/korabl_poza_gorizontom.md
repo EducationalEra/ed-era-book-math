@@ -25,9 +25,50 @@
 <p>розв’язуємо за допомогою стандартного алгоритму:</p>
 <ol>
 <li>Залишаємо доданок з коренем на самоті в лівій частині рівняння:</li>
-<img src="pic_e9.png">
+<table style="border: none;" class="none">
+<tr>
+<td>$$3,85(\sqrt{x} + \sqrt{x+5}) = 38,5$$</td>
+<td><font color="1570bd"><i>Вихідне рівняння</i></font></td>
+</tr>
+<tr>
+<td>$$\dfrac{3,85}{\color{#1570bd}3\color{#1570bd},\color{#1570bd}8\color{#1570bd}5}(\sqrt{x} + \sqrt{x+5}) = \dfrac{38,5}{\color{#1570bd}3\color{#1570bd},\color{#1570bd}8\color{#1570bd}5}$$</td>
+<td><font color="1570bd"><i>Ділимо обидві частини на $$3,85$$</i></i></font></td>
+</tr>
+<tr>
+<td>$$\sqrt{x} + \sqrt{x+5} = 10$$</td>
+<td><font color="1570bd"><i>Спрощуємо</i></font></td>
+</tr>
+<tr>
+<td>$$\sqrt{x} + \sqrt{x+5} \color{#1570bd}- \sqrt{\color{#1570bd}x} = 10 \color{#1570bd}- \sqrt{\color{#1570bd}x}$$</td>
+<td><font color="1570bd"><i>Віднімаємо $$\sqrt{x}$$ від обох частин</i></font></td>
+</tr>
+<tr>
+<td>$$\sqrt{x+5} = 10 - \sqrt{x}$$</td>
+<td><font color="1570bd"><i>Спрощуємо</i></font></td>
+</tr>
+</table>
+
 <li>Підносимо обидві частини рівняння до квадрату:</li>
-<img src="pic_e10.png">
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$\color{#1570bd}(\sqrt{x+5}\color{#1570bd})^\color{#1570bd}2 = \color{#1570bd}(\sqrt{10-x}\color{#1570bd})^\color{#1570bd}2$$</td>
+<td><font color="1570bd"><i>Підносимо обидві частини до квадрату</i></font></td>
+</tr>
+<tr>
+<td>$$x + 5 = 100 - 20\sqrt{x} + x$$</td>
+<td><font color="1570bd"><i>Спрощуємо</i></i></font></td>
+</tr>
+<tr>
+<td>$$x + 5 \color{#1570bd}- \color{#1570bd}x \color{#1570bd}- \color{#1570bd}5 = 100 - 20\sqrt{x} + x \color{#1570bd}- \color{#1570bd}x \color{#1570bd}- \color{#1570bd}5$$</td>
+<td><font color="1570bd"><i>Віднімаємо $$x+5$$ від обох частин</i></font></td>
+</tr>
+<tr>
+<td>$$0 = 95 - 20\sqrt{x}$$</td>
+<td><font color="1570bd"><i>Спрощуємо</i></font></td>
+</tr>
+</table>
+
 <li>Отримане рівняння знову містить значок кореня. Повторюємо кроки 1 та 2. Залишаємо доданок з коренем на самоті в лівій частині рівняння. Потім підносимо обидві частини рівняння до квадрату і спрощуємо:</li>
 <img src="pic_e11.png">
 <li>Перевіримо отриманий розв’язок підстановкою у вихідне рівняння</li>
