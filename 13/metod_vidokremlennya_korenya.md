@@ -215,8 +215,8 @@ x &>& -\dfrac{59}{20}
 
 Тепер за схемою Горнера розділимо $$x^3-8$$ на $$x+2.$$ Для цього запишемо табличку з коефіцієнтами. Перший коефіцієнт копіюємо:
 
-<table class="gorner">
-<tr class="empty">
+<table>
+<tr>
 <td></td>
 <td>$$1$$</td>
 <td>$$0$$</td>
@@ -236,7 +236,7 @@ x &>& -\dfrac{59}{20}
 
 <table>
 <tr>
-<td style="border: none;" class="none"></td>
+<td></td>
 <td>$$1$$</td>
 <td>$$0$$</td>
 <td>$$0$$</td>
@@ -259,9 +259,9 @@ x &>& -\dfrac{59}{20}
 
 /*Картинка з інтервалами*/
 
-Беремо наше тестове значення <i class="expl">мільярд</i>.
+Беремо наше тестове значення $$\color{#0F5181}{\textit{мільярд}}$$.
 
-<p align="center">P(<i style="color:#0F5181;">мільярд</i>) = $$(\underbrace{\color{#0F5181}{\textit{мільярд}}-2}_{>\thinspace\mbox{0}})$$ $$(\underbrace{\color{#0F5181}{\textit{мільярд}^2}-2⋅\color{#0F5181}{\textit{мільярд}}+4}_{>\thinspace\mbox{0}})$$ $$>0$$</p>
+<p align="center">$$P(\color{#0F5181}{\textit{мільярд}}) = (\underbrace{ \color{#0F5181}{\textit{мільярд}}-2}_{>\thinspace\mbox{0}}) \, (\underbrace{ \color{#0F5181}{\textit{мільярд}^2}-2⋅\color{#0F5181}{\textit{мільярд}}+4}_{>\thinspace\mbox{0}}) \, >0$$</p>
 
 /*Картинка з інтервалами*/
 
@@ -269,4 +269,4 @@ x &>& -\dfrac{59}{20}
 
 /*Картинка з інтервалами*/
 
-<p><b>Вiдповiдь.</b>$$x \in \left(2;\infty\right).$$</p>
+<p><b>Вiдповiдь.</b> $$x \in \left(2;\infty\right).$$</p>
