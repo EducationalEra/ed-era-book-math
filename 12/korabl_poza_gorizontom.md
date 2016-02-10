@@ -70,9 +70,63 @@
 </table>
 
 <li>Отримане рівняння знову містить значок кореня. Повторюємо кроки 1 та 2. Залишаємо доданок з коренем на самоті в лівій частині рівняння. Потім підносимо обидві частини рівняння до квадрату і спрощуємо:</li>
-<img src="pic_e11.png">
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$0 \color{#1570bd}+ \color{#1570bd}2\color{#1570bd}0\sqrt{\color{#1570bd}x} = 95 - 20\sqrt{x} \color{#1570bd}+ \color{#1570bd}2\color{#1570bd}0\sqrt{\color{#1570bd}x}$$</td>
+<td><font color="1570bd"><i>Додаємо $$20\sqrt{x}$$ до обох частин</i></font></td>
+</tr>
+<tr>
+<td>$$20\sqrt{x} = 95$$</td>
+<td><font color="1570bd"><i>Спрощуємо</i></i></font></td>
+</tr>
+<tr>
+<td>$$\dfrac{20}{\color{#1570bd}2\color{#1570bd}0}\sqrt{x} = \dfrac{95}{\color{#1570bd}2\color{#1570bd}0}$$</td>
+<td><font color="1570bd"><i>Ділимо обидві частини на $$20$$</i></font></td>
+</tr>
+<tr>
+<td>$$\sqrt{x} = \dfrac{19}{4}$$</td>
+<td><font color="1570bd"><i>Спрощуємо</i></font></td>
+</tr>
+<tr>
+<td>$$\color{#1570bd}(\sqrt{x}\color{#1570bd})^\color{#1570bd}2 = \color{#1570bd}(\dfrac{19}{4}\color{#1570bd})^\color{#1570bd}2$$</td>
+<td><font color="1570bd"><i>Підносимо обидві частини до квадрату</i></font></td>
+</tr>
+<tr>
+<td>$$x = \dfrac{361}{16}$$</td>
+<td><font color="1570bd"><i>Спрощуємо</i></font></td>
+</tr>
+</table>
+
 <li>Перевіримо отриманий розв’язок підстановкою у вихідне рівняння</li>
-<img src="pic_e12.png">
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$3,85(\sqrt{x} + \sqrt{x+5}) \ = \ 38,5$$</td>
+<td><font color="1570bd"><i>Вихідне рівняння</i></font></td>
+</tr>
+<tr>
+<td>$$3,85 \left(\sqrt{\dfrac{\color{#1570bd}3\color{#1570bd}6\color{#1570bd}1}{\color{#1570bd}1\color{#1570bd}6}} + \sqrt{\dfrac{\color{#1570bd}3\color{#1570bd}6\color{#1570bd}1}{\color{#1570bd}1\color{#1570bd}6} + 5}\right) = \ ? 38,5$$</td>
+<td><font color="1570bd"><i>Підставляємо $$\dfrac{361}{16}$$ замість $$x$$</i></i></font></td>
+</tr>
+<tr>
+<td>$$\sqrt{\dfrac{\color{#1570bd}3\color{#1570bd}6\color{#1570bd}1}{\color{#1570bd}1\color{#1570bd}6}} + \sqrt{\dfrac{\color{#1570bd}3\color{#1570bd}6\color{#1570bd}1}{\color{#1570bd}1\color{#1570bd}6} + 5} \ = \ ? 10$$</td>
+<td><font color="1570bd"><i></i></font></td>
+</tr>
+<tr>
+<td>$$\dfrac{19}{4} + \sqrt{\dfrac{441}{16}} \ = \ ?10$$</td>
+<td><font color="1570bd"><i></i></font></td>
+</tr>
+<tr>
+<td>$$\dfrac{19}{4} + \dfrac{21}{4} \ = \ ?10$$</td>
+<td><font color="1570bd"><i></i></font></td>
+</tr>
+<tr>
+<td>$$10 \ = \ 10$$</td>
+<td><font color="1570bd"><i>Вірно</i></font></td>
+</tr>
+</table>
+
 </ol>
 <p>Отже Михайло знаходився на висоті, трошки більшій, ніж $$22,5$$ метри.</p>
 <p><b>Відповідь</b>: $$22.5$$ метри</p>
