@@ -6,7 +6,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Ірраціональна нерівність</b> — це нерівність, що містить змінну під знаком кореня, або в дробовому степені.
 </div>
