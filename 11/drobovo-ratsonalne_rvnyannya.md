@@ -141,7 +141,31 @@
 </table>
 
 <p>Розв’язуємо рівняння з чисельника:</p>
-<div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/143/p34_e7.png"/></p></div>
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$2t^2 - 21t + 10 = 0$$</td>
+<td><i><font color="1570bd">Вихідне рівняння</font></i></td>
+</tr>
+<tr>
+<td>$$D = (-21)^2 - 4 \cdot 2 \cdot 10 = 441 - 80 = 361$$</td>
+<td><font color="1570bd"><i>Шукаємо дискримінант</i></font></td>
+</tr>
+<tr>
+<td>$$t_{1,2} = \dfrac{21 \pm \sqrt{361}}{2 \cdot 2} = \dfrac{21 \pm 19}{4}$$</td>
+<td><font color="1570bd"><i>Дискримінант додатний, шукаємо корені</i></font></td>
+</tr>
+<tr>
+<td>$$\left[
+    \begin{array}{}
+        t_1 = 10, \\
+        t_2 = \dfrac{1}{2}
+    \end{array}
+    \right.$$</td>
+<td><font color="1570bd"><i>Спрощуємо та обчислюємо значення коренів</i></font></td>
+</tr>
+</table>
+
 <p>Поглянемо на ОДЗ змінної, знаменник повинен бути відмінним від нуля: $$(t-3)(t+4)\neq0$$. Це дає два заборонених значення змінної: $$t\neq3;t\neq-4$$. Обидва знайдені значення задовольняють ОДЗ.</p>
 <p>Повертаємося до вихідної змінної $$x$$ і отримуємо ще два дробових раціональних рівняння:</p>
 <p align="center">$$\left[ \begin{gathered} 
