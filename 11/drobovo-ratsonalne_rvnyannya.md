@@ -97,7 +97,6 @@
 </tr>
 </table>
 
-<div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/143/p34_e5.png"/></p></div>
 <li>Тепер поглянемо на знаменник. ОДЗ такого дробу знаходимо з умови\\ $$(x+3)(x+1)\neq0$$. Отже, отримуємо ОДЗ: $$x\neq-3;x\neq-1$$.</li>
 <p>Серед знайдених двох коренів ОДЗ задовольняє лише один $$x=0$$.</p>
 </ol>
