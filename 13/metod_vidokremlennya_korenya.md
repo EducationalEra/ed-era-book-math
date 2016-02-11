@@ -416,16 +416,16 @@ x^2-16 &\leq& 0 \nonumber\\
 \quad \begin{cases} 
 f (x)\geq0,\\ 
 g (x)> 0,\\
-f (x)< g^{2k}x;
+f (x)< g^{2k}x.
 \end{cases}$$</p>
 
 Тоді нерівність перетвориться на таку систему нерівностей:
 
 <p align="center">$$\sqrt{3x-2}\leq3(2x-1)\Longleftrightarrow\
 \quad \begin{cases} 
-f (x)\geq0,\\ 
-g (x)> 0,\\
-f (x)< g^{2k}x;
+3x-2\geq0,\\ 
+3(2x-1)\geq0,\\
+3x-2\leq9(2x-1)^2.
 \end{cases}$$</p>
 <p><b>Вiдповiдь.</b>$$x \in \left[0;4\right].$$</p>
 </div>
