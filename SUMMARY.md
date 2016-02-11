@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Зміст](README.md)
 * [Вступне слово](vstup.md)
 * [Арифметика](1/chislovi_mnozhini.md)
    * [Прості та складені числа](1/prosti_ta_skladeni_chisla.md)
