@@ -297,10 +297,18 @@ g (x)>0,\\
 f(x)<g^{2k}(x);
 \end{cases}\\ $$</p>
 </li>
-<li>Виписати всi простi множники.</li>
-<li>Обрати найменший степiнь, що зустрiчається у розкладах.</li>
-<li>Обчислити добуток цих степенiв.</li>
+<li>$$\sqrt[2k]{f(x)}>\sqrt[2k]{g(x)}$$ справедливий рівносильний перехід:
+<p align="center">$$\sqrt[2k]{f(x)}>\sqrt[2k]{g(x)}\Longleftrightarrow\quad 
+\quad \begin{cases} 
+g (x)>0,\\
+f(x)>g(x).
+\end{cases}\\ $$</p>
+</li>
 </ul>
+</p>
+<p>Для ірраціональних нерівностей непарного степеня ніяких обмежень ОДЗ наявність ірраціональності не додає, тому можна користуватись рівносильними переходами:
+<p align="center">$$\sqrt[2k+1]{f(x)}≶(g(x)$$</p>
+
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_6.png"/></p></div>
 </div>
 </div>
