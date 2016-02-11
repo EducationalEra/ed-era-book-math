@@ -333,16 +333,17 @@ f (x)\geq0;
 \end{cases}\\ 
 \end{gathered}\right.$$</p>
 Тоді нерівність перетвориться на таку систему нерівностей:
-<p align="center">$$\sqrt{f(x)}\geq g(x)\Longleftrightarrow\quad \left[\begin{gathered} 
+<p align="center">$$\sqrt{16-x^2}\geq 4-x\Longleftrightarrow\quad \left[\begin{gathered} 
 \quad \begin{cases} 
-g (x)\geq0,\\ 
-f (x)\geq g^{2k}(x),
+4-x\geq0,\\ 
+16-x^2\geq (4-x)^2,
 \end{cases}\\ 
 \quad \begin{cases} 
-g (x)<0,\\ 
-f (x)\geq0;
+4-x<0,\\ 
+16-x^2\geq0;
 \end{cases}\\ 
 \end{gathered}\right.$$</p>
+Розглянемо кожну з двох систем нерівностей окремо, а потім об’єднаємо їхні розв’язки.
 <p><b>Вiдповiдь.</b>$$T_{min}=-4,3; T_{max}=21,6.$$</p>
 </div>
 </div>
