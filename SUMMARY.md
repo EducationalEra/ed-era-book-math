@@ -69,7 +69,7 @@
 * [Ірраціональні нерівності](13/irratsionalni_nervnosti.md)
    * [Метод відокремлення кореня](13/metod_vidokremlennya_korenya.md)
    * [Методологiя розв’язання в залежностi вiд парності/непарностi степеня кореня](13/metodologiya_rozvyazannya_v_zalezhnosti_vid_parnosti.md)
-   * Метод iнтервалiв для iррацiональних нерiвностей
+   * [Метод iнтервалiв для iррацiональних нерiвностей](13/metod_intervaliv_dlya_irratsionalnih_nerivnostei.md)
    * Нерiвностi з параметрами
 * Показникові рівняння
    * Зведення до однiєї основи
