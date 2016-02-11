@@ -125,7 +125,37 @@ f(x)<-g(x).
 5-2(x+1)<-(x-1). 
 \end{gathered}\right.$$</p>
 <p>Розв’язуємо два рівняння сукупності окремо:</p>
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e17.png"/></p></div>
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$
+    \begin{align}
+        5 - 2(x+1) & \gt x-1 \\
+        5 \color{#1570bd}- \color{#1570bd}2\color{#1570bd}x \color{#1570bd}- \color{#1570bd}2 & \gt x-1 \\
+        3 - 2x & \gt x-1 \\
+        3 - 2x \color{#1570bd}+ \color{#1570bd}(\color{#1570bd}2\color{#1570bd}x\color{#1570bd}+\color{#1570bd}1\color{#1570bd}) & \gt x - 1 \color{#1570bd}+ \color{#1570bd}(\color{#1570bd}2\color{#1570bd}x \color{#1570bd}+ \color{#1570bd}1\color{#1570bd}) \\
+        4 & \gt 3x \\
+        \dfrac{4}{\color{#1570bd}3} & \gt \dfrac{3}{\color{#1570bd}3}x \\
+        \dfrac{4}{3} & \gt x
+    \end{align}$$</td>
+<td><font color="1570bd"><i>Вихідний вираз<br>Розкриваємо дужки<br>Спрощуємо<br>Додаємо $$2x+1$$ до обох частин<br>Спрощуємо<br>Ділимо обидві частини на $$3$$<br>Спрощуємо</i></font></td>
+</tr>
+</table>
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$
+    \begin{align}
+        5 - 2(x+1) & \lt -(x-1) \\
+        5 \color{#1570bd}- \color{#1570bd}2\color{#1570bd}x \color{#1570bd}- \color{#1570bd}2 & \lt \color{#1570bd}1 \color{#1570bd}- \color{#1570bd}x \\
+        3 - 2x & \lt 1 - x \\
+        3 - 2x \color{#1570bd}+ \color{#1570bd}(\color{#1570bd}2\color{#1570bd}x\color{#1570bd}-\color{#1570bd}1\color{#1570bd}) & \lt 1 - x \color{#1570bd}+ \color{#1570bd}(\color{#1570bd}2\color{#1570bd}x\color{#1570bd}-\color{#1570bd}1\color{#1570bd}) \\
+        2 & \lt x
+    \end{align}$$</td>
+<td><font color="1570bd"><i>Вихідний вираз<br>Розкриваємо дужки<br>Спрощуємо<br>Додаємо $$2x-1$$ до обох частин<br>Спрощуємо</i></font></td>
+</tr>
+</table>
+
 <p>Зобразимо ці розв’язки на числовій прямій та знайдемо їхнє об’єднання:</p>
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_35.png"/></p></div>
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_36.png"/></p></div>
