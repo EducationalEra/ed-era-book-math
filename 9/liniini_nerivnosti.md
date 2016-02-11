@@ -192,8 +192,8 @@
 <td>$$
     \begin{align}
     \dfrac{(2x-1)^2}{4} - \dfrac{3(x-1)}{4} & \ge x^2    \\ 
-    4 \left(\dfrac{(2x-1)^2}{4} - \dfrac{3(x-1)}{4}\right) & \ge 4(x^2)    \\
-    \dfrac{1 \cdot 4}{4}(2x-1)^2 - \dfrac{3 \cdot 4}{4}(x-1) & \ge 4x^2     \\
+    \color{#1570bd}4 \left(\dfrac{(2x-1)^2}{4} - \dfrac{3(x-1)}{4}\right) & \ge \color{#1570bd}4\color{#1570bd}(x^2\color{#1570bd})    \\
+    \dfrac{1 \color{#1570bd}\cdot \color{#1570bd}4}{4}(2x-1)^2 - \dfrac{3 \color{#1570bd}\cdot \color{#1570bd}4}{4}(x-1) & \ge 4x^2     \\
     (2x-1)^2 - 3(x-1) & \ge 4x^2    \\
     (4x^2 - 4x + 1) - (3x-3) & \ge 4x^2    \\
     4x^2 - 7x + 4 & \ge 4x^2    \\
@@ -203,9 +203,33 @@
 </table>
 
 <p>Збираємо всі доданки зі змінною $$x$$ в лівій частині, а вільні доданки – в правій:</p>
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e14.png"/></p></div>
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$
+    \begin{align}
+    4x^2 - 7x + 4 \color{#1570bd}- \color{#1570bd}4\color{#1570bd}x^\color{#1570bd}2 & \ge 4x^2 - \color{#1570bd}4\color{#1570bd}x^\color{#1570bd}2    \\ 
+    - 7x + 4 & \ge 0    \\
+    - 7x + 4 \color{#1570bd}- \color{#1570bd}4 & \ge 0 \color{#1570bd}- \color{#1570bd}4    \\
+    - 7x & \ge -4    \\
+    \end{align}$$</td>
+<td><font color="1570bd"><i>Віднімаємо $$4x^2$$ від обох частин<br>Спрощуємо<br>Віднімаємо $$4$$ від обох частин<br>Спрощуємо</i></font></td>
+</tr>
+</table>
+
 <p>Ділимо на коефіцієнт при змінній:</p>
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_e15.png"/></p></div>
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$
+    \begin{align}
+    \dfrac{-7}{\color{#1570bd}-\color{#1570bd}7} \thinspace x & \color{#1570bd}\le \dfrac{-4}{\color{#1570bd}-\color{#1570bd}7}    \\
+    x & \le \dfrac{4}{7}
+    \end{align}$$</td>
+<td><font color="1570bd"><i>Віднімаємо $$4x^2$$ від обох частин<br>Спрощуємо<br>Віднімаємо $$4$$ від обох частин<br>Спрощуємо</i></font></td>
+</tr>
+</table>
+
 <p>Записуємо відповідь в інтервальному представленні та зображаємо її на числовій прямій:</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/p14_11.png"/></p></div>
 <b>Вiдповiдь.</b> $$x \in \left(-\infty;\dfrac{4}{7}\right]$$.
