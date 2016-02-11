@@ -333,7 +333,7 @@ f (x)\geq0;
 \end{cases}\\ 
 \end{gathered}\right.$$</p>
 Тоді нерівність перетвориться на таку систему нерівностей:
-<p align="center">$$\sqrt[2k]{f(x)}\geq g(x)\Longleftrightarrow\quad \left[\begin{gathered} 
+<p align="center">$$\sqrt{f(x)}\geq g(x)\Longleftrightarrow\quad \left[\begin{gathered} 
 \quad \begin{cases} 
 g (x)\geq0,\\ 
 f (x)\geq g^{2k}(x),
