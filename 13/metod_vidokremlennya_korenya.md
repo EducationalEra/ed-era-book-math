@@ -411,8 +411,7 @@ x^2-16 &\leq& 0 \nonumber\\
 <div class="task-text">
 <b>Розв’язати нерівність $$\sqrt{3x-2}\leq3(2x-1).$$</b>
 <p><b><i>Розв’язок.</i></b></p>
-Скористаємось рівносильним переходом
-<p align="center">$$\sqrt[2k]{f(x)}< g(x)\Longleftrightarrow\
+Скористаємось рівносильним переходом <p align="center">$$\sqrt[2k]{f(x)}< g(x)\Longleftrightarrow\
 \quad \begin{cases} 
 f (x)\geq0,\\ 
 g (x)> 0,\\
