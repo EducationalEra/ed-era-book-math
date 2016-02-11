@@ -427,7 +427,30 @@ f (x)< g^{2k}x.
 \end{cases}$$</p>
 Розглянемо кожну з нерівностей окремо, а потім знайдемо <i>перетин</i> їхніх розв’язків. Перша нерівність системи перетворюється на $$x\geq\dfrac{2}{3}$$. Розглянемо окремо другу і третю нерівності:
 
-<p><b>Вiдповiдь.</b>$$x \in \left[0;4\right].$$</p>
+<table>
+<td>
+$$\begin{eqnarray} 
+3(2x-1) &\geq& 0 \nonumber\\ 
+2x-1 &\geq& 0 \nonumber\\
+x &\geq& \dfrac{1}{2}
+\end{eqnarray}$$
+</td>
+<td>
+$$\begin{eqnarray} 
+3x-2 &\leq& 9(2x-1)^2 \nonumber\\ 
+3x-2 &\leq& 9(4x^2-4x+1) \nonumber\\ 
+3x-2-36x^2+36x-9 &\leq& 0 \nonumber\\
+36x^2-39x+11 &\geq& 0 \nonumber\\
+12x^2-13x+1 &\geq& 0 \nonumber\\
+D=(-39)^2-4⋅36⋅11=-63
+x \in \mathbb{R}
+\end{eqnarray}$$
+</td>
+</table>
+<p>Тепер зобразимо всі розв’язки на числовій прямій та шукаємо їхній перетин:</p>
+/*Картинка з інтервалами*/
+<p>Отримали розв'язок $$x \in \left[\dfrac{2}{3};\infty\right).$$
+<p><b>Вiдповiдь.</b>$$x \in \left[\dfrac{2}{3};\infty\right).$$</p>
 </div>
 </div>
 </div>
