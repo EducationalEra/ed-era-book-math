@@ -315,3 +315,13 @@ f(x)>g(x).
 
 Закріпимо описану концепцію в пам’яті декількома прикладами.
 
+<div class="space">
+<div class="task-wrap">
+<span class="task">Приклад</span>
+<div class="task-text">
+<b>Розв’язати нерівність $$\sqrt{16-x^2}\geq4-x.$$</b>
+<p><b><i>Розв’язок.</i></b></p>
+<p><b>Вiдповiдь.</b>$$T_{min}=-4,3; T_{max}=21,6.$$</p>
+</div>
+</div>
+</div>
