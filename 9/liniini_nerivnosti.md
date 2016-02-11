@@ -226,7 +226,7 @@
     \dfrac{-7}{\color{#1570bd}-\color{#1570bd}7} \thinspace x & \color{#1570bd}\le \dfrac{-4}{\color{#1570bd}-\color{#1570bd}7}    \\
     x & \le \dfrac{4}{7}
     \end{align}$$</td>
-<td><font color="1570bd"><i>Віднімаємо $$4x^2$$ від обох частин<br>Спрощуємо<br>Віднімаємо $$4$$ від обох частин<br>Спрощуємо</i></font></td>
+<td><font color="1570bd"><i>Ділимо обидві частини на $$-7$$ та змінюємо знак нерівності на протилежний<br>Спрощуємо</i></font></td>
 </tr>
 </table>
 
