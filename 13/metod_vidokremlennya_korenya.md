@@ -348,6 +348,7 @@ f (x)\geq0;
 4-x\geq0,\\ 
 16-x^2\geq (4-x)^2,
 \end{cases}$$ де є дві нерівності, що розв’язуються таким чином:
+
 <table>
 <td>
 $$\begin{eqnarray} 
@@ -370,32 +371,35 @@ x(x-4) &\leq& 0 \nonumber\\
 </table>
 Тепер зобразимо ці два розв’язки на числовій прямій та шукаємо їхній перетин:
 /*Картинка з інтервалами*/
-<p>Отримали розв'язок $$x \in \left[0;4\right].$$</p>
+<p>Отримали розв’язок $$x \in \left[0;4\right].$$</p>
 Тепер розв’язуємо другу систему $$\quad \begin{cases} 
 4-x<0,\\ 
 16-x^2\geq 0; 
 \end{cases}$$ точно так само:
+
 <table>
 <td>
 $$\begin{eqnarray} 
-4-x &\geq& 0 \nonumber\\ 
-4 &\geq& x \nonumber
+4-x &<& 0 \nonumber\\ 
+4 &<& x \nonumber
 \end{eqnarray}$$
 </td>
 <td>
 $$\begin{eqnarray} 
-16-x^2 &\geq& (4-x)^2 \nonumber\\ 
-16-x^2-(4-x)^2 &\geq& 0 \nonumber\\ 
-16-x^2-(16-8x+x^2) &\geq& 0 \nonumber\\
-16-x^2-16+8x-x^2 &\geq& 0 \nonumber\\
--2x^2+8x &\geq& 0 \nonumber\\
-x^2-4x &\leq& 0 \nonumber\\
-x(x-4) &\leq& 0 \nonumber\\
-0 &\leq& x \leq 4\nonumber
+16-x^2 &\geq& 0 \nonumber\\ 
+x^2-16 &\leq& 0 \nonumber\\ 
+(x-4)(x+4) &\leq& 0 \nonumber\\ 
+-4 &\leq& x \leq 4\nonumber
 \end{eqnarray}$$
 </td>
 </table>
-<p><b>Вiдповiдь.</b>$$T_{min}=-4,3; T_{max}=21,6.$$</p>
+
+<p>Тепер зобразимо ці два розв’язки на числовій прямій та шукаємо їхній перетин:</p>
+/*Картинка з інтервалами*/
+<p>Ці інтервали не перетинаються, ми отримали порожню множину $$x \in ∅$$. </p>
+<p>Об’єднавши розв’язки двох систем отримаємо відповідь:</p>
+/*Картинка з інтервалами*/
+<p><b>Вiдповiдь.</b>$$x \in \left[0;4\right].$$</p>
 </div>
 </div>
 </div>
