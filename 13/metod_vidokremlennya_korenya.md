@@ -289,7 +289,14 @@ f (x)\geq0;
 \end{cases}\\ 
 \end{gathered}\right.$$</p>
 </li>
-<li>Записати степенi всiх простих множникiв.</li>
+<li>$$\sqrt[2k]{f(x)}<g(x)$$ справедливий рівносильний перехід:
+<p align="center">$$\sqrt[2k]{f(x)}<g(x)\Longleftrightarrow\quad 
+\quad \begin{cases} 
+f (x)\geq0,\\ 
+g (x)>0,\\
+f(x)<g^{2k}(x);
+\end{cases}\\ $$</p>
+</li>
 <li>Виписати всi простi множники.</li>
 <li>Обрати найменший степiнь, що зустрiчається у розкладах.</li>
 <li>Обчислити добуток цих степенiв.</li>
