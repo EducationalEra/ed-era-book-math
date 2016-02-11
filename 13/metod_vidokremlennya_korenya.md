@@ -283,7 +283,10 @@ x &>& -\dfrac{59}{20}
 g (x)\geq0,\\ 
 f (x)>g^{2k}(x),
 \end{cases}\\ 
-x\leq-2. 
+\quad \begin{cases} 
+g (x)<0,\\ 
+f (x)\geq0;
+\end{cases}\\ 
 \end{gathered}\right.$$</p>
 </li>
 <li>Записати степенi всiх простих множникiв.</li>
