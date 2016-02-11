@@ -442,7 +442,7 @@ $$\begin{eqnarray}
 3x-2-36x^2+36x-9 &\leq& 0 \nonumber\\
 36x^2-39x+11 &\geq& 0 \nonumber\\
 12x^2-13x+1 &\geq& 0 \nonumber\\
-D=(-39)^2-4⋅36⋅11=-63
+D=(-39)^2-4⋅36⋅11=-63\nonumber\\
 x \in \mathbb{R}
 \end{eqnarray}$$
 </td>
