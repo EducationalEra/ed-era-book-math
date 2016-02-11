@@ -364,7 +364,7 @@ $$\begin{eqnarray}
 -2x^2+8x &\geq& 0 \nonumber\\
 x^2-4x &\leq& 0 \nonumber\\
 x(x-4) &\leq& 0 \nonumber\\
-0 &\leq& x &\leq& 4\nonumber
+0 &\leq& x \leq 4\nonumber
 \end{eqnarray}$$
 </td>
 </table>
