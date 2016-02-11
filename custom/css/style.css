@@ -664,7 +664,13 @@ i.expl {
     color: #0F5181;
 }
 
+.book.color-theme-1 i.expl {
+    color: #F3EACB;
+}
 
+.book.color-theme-2 i.expl {
+    color: #FAFAFA;
+}
 
 /* No vertical lines in MathJax */
 nobr > .math > span {
