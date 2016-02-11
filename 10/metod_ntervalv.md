@@ -46,9 +46,36 @@
 <ol>
 <li>Виразимо нерівність у вигляді $$P(x)>0$$ або $$P(x)<0$$:</li>
 <p>Перетворюємо нерівність таким чином, аби праворуч залишився нуль:</p>
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/142/p24_e1.png"/></p></div>
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$
+    \begin{align}
+        x^3 + 8x - 16 & \gt 4(3x-x^2) \\
+        x^3 + 8x - 16 & \gt \color{#1570bd}1\color{#1570bd}2\color{#1570bd}x\color{#1570bd}-\color{#1570bd}4\color{#1570bd}x^\color{#1570bd}2 \\
+        x^3 + 8x - 16 \color{#1570bd}- \color{#1570bd}1\color{#1570bd}2\color{#1570bd}x \color{#1570bd}+ \color{#1570bd}4\color{#1570bd}x^\color{#1570bd}2 & \gt 12x - 4x^2 \color{#1570bd}-\color{#1570bd}1\color{#1570bd}2\color{#1570bd}x \color{#1570bd}+ \color{#1570bd}4\color{#1570bd}x^\color{#1570bd}2 \\
+        x^3 + 4x^2 -4x -16 & \gt 0
+    \end{align}$$</td>
+<td><i><font color="1570bd">Вихідна нерівність<br>Розкриваємо дужки<br>Додаємо до обох частин $$4x^2 - 12x$$<br>Спрощуємо</font></i></td>
+</tr>
+</table>
+
 <li>Розв’яжемо рівняння $$P(x)=0$$, розклавши многочлен у лівій частині на множники:</li>
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/142/p24_e2.png"/></p></div>
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$
+    \begin{align}
+        x^3 + 4x^2 -4x -16 & = 0 \\
+        x^2(x+4) - 4x - 16 & = 0 \\
+        x^2(x+4) - 4(x+4) & = 0 \\
+        (x+4)(x^2-4) & = 0 \\
+        (x+4)(x+2)(x-2) & = 0
+    \end{align}$$</td>
+<td><i><font color="1570bd">Вихідна нерівність<br>Розкриваємо дужки<br>Додаємо до обох частин $$4x^2 - 12x$$<br>Спрощуємо</font></i></td>
+</tr>
+</table>
+
 <p>Отже, граничні точки: $$-4;-2;2$$.</p>
 <li>Зобразимо ці точки на числовій прямій.</li>
 <p>В результаті утворилося чотири інтервали:</p>
