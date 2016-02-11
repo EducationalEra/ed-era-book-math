@@ -321,8 +321,7 @@ f(x)>g(x).
 <div class="task-text">
 <b>Розв’язати нерівність $$\sqrt{16-x^2}\geq4-x.$$</b>
 <p><b><i>Розв’язок.</i></b></p>
-Скористаємось рівносильним переходом
-<p align="center">$$\sqrt[2k]{f(x)}\geq g(x)\Longleftrightarrow\quad \left[\begin{gathered} 
+Скористаємось рівносильним переходом <p align="center">$$\sqrt[2k]{f(x)}\geq g(x)\Longleftrightarrow\quad \left[\begin{gathered} 
 \quad \begin{cases} 
 g (x)\geq0,\\ 
 f (x)\geq g^{2k}(x),
