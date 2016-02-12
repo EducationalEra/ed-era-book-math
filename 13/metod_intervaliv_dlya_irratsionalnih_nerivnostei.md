@@ -80,7 +80,7 @@
 <td><i class="expl">Підносимо до квадрата обидві частини</i></td>
 </tr>
 <tr>
-<td><i class="expl">$$($$</i>$$\sqrt{x-1}$$<i class="expl">$$)^2$$</i>=<i class="expl">$$($$</i>$$\sqrt{x-2}$$<i class="expl">$$)^2$$</i>$$+$$<i class="expl">$$2\cdot($$</i>$$\sqrt{x-2}$$<i class="expl">$$)($$</i>$$\sqrt{3-x}$$<i class="expl">$$)$$</i>$$+$$<i class="expl">$$($$</i>$$\sqrt{3-x}$$<i class="expl">$$)^2$$</i></td>
+<td>$$x-1=x-2+2\sqrt{(x-2)(3-x)}+3-x$$</td>
 <td><i class="expl">Спрощуємо</i></td>
 </tr>
 <tr>
