@@ -24,6 +24,12 @@
 <div class="task-text">
 <b>Розв’язати нерівність $$\sqrt{x-1}>\sqrt{x-2}+\sqrt{3-x}.$$</b>
 <p><b><i>Розв’язок.</i></b></p>
+Дотримуємось алгоритму, описаного вище.
+<ol>
+<li>Зводимо нерівність до стандартного вигляду $$f(x)>0$$:
+<p align="center">$$\sqrt{x-1}>\sqrt{x-2}+\sqrt{3-x}\Longleftrightarrow\sqrt{x-1}-\sqrt{x-2}-\sqrt{3-x}>0.$$</p></li>
+<li>
+</ol>
 <p><b>Вiдповiдь.</b>$$x \in \left[\dfrac{2}{3};\infty\right).$$</p>
 </div>
 </div>
