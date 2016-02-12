@@ -69,6 +69,38 @@
 </tr>
 </table>
 Знову отримали ірраціональне рівняння, застосовуємо метод відокремлення квадратного кореня:
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$2\sqrt{(x-2)(3-x)}=x-2$$</td>
+<td><i class="expl">В лівій частині залишаємо тільки доданок $$2\sqrt{(x-2)(3-x)}$$</font></i></td>
+</tr>
+<tr>
+<td><i class="expl">$$($$</i>$$2\sqrt{(x-2)(3-x)}$$<i class="expl">$$)^2$$</i>$$=$$<i class="expl">$$($$</i>$$x-2$$<i class="expl">$$)^2$$</i></td>
+<td><i class="expl">Підносимо до квадрата обидві частини</i></td>
+</tr>
+<tr>
+<td><i class="expl">$$($$</i>$$\sqrt{x-1}$$<i class="expl">$$)^2$$</i>=<i class="expl">$$($$</i>$$\sqrt{x-2}$$<i class="expl">$$)^2$$</i>$$+$$<i class="expl">$$2\cdot($$</i>$$\sqrt{x-2}$$<i class="expl">$$)($$</i>$$\sqrt{3-x}$$<i class="expl">$$)$$</i>$$+$$<i class="expl">$$($$</i>$$\sqrt{3-x}$$<i class="expl">$$)^2$$</i></td>
+<td><i class="expl">Спрощуємо</i></td>
+</tr>
+<tr>
+<td>$$x-1=x-2+2\sqrt{(x-2)(3-x)}+3-x$$</td>
+<td><i class="expl">Спрощуємо</i></td>
+</tr>
+<tr>
+<td>$$x-1=2\sqrt(x-2)(3-x)+1$$</td>
+<td><i class="expl">Збираємо всі доданки в лівій частині</i></td>
+</tr>
+<tr>
+<td>$$x-1=2\sqrt(x-2)(3-x)+1$$</td>
+<td><i class="expl">Шукаємо дискримінант</i></td>
+</tr>
+<tr>
+<td>$$x-1=2\sqrt(x-2)(3-x)+1$$</td>
+<td><i class="expl">Знаходимо корені рівняння</i></td>
+</tr>
+</table>
+
 </li>
 <p><b>Вiдповiдь.</b>$$x \in \left[\dfrac{2}{3};\infty\right).$$</p>
 </div>
