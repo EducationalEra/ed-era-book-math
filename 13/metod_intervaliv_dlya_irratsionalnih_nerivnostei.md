@@ -32,9 +32,13 @@
 <p align="center">$$\quad \begin{cases} 
 x-1\geq0,\\ 
 x-2\geq0,\\
-3-x\geq0);
-\end{cases}\\
-</ol>
+3-x\geq0
+\end{cases}\\ \Longleftrightarrow \quad \begin{cases} 
+x\geq1,\\ 
+x\geq2,\\
+x\leq3
+\end{cases}\\$$</p></ol>
+<ol>
 <p><b>Вiдповiдь.</b>$$x \in \left[\dfrac{2}{3};\infty\right).$$</p>
 </div>
 </div>
