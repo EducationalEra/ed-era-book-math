@@ -31,7 +31,7 @@
 <li>Шукаємо ОДЗ функції в лівій частині нерівності. Пам’ятаємо, що для квадратного кореня підкореневий вираз завжди невід’ємний:
 <p align="center">$$\begin{cases}
 			x-1\geq0,\\
-			x-2,\geq0,\\
+			x-2\geq0,\\
 			3-x\geq0
 			\end{cases} \Longleftrightarrow
 			\begin{cases}
