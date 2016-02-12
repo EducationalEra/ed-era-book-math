@@ -96,10 +96,17 @@
 <td><i class="expl">Шукаємо дискримінант</i></td>
 </tr>
 <tr>
-<td>$$x_{1,2}=$$</td>
+<td>$$x_{1,2}=\dfrac{-24±\sqrt{16}}{2\cdot(-5)}\Longleftrightarrow\quad \left[\begin{gathered}
+x_{1}=2,\\
+x_{2}=\dfrac{14}{5}$$</td>
 <td><i class="expl">Знаходимо корені рівняння</i></td>
 </tr>
 </table>
+
+Отже граничні точки: $$2;\dfrac{14}{5}.$$ Зобразимо їх на числовій прямій.
+<p>/*Картинка з інтервалами*/</p>
+</li>
+<li>
 
 </li>
 <p><b>Вiдповiдь.</b>$$x \in \left[\dfrac{2}{3};\infty\right).$$</p>
