@@ -29,15 +29,17 @@
 <li>Зводимо нерівність до стандартного вигляду $$f(x)>0$$:
 <p align="center">$$\sqrt{x-1}>\sqrt{x-2}+\sqrt{3-x}\Longleftrightarrow\sqrt{x-1}-\sqrt{x-2}-\sqrt{3-x}>0.$$</p></li>
 <li>Шукаємо ОДЗ функції в лівій частині нерівності. Пам’ятаємо, що для квадратного кореня підкореневий вираз завжди невід’ємний:
-<p align="center">$$\quad \begin{cases} 
-x-1\geq0,\\ 
-x-2\geq0,\\
-3-x\geq0
-\end{cases}\\ \Longleftrightarrow \quad \begin{cases} 
-x\geq1,\\ 
-x\geq2,\\
-x\leq3
-\end{cases}\\$$</p></ol>
+<p align="center">$$\begin{cases}
+			x-1\geq0,\\
+			x-2,\geq0,\\
+			3-x\geq0
+			\end{cases} \Longleftrightarrow
+			\begin{cases}
+			x\geq1,\\
+			x\geq2,\\
+			x\leq3
+			\end{cases}$$</p>
+Зобразимо тепер чотири інтервали на числовій прямій, знайдемо їхній перетин і отримаємо ОДЗ:
 <ol>
 <p><b>Вiдповiдь.</b>$$x \in \left[\dfrac{2}{3};\infty\right).$$</p>
 </div>
