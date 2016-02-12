@@ -48,12 +48,12 @@
 
 <table style="border: none;" class="none">
 <tr>
-<td>$$x+\sqrt[3]{3x^2-3x-7}>1$$</td>
-<td><i class="expl">Вихідна нерівність</font></i></td>
+<td>$$\sqrt{x-1}-\sqrt{x-2}-\sqrt{3-x}=0$$</td>
+<td><i class="expl">Вихідне рівняння</font></i></td>
 </tr>
 <tr>
-<td>$$x+\sqrt[3]{3x^2-3x-7}\color{#0F5180}{-x}>1\color{#0F5180}{-x}$$</td>
-<td><i class="expl">Віднімаємо $$x$$ від обох частин</i></td>
+<td>$$\sqrt{x-1}=\sqrt{x-2}+\sqrt{3-x}=0$$</td>
+<td><i class="expl">В лівій частині залишаємо тільки доданок $$\sqrt{x-1}$$</i></td>
 </tr>
 <tr>
 <td>$$\sqrt[3]{3x^2-3x-7}>1-x$$</td>
