@@ -96,7 +96,9 @@
 <td><i class="expl">Шукаємо дискримінант</i></td>
 </tr>
 <tr>
-<td>$$x_{1,2}=\dfrac{-24±\sqrt{16}}{2\cdot(-5)}\Longleftrightarrow\quad $$</td>
+<td>$$x_{1,2}=\dfrac{-24±\sqrt{16}}{2\cdot(-5)}\Longleftrightarrow\quad \left[
+\begin{gathered}
+x_{1}=2,$$</td>
 <td><i class="expl">Знаходимо корені рівняння</i></td>
 </tr>
 </table>
