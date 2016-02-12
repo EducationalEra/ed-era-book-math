@@ -56,7 +56,7 @@
 <td><i class="expl">В лівій частині залишаємо тільки доданок $$\sqrt{x-1}$$</i></td>
 </tr>
 <tr>
-<td>$$\sqrt[3]{3x^2-3x-7}>1-x$$</td>
+<td>$$(\sqrt{x-1})^2=(\sqrt{x-2})^2+2\cdot(\sqrt{x-2})(\sqrt{3-x})+(\sqrt{3-x})^2$$</td>
 <td><i class="expl">Спрощуємо</i></td>
 </tr>
 <tr>
