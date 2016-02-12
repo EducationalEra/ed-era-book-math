@@ -28,7 +28,12 @@
 <ol>
 <li>Зводимо нерівність до стандартного вигляду $$f(x)>0$$:
 <p align="center">$$\sqrt{x-1}>\sqrt{x-2}+\sqrt{3-x}\Longleftrightarrow\sqrt{x-1}-\sqrt{x-2}-\sqrt{3-x}>0.$$</p></li>
-<li>
+<li>Шукаємо ОДЗ функції в лівій частині нерівності. Пам’ятаємо, що для квадратного кореня підкореневий вираз завжди невід’ємний:
+<p align="center">$$\quad \begin{cases} 
+x-1\geq0,\\ 
+x-2\geq0,\\
+3-x\geq0);
+\end{cases}\\
 </ol>
 <p><b>Вiдповiдь.</b>$$x \in \left[\dfrac{2}{3};\infty\right).$$</p>
 </div>
