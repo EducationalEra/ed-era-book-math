@@ -57,7 +57,7 @@
 </tr>
 <tr>
 <td>$$(\sqrt{x-1})^2=(\sqrt{x-2})^2+2\cdot(\sqrt{x-2})(\sqrt{3-x})+(\sqrt{3-x})^2$$</td>
-<td><i class="expl">Спрощуємо</i></td>
+<td><i class="expl">Підносимо до квадрату обидві частини</i></td>
 </tr>
 <tr>
 <td>$$(\sqrt[3]{3x^2-3x-7})^3>(1-x)^3$$</td>
