@@ -56,7 +56,7 @@
 <td><i class="expl">В лівій частині залишаємо тільки доданок $$\sqrt{x-1}$$</i></td>
 </tr>
 <tr>
-<td><i class="expl">$$($$</i>$$\sqrt{x-1}$$<i class="expl">$$)$$</i><i class="expl">$$^2$$</i>$$=$$<i class="expl">$$($$</i>$$\sqrt{x-2}$$<i class="expl">$$)$$</i><i class="expl">$$^2$$</i>$$+2\cdot(\sqrt{x-2})(\sqrt{3-x})+(\sqrt{3-x})^2$$</td>
+<td><i class="expl">$$($$</i>$$\sqrt{x-1})^2=(\sqrt{x-2})^2+2\cdot(\sqrt{x-2})(\sqrt{3-x})+(\sqrt{3-x})^2$$</td>
 <td><i class="expl">Підносимо до квадрату обидві частини</i></td>
 </tr>
 <tr>
