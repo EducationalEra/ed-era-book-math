@@ -57,7 +57,7 @@
 </tr>
 <tr>
 <td><i class="expl">$$($$</i>$$\sqrt{x-1}$$<i class="expl">$$)^2$$</i>=<i class="expl">$$($$</i>$$\sqrt{x-2}$$<i class="expl">$$)^2$$</i>$$+$$<i class="expl">$$2\cdot($$</i>$$\sqrt{x-2}$$<i class="expl">$$)($$</i>$$\sqrt{3-x}$$<i class="expl">$$)$$</i>$$+$$<i class="expl">$$($$</i>$$\sqrt{3-x}$$<i class="expl">$$)^2$$</i></td>
-<td><i class="expl">Підносимо до квадрату обидві частини</i></td>
+<td><i class="expl">Підносимо до квадрата обидві частини</i></td>
 </tr>
 <tr>
 <td>$$(\sqrt[3]{3x^2-3x-7})^3>(1-x)^3$$</td>
