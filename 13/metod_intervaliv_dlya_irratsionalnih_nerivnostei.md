@@ -18,3 +18,13 @@
 </div>
 </div>
 
+<div class="space">
+<div class="task-wrap">
+<span class="task">Приклад</span>
+<div class="task-text">
+<b>Розв’язати нерівність $$\sqrt{x-1}>\sqrt{x-2}+\sqrt{3-x}.$$</b>
+<p><b><i>Розв’язок.</i></b></p>
+<p><b>Вiдповiдь.</b>$$x \in \left[\dfrac{2}{3};\infty\right).$$</p>
+</div>
+</div>
+</div>
