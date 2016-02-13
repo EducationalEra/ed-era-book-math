@@ -2,7 +2,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Звичайний дрiб</b> — це число виду $$\dfrac{m}{n}$$ , де чисельник дробу $$m$$ та знаменник дробу $$n$$ – натуральнi числа. Якщо $$m < n$$ то дрiб <b>називають правильним</b>, якщо $$m\geq n$$ – <b>неправильним</b>.
 </div>
@@ -60,7 +60,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Десятковий дрiб</b> — форма запису звичайного дробу зi знаменником вигляду $$10^n$$.
 </div>
