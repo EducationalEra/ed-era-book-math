@@ -2,7 +2,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Ірраціональним</b> називають вираз, у якому над змінними окрім стандартних операцій (додавання, віднімання, множення та ділення) виконують операцію зведення у нецілий степінь.
 </div>
@@ -17,7 +17,7 @@
 <div class="space"></div>
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 Алгебраїчний вираз $$\dfrac{M(x)}{N(x)}$$ називають <b>дробово-ірраціональним</b>, якщо хоча б один з виразів $$M(x)$$ чи $$N(x)$$ є ірраціональним відносно змінної $$x$$.
 </div>
