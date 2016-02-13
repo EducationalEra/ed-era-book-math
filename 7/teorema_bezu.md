@@ -71,7 +71,7 @@
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
-        <p>Якою буде остача від ділення $$x^4+3x^3-4x^2-10$$ на $$x-2$$</p>
+        <p>Якою буде остача від ділення $$x^4+3x^3-4x^2-10$$ на $$x-2$$?</p>
         <answer>$$-4$$</answer>
         <answer>$$-2$$</answer>
         <answer correct>$$14$$</answer>
