@@ -61,7 +61,7 @@
 <li>Граничні точки многочлена $$P(x)$$ в чисельнику: $$-\sqrt{5};\sqrt{5}$$, а граничні точки многочлена $$Q(x)$$ в знаменнику: $$0$$. Загальні граничні точки: $$-\sqrt{5};0;\sqrt{5}$$.</li>
 <p>Зобразимо їх на числовій прямій:</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_13.png"/></p></div>
-<li>Шукаємо знак функції на правому інтервалі $$(\sqrt{5};\infty)$$. Підставимо тестове значення «<font color="#0F5180"><i>мільярд</i></font>».</li>
+<li>Шукаємо знак функції на правому інтервалі $$(\sqrt{5};\infty)$$. Підставимо тестове значення «<font color="#0F5180"><i>мільярд</i></font>»:</li>
 
 <div align="center">$$\dfrac{P($$<i class="expl">$${\text{мільярд}}$$</i>$$)}{Q($$<i class="expl">$${\text{мільярд}}$$</i>$$)} = \underbrace{\left( \sqrt{5} - $$<i class="expl">$$\text{мільярд}$$</i>$$ \right)}_{\lt 0} \underbrace{\left( \sqrt{5} + $$<i class="expl">$$\text{мільярд}$$</i>$$ \right)}_{\gt 0} \underbrace{\dfrac{1}{$$<i class="expl">$$\text{мільярд}$$</i>$$}}_{\gt 0} \lt 0$$</div>
 
