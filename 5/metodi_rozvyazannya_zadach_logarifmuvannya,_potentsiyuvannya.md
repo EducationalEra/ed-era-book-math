@@ -83,7 +83,7 @@ b(x)>0.
         $$log_{2} x=\dfrac{1}{2}ln a^{\frac{4}{3}}$$ <br>
         $$log_{2} x=lna^{\frac{2}{3}}$$ <br>
         $$log_{2} x = \dfrac{log_{2}a^{\frac{2}{3}}}{log_{2}e}$$<br>
-        $$x=a^{\frac{2}{3}}\dfrac{1}{log_{2}e}.$$
+        $$x=a^{\frac{2}{3}}\dfrac{1}{log_{2}e}$$
         </explanation>
     </question>
 </quiz>
