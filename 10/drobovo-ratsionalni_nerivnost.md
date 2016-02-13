@@ -41,13 +41,30 @@
 <p><b><i>Розв’язок</i></b>.</p>
 <ol>
 <li>Перетворюємо нерівність до вигляду $$\dfrac{P(x)}{Q(x)}<0$$:</li>
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/142/p24_e5.png"/></p></div>
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$
+    \begin{align}
+        \dfrac{5}{x} & \lt x \\
+        \dfrac{5}{x} - x & \lt x - x \\
+        \dfrac{5}{x} - x & \lt 0 \\
+        \dfrac{5}{x} - x \cdot \dfrac{x}{x} & \lt 0 \\
+        \dfrac{5 - x^2}{x} & \lt 0 
+    \end{align}$$</td>
+<td><font color="1570bd"><i>Вихідна нерівність<br>Віднімаємо $$x$$ від обох частин нерівності<br>Спрощуємо<br>Зводимо до спільноо знаменника<br>Спрощуємо</i></font></td>
+</tr>
+</table>
+
 <li>Многочлен в знаменнику $$5-x^2$$ можна розкласти на множники за допомогою формули різниці квадратів: $$5-x^2=(\sqrt{5}-x)(\sqrt{5}+x)$$.В результаті маємо:</li>
 <p align="center">$$\dfrac{(\sqrt{5}-x)(\sqrt{5}+x)}{x}<0$$</p>
 <li>Граничні точки многочлена $$P(x)$$ в чисельнику: $$-\sqrt{5};\sqrt{5}$$, а граничні точки многочлена $$Q(x)$$ в знаменнику: $$0$$. Загальні граничні точки: $$-\sqrt{5};0;\sqrt{5}$$.</li>
 <p>Зобразимо їх на числовій прямій:</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_13.png"/></p></div>
 <li>Шукаємо знак функції на правому інтервалі $$(\sqrt{5};\infty)$$. Підставимо тестове значення «<font color="#0F5180"><i>мільярд</i></font>».</li>
+
+$$\dfrac{P{\text{мільярд}}}{Q{\text{мільярд}}} = \underbrace{\left( \sqrt{5} - \text{мільярд} \right)}_{\lt 0} \underbrace{\left( \sqrt{5} + \text{мільярд} \right)}_{\gt 0} \underbrace{\dfrac{1}{\text{мільярд}}}_{\gt 0} \lt 0$$
+
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/142/p24_e6.png"/></p></div>
 <p>Два множники додатні, один від’ємний – функція на цьому інтервалі має від’ємний знак.</p>
 <p>Все, що потрібно зробити, – проставити знаки на решті інтервалів справа наліво, почергово змінюючи знак на протилежний:</p>
