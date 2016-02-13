@@ -61,7 +61,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 За знаком виразу $$D = b^2 - 4ac$$ можна визначити, скільки дійсних коренів матиме рівняння $$ax^2 + bx + c = 0$$. Цей вираз $$D$$ називають <b>дискримінантом</b>.
 </div>
@@ -78,7 +78,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 Формула коренів квадратного рівняння:
 <p align="center">$$x_{1,2} = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}.$$</p>
