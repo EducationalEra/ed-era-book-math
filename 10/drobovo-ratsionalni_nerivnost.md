@@ -63,7 +63,7 @@
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_13.png"/></p></div>
 <li>Шукаємо знак функції на правому інтервалі $$(\sqrt{5};\infty)$$. Підставимо тестове значення «<font color="#0F5180"><i>мільярд</i></font>».</li>
 
-$$\dfrac{P{\text{мільярд}}}{Q{\text{мільярд}}} = \underbrace{\left( \sqrt{5} - \text{мільярд} \right)}_{\lt 0} \underbrace{\left( \sqrt{5} + \text{мільярд} \right)}_{\gt 0} \underbrace{\dfrac{1}{\text{мільярд}}}_{\gt 0} \lt 0$$
+<div align="center">$$\dfrac{P({\text{мільярд}})}{Q({\text{мільярд}})} = \underbrace{\left( \sqrt{5} - \text{мільярд} \right)}_{\lt 0} \underbrace{\left( \sqrt{5} + \text{мільярд} \right)}_{\gt 0} \underbrace{\dfrac{1}{\text{мільярд}}}_{\gt 0} \lt 0$$</div>
 
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/142/p24_e6.png"/></p></div>
 <p>Два множники додатні, один від’ємний – функція на цьому інтервалі має від’ємний знак.</p>
