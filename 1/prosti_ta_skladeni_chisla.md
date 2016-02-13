@@ -4,7 +4,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Простi числа</b> — тi числа, що дiляться тiльки на себе та на одиницю. Наприклад: $$2, 3, 5, 7, 13$$.
 <p><b>Складенi числа</b> — тi числа, що мають бiльше нiж $$2$$ дiльники.</p>
@@ -34,7 +34,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Найбiльший спiльний дiльник (НСД) кiлькох чисел</b> — найбiльше число, на яке дiляться данi числа без остачi.
 </div>
@@ -108,7 +108,7 @@ $$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Найменше спiльне кратне (НСК) кiлькох чисел</b> — найменше число, яке дiлиться на данi числа без остачi.
 </div>
