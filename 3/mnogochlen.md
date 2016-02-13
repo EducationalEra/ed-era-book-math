@@ -2,7 +2,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Многочленом</b> називають алгебраїчну суму одночленiв.
 </div>
@@ -30,9 +30,9 @@
 <div class="popup">
 </div>
 
-<div class="space">
+<p><div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Стандартний вигляд многочлена $$n$$-го степеня з однією змінною:</b><br>
 <p align="center">$$P(x)=a_0 x^n + a_1 x^{n-1} + a_2 x^{n-2} + \dots + a_{n-2} x^2 + a_{n-1} x + a_n,$$</p><br>
@@ -40,7 +40,7 @@
 </div>
 </div>
 </div>
-<div class="space"></div>
+<div class="space"></div></p>
 <p><i>Наприклад:</i> у многочлені $$4x^3 + 2x + 1$$, старший коефіцієнт рівний $$4$$, а вільний доданок рівний $$1$$.</p>
 
 <div class="space">
