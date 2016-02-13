@@ -2,7 +2,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span> 
+<span class="eoz">Визначення</span> 
 <div class="eoz-text">
 <b>Квадратним коренем числа $$a$$</b> називають число $$b$$, таке, що $$b^2=a.$$
 </div>
@@ -15,7 +15,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span> 
+<span class="eoz">Визначення</span> 
 <div class="eoz-text">
 <b>Арифметичним квадратним коренем числа $$a$$</b> називають невід’ємне число, квадрат якого рівний невід’ємному числу $$a$$. Це число позначається $$\sqrt{a}$$.
 </div>
@@ -46,7 +46,7 @@
 <div class="space"></div>
 <li><p>$$\sqrt{ab}=\sqrt{a}\cdot\sqrt{b}.$$</p></li>
 <div class="space"></div>
-<p><i>Наприклад:</i> $$\sqrt{15}=\sqrt{3}\cdot\sqrt{5}$$</p>
+<p><i>Наприклад:</i> $$\sqrt{15}=\sqrt{3}\cdot\sqrt{5}.$$</p>
 <div class="space"></div>
 <li><p>$$\sqrt{\dfrac{a}{b}}=\dfrac{\sqrt{a}}{\sqrt{b}}, a\geq0, b\geq0.$$</p></li>
 <div class="space"></div>
