@@ -40,13 +40,12 @@
 <p>Знайдемо «контрольні» значення параметра $$a$$, за яких коефіцієнт при $$x^2$$ стане рівним нулеві:</p>
 <p align="center">$$1-a^2=0\Longleftrightarrow a=\pm1.$$</p>
 <p>Розв’яжемо рівняння при $$a=-1$$:</p>
-<p align="center">$$0x^2-2(-1+1)\cdot x=1\Longleftrightarrow0x=1\Longleftrightarrow x\in\emptyset$$</p>
+<p align="center">$$0x^2-2(-1+1)\cdot x=1\Longleftrightarrow0x=1\Longleftrightarrow x\in\emptyset$$.</p>
 <p>Розв’яжемо рівняння при $$a=1$$:</p>
 <p align="center">$$0x^2-2(1+1)\cdot x=1\Longleftrightarrow x=-\dfrac{1}{4}$$.</p>
 <p>Тепер розглянемо випадок $$a\neq1$$ — рівняння є квадратним.</p>
 <p>Шукаємо дискримінант:</p>
-<p align="center">$$D=(-2(a+1))^2-4(1-a^2)\cdot(-1)=4(a^2+2a+1)+4(1-a^2)=$$</p>
-<p>$$=4(a^2+2a+1+1-a^2)=4(2a+2)=8(a+1).$$</p>
+<p align="center">$$D=(-2(a+1))^2-4(1-a^2)\cdot(-1)=4(a^2+2a+1)+4(1-a^2)=4(a^2+2a+1+1-a^2)=4(2a+2)=8(a+1).$$</p>
 <p>Знаходимо «контрольну» точку з умови $$D=0$$:</p>
 <p align="center">$$8(a+1)=0\Longleftrightarrow a=-1.$$</p>
 <p>Але вже накладена умова $$a\neq\pm1$$, тому $$D\neq0$$.</p>
