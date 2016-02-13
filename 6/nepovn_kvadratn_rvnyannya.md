@@ -13,7 +13,7 @@
 <li>$$c = 0$$: маємо рівняння $$ax^2 + bx = 0 \Longleftrightarrow x\cdot(ax + b) = 0 \Longleftrightarrow \begin{cases}
 		x = 0,\\
 		ax + b = 0;
-	\end{cases} \Longleftrightarrow </br> \Longleftrightarrow
+	\end{cases} \Longleftrightarrow 
 	\begin{cases}
 	x_1 = 0,\\
 	x_2 = -\dfrac{b}{a}.
@@ -28,7 +28,7 @@
 		x_2 = \dfrac{1}{6}.
 		\end{cases}$$</p>
 <div class="space"></div>
-<li>$$b = c = 0$: маємо рівняння $ax^2 = 0 \Longleftrightarrow x^2 = 0 \Longleftrightarrow x_1 = x_2 = 0$$.</li>
+<li>$$b = c = 0$$: маємо рівняння $$ax^2 = 0 \Longleftrightarrow x^2 = 0 \Longleftrightarrow x_1 = x_2 = 0$$.</li>
 <div class="space"></div>
 <p><i>Наприклад:</i> $$25x^2 = 0 \Longleftrightarrow x = 0$$.</p>
 </ul>
