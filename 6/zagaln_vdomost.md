@@ -7,7 +7,7 @@
 <div class="popup">
 </div>
 
-<div class="space">
+<p><div class="space">
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
@@ -15,6 +15,7 @@
 </div>
 </div>
 </div>
+</p>
 
 <p><b>Степенем рівняння</b> називають степінь многочлена $$P$$.</p>
 <div class="space"></div>
