@@ -42,7 +42,7 @@
         <answer>$$2a + 5b + 6a^b$$</answer>
         <answer>$$6a^2b + 5b$$</answer>
         <explanation>
-        <p>$$(-3a^2b + 4ab + a) - (-3a^2b +18ab + a - 5b) = -3a^2b + 4ab + a + 3a^2b - 18ab - a + 5b = -14ab + 5b$$</p>
+        <p>$$(-3a^2b + 4ab + a) -$$$$ (-3a^2b +18ab + a - 5b) =$$$$ -3a^2b + 4ab + a +$$$$ 3a^2b - 18ab - a +$$$$ 5b = -14ab + 5b$$</p>
         </explanation>
     </question>
     <question text="">
