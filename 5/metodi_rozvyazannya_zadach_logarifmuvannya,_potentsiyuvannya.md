@@ -2,7 +2,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span> 
+<span class="eoz">Визначення</span> 
 <div class="eoz-text">
 <b>Логарифмування</b> — це операція знаходження логарифмів заданих чисел чи виразів.
 </div>
@@ -24,7 +24,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span> 
+<span class="eoz">Визначення</span> 
 <div class="eoz-text">
 <b>Потенціювання</b> — це операція знаходження чисел чи виразів за заданим логарифмом числа (виразу).
 </div>
@@ -42,7 +42,7 @@
 b(x)=c(x);\\
 b(x)>0.
 \end{cases}$$</p>
-<p>Якщо ж основи різні чи є коефіцієнти, то значки логарифмів прибирати неможна. Треба скористатись основними тотожностями для перетворення виразу.</p>
+<p>Якщо ж основи різні чи є коефіцієнти, то значки логарифмів прибирати не можна. Треба скористатись основними тотожностями для перетворення виразу.</p>
 
 <div class="space">
 <div class="task-wrap">
@@ -71,7 +71,7 @@ b(x)>0.
         <answer>$$log_{b}c-4$$</answer>
         <answer>$$2log_{b}a+3log_{b}c$$</answer>
         <explanation>
-         <p>$$3a^2\dfrac{c^3}{b^4} = log_{b}3 + log_{b}a^2 + log_{b}c^3 - log_{b}b^4 = log_{b}3 + 2log_{b}a + 3log_{b}c -4log_{b}b =$$</p> <p>$$= log_{b}3+2log_{b}a+3log_{b}c-4$$</p>
+         <p>$$3a^2\dfrac{c^3}{b^4} = log_{b}3 + log_{b}a^2 + log_{b}c^3 - log_{b}b^4 = log_{b}3 + 2log_{b}a + 3log_{b}c -4log_{b}b =$$</p> <p>$$= log_{b}3+2log_{b}a+3log_{b}c-4$$.</p>
         </explanation>
     </question>
     <question text="">
@@ -83,7 +83,7 @@ b(x)>0.
         $$log_{2} x=\dfrac{1}{2}ln a^{\frac{4}{3}}$$ <br>
         $$log_{2} x=lna^{\frac{2}{3}}$$ <br>
         $$log_{2} x = \dfrac{log_{2}a^{\frac{2}{3}}}{log_{2}e}$$<br>
-        $$x=a^{\frac{2}{3}}\dfrac{1}{log_{2}e}$$
+        $$x=a^{\frac{2}{3}}\dfrac{1}{log_{2}e}.$$
         </explanation>
     </question>
 </quiz>
