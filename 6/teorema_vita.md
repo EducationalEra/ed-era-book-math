@@ -4,7 +4,7 @@
 <div class="space"></div>
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Зведене квадратне рівняння</b> — квадратне рівняння, у якого коефіцієнт при $$x^2$$ рівний одиниці, тобто $$a = 1$$.
 </div>
@@ -54,7 +54,7 @@
 <div class="popup">
 </div>
 
-<div class="space">
+<p><div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
@@ -68,6 +68,7 @@
 </div>
 </div>
 </div>
+</p>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
