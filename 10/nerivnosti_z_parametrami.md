@@ -15,7 +15,24 @@
 <p><b><i>Розв’язок</i></b>.</p>
 <p>Перше «контрольне» значення параметра: $$a=0$$.</p>
 <p>В такому випадку нерівність перетворюється на раціональну: $$\dfrac{x^2+3}{3}>1$$. Розв’яжемо її:</p>
-<div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/142/p24_e8.png"/></p></div>
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$
+    \begin{align}
+        \dfrac{x^2 + 3}{3} & \gt 1 \\
+        3 \cdot \dfrac{x^2 + 3}{3} & \gt 3 \cdot 1 \\
+        x^2 + 3 & \gt 3 \\
+        x^2 + 3 - 3 & \gt 3 - 3 \\
+        x^2 & \gt 0 \\
+        \sqrt{x^2} & \gt \sqrt{0} \\
+        |x| & \gt 0 \\
+        x & \in (-\infty;0)\cup(0;+\infty)
+    \end{align}$$</td>
+<td><font color="1570bd"><i>Вихідна нерівність<br>Множимо обидві частини на $$3$$<br>Спрощуємо<br>Віднімаємо $$3$$ від обох частин<br>Спрощуємо<br>Знаходимо квадратні корені обох частин<br>Спрощуємо<br>Записуємо розв'язок у інтервальному вигляді</i></font></td>
+</tr>
+</table>
+
 <p>Зображуємо розв’язок на числовій осі: </p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_19.png"/></p></div>
 <p>Отже, при $$a=0$$ маємо $$x\in(-\infty;0)\cup(0;\infty)$$.</p>
