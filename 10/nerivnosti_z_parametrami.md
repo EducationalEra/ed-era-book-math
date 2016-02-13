@@ -20,10 +20,22 @@
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_19.png"/></p></div>
 <p>Отже, при $$a=0$$ маємо $$x\in(-\infty;0)\cup(0;\infty)$$.</p>
 <p>Розглядаємо тепер інші випадки, коли $$a\neq0$$.</p>
-<p>В загальному випадку застосуємо метод інтервалів.</p>
+<p>У загальному випадку застосуємо метод інтервалів.</p>
 <ol>
 <li>Зводимо нерівність до стандартного вигляду $$\dfrac{P(x)}{Q(x)}>0$$ або $$\dfrac{P(x)}{Q(x)}<0$$:</li>
-<div class="space"><p align="center"><img align="middle" width="40%" height="40%" class="image" src="../pics/142/p24_e81.png"/></p></div>
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$
+    \begin{align}
+        \dfrac{x^2+3}{3 - ax} & \gt 1 \\
+        \dfrac{x^2+3}{3-ax} - 1 & \gt 0 \\
+        \dfrac{x^2+3}{3-ax} - \dfrac{3-ax}{3-ax} & \gt 0 \\
+        \dfrac{x^2 + ax}{3-ax} & \gt 0
+    \end{align}$$</td>
+</tr>
+</table>
+
 <li>Шукаємо граничні точки, для цього розкладаємо многочлени з чисельника і знаменника на множники.</li>
 <p>В знаменнику все просто: $$3-ax = a\left(\dfrac{3}{a}-x\right)$$, в чисельнику: $$x^2+ax=x(x+a)$$.</p>
 <p>Отже, нерівність можна переписати у вигляді:</p>
