@@ -9,7 +9,7 @@
 
 <p><div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Алгебраїчне рівняння</b> — це рівність вигляду $$P(x_1, x_2,\dots,x_n) = 0$$, де $$P$$ — многочлен від змінних $$x_1, x_2,\dots,x_n$$, які ще називають невідомими.
 </div>
@@ -25,7 +25,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Корінь рівняння</b> — це значення змінної $$x = a$$, при якому рівняння перетворюється на правильну рівність: $$P(a) = 0$$. Таких значень може бути декілька.
 </div>
@@ -50,7 +50,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Область визначення рівняння</b> — це ОДЗ змінної рівняння, тобто множина значень змінної, при яких обидві частини рівняння є змістовними.
 </div>
