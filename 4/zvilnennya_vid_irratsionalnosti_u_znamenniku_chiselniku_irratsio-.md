@@ -2,7 +2,7 @@
 
 <p>Часто виникає необхідність звільнитись від ірраціональності у знаменнику (чисельнику) дробово-ірраціонального виразу.</p>
 
-<p>Це можна забезпечити, скориставшись основною властивістю дробу, – <b>помножити і чисельник і знаменник на доповнюючий множник</b> для знаменника (чисельника):</p>
+<p>Це можна забезпечити, скориставшись основною властивістю дробу, – <b>помножити чисельник та знаменник на доповнюючий множник</b> для знаменника (чисельника):</p>
 <div class="space"></div>
 <p align="center">$$\dfrac{\overbrace{M(x)}^\text{ірраціональний вираз}}{\underbrace{N(x)}_\text{ірраціональний вираз}}=\dfrac{\overbrace{M(x)\cdot\bar N(x)}^\text{ірраціональний вираз}}{\underbrace{N(x)\cdot\bar N(x)}_\text{раціональний вираз}}=\dfrac{\overbrace{M(x)\cdot\bar M(x)}^\text{раціональний вираз}}{\underbrace{N(x)\cdot\bar M(x)}_\text{ірраціональний вираз}}.$$</p>
 <div class="space"></div>
@@ -13,7 +13,7 @@
 <div class="popup">
 </div>
 
-<div class="space">
+<p><div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
@@ -26,6 +26,7 @@
 </div>
 </div>
 </div>
+</p>
 
 <div class="space"></div>
 
@@ -37,7 +38,7 @@
         <answer>$$\dfrac{\sqrt{7}+2}{2}$$</answer>
         <answer>$$1$$</answer>
         <explanation>
-        Домножимо знаменник дробу на доповнюючий множник: $$\dfrac{\sqrt{7}+2}{(\sqrt{7}-2)(\sqrt{7}+2)}=\dfrac{\sqrt{7}+2}{3}$$
+        Домножимо знаменник дробу на доповнюючий множник: $$\dfrac{\sqrt{7}+2}{(\sqrt{7}-2)(\sqrt{7}+2)}=\dfrac{\sqrt{7}+2}{3}.$$
         </explanation>
     </question>
     <question text="">
@@ -47,7 +48,7 @@
         <answer>$$\dfrac{14\sqrt[3]{(x^3+1)^3}}{x^3+1}$$</answer>
         <answer>$$\dfrac{14\sqrt[5]{(x^3+1)^4}}{x^3+1}$$</answer>
         <explanation>
-         Домножимо знаменник дробу на доповнюючий множник: $$\dfrac{14}{\sqrt[5]{(x^3+1)^2}} = \dfrac{14\sqrt[5]{(x^3+1)^3}}{\sqrt[5]{(x^3+1)^2}\sqrt[5]{(x^3+1)^3}} = \dfrac{14\sqrt[5]{(x^3+1)^3}}{x^3+1}$$
+         Домножимо знаменник дробу на доповнюючий множник: $$\dfrac{14}{\sqrt[5]{(x^3+1)^2}} = \dfrac{14\sqrt[5]{(x^3+1)^3}}{\sqrt[5]{(x^3+1)^2}\sqrt[5]{(x^3+1)^3}} = \dfrac{14\sqrt[5]{(x^3+1)^3}}{x^3+1}.$$
         </explanation>
     </question>
 </quiz>
