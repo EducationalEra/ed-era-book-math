@@ -8,7 +8,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Нерівність</b> — це співвідношення двох математичних об’єктів, що вказує їхню відносну величину та порядок (якщо такий можна встановити).
 </div>
@@ -78,7 +78,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Алгебраїчна нерівність</b> — це співвідношення вигляду $$f(x) > 0$$ або $$f(x)<0$$ або $$f(x) \geq 0$$ або $$f(x) \leq 0$$, де $$f(x)$$ – деяка дійсна функція від змінної $$x$$.
 </div>
