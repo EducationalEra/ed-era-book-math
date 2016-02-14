@@ -171,7 +171,7 @@ x &>& -\dfrac{59}{20}
 Зобразимо ці розв’язки на числовій прямій:
 /*Картинка з інтервалами*/
 
-Знаходимо перетин множин розв’язків та отримуємо відповідь.
+<p>Знаходимо перетин множин розв’язків та отримуємо відповідь.</p>
 
 <p><b>Вiдповiдь.</b>$$x \in \left(-\dfrac{59}{20};\infty\right).$$</p>
 
@@ -323,7 +323,7 @@ f(x)>g(x).
 <div class="task-text">
 <b>Розв’язати нерівність $$\sqrt{16-x^2}\geq4-x.$$</b>
 <p><b><i>Розв’язок.</i></b></p>
-Скористаємось рівносильним переходом <p align="center">$$\sqrt[2k]{f(x)}\geq g(x)\Longleftrightarrow\quad \left[\begin{gathered} 
+Скористаємось рівносильним переходом: <p align="center">$$\sqrt[2k]{f(x)}\geq g(x)\Longleftrightarrow\quad \left[\begin{gathered} 
 \quad \begin{cases} 
 g (x)\geq0,\\ 
 f (x)\geq g^{2k}(x),
