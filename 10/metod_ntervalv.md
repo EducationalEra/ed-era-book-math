@@ -149,7 +149,7 @@
 <p>Зобразимо їх на числовій прямій.</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_7.png"/></p></div>
 <li>Шукаємо знак функції на правому інтервалі $$(3;\infty)$$. Підставимо тестове значення «<font color="#0F5180"><i>мільярд</i></font>».</li>
-<p align="center">$$P(\color{#0F5181}{\textit{мільярд}}) = (\underbrace{ \color{#0F5181}{\textit{мільярд}}-2}_{>\thinspace\mbox{0}}) \, (\underbrace{ \color{#0F5181}{\textit{мільярд}}+2}_{>\thinspace\mbox{0}}) \, (\underbrace{ \color{#0F5181}{\textit{мільярд}}-3}_{>\thinspace\mbox{0}}) \, >0.$$</p>
+<p align="center">$$P(\color{#0F5181}{\textit{мільярд}}) = (\underbrace{ \color{#0F5181}{\textit{мільярд}}-2}_{>\thinspace\mbox{0}}) \, (\underbrace{ \color{#0F5181}{\textit{мільярд}}+2}_{>\thinspace\mbox{0}}) \, (\underbrace{ \color{#0F5181}{\textit{мільярд}}-3}_{>\thinspace\mbox{0}}) \, >0$$</p>
 <p>Функція $$P(x)$$ в точці <font color="#0F5180"><i>мільярд</i></font> має два додатних множники і один від’ємний, отже, функція в цій точці буде додатною.</p>
 <p>Отже, правий інтервал має додатний знак. Всі корені мають непарну кратність «$$1$$», тому решту знаків чергуємо, рухаючись справа наліво при переході через граничні точки:</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_8.png"/></p></div>
