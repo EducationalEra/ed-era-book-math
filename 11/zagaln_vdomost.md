@@ -1,11 +1,12 @@
 # Дробово-раціональні рівняння
 # Загальні відомості
 
-<div class="fluidMedia">
+<p><div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/lWDbWYuzBno" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="popup">
 </div>
+</p>
 
 <p>Одне з найшвидших серійних авто у світі – Mercedes-AMG $$C63$$ — може з місця прискоритись до $$100$$ км/год за $$4,1$$ с, маючи при цьому максимальну швидкість $$250$$ км/год.</p>
 
