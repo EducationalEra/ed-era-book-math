@@ -2,7 +2,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Дробово-раціональна нерівність</b> — це нерівність вигляду $$\dfrac{P(x)}{Q(x)}>0$$ або $$\dfrac{P(x)}{Q(x)}<0$$ або $$\dfrac{P(x)}{Q(x)}\geq0$$ або $$\dfrac{P(x)}{Q(x)}\leq0$$, де $$P(x)$$, $$Q(x)$$ – многочлени, а $$x$$ – змінна.
 </div>
