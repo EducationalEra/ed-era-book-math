@@ -109,7 +109,7 @@ t^2 - 148,57 &< 0 \nonumber \\
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Раціональна нерівність</b> — це нерівність вигляду $$P(x) > 0$$ або $$P(x) < 0$$ або $$P(x) \geq 0$$ або $$P(x) \leq 0$$, де $$P(x)$$ – многочлен, а $$x$$ – змінна.
 </div>
