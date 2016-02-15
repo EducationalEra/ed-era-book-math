@@ -99,9 +99,9 @@ f(x)<-g(x).
 <tr>
 <td>$$
     \begin{align}
-        -12,95 & \le T - 8,65 & \le 12,95 \\
-        -12,95 \color{#1570bd}+ \color{#1570bd}8\color{#1570bd},\color{#1570bd}6\color{#1570bd}5 & \le T -8,65 \color{#1570bd}+ \color{#1570bd}8\color{#1570bd},\color{#1570bd}6\color{#1570bd}5 & \le 12,95 \color{#1570bd}+ \color{#1570bd}8\color{#1570bd},\color{#1570bd}6\color{#1570bd}5 \\
-        -4,3 & \le T & \le 21,6
+        -12,95 && \le && T - 8,65 && \le && 12,95 \\
+        -12,95 \color{#1570bd}+ \color{#1570bd}8\color{#1570bd},\color{#1570bd}6\color{#1570bd}5 && \le && T -8,65 \color{#1570bd}+ \color{#1570bd}8\color{#1570bd},\color{#1570bd}6\color{#1570bd}5 && \le && 12,95 \color{#1570bd}+ \color{#1570bd}8\color{#1570bd},\color{#1570bd}6\color{#1570bd}5 \\
+        -4,3 && \le && T && \le && 21,6
     \end{align}$$</td>
 <td><font color="1570bd"><i>Вихідна нерівність<br>Додаємо $$8,65$$ до всіх трьох частин<br>Спрощуємо</i></font></td>
 </tr>
