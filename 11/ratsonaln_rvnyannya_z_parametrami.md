@@ -29,13 +29,13 @@ $$\dfrac{({a^2}-1)x^2-(2a+4)x-3}{(ax+2)(1-x)}=0$$</p>
 <p align="center">$$(a^2-1) x^2-(2a+4)x-3=0$$</p>
 <p>По-перше, розглянемо «контрольні» значення параметра $$a=\pm1$$. Рівняння стане лінійним та матиме один корінь:</p>
 <p>При $$a=1$$:</p>
-<p>$$-(6\cdot1+2)x-3=0$$</p>
-<p>$$-2x-9=0$$</p>
-<p>$$x=-\dfrac{9}{2}$$</p>
+<p align="center">$$-(6\cdot1+2)x-3=0$$</p>
+<p align="center">$$-2x-9=0$$</p>
+<p align="center">$$x=-\dfrac{9}{2}$$</p>
 <p>При $$a=-1$$:</p>
-<p>$$-(6\cdot(-1)+2)x-3=0$$</p>
-<p>$$-2x+3=0$$</p>
-<p>$$x=-\dfrac{3}{2}$$</p>
+<p align="center">$$-(6\cdot(-1)+2)x-3=0$$</p>
+<p align="center">$$-2x+3=0$$</p>
+<p align="center">$$x=-\dfrac{3}{2}$$</p>
 <p>Якщо $$a\neq\pm1$$, то рівняння є квадратним. Шукаємо дискримінант:</p>
 <p align="center">$$D=(2a+4)^2-4\cdot(a^2-1)\cdot(-3)=4a^2+16a+16+12a^2-12=$$</p>
 <p align="center">$$=16a^2+16a+4=4(4a^2+4a+1)=4(2a+1)^2\geq0$$</p>
@@ -69,10 +69,10 @@ $$\dfrac{({a^2}-1)x^2-(2a+4)x-3}{(ax+2)(1-x)}=0$$</p>
 <p>Вперед!</p>
 <ol>
 <li>Шукаємо «контрольні» значення параметра $$a$$. Для цього прирівняємо знайдені вирази для коренів по черзі до заборонених значень $$x$$, та звідти виразимо $$a$$:</li>
-$$x_1(a) = 1:  \quad \dfrac{-1}{a+1} = 1 \Longleftrightarrow a = -2$$
-$$x_2(a) = 1:  \quad \dfrac{3}{a-1} = 1 \Longleftrightarrow a = 4$$
-$$x_1(a) = \dfrac-{2}{a}, a\neq0:  \quad \dfrac{-1}{a+1} = \dfrac-{2}{a} \Longleftrightarrow a = 2(a+1)\Longleftrightarrow a = -2$$
-$$x_2(a) = \dfrac-{2}{a}, a\neq0:  \quad \dfrac{3}{a-1} = \dfrac-{2}{a} \Longleftrightarrow 3a = -2(a-1)\Longleftrightarrow a = \dfrac {2}{5}$$
+<p align="center">$$x_1(a) = 1:  \quad \dfrac{-1}{a+1} = 1 \Longleftrightarrow a = -2$$<p>
+<p align="center">$$x_2(a) = 1:  \quad \dfrac{3}{a-1} = 1 \Longleftrightarrow a = 4$$<p>
+<p align="center">$$x_1(a) = \dfrac-{2}{a}, a\neq0:  \quad \dfrac{-1}{a+1} = \dfrac-{2}{a} \Longleftrightarrow a = 2(a+1)\Longleftrightarrow a = -2$$<p>
+<p align="center">$$x_2(a) = \dfrac-{2}{a}, a\neq0:  \quad \dfrac{3}{a-1} = \dfrac-{2}{a} \Longleftrightarrow 3a = -2(a-1)\Longleftrightarrow a = \dfrac {2}{5}$$<p>
 <p>Знайшли три «контрольних» значення параметра $$a: -2;4;\dfrac{2}{5}$$.</p>
 <li>Шукаємо тепер дозволені значення $$x$$ при «контрольних» значення параметра:</li>
 <ul>
