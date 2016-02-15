@@ -31,7 +31,9 @@ $$\dfrac{({a^2}-1)x^2-(2a+4)x-3}{(ax+2)(1-x)}=0$$</p>
 <p>При $$a=1$$:</p>
 <div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/143/p34_e9.png"/></p></div>
 <p>При $$a=-1$$:</p>
-<div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/143/p34_e10.png"/></p></div>
+$$-(6\cdot1+2)x-3=0$$
+$$-2x-9=0$$
+$$x=-\dfrac{9}{2}$$
 <p>Якщо $$a\neq\pm1$$, то рівняння є квадратним. Шукаємо дискримінант:</p>
 <p align="center">$$D=(2a+4)^2-4\cdot(a^2-1)\cdot(-3)=4a^2+16a+16+12a^2-12=$$</p>
 <p align="center">$$=16a^2+16a+4=4(4a^2+4a+1)=4(2a+1)^2\geq0$$</p>
