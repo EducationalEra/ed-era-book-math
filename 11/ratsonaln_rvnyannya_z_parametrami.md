@@ -71,8 +71,8 @@ $$\dfrac{({a^2}-1)x^2-(2a+4)x-3}{(ax+2)(1-x)}=0$$</p>
 <li>Шукаємо «контрольні» значення параметра $$a$$. Для цього прирівняємо знайдені вирази для коренів по черзі до заборонених значень $$x$$, та звідти виразимо $$a$$:</li>
 <p align="center">$$x_1(a) = 1:  \quad \dfrac{-1}{a+1} = 1 \Longleftrightarrow a = -2$$<p>
 <p align="center">$$x_2(a) = 1:  \quad \dfrac{3}{a-1} = 1 \Longleftrightarrow a = 4$$<p>
-<p align="center">$$x_1(a) = \dfrac-{2}{a}, a\neq0:  \quad \dfrac{-1}{a+1} = \dfrac-{2}{a} \Longleftrightarrow a = 2(a+1)\Longleftrightarrow a = -2$$<p>
-<p align="center">$$x_2(a) = \dfrac-{2}{a}, a\neq0:  \quad \dfrac{3}{a-1} = \dfrac-{2}{a} \Longleftrightarrow 3a = -2(a-1)\Longleftrightarrow a = \dfrac {2}{5}$$<p>
+<p align="center">$$x_1(a) = -\dfrac{2}{a}, a\neq0:  \quad \dfrac{-1}{a+1} = -\dfrac{2}{a} \Longleftrightarrow a = 2(a+1)\Longleftrightarrow a = -2$$<p>
+<p align="center">$$x_2(a) = -\dfrac{2}{a}, a\neq0:  \quad \dfrac{3}{a-1} = -\dfrac{2}{a} \Longleftrightarrow 3a = -2(a-1)\Longleftrightarrow a = \dfrac {2}{5}$$<p>
 <p>Знайшли три «контрольних» значення параметра $$a: -2;4;\dfrac{2}{5}$$.</p>
 <li>Шукаємо тепер дозволені значення $$x$$ при «контрольних» значення параметра:</li>
 <ul>
