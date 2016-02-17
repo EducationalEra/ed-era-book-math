@@ -89,13 +89,13 @@
 </ol>
 <p>Тепер головне не заплутатись і перерахувати всі розглянуті випадки:</p>
 <b>Вiдповiдь.</b> 
-<p align="center">При $$a = -2: \quad x = -1;$$</p>
-<p align="center">при $$a = -1: \quad x = -\dfrac{3}{2};$$</p>
-<p align="center">при $$a = -\dfrac{1}{2}: \quad x = -2;$$</p>
-<p align="center">при $$a = \dfrac{2}{5}: \quad x = -\dfrac{5}{7};$$</p>
-<p align="center">при $$a = 1: \quad x = -\dfrac{9}{2};$$</p>
-<p align="center">при $$a = 4: \quad x = -\dfrac{1}{5};$$</p>
-<p align="center">при $$a \notin \left\{-2;-1;-\dfrac{1}{2};\dfrac{2}{4};1;4 \right\}: \quad x_1 = \dfrac{-1}{a+1}, x_2 = \dfrac{3}{a-1}.$$</p></div>
+<p>При $$a = -2: \quad x = -1;$$</p>
+<p>при $$a = -1: \quad x = -\dfrac{3}{2};$$</p>
+<p>при $$a = -\dfrac{1}{2}: \quad x = -2;$$</p>
+<p>при $$a = \dfrac{2}{5}: \quad x = -\dfrac{5}{7};$$</p>
+<p>при $$a = 1: \quad x = -\dfrac{9}{2};$$</p>
+<p>при $$a = 4: \quad x = -\dfrac{1}{5};$$</p>
+<p>при $$a \notin \left\{-2;-1;-\dfrac{1}{2};\dfrac{2}{4};1;4 \right\}: \quad x_1 = \dfrac{-1}{a+1}, x_2 = \dfrac{3}{a-1}.$$</p></div>
 </div>
 </div>
 </div>
