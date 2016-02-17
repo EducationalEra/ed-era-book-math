@@ -21,11 +21,11 @@
 </div>
 </p>
 <p>Зводимо його до стандратного вигляду $$\dfrac{P(x)}{Q(x)} = 0$$:</p>
-<p>$$\dfrac{x+5}{ax+2}-\dfrac{ax+4}{1-x}=0$$</p>
-<p>$$\dfrac{1-x}{1-x}\cdot\dfrac{x+5}{ax+2}-\dfrac{ax+2}{ax+2}\cdot\dfrac{ax+4}{1-x}=0$$</p>
-<p>$$\dfrac{(1-x)(x+5)+(ax+2)(ax-4)}{(ax+2)(1-x)}=0$$</p>
-<p>$$\dfrac{x+5-x^2-5x+(ax)^2-4ax+2ax-8}{(ax+2)(1-x)}=0$$</p>
-$$\dfrac{({a^2}-1)x^2-(2a+4)x-3}{(ax+2)(1-x)}=0$$</p>
+<p align="center">$$\dfrac{x+5}{ax+2}-\dfrac{ax+4}{1-x}=0$$</p>
+<p align="center">$$\dfrac{1-x}{1-x}\cdot\dfrac{x+5}{ax+2}-\dfrac{ax+2}{ax+2}\cdot\dfrac{ax+4}{1-x}=0$$</p>
+<p align="center">$$\dfrac{(1-x)(x+5)+(ax+2)(ax-4)}{(ax+2)(1-x)}=0$$</p>
+<p align="center">$$\dfrac{x+5-x^2-5x+(ax)^2-4ax+2ax-8}{(ax+2)(1-x)}=0$$</p>
+<p align="center">$$\dfrac{({a^2}-1)x^2-(2a+4)x-3}{(ax+2)(1-x)}=0$$</p>
 <p align="center">$$(a^2-1) x^2-(2a+4)x-3=0$$</p>
 <p>По-перше, розглянемо «контрольні» значення параметра $$a=\pm1$$. Рівняння стане лінійним та матиме один корінь:</p>
 <p>При $$a=1$$:</p>
