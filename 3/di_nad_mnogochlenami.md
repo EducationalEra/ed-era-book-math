@@ -67,7 +67,7 @@ tr {border-color:transparent;border-width:0px !important; background-color: tran
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
-    <td style="border-width: 2px !important; border-right: 2pt solid !important;" class="td-s6z2"></td>
+    <td style="border-width: 2px !important; border-right: 2pt solid;" class="td-s6z2"></td>
     <td class="td-s6z2">$$3x$$</td>
     <td class="td-s6z2">$$+$$</td>
     <td class="td-s6z2">$$7x$$</td>
@@ -77,7 +77,7 @@ tr {border-color:transparent;border-width:0px !important; background-color: tran
   <tr>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
-    <td style="border-width: 2px !important; border-bottom:1pt solid ;" class="td-s6z2"></td>
+    <td style="border-width: 2px !important; border-bottom:2pt solid;" class="td-s6z2"></td>
     <td class="td-s6z2">$$7x$$</td>
     <td class="td-s6z2">$$-$$</td>
     <td class="td-s6z2">$$2x$$</td>
@@ -97,11 +97,11 @@ tr {border-color:transparent;border-width:0px !important; background-color: tran
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
-    <td style="border-width: 2px; border-bottom:1pt solid ;" class="td-s6z2">$$7x$$</td>
-    <td style="border-width: 2px; border-bottom:1pt solid ;" class="td-s6z2">$$+$$</td>
-    <td style="border-width: 2px; border-bottom:1pt solid ;" class="td-s6z2">$$0x$$</td>
-    <td style="border-width: 2px; border-bottom:1pt solid ;" class="td-s6z2">$$-$$</td>
-    <td style="border-width: 2px; border-bottom:1pt solid ;" class="td-s6z2">$$14x$$</td>
+    <td style="border-width: 2px !important; border-bottom:2pt solid;" class="td-s6z2">$$7x$$</td>
+    <td style="border-width: 2px !important; border-bottom:2pt solid;" class="td-s6z2">$$+$$</td>
+    <td style="border-width: 2px !important; border-bottom:2pt solid;" class="td-s6z2">$$0x$$</td>
+    <td style="border-width: 2px !important; border-bottom:2pt solid;" class="td-s6z2">$$-$$</td>
+    <td style="border-width: 2px !important; border-bottom:2pt solid;" class="td-s6z2">$$14x$$</td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
@@ -117,7 +117,7 @@ tr {border-color:transparent;border-width:0px !important; background-color: tran
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
-    <td style="border-width: 2px; border-bottom:1pt solid ;" class="td-s6z2"></td>
+    <td style="border-width: 2px !important; border-bottom:1pt solid;" class="td-s6z2"></td>
     <td class="td-s6z2">$$-2x$$</td>
     <td class="td-s6z2">$$+$$</td>
     <td class="td-s6z2">$$x$$</td>
@@ -137,11 +137,11 @@ tr {border-color:transparent;border-width:0px !important; background-color: tran
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
-    <td style="border-width: 2px; border-bottom:1pt solid ;" class="td-s6z2">$$-2x$$</td>
-    <td style="border-width: 2px; border-bottom:1pt solid ;" class="td-s6z2">$$+$$</td>
-    <td style="border-width: 2px; border-bottom:1pt solid ;" class="td-s6z2">$$0x$$</td>
-    <td style="border-width: 2px; border-bottom:1pt solid ;" class="td-s6z2">$$+$$</td>
-    <td style="border-width: 2px; border-bottom:1pt solid ;" class="td-s6z2">$$4x$$</td>
+    <td style="border-width: 2px !important; border-bottom:2pt solid;" class="td-s6z2">$$-2x$$</td>
+    <td style="border-width: 2px !important; border-bottom:2pt solid;" class="td-s6z2">$$+$$</td>
+    <td style="border-width: 2px !important; border-bottom:2pt solid;" class="td-s6z2">$$0x$$</td>
+    <td style="border-width: 2px !important; border-bottom:2pt solid;" class="td-s6z2">$$+$$</td>
+    <td style="border-width: 2px !important; border-bottom:2pt solid;" class="td-s6z2">$$4x$$</td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
@@ -157,7 +157,7 @@ tr {border-color:transparent;border-width:0px !important; background-color: tran
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
-    <td style="border-width: 2px; border-bottom:1pt solid ;" class="td-s6z2"></td>
+    <td style="border-width: 2px !important; border-bottom:2pt solid;" class="td-s6z2"></td>
     <td class="td-s6z2">$$x$$</td>
     <td class="td-s6z2">$$+$$</td>
     <td class="td-s6z2">$$0x$$</td>
@@ -177,11 +177,11 @@ tr {border-color:transparent;border-width:0px !important; background-color: tran
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
-    <td style="border-width: 2px; border-bottom:1pt solid ;" class="td-s6z2">$$x$$</td>
-    <td style="border-width: 2px; border-bottom:1pt solid ;" class="td-s6z2">$$+$$</td>
-    <td style="border-width: 2px; border-bottom:1pt solid ;" class="td-s6z2">$$0x$$</td>
-    <td style="border-width: 2px; border-bottom:1pt solid ;" class="td-s6z2">$$-$$</td>
-    <td style="border-width: 2px; border-bottom:1pt solid ;" class="td-s6z2">$$2$$</td>
+    <td style="border-width: 2px !important; border-bottom:2pt solid;" class="td-s6z2">$$x$$</td>
+    <td style="border-width: 2px !important; border-bottom:2pt solid;" class="td-s6z2">$$+$$</td>
+    <td style="border-width: 2px !important; border-bottom:2pt solid;" class="td-s6z2">$$0x$$</td>
+    <td style="border-width: 2px !important; border-bottom:2pt solid;" class="td-s6z2">$$-$$</td>
+    <td style="border-width: 2px !important; border-bottom:2pt solid;" class="td-s6z2">$$2$$</td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
