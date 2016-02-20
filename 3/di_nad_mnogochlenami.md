@@ -31,7 +31,7 @@
 
 <style type="text/css">
 .td  {border-collapse:collapse;border-spacing:0;border-width: none !important;background-color: transparent !important;}
-.td td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.td td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px !important;overflow:hidden;word-break:normal;}
 .td td{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px !important;overflow:hidden;word-break:normal;}
 .td .td-s6z2{text-align:center}
 </style>
