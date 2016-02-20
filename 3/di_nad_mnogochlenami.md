@@ -66,32 +66,36 @@ $$-->
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2">+4x</td>
     <td class="tg-s6z2"></td>
-    <td class="tg-s6z2">-2</td>
-    <td class="tg-s6z2">x</td>
-    <td class="tg-s6z2">-2</td>
-    <td class="tg-s6z2"></td>
+    <td style="border-right:1pt solid black;" class="tg-s6z2">-2</td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2">x</td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2">-</td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2">2</td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2"></td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2"></td>
   </tr>
   <tr>
     <td class="tg-s6z2"></td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2">3x</td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2"></td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2">0x</td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2"></td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2">-6x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td style="border-right:1pt solid black;" class="tg-s6z2"></td>
     <td class="tg-s6z2">3x</td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2">0x</td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2">-6x</td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2">3x</td>
-    <td class="tg-s6z2">+7x</td>
-    <td class="tg-s6z2">-2x</td>
+    <td class="tg-s6z2">+</td>
+    <td class="tg-s6z2">7x</td>
+    <td class="tg-s6z2">-</td>
+    <td class="tg-s6z2">2x</td>
   </tr>
   <tr>
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2"></td>
     <td class="tg-s6z2">7x</td>
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2">-2x</td>
@@ -109,11 +113,11 @@ $$-->
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2"></td>
-    <td class="tg-s6z2">7x</td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2">+0x</td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2">-14x</td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2">7x</td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2"></td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2">+0x</td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2"></td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2">-14x</td>
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2"></td>
@@ -127,7 +131,7 @@ $$-->
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2"></td>
     <td class="tg-s6z2">-2x</td>
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2">+x</td>
@@ -145,11 +149,11 @@ $$-->
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2"></td>
-    <td class="tg-s6z2">-2x</td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2">+0x</td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2">+4x</td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2">-2x</td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2"></td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2">+0x</td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2"></td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2">+4x</td>
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2"></td>
@@ -163,7 +167,7 @@ $$-->
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2"></td>
     <td class="tg-s6z2">x</td>
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2">+0x</td>
@@ -181,11 +185,11 @@ $$-->
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2"></td>
-    <td class="tg-s6z2">x</td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2">+0x</td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2">-2</td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2">x</td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2"></td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2">+0x</td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2"></td>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2">-2</td>
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2"></td>
