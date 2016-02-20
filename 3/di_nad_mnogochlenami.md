@@ -53,7 +53,7 @@ $$-->
 .td th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
 .td .tg-s6z2{text-align:center}
 </style>
-<table class="tg">
+<table class="td">
   <tr>
     <td style="border-bottom:1pt solid black;" class="tg-s6z2"></td>
     <td class="tg-s6z2">3x</td>
