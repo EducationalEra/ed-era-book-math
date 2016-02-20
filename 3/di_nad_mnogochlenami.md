@@ -47,6 +47,23 @@
 	\end{tabular}
 $$-->
 
+$$\begin{table}[]
+\centering
+\caption{My caption}
+\label{my-label}
+\begin{tabular}{llllllllllllllllllllll}
+ & 3x &  & +7x &  & -8x &  & -13x &  & +4x &  & \multicolumn{1}{l|}{-2} & x  & -2 &     &    &  &  &  &  &  &  \\ \cline{1-1} \cline{13-16}
+ & 3x &  & 0x  &  & -6x &  &      &  &     &  & \multicolumn{1}{l|}{}   & 3x & 7x & -2x & +1 &  &  &  &  &  &  \\ \cline{2-6}
+ &    &  & 7x  &  & -2x &  & -13x &  &     &  &                         &    &    &     &    &  &  &  &  &  &  \\ \cline{3-3}
+ &    &  & 7x  &  & +0x &  & -14x &  &     &  &                         &    &    &     &    &  &  &  &  &  &  \\ \cline{4-9}
+ &    &  &     &  & -2x &  & +x   &  & +4x &  &                         &    &    &     &    &  &  &  &  &  &  \\ \cline{5-5}
+ &    &  &     &  & -2x &  & +0x  &  & +4x &  &                         &    &    &     &    &  &  &  &  &  &  \\ \cline{6-10}
+ &    &  &     &  &     &  & x    &  & +0x &  & -2                      &    &    &     &    &  &  &  &  &  &  \\ \cline{7-7}
+ &    &  &     &  &     &  & x    &  & +0x &  & -2                      &    &    &     &    &  &  &  &  &  &  \\ \cline{8-12}
+ &    &  &     &  &     &  &      &  &     &  & 0                       &    &    &     &    &  &  &  &  &  & 
+\end{tabular}
+\end{table}$$
+
 <div class="space"><p align="center"><img align="middle" class="image" src="../pics/m1_3_1.png"/></p></div>
 
 <div class="space"></div>
