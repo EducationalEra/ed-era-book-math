@@ -29,24 +29,6 @@
 <div class="space">
 </div>
 
-<!--$$\begin{tabular}{cccccc|cccc}
-		\dropsign{-}$3x^{\text{\tiny{5}}}$ & $+7x^{\text{\tiny{4}}}$ & $-8x^{\text{\tiny{3}}}$ & $-13x^{\text{\tiny{2}}}$ &$+4x$   & $-2$ 	 & $x^{\text{\tiny{2}}}$ 		& $-2$    &		  &      \\
-		\cline{7-10}
-		$3x^{\text{\tiny{5}}}$ & $+0x^{\text{\tiny{4}}}$  &  $-6x^{\text{\tiny{3}}}$&                 &        & 		     & $3x^{\text{\tiny{3}}}$  	    & $+7x^{\text{\tiny{2}}}$ & $-2x$ & $+1$  \\
-		\cline{1-3}
-		&\dropsign{-}$7x^{\text{\tiny{4}}}$  &$-2x^{\text{\tiny{3}}}$    & $-13x^{\text{\tiny{2}}}$ 	    & \multicolumn{6}{l}{} \\
-		&   $7x^{\text{\tiny{4}}}$  &$+0x^{\text{\tiny{3}}}$     & $-14x^{\text{\tiny{2}}}$      & \multicolumn{6}{l}{}\\
-		\cline{2-4}
-		&           &\dropsign{-}$-2x^{\text{\tiny{3}}}$    & $+x^{\text{\tiny{2}}}$         & $+4x$  & \multicolumn{5}{l}{}\\
-		&           &$-2x^{\text{\tiny{3}}}$    & $+0x^{\text{\tiny{2}}}$        & $+4x$  & \multicolumn{5}{l}{}\\
-		\cline{3-5}	 
-		&           &			&\dropsign{-}$x^{\text{\tiny{2}}}$          & $+0x$          & \multicolumn{5}{l}{$-2$ }\\
-		&           &			& $x^{\text{\tiny{2}}}$         & $+0x$          & \multicolumn{5}{l}{$-2$}\\
-		\cline{4-6}
-		&           &          & 				& 			&  \multicolumn{5}{l}{$\text{\color{white}---}0$}\\ 
-	\end{tabular}
-$$-->
-
 <style type="text/css">
 .td  {border-collapse:collapse;border-spacing:0;border:none;}
 .td td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
@@ -108,6 +90,8 @@ $$-->
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
   </tr>
   <tr>
     <td class="td-s6z2"></td>
@@ -118,6 +102,8 @@ $$-->
     <td style="border-bottom:1pt solid black;" class="td-s6z2">0x</td>
     <td style="border-bottom:1pt solid black;" class="td-s6z2">-</td>
     <td style="border-bottom:1pt solid black;" class="td-s6z2">14x</td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
@@ -142,6 +128,8 @@ $$-->
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
   </tr>
   <tr>
     <td class="td-s6z2"></td>
@@ -154,6 +142,8 @@ $$-->
     <td style="border-bottom:1pt solid black;" class="td-s6z2">0x</td>
     <td style="border-bottom:1pt solid black;" class="td-s6z2">+</td>
     <td style="border-bottom:1pt solid black;" class="td-s6z2">4x</td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
@@ -176,6 +166,8 @@ $$-->
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
   </tr>
   <tr>
     <td class="td-s6z2"></td>
@@ -193,6 +185,8 @@ $$-->
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
   </tr>
   <tr>
     <td class="td-s6z2"></td>
@@ -207,6 +201,8 @@ $$-->
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2">0</td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
