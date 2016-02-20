@@ -482,8 +482,13 @@ default – "White"
 }
 
 td .book.color-theme-1 {
+    border-color: #704214;
+}
+
+td .book.color-theme-2 {
     border-color: #2c3043;
 }
+
 
 /*video + description */
 .description {
