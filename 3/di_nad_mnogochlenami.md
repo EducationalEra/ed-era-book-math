@@ -48,173 +48,164 @@
 $$-->
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg .tg-yw4l{vertical-align:top}
+.tg  {border-collapse:collapse;border-spacing:0;border:none;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.tg .tg-s6z2{text-align:center}
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-yw4l"></th>
-    <th class="tg-yw4l">3x</th>
-    <th class="tg-yw4l"></th>
-    <th class="tg-yw4l">+7x</th>
-    <th class="tg-yw4l"></th>
-    <th class="tg-yw4l">-8x</th>
-    <th class="tg-yw4l"></th>
-    <th class="tg-yw4l">-13x</th>
-    <th class="tg-yw4l"></th>
-    <th class="tg-yw4l">+4x</th>
-    <th class="tg-yw4l"></th>
-    <th class="tg-yw4l">-2</th>
-    <th class="tg-yw4l">x</th>
-    <th class="tg-yw4l">-2</th>
-    <th class="tg-yw4l"></th>
-    <th class="tg-yw4l"></th>
+    <th class="tg-s6z2"></th>
+    <th class="tg-s6z2">3x</th>
+    <th class="tg-s6z2"></th>
+    <th class="tg-s6z2">+7x</th>
+    <th class="tg-s6z2"></th>
+    <th class="tg-s6z2">-8x</th>
+    <th class="tg-s6z2"></th>
+    <th class="tg-s6z2">-13x</th>
+    <th class="tg-s6z2"></th>
+    <th class="tg-s6z2">+4x</th>
+    <th class="tg-s6z2"></th>
+    <th class="tg-s6z2">-2</th>
+    <th class="tg-s6z2">x</th>
+    <th class="tg-s6z2">-2</th>
+    <th class="tg-s6z2"></th>
   </tr>
   <tr>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">3x</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">0x</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">-6x</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">3x</td>
-    <td class="tg-yw4l">+7x</td>
-    <td class="tg-yw4l">-2x</td>
-    <td class="tg-yw4l">+1</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">3x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">0x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">-6x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">3x</td>
+    <td class="tg-s6z2">+7x</td>
+    <td class="tg-s6z2">-2x</td>
   </tr>
   <tr>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">7x</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">-2x</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">-13x</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">7x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">-2x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">-13x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">7x</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">+0x</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">-14x</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">7x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">+0x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">-14x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">-2x</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">+x</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">+4x</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">-2x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">+x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">+4x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">-2x</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">+0x</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">+4x</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">-2x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">+0x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">+4x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">x</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">+0x</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">-2</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">+0x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">-2</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">x</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">+0x</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">-2</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">+0x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">-2</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">0</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">0</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2"></td>
   </tr>
 </table>
 
