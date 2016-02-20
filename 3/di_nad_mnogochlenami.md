@@ -29,7 +29,7 @@
 <div class="space">
 </div>
 
-$$\begin{tabular}{cccccc|cccc}
+<!--$$\begin{tabular}{cccccc|cccc}
 		\dropsign{-}$3x^{\text{\tiny{5}}}$ & $+7x^{\text{\tiny{4}}}$ & $-8x^{\text{\tiny{3}}}$ & $-13x^{\text{\tiny{2}}}$ &$+4x$   & $-2$ 	 & $x^{\text{\tiny{2}}}$ 		& $-2$    &		  &      \\
 		\cline{7-10}
 		$3x^{\text{\tiny{5}}}$ & $+0x^{\text{\tiny{4}}}$  &  $-6x^{\text{\tiny{3}}}$&                 &        & 		     & $3x^{\text{\tiny{3}}}$  	    & $+7x^{\text{\tiny{2}}}$ & $-2x$ & $+1$  \\
@@ -45,7 +45,7 @@ $$\begin{tabular}{cccccc|cccc}
 		\cline{4-6}
 		&           &          & 				& 			&  \multicolumn{5}{l}{$\text{\color{white}---}0$}\\ 
 	\end{tabular}
-$$
+$$-->
 
 <div class="space"><p align="center"><img align="middle" class="image" src="../pics/m1_3_1.png"/></p></div>
 
