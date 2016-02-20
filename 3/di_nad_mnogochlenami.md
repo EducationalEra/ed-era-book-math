@@ -30,9 +30,9 @@
 </div>
 
 <style type="text/css">
-.td  {border-color:transparent !important;border-collapse:collapse;border-spacing:0;border-width: none !important;background-color: transparent !important;}
-tr {border-color:transparent !important;border-width:0px !important; background-color: transparent !important;}
-.td td{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-color:transparent !important;border-style:solid;border-width:0px !important;overflow:hidden;word-break:normal;}
+.td  {border-color:transparent;border-collapse:collapse;border-spacing:0;border-width: none !important;background-color: transparent !important;}
+tr {border-color:transparent;border-width:0px !important; background-color: transparent !important;}
+.td td{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-color:transparent;border-style:solid;border-width:0px !important;overflow:hidden;word-break:normal;}
 .td .td-s6z2{text-align:center}
 </style>
 <table class="td" style="border: none;">
