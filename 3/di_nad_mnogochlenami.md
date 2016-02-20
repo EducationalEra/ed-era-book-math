@@ -30,7 +30,7 @@
 </div>
 
 <style type="text/css">
-.td  {border-collapse:collapse;border-spacing:0;border:none;background-color:none}
+.td  {border-collapse:collapse;border-spacing:0;border:none;background-color: transparent}
 .td td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
 .td td{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
 .td .td-s6z2{text-align:center}
