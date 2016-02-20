@@ -29,6 +29,24 @@
 <div class="space">
 </div>
 
+<!--$$\begin{tabular}{cccccc|cccc}
+		\dropsign{-}$3x^{\text{\tiny{5}}}$ & $+7x^{\text{\tiny{4}}}$ & $-8x^{\text{\tiny{3}}}$ & $-13x^{\text{\tiny{2}}}$ &$+4x$   & $-2$ 	 & $x^{\text{\tiny{2}}}$ 		& $-2$    &		  &      \\
+		\cline{7-10}
+		$3x^{\text{\tiny{5}}}$ & $+0x^{\text{\tiny{4}}}$  &  $-6x^{\text{\tiny{3}}}$&                 &        & 		     & $3x^{\text{\tiny{3}}}$  	    & $+7x^{\text{\tiny{2}}}$ & $-2x$ & $+1$  \\
+		\cline{1-3}
+		&\dropsign{-}$7x^{\text{\tiny{4}}}$  &$-2x^{\text{\tiny{3}}}$    & $-13x^{\text{\tiny{2}}}$ 	    & \multicolumn{6}{l}{} \\
+		&   $7x^{\text{\tiny{4}}}$  &$+0x^{\text{\tiny{3}}}$     & $-14x^{\text{\tiny{2}}}$      & \multicolumn{6}{l}{}\\
+		\cline{2-4}
+		&           &\dropsign{-}$-2x^{\text{\tiny{3}}}$    & $+x^{\text{\tiny{2}}}$         & $+4x$  & \multicolumn{5}{l}{}\\
+		&           &$-2x^{\text{\tiny{3}}}$    & $+0x^{\text{\tiny{2}}}$        & $+4x$  & \multicolumn{5}{l}{}\\
+		\cline{3-5}	 
+		&           &			&\dropsign{-}$x^{\text{\tiny{2}}}$          & $+0x$          & \multicolumn{5}{l}{$-2$ }\\
+		&           &			& $x^{\text{\tiny{2}}}$         & $+0x$          & \multicolumn{5}{l}{$-2$}\\
+		\cline{4-6}
+		&           &          & 				& 			&  \multicolumn{5}{l}{$\text{\color{white}---}0$}\\ 
+	\end{tabular}
+$$-->
+
 <div class="space"><p align="center"><img align="middle" class="image" src="../pics/m1_3_1.png"/></p></div>
 
 <div class="space"></div>
