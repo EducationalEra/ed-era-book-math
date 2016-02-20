@@ -489,6 +489,13 @@ td .book.color-theme-2 {
     border-color: #2c3043;
 }
 
+td.minus: after {
+    height: 1px;
+    display:block;
+    background-color:blue;
+    content:" ";
+    width:5px;
+}
 
 /*video + description */
 .description {
