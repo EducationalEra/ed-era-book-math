@@ -47,22 +47,176 @@
 	\end{tabular}
 $$-->
 
-$$\begin{table}[]
-\centering
-\caption{My caption}
-\label{my-label}
-\begin{tabular}{llllllllllllllllllllll}
- & 3x &  & +7x &  & -8x &  & -13x &  & +4x &  & \multicolumn{1}{l|}{-2} & x  & -2 &     &    &  &  &  &  &  &  \\ \cline{1-1} \cline{13-16}
- & 3x &  & 0x  &  & -6x &  &      &  &     &  & \multicolumn{1}{l|}{}   & 3x & 7x & -2x & +1 &  &  &  &  &  &  \\ \cline{2-6}
- &    &  & 7x  &  & -2x &  & -13x &  &     &  &                         &    &    &     &    &  &  &  &  &  &  \\ \cline{3-3}
- &    &  & 7x  &  & +0x &  & -14x &  &     &  &                         &    &    &     &    &  &  &  &  &  &  \\ \cline{4-9}
- &    &  &     &  & -2x &  & +x   &  & +4x &  &                         &    &    &     &    &  &  &  &  &  &  \\ \cline{5-5}
- &    &  &     &  & -2x &  & +0x  &  & +4x &  &                         &    &    &     &    &  &  &  &  &  &  \\ \cline{6-10}
- &    &  &     &  &     &  & x    &  & +0x &  & -2                      &    &    &     &    &  &  &  &  &  &  \\ \cline{7-7}
- &    &  &     &  &     &  & x    &  & +0x &  & -2                      &    &    &     &    &  &  &  &  &  &  \\ \cline{8-12}
- &    &  &     &  &     &  &      &  &     &  & 0                       &    &    &     &    &  &  &  &  &  & 
-\end{tabular}
-\end{table}$$
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"></th>
+    <th class="tg-yw4l">3x</th>
+    <th class="tg-yw4l"></th>
+    <th class="tg-yw4l">+7x</th>
+    <th class="tg-yw4l"></th>
+    <th class="tg-yw4l">-8x</th>
+    <th class="tg-yw4l"></th>
+    <th class="tg-yw4l">-13x</th>
+    <th class="tg-yw4l"></th>
+    <th class="tg-yw4l">+4x</th>
+    <th class="tg-yw4l"></th>
+    <th class="tg-yw4l">-2</th>
+    <th class="tg-yw4l">x</th>
+    <th class="tg-yw4l">-2</th>
+    <th class="tg-yw4l"></th>
+    <th class="tg-yw4l"></th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">3x</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">0x</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">-6x</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">3x</td>
+    <td class="tg-yw4l">+7x</td>
+    <td class="tg-yw4l">-2x</td>
+    <td class="tg-yw4l">+1</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">7x</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">-2x</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">-13x</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">7x</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">+0x</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">-14x</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">-2x</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">+x</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">+4x</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">-2x</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">+0x</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">+4x</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">x</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">+0x</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">-2</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">x</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">+0x</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">-2</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">0</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+</table>
 
 <div class="space"><p align="center"><img align="middle" class="image" src="../pics/m1_3_1.png"/></p></div>
 
