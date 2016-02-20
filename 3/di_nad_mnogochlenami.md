@@ -209,7 +209,7 @@
   </tr>
 </table>
 
-<div class="space"><p align="center"><img align="middle" class="image" src="../pics/m1_3_1.png"/></p></div>
+<!--<div class="space"><p align="center"><img align="middle" class="image" src="../pics/m1_3_1.png"/></p></div>-->
 
 <div class="space"></div>
 
