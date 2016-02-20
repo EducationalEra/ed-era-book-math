@@ -67,7 +67,7 @@ tr {border-width:0px !important; background-color: transparent !important;}
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
-    <td style="border-width: 2px; border-right:1pt solid black;" class="td-s6z2"></td>
+    <td style="border-width: 2px !important; border-right:1pt solid black;" class="td-s6z2"></td>
     <td class="td-s6z2">3x</td>
     <td class="td-s6z2">+</td>
     <td class="td-s6z2">7x</td>
@@ -77,7 +77,7 @@ tr {border-width:0px !important; background-color: transparent !important;}
   <tr>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
-    <td style="border-width: 2px; border-bottom:1pt solid black;" class="td-s6z2"></td>
+    <td style="border-width: 2px !important; border-bottom:1pt solid black;" class="td-s6z2"></td>
     <td class="td-s6z2">7x</td>
     <td class="td-s6z2">-</td>
     <td class="td-s6z2">2x</td>
@@ -177,11 +177,11 @@ tr {border-width:0px !important; background-color: transparent !important;}
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
-    <td style="border-width: 2px; border-bottom:1pt solid black;" class="td-s6z2">x</td>
-    <td style="border-width: 2px; border-bottom:1pt solid black;" class="td-s6z2">+</td>
-    <td style="border-width: 2px; border-bottom:1pt solid black;" class="td-s6z2">0x</td>
-    <td style="border-width: 2px; border-bottom:1pt solid black;" class="td-s6z2">-</td>
-    <td style="border-width: 2px; border-bottom:1pt solid black;" class="td-s6z2">2</td>
+    <td style="border-width: 2px; border-bottom:1pt solid black;" class="td-s6z2">$$x$$</td>
+    <td style="border-width: 2px; border-bottom:1pt solid black;" class="td-s6z2">$$+$$</td>
+    <td style="border-width: 2px; border-bottom:1pt solid black;" class="td-s6z2">$$0x$$</td>
+    <td style="border-width: 2px; border-bottom:1pt solid black;" class="td-s6z2">$$-$$</td>
+    <td style="border-width: 2px; border-bottom:1pt solid black;" class="td-s6z2">$$2$$</td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
@@ -200,7 +200,7 @@ tr {border-width:0px !important; background-color: transparent !important;}
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
-    <td class="td-s6z2">0</td>
+    <td class="td-s6z2">$$0$$</td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
