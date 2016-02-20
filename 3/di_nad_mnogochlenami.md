@@ -48,7 +48,7 @@ tr {border-color:transparent;border-width:0px !important; background-color: tran
     <td class="td-s6z2">$$+$$</td>
     <td class="td-s6z2">$$4x$$</td>
     <td class="td-s6z2">$$-$$</td>
-    <td style="border-width: 2px; border-right:3pt solid black !important;" class="td-s6z2">$$2$$</td>
+    <td style="border-width: 2px; border-right:3pt solid !important;" class="td-s6z2">$$2$$</td>
     <td style="border-width: 2px; border-bottom:3pt solid black !important;" class="td-s6z2">$$x$$</td>
     <td style="border-width: 2px; border-bottom:1pt solid black;" class="td-s6z2">$$-$$</td>
     <td style="border-width: 2px; border-bottom:1pt solid black;" class="td-s6z2">$$2$$</td>
