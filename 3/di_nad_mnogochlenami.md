@@ -55,21 +55,21 @@ $$-->
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-s6z2"></th>
-    <th class="tg-s6z2">3x</th>
-    <th class="tg-s6z2"></th>
-    <th class="tg-s6z2">+7x</th>
-    <th class="tg-s6z2"></th>
-    <th class="tg-s6z2">-8x</th>
-    <th class="tg-s6z2"></th>
-    <th class="tg-s6z2">-13x</th>
-    <th class="tg-s6z2"></th>
-    <th class="tg-s6z2">+4x</th>
-    <th class="tg-s6z2"></th>
-    <th class="tg-s6z2">-2</th>
-    <th class="tg-s6z2">x</th>
-    <th class="tg-s6z2">-2</th>
-    <th class="tg-s6z2"></th>
+    <td style="border-bottom:1pt solid black;" class="tg-s6z2"></td>
+    <td class="tg-s6z2">3x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">+7x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">-8x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">-13x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">+4x</td>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">-2</td>
+    <td class="tg-s6z2">x</td>
+    <td class="tg-s6z2">-2</td>
+    <td class="tg-s6z2"></td>
   </tr>
   <tr>
     <td class="tg-s6z2"></td>
