@@ -37,7 +37,7 @@ tr {border-color:transparent;border-width:0px !important; background-color: tran
 </style>
 <table class="td" style="border: none;">
   <tr>
-    <td class="minus"></td>
+    <td class="minus" style="border-width:2px !important"></td>
     <td class="td-s6z2">$$3x$$</td>
     <td class="td-s6z2">$$+$$</td>
     <td class="td-s6z2">$$7x$$</td>
