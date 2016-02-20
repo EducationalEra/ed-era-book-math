@@ -48,10 +48,10 @@
 $$-->
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border:none;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
-.tg .tg-s6z2{text-align:center}
+.td  {border-collapse:collapse;border-spacing:0;border:none;}
+.td td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.td th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.td .tg-s6z2{text-align:center}
 </style>
 <table class="tg">
   <tr>
