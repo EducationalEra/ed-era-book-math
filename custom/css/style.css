@@ -481,11 +481,11 @@ default – "White"
     background-color: rgba(0, 0, 0, 0);
 }
 
-td .book.color-theme-1 {
+ .book.color-theme-1 td {
     border-color: #704214;
 }
 
-td .book.color-theme-2 {
+ .book.color-theme-2 td {
     border-color: #2c3043;
 }
 
@@ -681,12 +681,13 @@ i.expl {
 }
 
 .book.color-theme-1 i.expl {
-    color: #F3EACB;
+    color: #704214;
 }
 
 .book.color-theme-2 i.expl {
-    color: #FAFAFA;
+    color: #2c3043;
 }
+
 
 /* No vertical lines in MathJax */
 nobr > .math > span {
