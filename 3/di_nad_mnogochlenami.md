@@ -35,7 +35,7 @@
 .td td{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
 .td .td-s6z2{text-align:center}
 </style>
-<table class="td">
+<table class="td" style="border: none;">
   <tr>
     <td style="border-bottom:1pt solid black;" class="td-s6z2"></td>
     <td class="td-s6z2">3x</td>
