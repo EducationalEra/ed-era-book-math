@@ -50,166 +50,166 @@ $$-->
 <style type="text/css">
 .td  {border-collapse:collapse;border-spacing:0;border:none;}
 .td td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
-.td th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
-.td .tg-s6z2{text-align:center}
+.td td{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.td .td-s6z2{text-align:center}
 </style>
 <table class="td">
   <tr>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2"></td>
-    <td class="tg-s6z2">3x</td>
-    <td class="tg-s6z2">+</td>
-    <td class="tg-s6z2">7x</td>
-    <td class="tg-s6z2">-</td>
-    <td class="tg-s6z2">8x</td>
-    <td class="tg-s6z2">-</td>
-    <td class="tg-s6z2">13x</td>
-    <td class="tg-s6z2">+</td>
-    <td class="tg-s6z2">4x</td>
-    <td class="tg-s6z2">-</td>
-    <td style="border-right:1pt solid black;" class="tg-s6z2">2</td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2">x</td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2">-</td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2">2</td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2"></td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2"></td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2"></td>
+    <td class="td-s6z2">3x</td>
+    <td class="td-s6z2">+</td>
+    <td class="td-s6z2">7x</td>
+    <td class="td-s6z2">-</td>
+    <td class="td-s6z2">8x</td>
+    <td class="td-s6z2">-</td>
+    <td class="td-s6z2">13x</td>
+    <td class="td-s6z2">+</td>
+    <td class="td-s6z2">4x</td>
+    <td class="td-s6z2">-</td>
+    <td style="border-right:1pt solid black;" class="td-s6z2">2</td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2">x</td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2">-</td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2">2</td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2"></td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2"></td>
   </tr>
   <tr>
-    <td class="tg-s6z2"></td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2">3x</td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2">+</td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2">0x</td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2">-</td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2">6x</td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td style="border-right:1pt solid black;" class="tg-s6z2"></td>
-    <td class="tg-s6z2">3x</td>
-    <td class="tg-s6z2">+</td>
-    <td class="tg-s6z2">7x</td>
-    <td class="tg-s6z2">-</td>
-    <td class="tg-s6z2">2x</td>
+    <td class="td-s6z2"></td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2">3x</td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2">+</td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2">0x</td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2">-</td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2">6x</td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td style="border-right:1pt solid black;" class="td-s6z2"></td>
+    <td class="td-s6z2">3x</td>
+    <td class="td-s6z2">+</td>
+    <td class="td-s6z2">7x</td>
+    <td class="td-s6z2">-</td>
+    <td class="td-s6z2">2x</td>
   </tr>
   <tr>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2"></td>
-    <td class="tg-s6z2">7x</td>
-    <td class="tg-s6z2">-</td>
-    <td class="tg-s6z2">2x</td>
-    <td class="tg-s6z2">-</td>
-    <td class="tg-s6z2">13x</td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2"></td>
+    <td class="td-s6z2">7x</td>
+    <td class="td-s6z2">-</td>
+    <td class="td-s6z2">2x</td>
+    <td class="td-s6z2">-</td>
+    <td class="td-s6z2">13x</td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
   </tr>
   <tr>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2">7x</td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2">+</td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2">0x</td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2">-</td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2">14x</td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2">7x</td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2">+</td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2">0x</td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2">-</td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2">14x</td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
   </tr>
   <tr>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2"></td>
-    <td class="tg-s6z2">-2x</td>
-    <td class="tg-s6z2">+</td>
-    <td class="tg-s6z2">x</td>
-    <td class="tg-s6z2">+</td>
-    <td class="tg-s6z2">4x</td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2"></td>
+    <td class="td-s6z2">-2x</td>
+    <td class="td-s6z2">+</td>
+    <td class="td-s6z2">x</td>
+    <td class="td-s6z2">+</td>
+    <td class="td-s6z2">4x</td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
   </tr>
   <tr>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2">-2x</td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2">+</td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2">0x</td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2">+</td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2">4x</td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2">-2x</td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2">+</td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2">0x</td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2">+</td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2">4x</td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
   </tr>
   <tr>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2"></td>
-    <td class="tg-s6z2">x</td>
-    <td class="tg-s6z2">+</td>
-    <td class="tg-s6z2">0x</td>
-    <td class="tg-s6z2">-</td>
-    <td class="tg-s6z2">2</td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2"></td>
+    <td class="td-s6z2">x</td>
+    <td class="td-s6z2">+</td>
+    <td class="td-s6z2">0x</td>
+    <td class="td-s6z2">-</td>
+    <td class="td-s6z2">2</td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
   </tr>
   <tr>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2">x</td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2">+</td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2">0x</td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2">-</td>
-    <td style="border-bottom:1pt solid black;" class="tg-s6z2">2</td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2">x</td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2">+</td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2">0x</td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2">-</td>
+    <td style="border-bottom:1pt solid black;" class="td-s6z2">2</td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
   </tr>
   <tr>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2">0</td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2">0</td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
+    <td class="td-s6z2"></td>
   </tr>
 </table>
 
