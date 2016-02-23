@@ -76,46 +76,47 @@
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;border-color:#FAAF00;overflow:hidden;word-break:normal;}
 .tg .tg-baqh{text-align:left;vertical-align:center}
 .tg .tg-yw4l{vertical-align:center}
+.tg .tg-yw4a{text-align:center;vertical-align:center}
 </style>
 <table class="tg">
-  <tr style="border-color:#FAAF00">
+  <tr>
     <th class="tg-yw4l"></th>
     <th class="tg-baqh">$$n = 2k$$</th>
     <th class="tg-baqh">$$n = 2k+1$$</th>
     <th class="tg-baqh">Приклади</th>
   </tr>
   <tr>
-    <td class="tg-yw4l">$$1.$$</td>
+    <td class="tg-yw4a">$$1.$$</td>
     <td class="tg-yw4l">$$(\sqrt[n]{a})^n = a$$</td>
     <td class="tg-yw4l">$$(\sqrt[n]{a})^n = a$$</td>
     <td class="tg-yw4l">$$\sqrt[3]{27} = 3; \sqrt[4]{256} = 4$$</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">$$2.$$</td>
+    <td class="tg-yw4a">$$2.$$</td>
     <td class="tg-yw4l">$$(\sqrt[2k]{a})^{2k} = |a|$$</td>
     <td class="tg-yw4l">$$(\sqrt[2k+1]{a})^{2k+1} = a$$</td>
     <td class="tg-yw4l">$$\sqrt[4]{16} = 2; \sqrt[3]{-64} = -4$$</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">$$3.$$</td>
+    <td class="tg-yw4a">$$3.$$</td>
     <td class="tg-yw4l">$$\sqrt[2k]{-a}$$ <b>не існує!!!</b></td>
     <td class="tg-yw4l">$$\sqrt[2k+1]{-a} = -\sqrt[2k+1]{a}$$</td>
     <td class="tg-yw4l">$$\sqrt[3]{-64} = -\sqrt[3]{64} = -4$$</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">$$4.$$</td>
+    <td class="tg-yw4a">$$4.$$</td>
     <td class="tg-yw4l">$$(\sqrt[n]{a})^m = \sqrt[n]{a^m}$$</td>
     <td class="tg-yw4l">$$(\sqrt[n]{a})^m = \sqrt[n]{a^m}$$</td>
     <td class="tg-yw4l">$$(\sqrt[3]{4}) = \sqrt[3]{256}$$</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">$$5.$$</td>
+    <td class="tg-yw4a">$$5.$$</td>
     <td class="tg-yw4l">$$\sqrt[2k]{ab} = \sqrt[2k]{|a|} \cdot \sqrt[2k]{|b|}$$</td>
     <td class="tg-yw4l">$$\sqrt[2k+1]{ab} = \sqrt[2k+1]{a} \cdot \sqrt[2k+1]{b} $$</td>
     <td class="tg-yw4l">$$\sqrt[3]{54} = \sqrt[3]{2} \cdot \sqrt[3]{27}$$</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">$$6.$$</td>
+    <td class="tg-yw4a">$$6.$$</td>
     <td class="tg-yw4l">$$a\sqrt[2k]{b} = 
     \begin{cases}
     \sqrt[2k]{a^{2k}b}, \thinspace & a \ge 0 \\
@@ -125,13 +126,13 @@
     <td class="tg-yw4l">$$\begin{aligned}2\sqrt[3]{3} & = \sqrt[3]{24} \\ -2\sqrt[4]{5} & = -\sqrt[4]{90}\end{aligned}$$</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">$$7.$$</td>
+    <td class="tg-yw4a">$$7.$$</td>
     <td class="tg-yw4l">$$\sqrt[2k]{a^{2k}b} = |a| \sqrt[2k]{b}$$</td>
     <td class="tg-yw4l">$$\sqrt[2k+1]{a^{2k+1}b} = a \sqrt[2k+1]{b}$$</td>
     <td class="tg-yw4l">$$\sqrt[3]{54} = 3\sqrt[3]{2}$$</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">$$8.$$</td>
+    <td class="tg-yw4a">$$8.$$</td>
     <td class="tg-yw4l">$$\sqrt[n]{\sqrt[k]{a}} = \sqrt[nk]{a} $$</td>
     <td class="tg-yw4l">$$\sqrt[n]{\sqrt[k]{a}} = \sqrt[nk]{a} $$</td>
     <td class="tg-yw4l">$$\sqrt[3]{\sqrt[4]{10}} = \sqrt[12]{10}$$</td>
