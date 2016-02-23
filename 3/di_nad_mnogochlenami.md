@@ -37,17 +37,17 @@ tr {border-color:transparent;border-width:0px !important; background-color: tran
 </style>
 <table class="td" style="border: none;">
   <tr>
-    <td style="border-width: 2px !important; border-bottom:2pt solid !important;" class="td-s6z2"></td>
+    <td width="20" style="border-width: 2px !important; border-bottom:2pt solid !important;" class="td-s6z2"></td>
     <td class="td-s6z2">$$3x^5$$</td>
     <td width="20" class="td-s6z2">$$+$$</td>
     <td class="td-s6z2">$$7x^4$$</td>
-    <td class="td-s6z2">$$-$$</td>
+    <td width="20" class="td-s6z2">$$-$$</td>
     <td class="td-s6z2">$$8x^3$$</td>
-    <td class="td-s6z2">$$-$$</td>
+    <td width="20" class="td-s6z2">$$-$$</td>
     <td class="td-s6z2">$$13x^2$$</td>
-    <td class="td-s6z2">$$+$$</td>
+    <td width="20" class="td-s6z2">$$+$$</td>
     <td class="td-s6z2">$$4x$$</td>
-    <td class="td-s6z2">$$-$$</td>
+    <td width="20" class="td-s6z2">$$-$$</td>
     <td style="border-width: 2px !important; border-right:2pt solid !important;" class="td-s6z2">$$2$$</td>
     <td style="border-width: 2px !important; border-bottom:2pt solid !important;" class="td-s6z2">$$x$$</td>
     <td style="border-width: 2px !important; border-bottom:2pt solid !important;" class="td-s6z2">$$-$$</td>
