@@ -70,43 +70,43 @@
 <div class="space">
 </div>
 
-<!--<style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-yw4l{vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:center}
+.tg .tg-yw4l{vertical-align:center}
 </style>
 <table class="tg">
   <tr>
     <th class="tg-yw4l"></th>
-    <th class="tg-baqh">n = 2k</th>
-    <th class="tg-baqh">n = 2k+1</th>
+    <th class="tg-baqh">$$n = 2k$$</th>
+    <th class="tg-baqh">$$n = 2k+1$$</th>
     <th class="tg-baqh">Приклади</th>
   </tr>
   <tr>
-    <td class="tg-yw4l">1.</td>
-    <td class="tg-yw4l">(a) = a</td>
-    <td class="tg-yw4l">(a) = a</td>
-    <td class="tg-yw4l">27 = 3; 256  = 4</td>
+    <td class="tg-yw4l">$$1.$$</td>
+    <td class="tg-yw4l">$$(\sqrt[n]{a})^n = a$$</td>
+    <td class="tg-yw4l">$$(\sqrt[n]{a})^n = a$$</td>
+    <td class="tg-yw4l">$$\sqrt[3]{27} = 3; \sqrt[4]{256} = 4$$</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">2.</td>
-    <td class="tg-yw4l">(a) = a</td>
-    <td class="tg-yw4l">(a) = a</td>
-    <td class="tg-yw4l">16 = 2; -64 = -4</td>
+    <td class="tg-yw4l">$$2.$$</td>
+    <td class="tg-yw4l">$$(\sqrt[2k]{a})^{2k} = |a|$$</td>
+    <td class="tg-yw4l">$$(\sqrt[2k+1]{a})^{2k+1} = a$$</td>
+    <td class="tg-yw4l">$$\sqrt[4]{16} = 2; \sqrt[3]{-64} = -4$$</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">3.</td>
-    <td class="tg-yw4l">-a не існує!!!</td>
-    <td class="tg-yw4l">(-a) = -(a)</td>
-    <td class="tg-yw4l">(-64) = -(64) = -4</td>
+    <td class="tg-yw4l">$$3.$$</td>
+    <td class="tg-yw4l">$$\sqrt[2k]{-a} \text{не існує!!!}$$</td>
+    <td class="tg-yw4l">$$\sqrt[2k+1]{-a} = -\sqrt[2k+1]{a}$$</td>
+    <td class="tg-yw4l">$$\sqrt[3]{-64} = -\sqrt[3]{64} = -4$$</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">4.</td>
-    <td class="tg-yw4l">(a) = a</td>
-    <td class="tg-yw4l">(a) = a</td>
-    <td class="tg-yw4l">(4) = 256</td>
+    <td class="tg-yw4l">$$4.$$</td>
+    <td class="tg-yw4l">$$(\sqrt[n]{a})^m = \sqrt[n]{a^m}$$</td>
+    <td class="tg-yw4l">$$(\sqrt[n]{a})^m = \sqrt[n]{a^m}$$</td>
+    <td class="tg-yw4l">$$(\sqrt[3]{4}) = \sqrt[3]{256}$$</td>
   </tr>
   <tr>
     <td class="tg-yw4l">5.</td>
@@ -132,7 +132,7 @@
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
-</table>-->
+</table>
 
 <div class="space"><p align="center"><img align="middle" class="image" src="../pics/m211.png"/></p></div>
 
