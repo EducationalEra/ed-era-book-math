@@ -5,8 +5,8 @@
 
 <style type="text/css">
 .tg  {border: 1px solid #FAAF00;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg td{border: 1px solid #FAAF00;font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{border: 1px solid #FAAF00;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-width:1px;overflow:hidden;word-break:normal;}
 .tg .tg-yw4l{vertical-align:center}
 </style>
 <table class="tg">
