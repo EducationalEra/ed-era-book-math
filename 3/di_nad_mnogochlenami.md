@@ -157,7 +157,7 @@ tr {border-color:transparent;border-width:0px !important; background-color: tran
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
     <td class="td-s6z2"></td>
-    <td style="border-width: 2px !important; border-bottom:2pt solid !important;width: 5px !important;" class="td-s6z2"></td>
+    <td style="border-width: 2px !important; border-bottom:2pt solid !important;" class="td-s6z2"></td>
     <td class="td-s6z2">$$x^2$$</td>
     <td class="td-s6z2">$$+$$</td>
     <td class="td-s6z2">$$0x$$</td>
