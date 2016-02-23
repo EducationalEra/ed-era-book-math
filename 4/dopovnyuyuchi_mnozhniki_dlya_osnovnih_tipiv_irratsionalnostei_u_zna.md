@@ -3,7 +3,7 @@
 <p>Перший рядок – доповнюючий множник знаходимо шляхом доповнення до цілого степеня, а наступні три виводимо з формул скороченого множення.</p>
 <div class="space"></div>
 
-<style type="text/css">
+<!--<style type="text/css">
 .tg  {border: 1px solid #FAAF00;border-spacing:0;}
 .tg td{border: 1px solid #FAAF00;font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-width:1px;overflow:hidden;word-break:normal;}
 .tg th{border: 1px solid #FAAF00;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-width:1px;overflow:hidden;word-break:normal;}
@@ -40,7 +40,7 @@
     <td class="tg-yw4l">$$a-b$$</td>
     <td class="tg-yw4l">Формула різниці кубів</td>
   </tr>
-</table>
+</table>-->
 
 <div class="space"><p align="center"><img align="middle" class="image" src="../pics/m212.png"/></p></div>
 
