@@ -71,7 +71,7 @@
    * [Методологiя розв’язання в залежностi вiд парності/непарностi степеня кореня](13/metodologiya_rozvyazannya_v_zalezhnosti_vid_parnosti.md)
    * [Метод iнтервалiв для iррацiональних нерiвностей](13/metod_intervaliv_dlya_irratsionalnih_nerivnostei.md)
    * Нерiвностi з параметрами
-* Показникові рівняння
+* [Показникові рівняння](pokaznikov_rvnyannya.md)
    * Зведення до однiєї основи
    * Винесення множника
    * Рiвняння особливих видiв
