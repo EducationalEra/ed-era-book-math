@@ -72,7 +72,7 @@
    * [Метод iнтервалiв для iррацiональних нерiвностей](13/metod_intervaliv_dlya_irratsionalnih_nerivnostei.md)
    * Нерiвностi з параметрами
 * [Показникові рівняння](pokaznikov_rvnyannya.md)
-   * Вік Землі та скам’янілостей
+   * [Вік Землі та скам’янілостей](vk_zeml_ta_skamyanlostei.md)
    * [Зведення до однiєї основи](zvedennya_do_odni_osnovi.md)
    * Винесення множника
    * Рiвняння особливих видiв
