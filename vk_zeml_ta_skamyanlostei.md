@@ -10,3 +10,4 @@
 різноманітних скам’янілостей та копалин. 
 <p><img src="Ernest_Rutherford_LOC.jpg" width="200" height="200" align="right" 
   vspace="10" hspace="10">
+  
