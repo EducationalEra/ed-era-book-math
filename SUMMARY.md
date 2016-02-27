@@ -73,7 +73,7 @@
    * Нерiвностi з параметрами
 * [Показникові рівняння](pokaznikov_rvnyannya.md)
    * [Вік Землі та скам’янілостей](vk_zeml_ta_skamyanlostei.md)
-   * Показникові рівняння
+   * [Показникові рівняння](pokaznikovi_rvnyannya.md)
    * [Зведення до однiєї основи](zvedennya_do_odni_osnovi.md)
        * Показникові рівняння
    * Винесення множника
