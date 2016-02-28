@@ -91,6 +91,6 @@ $$x^{}_{1,2}=\dfrac{8 ± √4}{2∙5}=\left[ \begin{gathered}
 	\right. $$          
 	$$\left[ \begin{gathered}
 	{(\dfrac{3}{5})}^{x}=(\dfrac{3}{5})^{0} \hfill \\
-	{(\dfrac{3}{5})}^{x}=(3/5)^0 \hfill \\
+	{(\dfrac{3}{5})}^{x}=(\dfrac{3}{5})^0 \hfill \\
 	\end{gathered}
 	\right. $$          
