@@ -113,6 +113,7 @@ $$x^{}_{1,2}=\dfrac{33 ± √{961}}{2∙2}==\dfrac{33 ± 31}{4}=\left[ \begin{ga
 	1/2 \hfill \\
 	16 \hfill \\
 	\end{gathered}
-	\right. $$
+	\right. $$      
+	
 
 
