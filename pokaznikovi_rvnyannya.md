@@ -128,6 +128,18 @@ $$\left[ \begin{gathered}
 	1/x={-1} \hfill \\
 	1/x=4 \hfill \\
 	\end{gathered}
+	\right. $$          
+$$\left[ \begin{gathered}
+	1/x={-1} \hfill \\
+	1/x=4 \hfill \\
+	\end{gathered}
 	\right. $$
+$$\left[ \begin{gathered}
+	1/x={-1} \hfill \\
+	1/x=4 \hfill \\
+	\end{gathered}
+	\right. $$
+	
+	
 
 
