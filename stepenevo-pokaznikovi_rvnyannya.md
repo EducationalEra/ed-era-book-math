@@ -35,4 +35,4 @@ $$x^{}_{1,2}=\dfrac{-4±\sqrt{4}}{2∙1}⇔$$$$\left[ \begin{gathered}
 	\end{gathered}
 	\right. $$          
 	
-Перевіряємо:
+Перевіряємо: $$1^{2-2(-1)}$$
