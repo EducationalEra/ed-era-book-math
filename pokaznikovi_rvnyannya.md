@@ -123,6 +123,7 @@ $$\left[ \begin{gathered}
 	{2}^{1/x}=2^{-1} \hfill \\
 	{2}^{1/x}=2^4 \hfill \\
 	\end{gathered}
-	\right. $$  	
+	\right. $$          
+	
 
 
