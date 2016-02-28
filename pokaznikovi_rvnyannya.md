@@ -115,8 +115,8 @@ $$x^{}_{1,2}=\dfrac{33 ± √{961}}{2∙2}=\dfrac{33 ± 31}{4}=\left[ \begin{gat
 	\end{gathered}
 	\right. $$          
 $$\left[ \begin{gathered}
-	{(2}^{1/x}=(\dfrac{1}{2}) \hfill \\
-	{(\dfrac{3}{5})}^{x}=(\dfrac{3}{5})^1 \hfill \\
+	{2}^{1/x}=(\dfrac{1}{2}) \hfill \\
+	{2}^{1/x}=16 \hfill \\
 	\end{gathered}
 	\right. $$
 
