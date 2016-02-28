@@ -109,11 +109,15 @@ $$2^{\dfrac{2}{x}+1}-33∙2^{\dfrac{1}{x}}+16=0$$
 $$2∙2^{\dfrac{2}{x}}-33∙2^{\dfrac{1}{x}}+16=0$$     
 $$2∙t^2-33∙t+16=0$$     
 $$D=(-33)^2-4∙2∙16=961$$        
-$$x^{}_{1,2}=\dfrac{33 ± √{961}}{2∙2}==\dfrac{33 ± 31}{4}=\left[ \begin{gathered}
+$$x^{}_{1,2}=\dfrac{33 ± √{961}}{2∙2}=\dfrac{33 ± 31}{4}=\left[ \begin{gathered}
 	1/2 \hfill \\
 	16 \hfill \\
 	\end{gathered}
-	\right. $$      
-	
+	\right. $$          
+$$\left[ \begin{gathered}
+	{(2}^{1/x}=(\dfrac{1}{2}) \hfill \\
+	{(\dfrac{3}{5})}^{x}=(\dfrac{3}{5})^1 \hfill \\
+	\end{gathered}
+	\right. $$
 
 
