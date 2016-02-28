@@ -133,7 +133,7 @@ $$\left[ \begin{gathered}
 	1/x={-1} \hfill \\
 	1/x=4 \hfill \\
 	\end{gathered}
-	\right. $$
+	\right. $$      
 $$\left[ \begin{gathered}
 	x={-1} \hfill \\
 	x=1/4 \hfill \\
