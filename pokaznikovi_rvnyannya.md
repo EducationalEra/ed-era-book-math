@@ -118,6 +118,7 @@ $$\left[ \begin{gathered}
 	{2}^{1/x}=(\dfrac{1}{2}) \hfill \\
 	{2}^{1/x}=16 \hfill \\
 	\end{gathered}
-	\right. $$
+	\right. $$          
+	
 
 
