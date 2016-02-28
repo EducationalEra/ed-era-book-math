@@ -138,7 +138,9 @@ $$\left[ \begin{gathered}
 	x={-1} \hfill \\
 	x=1/4 \hfill \\
 	\end{gathered}
-	\right. $$
+	\right. $$      
+	Відповідь: x={-1;1/4}
+	
 	
 	
 
