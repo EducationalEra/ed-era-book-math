@@ -93,4 +93,7 @@ $$x^{}_{1,2}=\dfrac{8 ± √4}{2∙5}=\left[ \begin{gathered}
 	{(\dfrac{3}{5})}^{x}=(\dfrac{3}{5})^{0} \hfill \\
 	{(\dfrac{3}{5})}^{x}=(\dfrac{3}{5})^1 \hfill \\
 	\end{gathered}
-	\right. $$          
+	\right. $$    
+	$$x=0$$; 
+	$$x=1$$     
+Відповідь: 𝑥 = {0; 1}.
