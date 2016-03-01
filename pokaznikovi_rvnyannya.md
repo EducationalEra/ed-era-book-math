@@ -58,6 +58,7 @@
 <td><i class="expl">Ділимо обидві частини на $$4-log^{2}5$$</i></td>
 </tr>
 </table>
+<p><b>Вiдповiдь.</b>$$x = \dfrac{3}{4-log_{2}5}.$$</p>
 </div>
 </div>
 </div>
