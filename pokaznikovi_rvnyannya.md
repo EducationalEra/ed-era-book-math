@@ -54,7 +54,7 @@
 <td><i class="expl">Виносимо $$x$$ за дужки</i></td>
 </tr>
 <tr>
-<td>$$x=\dfrac{3}{$$<i class="expl">{4-log_{2}5}}</i></td>
+<td>$$x=\dfrac{3}{$$<i class="expl">$$4-log_{2}5$$</i>}</td>
 <td><i class="expl">Ділимо обидві частини на $$4-log^{2}5$$</i></td>
 </tr>
 </table>
