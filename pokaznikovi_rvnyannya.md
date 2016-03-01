@@ -46,15 +46,15 @@
 <td><i class="expl">Cпрощуємо</i></td>
 </tr>
 <tr>
-<td>$$4𝑥$$<i class="expl">$$- xlog_{2}5 )$$</i>$$=$$<i class="expl"">$$3$$</i></td>
+<td>$$4𝑥$$<i class="expl">$$- xlog_{2}5 $$</i>$$=$$<i class= "expl"">$$3$$</i></td>
 <td><i class="expl">Залишаємо всі доданки з x в лівій частині</i></td>
 </tr>
 <tr>
-<td>$$x(4- log_{2}5) = 3$$</td>
+<td><i class="expl">$$x$$</i>$$(4- log_{2}5) = 3$$</td>
 <td><i class="expl">Виносимо $$x$$ за дужки</i></td>
 </tr>
 <tr>
-<td>$$x=\dfrac{3}{4-log_{2}5}$$</td>
+<td>$$x=\dfrac{3}{{$$<i class="expl">4-log_{2}5$$</i>$$}}</td>
 <td><i class="expl">Ділимо обидві частини на $$4-log^{2}5$$</i></td>
 </tr>
 </table>
