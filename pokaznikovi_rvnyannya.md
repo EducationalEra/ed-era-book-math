@@ -180,6 +180,7 @@ $$\left[ \begin{gathered}
 <td><i class="expl">Позбуваємось показника степеня</i></td>
 </tr>
 </table>
+
 <p><b>Вiдповiдь.</b> $$x={0;1}.$$
 </div>
 </div>
