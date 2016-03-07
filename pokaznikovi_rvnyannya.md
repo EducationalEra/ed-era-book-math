@@ -179,8 +179,12 @@ $$\left[ \begin{gathered}
 </tr>
 </table>
 
-<p><b>Вiдповiдь.</b> $$x$$ = {0;1}.</p>
+<p><b>Вiдповiдь.</b> $$x$$ = {0;1}.</p> 
+</div>
+</div>
+</div>
 
-</div>
-</div>
-</div>
+<div class="space">
+<div class="task-wrap">
+<span class="task">Приклад</span>
+<div class="task-text">
