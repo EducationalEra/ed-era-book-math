@@ -174,13 +174,11 @@ $$\left[ \begin{gathered}
 </tr> 
 <tr>
 <td>$$x=0,$$ 
-<p>$$x=1$$  </td>
+<p>$$x=1$$</p>  </td>
 <td><i class="expl">Позбуваємось показника степеня</i></td>
 </tr>
 </table>
-
 <p><b>Вiдповiдь.</b> $$x$$ = {0;1}.</p> 
-
 </div>
 </div>
 </div>
@@ -191,7 +189,6 @@ $$\left[ \begin{gathered}
 <div class="task-text">
 <b>Розв’язати рівняння $$4^{\frac{x+2}{2x}}-33\cdot2^{\frac{1}{x}}+16=0$$</b>    
 <p><b><i>Розв’язок</i></b></p>
-
 </div>
 </div>
 </div>
