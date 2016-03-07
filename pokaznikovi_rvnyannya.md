@@ -189,7 +189,7 @@ $$\left[ \begin{gathered}
 <span class="task">Приклад</span>
 <div class="task-text">
 <b>Розв’язати рівняння $$4^{\frac{x+2}{2x}}-33\cdot2^{\frac{1}{x}}+16=0$$</b>    
-<p><b><i>Розв’язок</i></b></p>
+<p><b><i>Розв’язок.<i></b></p>
 <table style="border: none;" class="none">
 <tr>
 <td>$$4^{\frac{x+2}{2x}}-33\cdot2^{\frac{1}{x}}+16=0$$</td>
@@ -242,6 +242,7 @@ $$x_{1,2}=\dfrac{33±\sqrt{961}}{2\cdot2}=\dfrac{33±31}{4}= \left[ \begin{gathe
 	\right.$$</td>
 <td><i class="expl">Позбуваємось показника степеня та розв’язуємо дробово-раціональні рівняння</i></td>
 </tr>
+</table>
 <p><b>Вiдповiдь.</b> $$x$$ = {0;1}.</p>
 </div>
 </div>
