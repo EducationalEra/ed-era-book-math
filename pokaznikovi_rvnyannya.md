@@ -106,7 +106,7 @@
 </tr>
 </table>
          
-<p><b>Вiдповiдь.</b>Відповідь: $$x=\dfrac{1+ 4log^{}_{7}(\dfrac{1}{2})}{5 + log^{}_{7}(\dfrac{1}{2})}$$.
+<p><b>Вiдповiдь.</b> $$x=\dfrac{1+ 4log^{}_{7}(\dfrac{1}{2})}{5 + log^{}_{7}(\dfrac{1}{2})}$$.
 </div>
 </div>
 </div>
@@ -141,33 +141,12 @@ $$5\cdot3^{2x}+3\cdot5^{2x}={8}\cdot3^{x}\cdot5^{x}$$</td>
 <td><i class="expl">Спрощуємо</i></td>
 </tr>
 <tr>
-<td>$$x=\dfrac{1+ 4log^{}_{7}\dfrac{1}{2}}{5 + log^{}_{7}\dfrac{1}{2}}$$</td>
-<td><i class="expl">Робимо заміну $${\left(\dfrac{3}{5}\right)}$$ </i></td>
+<td>$$5t^2+3=8t$$</td>
+<td><i class="expl">Робимо заміну $${\left(\dfrac{3}{5}\right)}^x=t$$ </i></td>
 </tr>
 </table>
-       
-      
-$$5t^2+3=8t$$  ** 
-$$5t^2-8t+3=0$$     
-$$D={(-8)}^2-4∙3∙5=4$$    
-$$x^{}_{1,2}=\dfrac{8 ± √4}{2∙5}=\left[ \begin{gathered}
-	1 \hfill \\
-	3/5 \hfill \\
-	\end{gathered}
-	\right. $$  
-	$$\left[ \begin{gathered}
-	{(\dfrac{3}{5})}^{x}=1 \hfill \\
-	{(\dfrac{3}{5})}^{x}=3/5 \hfill \\
-	\end{gathered}
-	\right. $$          
-	$$\left[ \begin{gathered}
-	{(\dfrac{3}{5})}^{x}=(\dfrac{3}{5})^{0} \hfill \\
-	{(\dfrac{3}{5})}^{x}=(\dfrac{3}{5})^1 \hfill \\
-	\end{gathered}
-	\right. $$    
-	$$x=0$$; 
-	$$x=1$$     
-Відповідь: 𝑥 = {0; 1}.     
+
+     
 
 
 <b>Приклад </b>
