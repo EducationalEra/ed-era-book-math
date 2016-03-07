@@ -189,7 +189,7 @@ $$\left[ \begin{gathered}
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
-<b>Розв’язати рівняння $$4^{\dfrac{x+2}{2x}}-33\cdot2^{\dfrac{1}{x}}+16=0$$</b>    
+<b>Розв’язати рівняння $$4^{\frac{x+2}{2x}}-33\cdot2^{\frac{1}{x}}+16=0$$</b>    
 <p><b><i>Розв’язок</i></b></p>
 
 </div>
