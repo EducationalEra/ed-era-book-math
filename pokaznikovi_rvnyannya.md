@@ -223,6 +223,22 @@ $$x_{1,2}=\dfrac{33±\sqrt{961}}{2\cdot2}=\dfrac{33±31}{4}= \left[ \begin{gathe
 	\right.$$</td>
 <td><i class="expl">Повертаємось до попередньої змінної </i></td>
 </tr>
+<tr>
+<td>$$\left[ \begin{gathered}
+	{2}^{\frac{1}{x}}=2^{-1}, \hfill \\
+	{2}^{\frac{1}{x}}=2^4 \hfill \\
+	\end{gathered}
+	\right.$$</td>
+<td><i class="expl">Зводимо до спільної основи </i></td>
+</tr>
+<tr>
+<td>$$\left[ \begin{gathered}
+	\dfrac{1}{x}=-1, \hfill \\
+	\dfrac{1}{x}=4 \hfill \\
+	\end{gathered}
+	\right.$$</td>
+<td><i class="expl">Позбуваємось показника степеня та розв’язуємо дробово-раціональні рівняння</i></td>
+</tr>
 </div>
 </div>
 </div>
