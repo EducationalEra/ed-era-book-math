@@ -236,9 +236,18 @@ $$x_{1,2}=\dfrac{33±\sqrt{961}}{2\cdot2}=\dfrac{33±31}{4}= \left[ \begin{gathe
 	\dfrac{1}{x}=-1, \hfill \\
 	\dfrac{1}{x}=4 \hfill \\
 	\end{gathered}
+	\right. \Longleftrightarrow \left[ \begin{gathered}
+	x=-1, \hfill \\
+	x=\dfrac{1}{4} \hfill \\
+	\end{gathered}
 	\right.$$</td>
 <td><i class="expl">Позбуваємось показника степеня та розв’язуємо дробово-раціональні рівняння</i></td>
 </tr>
+
+<p><b>Вiдповiдь.</b> $$x$$ = {$$-1;\dfrac{1}{4}$$}.</p> 
+</div>
+</div>
+</div>
 </div>
 </div>
 </div>
