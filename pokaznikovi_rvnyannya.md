@@ -182,9 +182,12 @@ $$\left[ \begin{gathered}
 </table>
 
 <p><b>Вiдповiдь.</b> $$x$$ = {$$0;1$$}$$.$$
+
 </div>
 </div>
 </div>
+
+<p>gfffffffff
 
 <div class="space">
 <div class="task-wrap">
