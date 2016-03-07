@@ -144,8 +144,46 @@ $$5\cdot3^{2x}+3\cdot5^{2x}={8}\cdot3^{x}\cdot5^{x}$$</td>
 <td>$$5t^2+3=8t$$</td>
 <td><i class="expl">Робимо заміну $${\left(\dfrac{3}{5}\right)}^x=t$$ </i></td>
 </tr>
+<tr>
+<td>$$5t^2-8t+3=0$$ </td>
+<td><i class="expl">Перепишем всі доданки з однієї сторони</i></td>
+</tr>
+<tr>
+<td>$$D={(-8)}^2-4\cdot3\cdot5=4$$ 
+$$x^{}_{1,2}=\dfrac{8 ± \sqrt{4}}{2\cdot5}=\left[ \begin{gathered}
+	1, \hfill \\
+	\dfrac{3}{5} \hfill \\
+	\end{gathered}
+	\right. $$  </td>
+<td><i class="expl">Розв’язуємо квадратне рівняння</i></td>
+</tr>
+<tr>
+<td>$$\left[ \begin{gathered}
+	{\left(\dfrac{3}{5}\right)}^{x}=1, \hfill \\
+	{\left(\dfrac{3}{5}\right)}^{x}=\dfrac{3}{5} \hfill \\
+	\end{gathered}
+	\right. $$</td>
+<td><i class="expl">Повертаємось до попередньої змінної</i></td>
+</tr>
+<tr>
+<td>
+$$\left[ \begin{gathered}
+	{\left(\dfrac{3}{5}\right)}^{x}=\left(\dfrac{3}{5}\right)^{0}, \hfill \\
+	{\left(\dfrac{3}{5}\right)}^{x}=\left(\dfrac{3}{5}\right)^1 \hfill \\
+	\end{gathered}
+	\right. $$</td>
+<td><i class="expl">Зводимо до спільної основи</i></td>
+</tr> 
+<tr>
+<td>$$x=0,$$ 
+	$$x=1$$  </td>
+<td><i class="expl">Позбуваємось показника степеня</i></td>
+</tr>
 </table>
-
+<p><b>Вiдповiдь.</b> $$x={0;1}.$$
+</div>
+</div>
+</div>
      
 
 
