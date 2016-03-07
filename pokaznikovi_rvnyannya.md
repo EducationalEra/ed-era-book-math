@@ -114,8 +114,74 @@
 <p>Разом зі зведенням до спільної основи дуже часто користуються <b>методом заміни змінної</b>.
 Рівняння зводять до спільної основи, яку замінюють на іншу змінну. Далі рівняння вже не є показниковим і легко розв’язується. 
 
+<div class="space">
+<div class="task-wrap">
+<span class="task">Приклад</span>
+<div class="task-text">
+<b>Розв’язати рівняння $$5\cdot9^x+3\cdot25^x=\dfrac{8}{15^{-x}}.$$</b>
+<p><b><i>Розв’язок.</i></b></p>
 
-Розв’язати рівняння $$4^{\dfrac{x+2}{2x}}-33∙2^{\dfrac{1}{x}}+16=0$$     
+<table style="border: none;" class="none">
+<tr>
+<td>$$5\cdot9^x+3\cdot25^x=\dfrac{8}{15^{-x}}$$</td>
+<td><i class="expl">Вихідне рівняння</font></i></td>
+</tr>
+<tr>
+<td>$$5\cdot3^{2x}+3\cdot5^{2x}={8}\cdot{15^{x}}$$
+$$5\cdot3^{2x}+3\cdot5^{2x}={8}\cdot3^{x}\cdot5^{x}$$</td>
+<td><i class="expl">Перепишемо в іншому вигляді</i></td>
+</tr>
+<tr>
+<td>$$5\cdot\dfrac{3^{2x}}{5^{2x}}+3\cdot\dfrac{5^{2x}}{5^{2x}}={8}\cdot\dfrac{3^{x}\cdot5^{x}}{5^{2x}}$$</td>
+<td><i class="expl">Ділимо обидві частини на $$5^{2x}$$</i></td>
+</tr>
+<tr>
+<td>$$5\cdot{\left(\dfrac{3}{5}\right)}^{2x}+3={8}\cdot{\left(\dfrac{3}{5}\right)}^{x}$$</td>
+<td><i class="expl">Спрощуємо</i></td>
+</tr>
+<tr>
+<td>$$5t^2+3=8t$$</td>
+<td><i class="expl">Робимо заміну $${\left(\dfrac{3}{5}\right)}^x=t$$ </i></td>
+</tr>
+<tr>
+<td>$$5t^2-8t+3=0$$ </td>
+<td><i class="expl">Перепишем всі доданки з однієї сторони</i></td>
+</tr>
+<tr>
+<td>$$D={(-8)}^2-4\cdot3\cdot5=4$$ 
+<p>$$x^{}_{1,2}=\dfrac{8 ± \sqrt{4}}{2\cdot5}=\left[ \begin{gathered}
+	1, \hfill \\
+	\dfrac{3}{5} \hfill \\
+	\end{gathered}
+	\right. $$  </td>
+<td><i class="expl">Розв’язуємо квадратне рівняння</i></td>
+</tr>
+<tr>
+<td>$$\left[ \begin{gathered}
+	{\left(\dfrac{3}{5}\right)}^{x}=1, \hfill \\
+	{\left(\dfrac{3}{5}\right)}^{x}=\dfrac{3}{5} \hfill \\
+	\end{gathered}
+	\right. $$</td>
+<td><i class="expl">Повертаємось до попередньої змінної</i></td>
+</tr>
+<tr>
+<td>
+$$\left[ \begin{gathered}
+	{\left(\dfrac{3}{5}\right)}^{x}=\left(\dfrac{3}{5}\right)^{0}, \hfill \\
+	{\left(\dfrac{3}{5}\right)}^{x}=\left(\dfrac{3}{5}\right)^1 \hfill \\
+	\end{gathered}
+	\right. $$</td>
+<td><i class="expl">Зводимо до спільної основи</i></td>
+</tr> 
+<tr>
+<td>$$x=0,$$ 
+<p>$$x=1$$  </td>
+<td><i class="expl">Позбуваємось показника степеня</i></td>
+</tr>
+</table>
+
+<p><b>Вiдповiдь.</b> 
+<p>Розв’язати рівняння $$4^{\dfrac{x+2}{2x}}-33∙2^{\dfrac{1}{x}}+16=0$$     
 Розв’язок       
 $$4^{\dfrac{x+2}{2x}}-33∙2^{\dfrac{1}{x}}+16=0$$        
 $$2^{\dfrac{x+2}{x}}-33∙2^{\dfrac{1}{x}}+16=0$$     
