@@ -226,10 +226,7 @@ $$\left[ \begin{gathered}
 	\end{gathered}
 	\right. $$      
 Відповідь: x={-1;1/4}
-</div>
-</div>
-</div>
-	
+
 	
 
 
