@@ -104,12 +104,7 @@
 <td>$$x=\dfrac{1+ 4log^{}_{7}\dfrac{1}{2}}{5 + log^{}_{7}\dfrac{1}{2}}$$</td>
 <td><i class="expl">Ділимо обидві частини на $$5+log^{}_{7}\dfrac{1}{2}$$</i></td>
 </tr>
-</table>
-
-</div>
-</div>
-</div>
-         
+</table>        
 <p><b>Вiдповiдь.</b> $$x=\dfrac{1+ 4log^{}_{7}(\dfrac{1}{2})}{5 + log^{}_{7}(\dfrac{1}{2})}$$.
 </div>
 </div>
@@ -184,7 +179,11 @@ $$\left[ \begin{gathered}
 </tr>
 </table>
 
-<p><b>Вiдповiдь.</b> $$x$$ = {0;1}.
+<p><b>Вiдповiдь.</b> $$x$$ = {0;1}.</p>
+
+</div>
+</div>
+</div>
 
 <p>Розв’язати рівняння $$4^{\dfrac{x+2}{2x}}-33∙2^{\dfrac{1}{x}}+16=0$$     
 Розв’язок       
@@ -225,3 +224,5 @@ $$\left[ \begin{gathered}
 	\end{gathered}
 	\right. $$      
 Відповідь: x={-1;1/4}
+
+	
