@@ -204,9 +204,25 @@ $$2\cdot2^{\frac{2}{x}}-33\cdot2^{\frac{1}{x}}+16=0$$</td>
 </tr>
 <tr>
 <td>$$2\cdot t^2-33\cdot t+16=0$$</td>
-<td><i class="expl">Робимо заміну $${\left(\dfrac{3}{5}\right)}^x=t$$ </i></td>
+<td><i class="expl">Робимо заміну $$2^{\frac{1}{x}}=t$$ </i></td>
 </tr>
-
+<tr>
+<td>$$D=(-33)^2-4\cdot2\cdot16=961$$
+$$x_{1,2}=\dfrac{33±\sqrt{961}}{2\cdot2}=\dfrac{33±31}{4}= \left[ \begin{gathered}
+	\dfrac{1}{2}, \hfill \\
+	16 \hfill \\
+	\end{gathered}
+	\right. $$</td>
+<td><i class="expl">Розв’язуємо квадратне рівняння </i></td>
+</tr>
+<tr>
+<td>$$\left[ \begin{gathered}
+	{2}^{\frac{1}{x}}=\dfrac{1}{2}, \hfill \\
+	{2}^{\frac{1}{x}}=16 \hfill \\
+	\end{gathered}
+	\right.$$</td>
+<td><i class="expl">Повертаємось до попередньої змінної </i></td>
+</tr>
 </div>
 </div>
 </div>
