@@ -182,11 +182,6 @@ $$\left[ \begin{gathered}
 
 <p><b>Вiдповiдь.</b> $$x$$ = {0;1}.
 
-
-<div class="space">
-<div class="task-wrap">
-<span class="task">Приклад</span>
-<div class="task-text">
 <p>Розв’язати рівняння $$4^{\dfrac{x+2}{2x}}-33∙2^{\dfrac{1}{x}}+16=0$$     
 Розв’язок       
 $$4^{\dfrac{x+2}{2x}}-33∙2^{\dfrac{1}{x}}+16=0$$        
@@ -226,7 +221,3 @@ $$\left[ \begin{gathered}
 	\end{gathered}
 	\right. $$      
 Відповідь: x={-1;1/4}
-
-	
-
-
