@@ -248,6 +248,3 @@ $$x_{1,2}=\dfrac{33±\sqrt{961}}{2\cdot2}=\dfrac{33±31}{4}= \left[ \begin{gathe
 </div>
 </div>
 </div>
-</div>
-</div>
-</div>
