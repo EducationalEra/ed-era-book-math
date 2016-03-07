@@ -181,6 +181,9 @@ $$\left[ \begin{gathered}
 
 <p><b>Вiдповiдь.</b> $$x$$ = {0;1}.</p> 
 
+</div>
+</div>
+</div>
 
 <div class="space">
 <div class="task-wrap">
