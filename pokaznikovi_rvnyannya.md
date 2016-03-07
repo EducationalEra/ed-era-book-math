@@ -190,6 +190,23 @@ $$\left[ \begin{gathered}
 <div class="task-text">
 <b>Розв’язати рівняння $$4^{\frac{x+2}{2x}}-33\cdot2^{\frac{1}{x}}+16=0$$</b>    
 <p><b><i>Розв’язок</i></b></p>
+
+<table style="border: none;" class="none">
+<tr>
+<td>$$4^{\frac{x+2}{2x}}-33\cdot2^{\frac{1}{x}}+16=0$$</td>
+<td><i class="expl">Вихідне рівняння</font></i></td>
+</tr>
+<tr>
+<td>$$2^{\frac{x+2}{x}}-33\cdot2^{\frac{1}{x}}+16=0$$
+$$2^{\frac{2}{x}+1}-33\cdot2^{\frac{1}{x}}+16=0$$
+$$2\cdot2^{\frac{2}{x}}-33\cdot2^{\frac{1}{x}}+16=0$$</td>
+<td><i class="expl">Перепишемо в іншому вигляді</i></td>
+</tr>
+<tr>
+<td>$$2\cdot t^2-33\cdot t+16=0$$</td>
+<td><i class="expl">Робимо заміну $${\left(\dfrac{3}{5}\right)}^x=t$$ </i></td>
+</tr>
+
 </div>
 </div>
 </div>
