@@ -182,10 +182,7 @@ $$\left[ \begin{gathered}
 
 <p><b>Вiдповiдь.</b> $$x$$ = {0;1}.
 
-</div>
-</div>
-</div>
-op
+
 <div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
