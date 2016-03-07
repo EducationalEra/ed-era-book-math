@@ -105,6 +105,10 @@
 <td><i class="expl">Ділимо обидві частини на $$5+log^{}_{7}\dfrac{1}{2}$$</i></td>
 </tr>
 </table>
+
+</div>
+</div>
+</div>
          
 <p><b>Вiдповiдь.</b> $$x=\dfrac{1+ 4log^{}_{7}(\dfrac{1}{2})}{5 + log^{}_{7}(\dfrac{1}{2})}$$.
 </div>
