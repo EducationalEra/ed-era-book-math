@@ -150,7 +150,7 @@ $$5\cdot3^{2x}+3\cdot5^{2x}={8}\cdot3^{x}\cdot5^{x}$$</td>
 </tr>
 <tr>
 <td>$$D={(-8)}^2-4\cdot3\cdot5=4$$ 
-$$x^{}_{1,2}=\dfrac{8 ± \sqrt{4}}{2\cdot5}=\left[ \begin{gathered}
+<p>$$x^{}_{1,2}=\dfrac{8 ± \sqrt{4}}{2\cdot5}=\left[ \begin{gathered}
 	1, \hfill \\
 	\dfrac{3}{5} \hfill \\
 	\end{gathered}
@@ -181,8 +181,10 @@ $$\left[ \begin{gathered}
 </tr>
 </table>
 
-<p><b>Вiдповiдь.</b> $$x={0;1}.$$
-
+<p><b>Вiдповiдь.</b> $$x$$ = {$$0;1$$}$$.$$
+</div>
+</div>
+</div>
 
 <div class="space">
 <div class="task-wrap">
@@ -226,8 +228,10 @@ $$\left[ \begin{gathered}
 	x=1/4 \hfill \\
 	\end{gathered}
 	\right. $$      
-	Відповідь: x={-1;1/4}
-	
+Відповідь: x={-1;1/4}
+</div>
+</div>
+</div>
 	
 	
 
