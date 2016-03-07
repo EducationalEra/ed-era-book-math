@@ -176,20 +176,18 @@ $$\left[ \begin{gathered}
 </tr> 
 <tr>
 <td>$$x=0,$$ 
-	$$x=1$$  </td>
+<p>$$x=1$$  </td>
 <td><i class="expl">Позбуваємось показника степеня</i></td>
 </tr>
 </table>
 
 <p><b>Вiдповiдь.</b> $$x={0;1}.$$
-</div>
-</div>
-</div>
-     
 
 
-<b>Приклад </b>
-
+<div class="space">
+<div class="task-wrap">
+<span class="task">Приклад</span>
+<div class="task-text">
 Розв’язати рівняння $$4^{\dfrac{x+2}{2x}}-33∙2^{\dfrac{1}{x}}+16=0$$     
 Розв’язок       
 $$4^{\dfrac{x+2}{2x}}-33∙2^{\dfrac{1}{x}}+16=0$$        
