@@ -148,7 +148,7 @@ $$5\cdot3^{2x}+3\cdot5^{2x}={8}\cdot3^{x}\cdot5^{x}$$</td>
 </tr>
 <tr>
 <td>$$D={(-8)}^2-4\cdot3\cdot5=4$$ 
-<p>$$x^{}_{1,2}=\dfrac{8 ± \sqrt{4}}{2\cdot5}=\left[ \begin{gathered}
+<p>$$x^{}_{1,2}=\dfrac{8 \pm \sqrt{4}}{2\cdot5}=\left[ \begin{gathered}
 	1, \hfill \\
 	\dfrac{3}{5} \hfill \\
 	\end{gathered}
@@ -179,7 +179,7 @@ $$\left[ \begin{gathered}
 </tr>
 </table>
 
-<p><b>Вiдповiдь.</b> $$x$$ = {0;1}.</p> 
+<p><b>Вiдповiдь.</b> $$x = \{0;1\}$$.</p> 
 </div>
 </div>
 </div>
@@ -207,7 +207,7 @@ $$2\cdot2^{\frac{2}{x}}-33\cdot2^{\frac{1}{x}}+16=0$$</td>
 </tr>
 <tr>
 <td>$$D=(-33)^2-4\cdot2\cdot16=961$$
-$$x_{1,2}=\dfrac{33±\sqrt{961}}{2\cdot2}=\dfrac{33±31}{4}= \left[ \begin{gathered}
+$$x_{1,2}=\dfrac{33\pm\sqrt{961}}{2\cdot2}=\dfrac{33\pm31}{4}= \left[ \begin{gathered}
 	\dfrac{1}{2}, \hfill \\
 	16 \hfill \\
 	\end{gathered}
