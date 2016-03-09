@@ -33,14 +33,16 @@
 <li>Розв’яжемо рівняння $$x^2+4x+4=1$$:     
 <p align="center">$$x^2+4x+4=1\Longleftrightarrow x^2+4x+3=0$$</p>     
 <p align="center">$$D=4^2-4\cdot1\cdot3=4>0$$</p>
-$$x^{}_{1,2}=\dfrac{-4±\sqrt{4}}{2∙1}⇔$$$$\left[ \begin{gathered}
-	x=-1 \hfill \\
+<p align="center">$$x^{}_{1,2}=\dfrac{-4\pm\sqrt{4}}{2\cdot1}\Longleftrightarrow$$$$\left[ \begin{gathered}
+	x=-1, \hfill \\
 	x=-3 \hfill \\
 	\end{gathered}
-	\right. $$          
+	\right. $$</p>       
 	
-Перевіряємо: $$1^{2-2(-1)}=1^4=1;1^{2-2(-3)}=1^8=1$$.       
-В результаті ми отримали три корені: $$x∈$${-3;-1;2/3}.     
-Відповідь: $$x∈$${-3;-1;2/3}. 
-
+Перевіряємо: $$1^{2-2(-1)}=1^4=1;1^{2-2(-3)}=1^8=1$$.</li>     
+<p>В результаті ми отримали три корені: $$x \in \left\{-3;-1;\dfrac{2}{3}\right \}$$.</p>    
+<p><b>Вiдповiдь.</b>$$x \in \left\{-3;-1;\dfrac{2}{3}\right \}$$</p>
+</div>
+</div>
+</div>
 
