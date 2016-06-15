@@ -69,7 +69,7 @@
         <answer>так</answer>
         <answer correct>ні</answer>
     <explanation>
-    Бо чило не закінчується на $$0$$ чи $$5$$.
+    Бо число не закінчується на $$0$$ чи $$5$$.
     </explanation>
      </question>
     <question text="">

@@ -2,15 +2,15 @@
 
 <ul>
 <li>
-[Вік Землі та скам’янілостей](http://math.ed-era.com/vk_zeml_ta_skamyanlostei.html)
+[Вік Землі та скам’янілостей](vk_zeml_ta_skamyanlostei.md)
 </li>
 <li>
-[Показникові рівняння](http://math.ed-era.com/pokaznikovi_rvnyannya.html)
+[Показникові рівняння](pokaznikovi_rvnyannya.md)
 </li>
 <li>
-[Показникові нерівності](http://math.ed-era.com/pokaznikovi_nervnosti.html)
+[Показникові нерівності](pokaznikovi_nervnosti.md)
 </li>
 <li>
-[Степенево-показникові рівняння](http://math.ed-era.com/stepenevo-pokaznikovi_rvnyannya.html)
+[Степенево-показникові рівняння](stepenevo-pokaznikovi_rvnyannya.md)
 </li>
 </ul>

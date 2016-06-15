@@ -60,19 +60,34 @@
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
-Обчислити НСД $$(504, 180)$$
+
+<p>Обчислити НСД $$(504, 180)$$</p>
+
 <p>
-<b><i>Розв’язок</i></b>.</p>
-<p>
-$$504 = 2 \cdot 2 \cdot 2 \cdot 3 \cdot 3 \cdot 7 = 2^3 \cdot 3^2 \cdot 7;$$</p>
-<p>
-$$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
-<p>Виписуємо найменшi степенi спiльних множникiв та перемножимо:</p>
-<p>НСД $$(504,180) = 2^2 \cdot 3^2 = 6^2.$$</p>
-<b>Вiдповiдь.</b> $$36.$$
+<ul class="nav-tab" id="mytab">
+<button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+<button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+<button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+
+<div id="mytab" class="tab-content">
+  <div class="tab-pane" id="decision">
+    <p>$$504 = 2 \cdot 2 \cdot 2 \cdot 3 \cdot 3 \cdot 7 = 2^3 \cdot 3^2 \cdot 7;$$</p>
+    <p>$$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
+    <p>Виписуємо найменшi степенi спiльних множникiв та перемножимо:</p>
+    <p>НСД $$(504,180) = 2^2 \cdot 3^2 = 6^2 = 36.$$</p>
+  </div>
+  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b> $$36$$</p></div>
+  <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
 </div>
+
+
+<br>
+
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
@@ -88,7 +103,7 @@ $$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
     <p>Виписуємо найменшi степенi спiльних множникiв та перемножимо:</p>
     <p>НСД $$(460,280) = 2^2 \cdot 5^1 = 20.$$</p>
     </explanation>
-        </question>
+    </question>
      <question text="">
         <p>Який НСД чисел $$16$$, $$20$$ і $$28$$?</p>
         <answer>$$2$$</answer>
@@ -98,8 +113,8 @@ $$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
     <explanation>
     <p>Запишемо розклад даних чисел на простi множники:</p>
     <p>$$16=2\cdot2\cdot2\cdot2$$</p>
-    <p>$$20=2\cdot2\cdot2\cdot5$$</p>
-    <p>$$28=2\cdot2\cdot2\cdot7$$</p>
+    <p>$$20=2\cdot2\cdot5$$</p>
+    <p>$$28=2\cdot2\cdot7$$</p>
     <p>Виписуємо найменшi степенi спiльних множникiв та перемножимо:</p>
     <p>НСД $$(16,20,28) = 2^2 = 4.$$</p>
     </explanation>
@@ -130,23 +145,39 @@ $$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
 </div>
 </div>
 
+
 <div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
-Обчислимо НСК $$(504, 180)$$
+
+<p>Обчислимо НСК $$(504, 180)$$</p>
+
 <p>
-<b><i>Розв’язок</i></b>.</p>
-<p>
-$$504 = 2 \cdot 2 \cdot 2 \cdot 3 \cdot 3 \cdot 7 = 2^3 \cdot 3^2 \cdot 7;$$</p>
-<p>
-$$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
+<ul class="nav-tab" id="pr1">
+<button class="btn" data-target="#decision1" data-toggle="tab">Розв’язок</button>
+<button class="btn" data-target="#answer1" data-toggle="tab">Вiдповiдь</button>
+<button class="btn" data-target="#hide1" data-toggle="tab">Приховати</button>
+</ul>
+
+<div id="pr1" class="tab-content">
+  <div class="tab-pane" id="decision1">
+<p>$$504 = 2 \cdot 2 \cdot 2 \cdot 3 \cdot 3 \cdot 7 = 2^3 \cdot 3^2 \cdot 7;$$</p>
+<p>$$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
 <p>Виписуємо найбiльшi степенi всiх множникiв та перемножимо:</p>
 <p>НСК $$(504,180) = 2^3 \cdot 3^2 \cdot 5 \cdot 7 = 2520.$$</p>
-<b>Вiдповiдь.</b> $$2520.$$
+  </div>
+  <div class="tab-pane" id="answer1"><p><b>Вiдповiдь.</b> $$2520.$$</p></div>
+  <div class="tab-pane" id="hide1"></div>
+</div>
+</p>
+
 </div>
 </div>
 </div>
+
+<br>
+
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
