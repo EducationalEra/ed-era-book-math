@@ -18,6 +18,7 @@
 <div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
+</div>
 <div class="task-text">
 
 <p>Звільнитися від ірраціональності у знаменниках виразу $$\dfrac{1}{\sqrt7}+\dfrac{25}{\sqrt[3]{10}}.$$</p>
@@ -43,7 +44,7 @@
 
 
 
-</div>
+
 </div>
 
 
