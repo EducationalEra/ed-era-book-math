@@ -76,9 +76,9 @@
 
 <p>
 <ul class="nav-tab" id="pr1">
-<button class="btn" data-target="#decision1" data-toggle="tab">Розв’язок</button>
-<button class="btn" data-target="#answer1" data-toggle="tab">Вiдповiдь</button>
-<button class="btn" data-target="#hide1" data-toggle="tab">Приховати</button>
+<button class="btn" data-target="#decision1" data-toggle="pill">Розв’язок</button>
+<button class="btn" data-target="#answer1" data-toggle="pill">Вiдповiдь</button>
+<button class="btn" data-target="#hide1" data-toggle="pill">Приховати</button>
 </ul>
 
 <div id="pr1" class="tab-content">
@@ -104,7 +104,6 @@
 	x=-5;\\
 	x=6.
 	\end{cases}$$</p>
-
   </div>
   <div class="tab-pane" id="answer1"><p><b>Вiдповiдь.</b>$$\begin{cases}
 	x=-5;\\
