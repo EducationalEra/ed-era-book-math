@@ -64,16 +64,16 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Скільки коренів має рівняння $$x+3=0$$?</p>
-        <answer correct>$$1$$</answer>
-        <answer>$$2$$</answer>
-        <answer>$$3$$</answer>
-        <answer>$$4$$</answer>
+        <answer correct> $$1$$</answer>
+        <answer> $$2$$</answer>
+        <answer> $$3$$</answer>
+        <answer> $$4$$</answer>
         </question>
     <question text="">
     <p>Скільки коренів має рівняння $$(x+3)(x+3)(x-2)(x+5)=0$$?</p>
-        <answer>$$1$$</answer>
-        <answer>$$2$$</answer>
-        <answer correct>$$3$$</answer>
-        <answer>$$4$$</answer>
+        <answer> $$1$$</answer>
+        <answer> $$2$$</answer>
+        <answer correct> $$3$$</answer>
+        <answer> $$4$$</answer>
         </question>
 </quiz>

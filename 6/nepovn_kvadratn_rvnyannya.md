@@ -37,10 +37,10 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Розв'язати рівняння: $$x^2-1=0$$</p>
-        <answer correct>$$x=\pm1$$</answer>
-        <answer>$$x=\pm2$$</answer>
-        <answer>$$x=\pm3$$</answer>
-        <answer>$$x=0$$</answer>
+        <answer correct> $$x=\pm1$$</answer>
+        <answer> $$x=\pm2$$</answer>
+        <answer> $$x=\pm3$$</answer>
+        <answer> $$x=0$$</answer>
         <explanation>
         <p>Додамо до обох частин рівняння $$1$$:</p>
         <p>$$x^2-1+1=0+1$$</p>
@@ -52,10 +52,10 @@
         </question>
     <question text="">
     <p>Розв'язати рівняння: $$x^2-9=0$$</p>
-        <answer>$$x=\pm1$$</answer>
-        <answer>$$x=\pm2$$</answer>
-        <answer correct>$$x=\pm3$$</answer>
-        <answer>$$x=0$$</answer>
+        <answer> $$x=\pm1$$</answer>
+        <answer> $$x=\pm2$$</answer>
+        <answer correct> $$x=\pm3$$</answer>
+        <answer> $$x=0$$</answer>
         <explanation>
         <p>Додамо до обох частин рівняння $$9$$:</p>
         <p>$$x^2-9+9=0+9$$</p>

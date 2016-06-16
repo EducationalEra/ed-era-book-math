@@ -37,10 +37,10 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Розв'язати рівняння: $$2x+3=-x$$</p>
-        <answer correct>$$x=-1$$</answer>
-        <answer>$$x=1$$</answer>
-        <answer>$$x=3$$</answer>
-        <answer>$$x=-3$$</answer>
+        <answer correct> $$x=-1$$</answer>
+        <answer> $$x=1$$</answer>
+        <answer> $$x=3$$</answer>
+        <answer> $$x=-3$$</answer>
         <explanation>
         <p>Додамо до обох частин рівняння $$x$$:</p>
         <p>$$2x+3+x=-x+x$$</p>

@@ -92,20 +92,75 @@
 <div class="task-text">
 <ol>
 <li>Розв’язати рівняння: $$x^2 - 5x + 6 = 0$$.</li>
-<p><b><i>Розв'язок.</i></b> Шукаємо дискримінант: $$D = (-5)^2 - 4\cdot1\cdot6 = 25 - 24 = 1 > 0$$, отже рівняння має два дійсних корені:</p>
+
+
+<p>
+<ul class="nav-tab" id="mytab">
+    <button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+    <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+    <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+    <div class="tab-pane" id="decision">
+<p><b><i>Розв'язок.</i></b> 
+Шукаємо дискримінант: $$D = (-5)^2 - 4\cdot1\cdot6 = 25 - 24 = 1 > 0$$, отже рівняння має два дійсних корені:</p>
 <p align="center">$$x_1 = \dfrac{5 + \sqrt{1}}{2} = 3; x_2 = \dfrac{5 - \sqrt{1}}{2} = 2.$$</p>
+    </div>
+    <div class="tab-pane" id="answer"> 
 <p><b>Відповідь.<b>$$x_1 = 3, x_2 = 2.$$</p>
+    </div>
+    <div class="tab-pane" id="hide"></div>
+</div>
+</p>
+
+
 <li>Розв’язати рівняння: $$x^2 + 4x + 4 = 0$$.</li>
-<p><b><i>Розв'язок.</i></b> Шукаємо дискримінант: $$D = (4)^2 - 4\cdot1\cdot4 = 16 - 16 = 0$$, отже, рівняння має один дійсний корінь:</p>
+
+<p>
+<ul class="nav-tab" id="pr1">
+<button class="btn" data-target="#decision1" data-toggle="tab">Розв’язок</button>
+<button class="btn" data-target="#answer1" data-toggle="tab">Вiдповiдь</button>
+<button class="btn" data-target="#hide1" data-toggle="tab">Приховати</button>
+</ul>
+
+<div id="pr1" class="tab-content">
+  <div class="tab-pane" id="decision1">
+<p><b><i>Розв'язок.</i></b>
+Шукаємо дискримінант: $$D = (4)^2 - 4\cdot1\cdot4 = 16 - 16 = 0$$, отже, рівняння має один дійсний корінь:</p>
 <p align="center">$$x = \dfrac{-4}{2\cdot1} = -2.$$</p>
+    </div>
+  <div class="tab-pane" id="answer1"> 
 <p><b>Відповідь.<b>$$x = -2.$$</p>
+    </div>
+  <div class="tab-pane" id="hide1"></div>
+</div>
+</p>
+
 <li>Розв’язати рівняння: $$3x^2 + 2x + 1 = 0$$.</li>
-<p><b><i>Розв'язок.</i></b> Шукаємо дискримінант: $$D = (2)^2 - 4\cdot3\cdot1 = 4 - 12 = -8 < 0$$, отже, рівняння не має дійсних коренів.</p>
+
+<p>
+<ul class="nav-tab" id="pr2">
+<button class="btn" data-target="#decision2" data-toggle="tab">Розв’язок</button>
+<button class="btn" data-target="#answer2" data-toggle="tab">Вiдповiдь</button>
+<button class="btn" data-target="#hide2" data-toggle="tab">Приховати</button>
+</ul>
+
+<div id="pr2" class="tab-content">
+    <div class="tab-pane" id="decision2">
+<p><b><i>Розв'язок.</i></b>
+Шукаємо дискримінант: $$D = (2)^2 - 4\cdot3\cdot1 = 4 - 12 = -8 < 0$$, отже, рівняння не має дійсних коренів.</p>
+    </div>
+    <div class="tab-pane" id="answer2"> 
 <p><b>Відповідь.<b>$$x \in \emptyset.$$</p>
+    </div>
+  <div class="tab-pane" id="hide2"></div>
+</div>
+</p>
 </ol>
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question  multiple>
