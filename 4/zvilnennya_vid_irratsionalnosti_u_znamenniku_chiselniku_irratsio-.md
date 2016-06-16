@@ -13,43 +13,16 @@
 <div class="popup">
 </div>
 
+
+
 <div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
 
-<p>Обчислимо НСК $$(504, 180)$$</p>
-
+<p>Звільнитися від ірраціональності у знаменниках виразу $$\dfrac{1}{\sqrt7}+\dfrac{25}{\sqrt[3]{10}}.$$</p>
+</div>
 <p>
-<ul class="nav-tab" id="pr1">
-<button class="btn" data-target="#decision1" data-toggle="tab">Розв’язок</button>
-<button class="btn" data-target="#answer1" data-toggle="tab">Вiдповiдь</button>
-<button class="btn" data-target="#hide1" data-toggle="tab">Приховати</button>
-</ul>
-
-<div id="pr1" class="tab-content">
-  <div class="tab-pane" id="decision1">
-<p>$$504 = 2 \cdot 2 \cdot 2 \cdot 3 \cdot 3 \cdot 7 = 2^3 \cdot 3^2 \cdot 7;$$</p>
-<p>$$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
-<p>Виписуємо найбiльшi степенi всiх множникiв та перемножимо:</p>
-<p>НСК $$(504,180) = 2^3 \cdot 3^2 \cdot 5 \cdot 7 = 2520.$$</p>
-  </div>
-  <div class="tab-pane" id="answer1"><p><b>Вiдповiдь.</b> $$2520.$$</p></div>
-  <div class="tab-pane" id="hide1"></div>
-</div>
-</p>
-
-</div>
-</div>
-</div>
-
-
-<div class="space">
-<div class="task-wrap">
-<span class="task">Приклад</span>
-<div class="task-text">
-<p>Звільнитися від ірраціональності у знаменниках виразу $$\dfrac{1}{\sqrt7}+\dfrac{25}{\sqrt[3]{10}}.$$
-
 <ul class="nav-tab" id="mytab">
 <button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
 <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
@@ -67,7 +40,7 @@
 
 </p>
 
-</div>
+
 </div>
 </div>
 
