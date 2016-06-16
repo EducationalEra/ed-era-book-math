@@ -13,7 +13,7 @@
 <div class="popup">
 </div>
 
-<p><div class="space">
+<div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
@@ -33,7 +33,7 @@
 <p align="center">$$\dfrac{1}{\sqrt7}+\dfrac{25}{\sqrt[3]{10}}=\dfrac{1\cdot\sqrt7}{\sqrt7\cdot\sqrt7}+\dfrac{25\cdot\sqrt[3]{10^2}}{\sqrt[3]{10}\cdot\sqrt[3]{10^2}}=\dfrac{\sqrt7}{7}+\dfrac{5\sqrt[3]{10^2}}{10}.$$</p>
 
   </div>
-  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b>$$\dfrac{\sqrt7}{7}+\dfrac{5\sqrt[3]{10^2}}{10}.$$</p> </div>
+  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b> $$\dfrac{\sqrt7}{7}+\dfrac{5\sqrt[3]{10^2}}{10}.$$</p> </div>
   <div class="tab-pane" id="hide"></div>
 </div>
 </p>
@@ -41,27 +41,27 @@
 </div>
 </div>
 </div>
-</p>
+
 
 <div class="space"></div>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Звільніться від ірраціональності у знаменнику дробу: $$\dfrac{1}{\sqrt{7}-2}$$</p>
-        <answer>$$\dfrac{-\sqrt{7}-2}{4}$$</answer>
-        <answer correct>$$\dfrac{\sqrt{7}+2}{3}$$</answer>
-        <answer>$$\dfrac{\sqrt{7}+2}{2}$$</answer>
-        <answer>$$1$$</answer>
+        <answer> $$\dfrac{-\sqrt{7}-2}{4}$$</answer>
+        <answer correct> $$\dfrac{\sqrt{7}+2}{3}$$</answer>
+        <answer> $$\dfrac{\sqrt{7}+2}{2}$$</answer>
+        <answer> $$1$$</answer>
         <explanation>
         Домножимо знаменник дробу на доповнюючий множник: $$\dfrac{\sqrt{7}+2}{(\sqrt{7}-2)(\sqrt{7}+2)}=\dfrac{\sqrt{7}+2}{3}.$$
         </explanation>
     </question>
     <question text="">
         <p>Звільніться від ірраціональності у знаменнику дробу: $$\dfrac{14}{\sqrt[5]{(x^3+1)^2}}$$</p>
-        <answer correct>$$\dfrac{14\sqrt[5]{(x^3+1)^3}}{x^3+1}$$</answer>
-        <answer>$$\dfrac{14\sqrt[5]{(x^3+1)^2}}{x^3+1}$$</answer>
-        <answer>$$\dfrac{14\sqrt[3]{(x^3+1)^3}}{x^3+1}$$</answer>
-        <answer>$$\dfrac{14\sqrt[5]{(x^3+1)^4}}{x^3+1}$$</answer>
+        <answer correct> $$\dfrac{14\sqrt[5]{(x^3+1)^3}}{x^3+1}$$</answer>
+        <answer> $$\dfrac{14\sqrt[5]{(x^3+1)^2}}{x^3+1}$$</answer>
+        <answer> $$\dfrac{14\sqrt[3]{(x^3+1)^3}}{x^3+1}$$</answer>
+        <answer> $$\dfrac{14\sqrt[5]{(x^3+1)^4}}{x^3+1}$$</answer>
         <explanation>
          Домножимо знаменник дробу на доповнюючий множник: $$\dfrac{14}{\sqrt[5]{(x^3+1)^2}} = \dfrac{14\sqrt[5]{(x^3+1)^3}}{\sqrt[5]{(x^3+1)^2}\sqrt[5]{(x^3+1)^3}} = \dfrac{14\sqrt[5]{(x^3+1)^3}}{x^3+1}.$$
         </explanation>
