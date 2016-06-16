@@ -19,7 +19,16 @@ x\cdot y = v.
 	x^2 + y^2 + x + y = 4,\\
 	x + y + xy = 3.
 	\end{cases}$$</p>
-<p><b><i>Розв'язок.</i></b></p>
+
+<p>
+<ul class="nav-tab" id="pr1">
+<button class="btn" data-target="#decision1" data-toggle="tab">Розв’язок</button>
+<button class="btn" data-target="#answer1" data-toggle="tab">Вiдповiдь</button>
+<button class="btn" data-target="#hide1" data-toggle="tab">Приховати</button>
+</ul>
+
+<div id="pr1" class="tab-content">
+  <div class="tab-pane" id="decision1">
 <p>Зробимо заміну змінних: $$\begin{cases}
 		x + y = u,\\
 		x\cdot y = v.
@@ -82,10 +91,17 @@ x\cdot y = v.
 <p>Маємо два рівних корені: $$t = x = y = 1.$$</p>
 </li>
 </ol>
-<p><b>Відповідь.</b>$$(1; 1).$$</p>
+
+  </div>
+  <div class="tab-pane" id="answer1"> <p><b>Відповідь.</b> $$(1; 1).$$</p>
+  </div>
+  <div class="tab-pane" id="hide1"></div>
+</div>
+</p>    
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <div class="space">
 <div class="task-wrap">
@@ -95,7 +111,15 @@ x\cdot y = v.
 		x^4 + x^2 = 92 - y^4 - y^2,\\
 		x\cdot y = 4.
 		\end{cases}$$</p>
-<p><b><i>Розв'язок.</i></b></p>
+
+<p>
+<ul class="nav-tab" id="mytab">
+    <button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+    <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+    <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+    <div class="tab-pane" id="decision">
 <p>Робимо рівносильні переходи:</p>
 <p align="center">$$\begin{cases}
 			x^4 + x^2 = 92 - y^4 - y^2,\\
@@ -222,17 +246,23 @@ x\cdot y = v.
 	y_4 = -3.
 	\end{cases}$$</p></li>	
 </ol>
-<p><b>Відповідь.</b> $$\{(3; 1), (1; 3), (-3; -1), (-1; -3)\}.$$</p>
+	</div>
+    <div class="tab-pane" id="answer"> <p><b>Відповідь.</b> $$\{(3; 1), (1; 3), (-3; -1), (-1; -3)\}.$$ </p>
+    </div>
+    <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Якою заміною доречно скористатись під час розв’язання системи рівнянь? $$\begin{cases}x^2-y^2=1, \\ x^2+y^2-2xy=1. \end{cases}$$</p>
-        <answer>$$u=x^2, v=y^2$$</answer>
-        <answer>$$u=x^2-y^2, v=x^2+y^2$$</answer>
-        <answer correct>$$u=x+y, v=x-y$$</answer>
-        <answer>$$u=x^2+xy, v=y^2+xy$$</answer>
+        <answer> $$u=x^2, v=y^2$$</answer>
+        <answer> $$u=x^2-y^2, v=x^2+y^2$$</answer>
+        <answer correct> $$u=x+y, v=x-y$$</answer>
+        <answer> $$u=x^2+xy, v=y^2+xy$$</answer>
         </question>
 </quiz>

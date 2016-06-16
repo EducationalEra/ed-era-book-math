@@ -24,17 +24,31 @@ y = f(x).
 		x + y = 1,\\
 		x^2 - y^2 = 2y.
 		\end{cases}$$</p>
-<p><b><i>Розв'язок.</i></b></p>
+
+<p>
+<ul class="nav-tab" id="mytab">
+    <button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+    <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+    <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+    <div class="tab-pane" id="decision">
 <p>З першого рівняння виражаємо $$x$$ через $$y$$: $$x + y = 1 \Longleftrightarrow x = 1 - y.$$</p>
 <p>Підставляємо цей вираз у друге рівняння:</p>
 <p align="center">$$(1 - y)^2 - y^2 = 2y \Longleftrightarrow 1 - 2y + y^2 - y^2 = 2y \Longleftrightarrow 1 - 2y = 2y \Longleftrightarrow y = \dfrac{1}{4}.$$</p>
 <p>Отже, $$y_0 = \dfrac{1}{4}.$$</p>
 <p>Знаходимо значення $$x_0$$, підставиши $$y_0$$ в перше рівняння:</p>
 <p align="center">$$x_0 = 1 - y_0 = 1 - \dfrac{1}{4} = \dfrac{3}{4}.$$ </p>
-<p><b>Відповідь.</b>$$\left(\dfrac{3}{4}; \dfrac{1}{4}\right).$$</p>
+    </div>
+    <div class="tab-pane" id="answer"> <p><b>Відповідь.</b> $$\left(\dfrac{3}{4}; \dfrac{1}{4}\right).$$ </p>
+    </div>
+    <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/p6HdBYv4s_4" frameborder="0" allowfullscreen></iframe>
@@ -50,10 +64,10 @@ y = f(x).
         x+y=1\\
         x-y=7
         \end{cases}$$</p>
-        <answer correct>$$(4;-3)$$</answer>
-        <answer>$$(4;3)$$</answer>
-        <answer>$$(-4;-3)$$</answer>
-        <answer>$$(-4;3)$$</answer>
+        <answer correct> $$(4;-3)$$</answer>
+        <answer> $$(4;3)$$</answer>
+        <answer> $$(-4;-3)$$</answer>
+        <answer> $$(-4;3)$$</answer>
         <explanation>
         <p>Виразимо $$x$$ через $$y$$:</p>
         <p>$$\begin{cases}
@@ -91,10 +105,10 @@ y = f(x).
     3x+5y=21\\
     8x-3y=7
     \end{cases}$$</p>
-        <answer>$$(2;-3)$$</answer>
-        <answer>$$(-2;3)$$</answer>
-        <answer correct>$$(2;3)$$</answer>
-        <answer>$$(-2;-3)$$</answer>
+        <answer> $$(2;-3)$$</answer>
+        <answer> $$(-2;3)$$</answer>
+        <answer correct> $$(2;3)$$</answer>
+        <answer> $$(-2;-3)$$</answer>
         <explanation>
         <p>Перше рівняння помножимо на $$\dfrac{1}{3}$$, і виразимо $$x$$ через $$y$$:</p>
         <p>$$\begin{cases}

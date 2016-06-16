@@ -35,7 +35,16 @@ c\cdot F_1(x, y) + d\cdot F_2(x, y) = 0;
 		3x + 5y = 7,\\
 		x - 6y = 10.
 		\end{cases}$$</p>
-<p><b><i>Розв'язок.</i></b></p>
+
+<p>
+<ul class="nav-tab" id="mytab">
+    <button class="btn" data-target="#decisiona" data-toggle="pill">Розв’язок 1</button>
+    <button class="btn" data-target="#decisionb" data-toggle="pill">Розв’язок 2</button>
+    <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+    <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+    <div class="tab-pane" id="decisiona">
 <p align="center"><b>Перший варіант.</b></p>
 <p>Помножимо друге рівняння системи на $$-3$$ та додамо до нього перше (зверніть увагу: ліву частину додаємо до лівої, а праву — до правої), тоді змінна $$x$$ у другому рівнянні знищиться:</p>
 <p align="center">$$\begin{cases}
@@ -57,6 +66,8 @@ c\cdot F_1(x, y) + d\cdot F_2(x, y) = 0;
 <p>З другого рівняння знаходимо $$y_0 = -1.$$</p>
 <p>Підставимо це значення в перше рівняння:</p>
 <p align="center">$$3x_0 + 5\cdot(-1) = 7 \Longleftrightarrow x_0 = 4.$$</p>
+	</div>
+	<div class="tab-pane" id="decisionb">
 <p align="center"><b>Другий варіант.</b></p>
 <p>Помножимо друге рівняння системи на $$-3$$ та додамо до нього перше, і,так само, помножимо перше рівняння на $$\dfrac{6}{5}$$ та додамо до нього друге:</p>
 <p align="center">$$\begin{cases}
@@ -80,22 +91,27 @@ c\cdot F_1(x, y) + d\cdot F_2(x, y) = 0;
 			y_0= -1,\\
 			x_0 = 4.
 			\end{cases}$$</p>
-
-<p><b>Відповідь.</b>$$(4; -1).$$</p>
+	</div>
+	<div class="tab-pane" id="answer"> <p><b>Відповідь.</b> $$(4; -1).$$</p>
+	</div>
+    <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Вкажіть множину розв'язків системи рівнянь: $$\begin{cases}x-y=1, \\ x+y=2. \end{cases}$$</p>
-        <answer correct>$$\{\dfrac{3}{2};\dfrac{1}{2}\}$$</answer>
-        <answer>$$\{-\dfrac{1}{2};\dfrac{3}{2}\}$$</answer>
-        <answer>$$\{\dfrac{1}{2};\dfrac{3}{2}\}$$</answer>
-        <answer>$$\{-\dfrac{3}{2};-\dfrac{1}{2}\}$$</answer>
+        <answer correct> $$\{\dfrac{3}{2};\dfrac{1}{2}\}$$</answer>
+        <answer> $$\{-\dfrac{1}{2};\dfrac{3}{2}\}$$</answer>
+        <answer> $$\{\dfrac{1}{2};\dfrac{3}{2}\}$$</answer>
+        <answer> $$\{-\dfrac{3}{2};-\dfrac{1}{2}\}$$</answer>
         <explanation>
         Додамо перше і друге рівняння:
-        $$\begin{cases}x-y=1, \\ 2x=3. \end{cases}$$
+        $$\begin{cases}x-y=1, \\ 2x=3. \end{cases}$$<br>
         Звідси знаходимо розв'язок системи рівнянь:
         $$\begin{cases}y=\dfrac{1}{2}, \\ x=\dfrac{3}{2}. \end{cases}$$
         </explanation>
