@@ -93,10 +93,10 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Який НСД чисел $$460$$ і $$280$$?</p>
-        <answer>$$8$$</answer>
-        <answer>$$5$$</answer>
-        <answer correct>$$20$$</answer>
-        <answer>$$4$$</answer>
+        <answer> $$8$$</answer>
+        <answer> $$5$$</answer>
+        <answer correct> $$20$$</answer>
+        <answer> $$4$$</answer>
     <explanation>
     <p>Запишемо розклад даних чисел на простi множники:</p>
     <p>$$460=2\cdot2\cdot5\cdot23$$</p>
@@ -107,10 +107,10 @@
     </question>
      <question text="">
         <p>Який НСД чисел $$16$$, $$20$$ і $$28$$?</p>
-        <answer>$$2$$</answer>
-        <answer correct>$$4$$</answer>
-        <answer>$$8$$</answer>
-        <answer>$$12$$</answer>
+        <answer> $$2$$</answer>
+        <answer correct> $$4$$</answer>
+        <answer> $$8$$</answer>
+        <answer> $$12$$</answer>
     <explanation>
     <p>Запишемо розклад даних чисел на простi множники:</p>
     <p>$$16=2\cdot2\cdot2\cdot2$$</p>
