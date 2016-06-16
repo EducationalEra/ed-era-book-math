@@ -74,7 +74,7 @@
 <div class="task-text">
 <p>Знайдемо, за яких значень $$x$$ виконується рівність $$\dfrac{(x-3)(x+5)(x-6)}{x^2-9}=0.$$</p>
 
-<p>
+<div>
 <ul class="nav-tab" id="pr1">
 <button class="btn" data-target="#decision1" data-toggle="pill">Розв’язок</button>
 <button class="btn" data-target="#answer1" data-toggle="pill">Вiдповiдь</button>
@@ -111,7 +111,7 @@
 	\end{cases}$$</p> </div>
   <div class="tab-pane" id="hide1"></div>
 </div>
-</p>
+</div>
 
 </div>
 </div>
