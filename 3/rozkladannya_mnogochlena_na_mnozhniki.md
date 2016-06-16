@@ -30,12 +30,26 @@
 <span class="task">Приклад</span>
 <div class="task-text">
 <p>Розкласти на множники тричлен $$16x^6+40x^3 y-11y^2$$.</p>
-<p><b><i>Розв’язок.</i></b></p>
+
+
+<p>
+<ul class="nav-tab" id="mytab">
+<button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+<button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+<button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+
+<div id="mytab" class="tab-content">
+  <div class="tab-pane" id="decision">
 <p>а) Представляємо перший доданок у вигляді квадрату деякого виразу $$X$$: $$ 16x^6=$$<br>$$=(4x^3 )^2,$$ тоді $$X=4x^3.$$</p>
 <p>б) Шукаємо вираз $$Y$$ з другого доданку, представивши його у вигляді $$2XY$$: $$40x^3 y=2\cdot(4x^3 )\cdot(5y),$$ тоді $$Y=5y$$.</p>
 <p>в-г) Додаємо та віднімаємо $$Y^2=(5y)^2=25y^2,$$ після чого групуємо доданки, щоб утворити повний квадрат та скористатись формулою різниці квадратів:</p>
 <p>$$16x^6 + 40x^3 y - 11y^2 + 25y^2 - 25y^2 = (16x^6 + 40x^3 y + 25y^2) - 11y^2 - 25y^2 = $$<br>$$ = (4x^3 + 5y)^2 - 36y^2 = (4x^3 + 5y - 6y)(4x^3 + 5y + 6y) = (4x^3 - y)(4x^3 + 11y).$$</p>
-<p><b>Вiдповiдь.</b>$$(4x^3-y)(4x^3+11y).$$</p>
+  </div>
+  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b>$$(4x^3-y)(4x^3+11y).$$</p></div>
+  <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
 </div>
@@ -58,11 +72,26 @@
 <span class="task">Приклад</span>
 <div class="task-text">
 <p>Розкласти многочлен $$3x^2-12x-15$$ на множники.</p>
-<p><b><i>Розв’язок.</i></b></p>
+
+<p>
+<ul class="nav-tab" id="mytab1">
+<button class="btn" data-target="#decision1" data-toggle="pill">Розв’язок</button>
+<button class="btn" data-target="#answer1" data-toggle="pill">Вiдповiдь</button>
+<button class="btn" data-target="#hide1" data-toggle="pill">Приховати</button>
+</ul>
+
+<div id="mytab1" class="tab-content">
+  <div class="tab-pane" id="decision1">
 <p>Знайдемо корені рівняння $$3x^2-12x-15=0:$$</p>
 <p align="center">$$x_{1,2} = - \dfrac{-12 \pm \sqrt{(-12)^2 -4\cdot3\cdot(-15)}}{2\cdot 3} = \dfrac{12 \mp \sqrt{324}}{6} = \dfrac{12 \mp 18}{6} \Rightarrow \begin{cases} x_1 = -1; \\ x_2 = 5. \end{cases}.$$</p>
 <p>Отже, скориставшись формулою розкладу маємо: $$3x^2-12x-15=3(x+1)(x-5)$$.</p>
-<p><b>Вiдповiдь.</b>$$3(x+1)(x-5).$$</p>
+
+  </div>
+  <div class="tab-pane" id="answer1"><p><b>Вiдповiдь.</b>$$3(x+1)(x-5).$$</p></div>
+  <div class="tab-pane" id="hide1"></div>
+</div>
+</p>
+
 </div>
 </div>
 
@@ -71,8 +100,8 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Винесіть спільний множник за дужки: $$2\cdot a^2\cdot b + 6\cdot a\cdot b^2 + 4\cdot a\cdot b\cdot x$$</p>
-        <answer>$$6ab(\dfrac{a}{3}+b+x)$$</answer>
-        <answer>$$a^2 \cdot b(2+3a \cdot b + 4x)$$</answer>
-        <answer correct>$$2ab(a+3b+2x)$$</answer>
+        <answer> $$6ab(\dfrac{a}{3}+b+x)$$</answer>
+        <answer> $$a^2 \cdot b(2+3a \cdot b + 4x)$$</answer>
+        <answer correct> $$2ab(a+3b+2x)$$</answer>
     </question>
 </quiz>

@@ -35,7 +35,7 @@ tr {border-color:transparent;border-width:0px !important; background-color: tran
 .td td{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-color:transparent !important;border-style:solid;border-width:0px !important;overflow:hidden;word-break:normal;}
 .td .td-s6z2{text-align:center}
 </style>
-<table class="td" style="border: none;">
+<table class="td" style="width: 75%; border: none;">
   <tr>
     <td width="10" style="border-width: 2px !important; border-bottom:2pt solid !important;" class="td-s6z2"></td>
     <td class="td-s6z2">$$3x^5$$</td>

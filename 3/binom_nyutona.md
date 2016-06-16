@@ -45,9 +45,9 @@
     </question>
     <question text="">
         <p>Вказати коефіцієнти для 6-го ступеня у трикутнику Паскаля:</p>
-        <answer>$$1, 4, 6, 4, 1$$</answer>
-        <answer>$$1, 5, 10, 10, 5, 1$$</answer>
-        <answer correct>$$1, 6, 15, 20, 15, 6, 1$$</answer>
-        <answer>$$1, 7, 21, 35, 35, 21, 7 ,1$$</answer>
+        <answer> $$1, 4, 6, 4, 1$$</answer>
+        <answer> $$1, 5, 10, 10, 5, 1$$</answer>
+        <answer correct> $$1, 6, 15, 20, 15, 6, 1$$</answer>
+        <answer> $$1, 7, 21, 35, 35, 21, 7 ,1$$</answer>
     </question>
 </quiz>
