@@ -102,12 +102,12 @@
 </ul>
 <div id="mytab" class="tab-content">
     <div class="tab-pane" id="decision">
-<p><b><i>Розв'язок.</i></b> 
+<br> 
 Шукаємо дискримінант: $$D = (-5)^2 - 4\cdot1\cdot6 = 25 - 24 = 1 > 0$$, отже рівняння має два дійсних корені:</p>
-<p align="center">$$x_1 = \dfrac{5 + \sqrt{1}}{2} = 3; x_2 = \dfrac{5 - \sqrt{1}}{2} = 2.$$</p>
+<p align="center">$$x_1 = \dfrac{5 + \sqrt{1}}{2} = 3$$; $$x_2 = \dfrac{5 - \sqrt{1}}{2} = 2.$$</p>
     </div>
     <div class="tab-pane" id="answer"> 
-<p><b>Відповідь.<b>$$x_1 = 3, x_2 = 2.$$</p>
+<p><b>Відповідь.<b> $$x_1 = 3$$, $$x_2 = 2.$$</p>
     </div>
     <div class="tab-pane" id="hide"></div>
 </div>
@@ -125,12 +125,12 @@
 
 <div id="pr1" class="tab-content">
   <div class="tab-pane" id="decision1">
-<p><b><i>Розв'язок.</i></b>
+<br>
 Шукаємо дискримінант: $$D = (4)^2 - 4\cdot1\cdot4 = 16 - 16 = 0$$, отже, рівняння має один дійсний корінь:</p>
 <p align="center">$$x = \dfrac{-4}{2\cdot1} = -2.$$</p>
     </div>
   <div class="tab-pane" id="answer1"> 
-<p><b>Відповідь.<b>$$x = -2.$$</p>
+<p><b>Відповідь.<b> $$x = -2.$$</p>
     </div>
   <div class="tab-pane" id="hide1"></div>
 </div>
@@ -147,11 +147,11 @@
 
 <div id="pr2" class="tab-content">
     <div class="tab-pane" id="decision2">
-<p><b><i>Розв'язок.</i></b>
+<br>
 Шукаємо дискримінант: $$D = (2)^2 - 4\cdot3\cdot1 = 4 - 12 = -8 < 0$$, отже, рівняння не має дійсних коренів.</p>
     </div>
     <div class="tab-pane" id="answer2"> 
-<p><b>Відповідь.<b>$$x \in \emptyset.$$</p>
+<p><b>Відповідь.<b> $$x \in \emptyset.$$</p>
     </div>
   <div class="tab-pane" id="hide2"></div>
 </div>
@@ -165,13 +165,13 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question  multiple>
         <p>Розв'язати рівняння: $$x^2+3x-3=7$$</p>
-        <answer correct>$$x=2$$</answer>
-        <answer>$$x=0$$</answer>
-        <answer>$$x=-2$$</answer>
-        <answer>$$x=5$$</answer>
-        <answer correct>$$x=-5$$</answer>
-        <answer>$$x=7$$</answer>
-        <answer>$$x=-4$$</answer>
+        <answer correct> $$x=2$$</answer>
+        <answer> $$x=0$$</answer>
+        <answer> $$x=-2$$</answer>
+        <answer> $$x=5$$</answer>
+        <answer correct> $$x=-5$$</answer>
+        <answer> $$x=7$$</answer>
+        <answer> $$x=-4$$</answer>
         <explanation>
         <p>Перенесемо доданки з правої частини рівняння в ліву:</p>
         <p>$$x^2+3x-3-7=0$$</p>
@@ -184,13 +184,13 @@
         </question>
     <question text="">
     <p>Розв'язати рівняння: $$5x^2-5x=x-5$$</p>
-        <answer correct>$$x \in \emptyset$$</answer>
-        <answer>$$x=0$$</answer>
-        <answer>$$x=1$$</answer>
-        <answer>$$x=-1$$</answer>
-        <answer>$$x=-5$$</answer>
-        <answer>$$x=7$$</answer>
-        <answer>$$x=-4$$</answer>
+        <answer correct> $$x \in \emptyset$$</answer>
+        <answer> $$x=0$$</answer>
+        <answer> $$x=1$$</answer>
+        <answer> $$x=-1$$</answer>
+        <answer> $$x=-5$$</answer>
+        <answer> $$x=7$$</answer>
+        <answer> $$x=-4$$</answer>
         <explanation>
         <p>Перенесемо доданки з правої частини рівняння в ліву:</p>
         <p>$$5x^2-5x-x+5=0$$</p>

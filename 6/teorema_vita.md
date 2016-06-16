@@ -11,7 +11,7 @@
 </div>
 </div>
 
-<p><i>Наприклад:</i>$$x^2 - 2x + 1 =0; x^2 - x =0.$$</p>
+<p><i>Наприклад:</i> $$x^2 - 2x + 1 = 0$$; $$x^2 - x = 0.$$</p>
 <div class="space"></div>
 <p>У пункті 6.3.4 <a  href="http://math.ed-era.com/6/faktorizatsya_kvadratnogo_rvnyannya_rozkladannya_na_mnozhniki.html">Факторизацiя квадратного рiвняння (розкладання на множники)</a> було виведено тотожність $$x^2 + \dfrac{b}{a}x + \dfrac{c}{a} = (x - x_1)(x - x_2)$$.</p>
 
@@ -42,7 +42,7 @@
 <span class="ebio">Теорема (обернена до т. Вієта)</span>
 <div class="ebio-text">
 <p>Якщо для двох чисел $$x_1$$ та $$x_2$$ виконуються рівності:</p>
-<p align="center">$$x_1 + x_2 = -\dfrac{b}{a}, x_1x_2 = \dfrac{c}{a},$$</p>
+<p align="center">$$x_1 + x_2 = -\dfrac{b}{a}$$, $$x_1x_2 = \dfrac{c}{a},$$</p>
 <p>то числа $$x_1$$ та $$x_2$$ є коренями квадратного рівняння $$ax^2 + bx + c = 0$$.</p>
 </div>
 </div>
@@ -54,30 +54,44 @@
 <div class="popup">
 </div>
 
-<p><div class="space">
+<div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
 <p>Знайти $$|x_1 - x_2|$$, де $$x_{1,2}$$ — корені рівняння $$2x^2 + 2x - 12$$.</p>
-<p><b><i>Розв'язок.</i></p>
-<p></b>За теоремою Вієта: $$x_1 + x_2 = -1; x_1x_2 = -6$$.</p>
+
+<p>
+<ul class="nav-tab" id="mytab">
+    <button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+    <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+    <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+    <div class="tab-pane" id="decision"> 
+<p>За теоремою Вієта: $$x_1 + x_2 = -1; x_1x_2 = -6$$.</p>
 <p>Запишемо з формул скороченого множення рівність $$(x_1 - x_2)^2 = {x_1}^2 - 2x_1x_2 + {x_2}^2$$. Якщо додати та відняти $$2x_1x_2$$ та скористатися формулою квадрату суми, маємо:</p>
 <p align="center">$$(x_1 - x_2)^2 = {x_1}^2 - 2x_1x_2 + {x_2}^2 + 2x_1x_2 - 2x_1x_2 = ({x_1}^2 + 2x_1x_2 + {x_2}^2) - 4x_1x_2 = (x_1 + x_2)^2 - 4x_1x_2.$$</p>
 <p>Підставивши числа, знайдені за т. Вієта, маємо $$(x_1 - x_2)^2 = (-1)^2 - 4\cdot(-6) = 25.$$</p>
 <p>Таким чином, $$|x_1 - x_2| = 5$$.</p>
-<p><b>Відповідь.</b>5.</p>
-</div>
-</div>
+     </div>
+    <div class="tab-pane" id="answer"> <p><b>Відповідь.</b> $$5$$.</p>
+     </div>
+    <div class="tab-pane" id="hide"></div>
 </div>
 </p>
+</div>
+</div>
+</div>
+<div class="space"></div>
+
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
     <p>Чому дорівнює модуль різниці коренів рівняння $$x^2 - 4x + 4 = 1$$?</p>
-        <answer>$$4$$</answer>
-        <answer>$$3$$</answer>
-        <answer correct>$$2$$</answer>
-        <answer>$$1$$</answer>
+        <answer> $$4$$</answer>
+        <answer> $$3$$</answer>
+        <answer correct> $$2$$</answer>
+        <answer> $$1$$</answer>
         <explanation>
         <p>Перенесемо всі доданки у ліву частину рівняння:</p>
         <p>$$x^2-4x+3=0$$</p>
