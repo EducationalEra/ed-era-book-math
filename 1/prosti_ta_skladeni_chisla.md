@@ -70,7 +70,6 @@
 <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
 <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
 </ul>
-
 <div id="mytab" class="tab-content">
   <div class="tab-pane" id="decision">
     <p>$$504 = 2 \cdot 2 \cdot 2 \cdot 3 \cdot 3 \cdot 7 = 2^3 \cdot 3^2 \cdot 7;$$</p>
@@ -184,10 +183,10 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Яке НСК чисел $$115$$ і $$920$$?</p>
-        <answer>$$115$$</answer>
-        <answer>$$23$$</answer>
-        <answer correct>$$920$$</answer>
-        <answer>$$1840$$</answer>
+        <answer> $$115$$</answer>
+        <answer> $$23$$</answer>
+        <answer correct> $$920$$</answer>
+        <answer> $$1840$$</answer>
     <explanation>
     <p>Запишемо розклад даних чисел на простi множники:</p>
     <p>$$115 = 5\cdot23$$</p>
@@ -198,10 +197,10 @@
         </question>
     <question text="">
     <p>Яке НСК чисел $$2$$, $$3$$ і $$4$$?</p>
-        <answer>$$4$$</answer>
-        <answer>$$8$$</answer>
-        <answer correct>$$12$$</answer>
-        <answer>$$24$$</answer>
+        <answer> $$4$$</answer>
+        <answer> $$8$$</answer>
+        <answer correct> $$12$$</answer>
+        <answer> $$24$$</answer>
     <explanation>
     <p>Запишемо розклад даних чисел на простi множники:</p>
     <p>$$4=2\cdot2$$</p>

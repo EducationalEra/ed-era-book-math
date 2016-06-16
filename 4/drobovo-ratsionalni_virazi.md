@@ -25,19 +25,19 @@
 <p>Знайти ОДЗ виразу $$\dfrac{\left(x-\dfrac{3}{x}\right)(x+5)(x-8)}{x^2-9}.$$</p>
 
 <p>
-<ul class="nav-tab" id="mytab1">
+<ul class="nav-tab" id="pr">
 <button class="btn" data-target="#decision" data-toggle="tab">Розв’язок</button>
 <button class="btn" data-target="#answer" data-toggle="tab">Вiдповiдь</button>
 <button class="btn" data-target="#hide" data-toggle="tab">Приховати</button>
 </ul>
 
-<div id="mytab1" class="tab-content">
+<div id="pr" class="tab-content">
   <div class="tab-pane" id="decision">
 <p>Продивимось «проблемні» зони цього виразу – знаменники, вони не повинні бути рівними нулеві. Із першого множника чисельника $$\left(x-\dfrac{3}{x}\right)$$ знаходимо, що $$x\neq 0,$$ вносимо цей вираз до ОДЗ. Із загального знаменника бачимо, що $$x^2-9\neq 0.$$ Розкладаємо на множники: $$(x-3)(x+3)\neq 0.$$ Отже, $$x\neq \pm 3,$$ вносимо це до ОДЗ. Загалом, маємо ОДЗ: $$x\neq 0, \pm 3.$$</p>
 
   </div>
-  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b>$$x\neq 0, \pm 3.$$</p></div>
-  <div class="tab-pane" id="hide"></div>
+  <div class="tab-pane" id="answer"><p> <b>Вiдповiдь.</b>$$x\neq 0, \pm 3.$$ </p> </div>
+  <div class="tab-pane" id="hide"> </div>
 </div>
 </p>
 
@@ -67,6 +67,7 @@
 </div>
 </div>
 </div>
+
 
 <div class="space">
 <div class="task-wrap">
@@ -114,7 +115,7 @@
 </div>
 </div>
 
-<div class="space"></div>
+
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
