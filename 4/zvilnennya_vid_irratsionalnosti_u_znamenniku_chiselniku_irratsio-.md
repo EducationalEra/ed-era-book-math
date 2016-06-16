@@ -18,35 +18,19 @@
 <div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
-</div>
 <div class="task-text">
 
 <p>Звільнитися від ірраціональності у знаменниках виразу $$\dfrac{1}{\sqrt7}+\dfrac{25}{\sqrt[3]{10}}.$$</p>
 
 
-<ul class="nav-tab" id="mytab">
-<button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
-<button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
-<button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
-</ul>
-
-</div>
-
-<div id="mytab" class="tab-content">
-  <div class="tab-pane" id="decision">
 <p>Для першого знаменника $$\sqrt{7}$$ доповнюючим виразом буде $$\sqrt{7}$$, бо $$\sqrt{7}\cdot\sqrt{7}=7$$ — раціональний вираз. Для другого знаменника $$\sqrt[3]{10}$$ доповнюючим виразом буде $$\sqrt[3]{10^2}$$, бо  $$\sqrt[3]{10}\cdot\sqrt[3]{10^2}=10$$ — раціональний вираз.</p>
 <p>Таким чином:</p>
-<p align="center">$$\dfrac{1}{\sqrt7}+\dfrac{25}{\sqrt[3]{10}}=\dfrac{1\cdot\sqrt7}{\sqrt7\cdot\sqrt7}+\dfrac{25\cdot\sqrt[3]{10^2}}{\sqrt[3]{10}\cdot\sqrt[3]{10^2}}=\dfrac{\sqrt7}{7}+\dfrac{5\sqrt[3]{10^2}}{10}.$$</p> </div>
-  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b> $$\dfrac{\sqrt7}{7}+\dfrac{5\sqrt[3]{10^2}}{10}.$$</p> </div>
-  <div class="tab-pane" id="hide"></div>
-</div>
-
-
-
-
+<p align="center">$$\dfrac{1}{\sqrt7}+\dfrac{25}{\sqrt[3]{10}}=\dfrac{1\cdot\sqrt7}{\sqrt7\cdot\sqrt7}+\dfrac{25\cdot\sqrt[3]{10^2}}{\sqrt[3]{10}\cdot\sqrt[3]{10^2}}=\dfrac{\sqrt7}{7}+\dfrac{5\sqrt[3]{10^2}}{10}.$$</p>
+<p><b>Вiдповiдь.</b> $$\dfrac{\sqrt7}{7}+\dfrac{5\sqrt[3]{10^2}}{10}.$$</p>
 
 </div>
-
+</div>
+</div>
 
 <div class="space"></div>
 
