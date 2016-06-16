@@ -83,32 +83,32 @@
 
 <div id="pr1" class="tab-content">
   <div class="tab-pane" id="decision1">
-<p>З умови рівності дробу нулеві прирівнюємо чисельник нулеві та перевіряємо, щоб знаменник був відмінний від нуля (це і є ОДЗ).</p>
-<p>ОДЗ: $$x^2-9=(x-3)(x+3)\neq 0 \Longrightarrow x \neq \pm 3.$$ Чисельник рівний нулеві, якщо хоча б один з множників дорівнює нулю:</p>
-<p align="center">$$(x-3)(x+5)(x-6)=0 \Longleftrightarrow
-	\begin{cases}
-	x-3=0;\\
-	x+5=0;\\
-	x-6=0;
-	\end{cases}
-	\Longleftrightarrow
-	\begin{cases}
-	x=3;\\
-	x=-5;\\
-	x=6.
-	\end{cases}
-	$$
-</p>
-<p>Перевіряємо, чи задовольняють знайдені значення ОДЗ. В результаті даний в умові дробово-раціональний вираз рівний нулеві лише при 
-	$$\begin{cases}
-	x=-5;\\
-	x=6.
-	\end{cases}$$</p>
+    <p>З умови рівності дробу нулеві прирівнюємо чисельник нулеві та перевіряємо, щоб знаменник був відмінний від нуля (це і є ОДЗ).</p>
+    <p>ОДЗ: $$x^2-9=(x-3)(x+3)\neq 0 \Longrightarrow x \neq \pm 3.$$ Чисельник рівний нулеві, якщо хоча б один з множників дорівнює нулю:</p>
+    <p align="center">$$(x-3)(x+5)(x-6)=0 \Longleftrightarrow
+	   \begin{cases}
+	   x-3=0;\\
+	   x+5=0;\\
+	   x-6=0;
+	   \end{cases}
+	   \Longleftrightarrow
+	   \begin{cases}
+	   x=3;\\
+	   x=-5;\\
+	   x=6.
+	   \end{cases}
+	   $$
+    </p>
+    <p>Перевіряємо, чи задовольняють знайдені значення ОДЗ. В результаті даний в умові дробово-раціональний вираз рівний нулеві лише при 
+	   $$\begin{cases}
+	   x=-5;\\
+	   x=6.
+	   \end{cases}$$</p>
   </div>
   <div class="tab-pane" id="answer1"><p><b>Вiдповiдь.</b>$$\begin{cases}
 	x=-5;\\
 	x=6.
-	\end{cases}$$</p></div>
+	\end{cases}$$</p> </div>
   <div class="tab-pane" id="hide1"></div>
 </div>
 </p>
