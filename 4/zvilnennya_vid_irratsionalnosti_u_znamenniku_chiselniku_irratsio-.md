@@ -21,13 +21,15 @@
 <div class="task-text">
 
 <p>Звільнитися від ірраціональності у знаменниках виразу $$\dfrac{1}{\sqrt7}+\dfrac{25}{\sqrt[3]{10}}.$$</p>
-</div>
-<p>
+
+
 <ul class="nav-tab" id="mytab">
 <button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
 <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
 <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
 </ul>
+
+</div>
 
 <div id="mytab" class="tab-content">
   <div class="tab-pane" id="decision">
@@ -38,7 +40,7 @@
   <div class="tab-pane" id="hide"></div>
 </div>
 
-</p>
+
 
 
 </div>
