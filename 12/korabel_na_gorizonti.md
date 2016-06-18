@@ -26,23 +26,23 @@
 
 <table style="border: none;" class="none">
 <tr>
-<td>$$20 = 3,85\sqrt{h}$$</td>
+<td align="center">$$20 = 3,85\sqrt{h}$$</td>
 <td><i><font color="1570bd">Вихідне рівняння</font></i></td>
 </tr>
 <tr>
-<td>$$\dfrac{20}{\color{#1570bd}3\color{#1570bd},\color{#1570bd}8\color{#1570bd}5} = \dfrac{3,85}{\color{#1570bd}3\color{#1570bd},\color{#1570bd}8\color{#1570bd}5}\sqrt{h}$$</td>
+<td align="center">$$\dfrac{20}{\color{#1570bd}3\color{#1570bd},\color{#1570bd}8\color{#1570bd}5} = \dfrac{3,85}{\color{#1570bd}3\color{#1570bd},\color{#1570bd}8\color{#1570bd}5}\sqrt{h}$$</td>
 <td><font color="1570bd"><i>Ділимо обидві частини рівняння на</i> 3,85</font></td>
 </tr>
 <tr>
-<td>$$5,2 = \sqrt{h}$$</td>
+<td align="center">$$5,2 = \sqrt{h}$$</td>
 <td><font color="1570bd"><i>Спрощуємо</i></font></td>
 </tr>
 <tr>
-<td>$$\color{#1570bd}(5,2\color{#1570bd})^\color{#1570bd}2 = \color{#1570bd}(\sqrt{h}\color{#1570bd})^\color{#1570bd}2$$</td>
+<td align="center">$$\color{#1570bd}(5,2\color{#1570bd})^\color{#1570bd}2 = \color{#1570bd}(\sqrt{h}\color{#1570bd})^\color{#1570bd}2$$</td>
 <td><font color="1570bd"><i>Підносимо обидві частини до квадрату</i></font></td>
 </tr>
 <tr>
-<td>$$27= h$$</td>
+<td align="center">$$27= h$$</td>
 <td><font color="1570bd"><i>Спрощуємо</i></font></td>
 </tr>
 </table>

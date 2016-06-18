@@ -44,19 +44,19 @@ $$\underbrace{\dfrac{5,303\thinspace км}{x\thinspace -\thinspace 60\thinspace 
 
 <table style="border: none;" class="none">
 <tr>
-<td>$$\dfrac{5,303}{x-60} - \dfrac{5,303}{x} = \dfrac{47,3}{3600}$$</td>
+<td align="center">$$\dfrac{5,303}{x-60} - \dfrac{5,303}{x} = \dfrac{47,3}{3600}$$</td>
 <td><i><font color="1570bd">Вихідне рівняння</font></i></td>
 </tr>
 <tr>
-<td>$$\dfrac{5,303}{x-60} - \dfrac{5,303}{x} \color{#1570bd}- \dfrac{\color{#1570bd}47,3}{\color{#1570bd}3600} = \dfrac{47,3}{3600} \color{#1570bd}- \dfrac{\color{#1570bd}47,3}{\color{#1570bd}3600}$$</td>
+<td align="center">$$\dfrac{5,303}{x-60} - \dfrac{5,303}{x} \color{#1570bd}- \dfrac{\color{#1570bd}47\color{#1570bd},\color{#1570bd}3}{\color{#1570bd}3\color{#1570bd}6\color{#1570bd}0\color{#1570bd}0} = \dfrac{47,3}{3600} \color{#1570bd}- \dfrac{\color{#1570bd}47\color{#1570bd},\color{#1570bd}3}{\color{#1570bd}3\color{#1570bd}6\color{#1570bd}0\color{#1570bd}0}$$</td>
 <td><font color="1570bd"><i>Віднімаємо $$\dfrac{47,3}{3600}$$ від обох частин</i></font></td>
 </tr>
 <tr>
-<td>$$\dfrac{5,303}{x-60} - \dfrac{5,303}{x} - \dfrac{47,3}{3600} = 0$$</td>
+<td align="center">$$\dfrac{5,303}{x-60} - \dfrac{5,303}{x} - \dfrac{47,3}{3600} = 0$$</td>
 <td><font color="1570bd"><i>Спрощуємо</i></font></td>
 </tr>
 <tr>
-<td>$$\dfrac{-47,3x^2 + 2838x + 1145448}{3600x(x - 60)} = 0$$</td>
+<td align="center">$$\dfrac{-47,3x^2 + 2838x + 1145448}{3600x(x - 60)} = 0$$</td>
 <td><font color="1570bd"><i>Зводимо до спільного знаменника</i></font></td>
 </tr>
 </table>
@@ -74,19 +74,19 @@ N \neq 0
 
 <table style="border: none;" class="none">
 <tr>
-<td>$$\dfrac{5,303}{x-60} - \dfrac{5,303}{x} = \dfrac{47,3}{3600}$$</td>
+<td align="center">$$\dfrac{5,303}{x-60} - \dfrac{5,303}{x} = \dfrac{47,3}{3600}$$</td>
 <td><i><font color="1570bd">Вихідне рівняння</font></i></td>
 </tr>
 <tr>
-<td>$$2838^2 - 4\cdot (-47,3)\cdot 1145448 = 224773006$$</td>
+<td align="center">$$2838^2 - 4\cdot (-47,3)\cdot 1145448 = 224773006$$</td>
 <td><font color="1570bd"><i>Шукаємо дискримінант</i></font></td>
 </tr>
 <tr>
-<td>$$\dfrac{-2838\pm \sqrt{224773005,6}}{2\cdot (-47,3)} = 0$$</td>
+<td align="center">$$\dfrac{-2838\pm \sqrt{224773005,6}}{2\cdot (-47,3)} = 0$$</td>
 <td><font color="1570bd"><i>Дискримінант додатний, шукаємо корені</i></font></td>
 </tr>
 <tr>
-<td>$$\left[
+<td align="center">$$\left[
     \begin{array}{}
         x_1 \approx 188,5 \\
         x_2 \approx -128,5
