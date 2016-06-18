@@ -88,21 +88,21 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Чому дорівнює значення дробу $$\dfrac{\dfrac{5}{7}}{1\dfrac{4}{6}}$$?</p> 
-        <answer correct>$$\dfrac{3}{7}$$</answer>
-        <answer>$$\dfrac{70}{30}$$</answer>
-        <answer>$$\dfrac{50}{30}$$</answer>
-        <answer>$$1\dfrac{2}{3}$$</answer>
+        <answer correct> $$\dfrac{3}{7}$$</answer>
+        <answer> $$\dfrac{70}{30}$$</answer>
+        <answer> $$\dfrac{50}{30}$$</answer>
+        <answer> $$1\dfrac{2}{3}$$</answer>
     <explanation>
     Спростимо дріб: $$\dfrac{\dfrac{5}{7}}{1\dfrac{4}{6}}=\dfrac{\dfrac{5}{7}}{\dfrac{10}{6}}=\dfrac{5}{7}\cdot\dfrac{6}{10}=\dfrac{3}{7}$$
     </explanation>
         </question>
     <question text="">
         <p>Обчисліть значення виразу $$5\dfrac{3}{5}\cdot7\dfrac{1}{2}:\dfrac{3}{20}-250$$</p>
-        <answer>$$10$$</answer>
-        <answer>$$20$$</answer>
-        <answer correct>$$30$$</answer>
-        <answer>$$40$$</answer>
-        <answer>$$50$$</answer>
+        <answer> $$10$$</answer>
+        <answer> $$20$$</answer>
+        <answer correct> $$30$$</answer>
+        <answer> $$40$$</answer>
+        <answer> $$50$$</answer>
     <explanation>
     Спростимо дріб: $$5\dfrac{3}{5}\cdot7\dfrac{1}{2}:\dfrac{3}{20}-250=\dfrac{28}{5}\cdot\dfrac{15}{2}\cdot\dfrac{20}{3}-250=28\cdot5\cdot2-250=30$$
     </explanation>

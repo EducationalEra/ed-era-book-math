@@ -34,13 +34,14 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Обчислити: $$(5-3)^3$$</p>
-        <answer>$$5$$</answer>
-        <answer>$$3$$</answer>
-        <answer correct>$$8$$</answer>
-        <answer>$$7$$</answer>
-        <answer>$$11$$</answer>
+        <answer> $$5$$</answer>
+        <answer> $$3$$</answer>
+        <answer correct> $$8$$</answer>
+        <answer> $$7$$</answer>
+        <answer> $$11$$</answer>
         <explanation>
-        <p>$$(5-3)^3=5^3 + 3\cdot5^2\cdot(-3) + 3\cdot5\cdot(-3)^2 + (-3)^3 =5\cdot5\cdot5 + 3\cdot5\cdot5\cdot(-3) +$$</p> <p>$$+ 3\cdot5\cdot(-3)\cdot(-3) + (-3)\cdot(-3)\cdot(-3)=125-225+135-27=8$$</p>
+        <p>$$(5-3)^3=5^3 + 3\cdot5^2\cdot(-3) + 3\cdot5\cdot(-3)^2 + (-3)^3 =5\cdot5\cdot5 + 3\cdot5\cdot5\cdot(-3) +$$</p> 
+        <p>$$+ 3\cdot5\cdot(-3)\cdot(-3) + (-3)\cdot(-3)\cdot(-3)=125-225+135-27=8$$</p>
         </explanation>
     </question>
     <question text="">

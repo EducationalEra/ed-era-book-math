@@ -122,7 +122,7 @@ f(x)<-g(x).
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_34.png"/></p></div>
     </div>
     <div class="tab-pane" id="answer">
-<p><b>Вiдповiдь.</b> $$T_{min}=-4,3; T_{max}=21,6.$$</p>
+<p><b>Вiдповiдь.</b> $$T_{min}=-4,3$$; $$T_{max}=21,6.$$</p>
     </div>
     <div class="tab-pane" id="hide"></div>
 </div>
