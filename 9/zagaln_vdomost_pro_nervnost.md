@@ -8,7 +8,7 @@
 
 
 <p>
-$$\underbrace{40}_{абонентська плата 40 грн/міс}$$ $$\underbrace{+}_{плюс}$$ $$\underbrace{0,05x}_{х використаних МБ вартістю 5 коп/МБ}$$ $$\underbrace{\leq}_{мають складати не більше ніж}$$ $$\underbrace{75}_{75 грн}$$
+$$\underbrace{40}_{абонентська \thinspase плата \thinspase 40 \thinspase грн/міс}$$ $$\underbrace{+}_{плюс}$$ $$\underbrace{0,05x}_{х \thinspase використаних \thinspase МБ \thinspase вартістю \thinspase 5 \thinspase коп/МБ}$$ $$\underbrace{\leq}_{мають \thinspase складати \thinspase не \thinspase більше \thinspase ніж}$$ $$\underbrace{75}_{75 \thinspase грн}$$
 </p> 
 
 <div class="space">
@@ -90,53 +90,53 @@ $$\underbrace{40}_{абонентська плата 40 грн/міс}$$ $$\unde
 </div>
 </div>
 
-<p><i>Наприклад:</i>$$x<2; 4x^2-8x\leq x^3; \sqrt{x}<6x.$$</p>
+<p><i>Наприклад:</i> $$x<2; 4x^2-8x\leq x^3; \sqrt{x}<6x.$$</p>
 
 <p>В загальному випадку розв'язання нерівностей дуже схоже на розв'язання рівнянь: використовують рівносильні переходи до простіших у розв'язанні нерівностей. Відмінності полягають у тому, що часто множина розв'язків є необмеженою. Наприклад, $$x \in (2;+\infty)$$. В такому випадку повністю перевірити всі значення неможливо, і важливо при цьому користуватись <b>лише рівносильними переходами</b>, пам'ятаючи, що <b>ОДЗ повинна залишатись незмінною</b>.</p>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
  <question multiple>
         <p>Вкажіть всі відкриті інтервали:</p>
-        <answer correct>$$(1;3)$$</answer>
-        <answer>$$[1;2)$$</answer>
-        <answer correct>$$(-21;0)$$</answer>
-        <answer>$$[17;54]$$</answer>
-        <answer>$$(-\infty;0)$$</answer>
-        <answer>$$(-12;2]$$</answer>
-        <answer correct>$$(\dfrac{1}{2};10)$$</answer>
-        <answer correct>$$(0;\dfrac{7}{6})$$</answer>
+        <answer correct> $$(1;3)$$</answer>
+        <answer> $$[1;2)$$</answer>
+        <answer correct> $$(-21;0)$$</answer>
+        <answer> $$[17;54]$$</answer>
+        <answer> $$(-\infty;0)$$</answer>
+        <answer> $$(-12;2]$$</answer>
+        <answer correct> $$(\dfrac{1}{2};10)$$</answer>
+        <answer correct> $$(0;\dfrac{7}{6})$$</answer>
 </question>
 <question multiple>
         <p>Вкажіть всі закриті інтервали:</p>
-        <answer>$$(1;3)$$</answer>
-        <answer>$$[1;2)$$</answer>
-        <answer>$$(-21;0)$$</answer>
-        <answer correct>$$[17;54]$$</answer>
-        <answer>$$(-\infty;0)$$</answer>
-        <answer>$$(-12;2]$$</answer>
-        <answer>$$(\dfrac{1}{2};10)$$</answer>
-        <answer>$$(0;\dfrac{7}{6})$$</answer>
+        <answer> $$(1;3)$$</answer>
+        <answer> $$[1;2)$$</answer>
+        <answer> $$(-21;0)$$</answer>
+        <answer correct> $$[17;54]$$</answer>
+        <answer> $$(-\infty;0)$$</answer>
+        <answer> $$(-12;2]$$</answer>
+        <answer> $$(\dfrac{1}{2};10)$$</answer>
+        <answer> $$(0;\dfrac{7}{6})$$</answer>
 </question>
 <question multiple>
         <p>Вкажіть всі напівінтервали:</p>
-        <answer>$$(1;3)$$</answer>
-        <answer correct>$$[1;2)$$</answer>
-        <answer>$$(-21;0)$$</answer>
-        <answer>$$[17;54]$$</answer>
-        <answer>$$(-\infty;0)$$</answer>
-        <answer correct>$$(-12;2]$$</answer>
-        <answer>$$(\dfrac{1}{2};10)$$</answer>
-        <answer>$$(0;\dfrac{7}{6})$$</answer>
+        <answer> $$(1;3)$$</answer>
+        <answer correct> $$[1;2)$$</answer>
+        <answer> $$(-21;0)$$</answer>
+        <answer> $$[17;54]$$</answer>
+        <answer> $$(-\infty;0)$$</answer>
+        <answer correct> $$(-12;2]$$</answer>
+        <answer> $$(\dfrac{1}{2};10)$$</answer>
+        <answer> $$(0;\dfrac{7}{6})$$</answer>
 </question>
 <question multiple>
         <p>Вкажіть всі нескінчені інтервали:</p>
-        <answer>$$(1;3)$$</answer>
-        <answer>$$[1;2)$$</answer>
-        <answer>$$(-21;0)$$</answer>
-        <answer>$$[17;54]$$</answer>
-        <answer correct>$$(-\infty;0)$$</answer>
-        <answer>$$(-12;2]$$</answer>
-        <answer>$$(\dfrac{1}{2};10)$$</answer>
-        <answer>$$(0;\dfrac{7}{6})$$</answer>
+        <answer> $$(1;3)$$</answer>
+        <answer> $$[1;2)$$</answer>
+        <answer> $$(-21;0)$$</answer>
+        <answer> $$[17;54]$$</answer>
+        <answer correct> $$(-\infty;0)$$</answer>
+        <answer> $$(-12;2]$$</answer>
+        <answer> $$(\dfrac{1}{2};10)$$</answer>
+        <answer> $$(0;\dfrac{7}{6})$$</answer>
 </question>
 </quiz>
