@@ -12,6 +12,15 @@
 <span class="task">Приклад</span>
 <div class="task-text">
 Розв’язати рівняння $$\dfrac{x+5}{ax+2}-\dfrac{ax+4}{1-x}=0$$. 
+<p>
+<ul class="nav-tab" id="pr1">
+<button class="btn" data-target="#decision1" data-toggle="tab">Розв’язок</button>
+<button class="btn" data-target="#answer1" data-toggle="tab">Вiдповiдь</button>
+<button class="btn" data-target="#hide1" data-toggle="tab">Приховати</button>
+</ul>
+
+<div id="pr1" class="tab-content">
+  <div class="tab-pane" id="decision1">
 <p><b><i>Розв’язок</i></b>.</p>
 <p>Маємо дробове раціональне рівняння.</p>
 <p><div class="fluidMedia">
@@ -88,6 +97,8 @@
 </ul>
 </ol>
 <p>Тепер головне не заплутатись і перерахувати всі розглянуті випадки:</p>
+    </div>
+  <div class="tab-pane" id="answer1">
 <b>Вiдповiдь.</b> 
 <p>При $$a = -2: \quad x = -1;$$</p>
 <p>при $$a = -1: \quad x = -\dfrac{3}{2};$$</p>
@@ -96,18 +107,23 @@
 <p>при $$a = 1: \quad x = -\dfrac{9}{2};$$</p>
 <p>при $$a = 4: \quad x = -\dfrac{1}{5};$$</p>
 <p>при $$a \notin \left\{-2;-1;-\dfrac{1}{2};\dfrac{2}{4};1;4 \right\}: \quad x_1 = \dfrac{-1}{a+1}, x_2 = \dfrac{3}{a-1}.$$</p></div>
+   </div>
+  <div class="tab-pane" id="hide1"></div>
+</div>
+</p>    
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
  <question multiple>
         <p>За яких значень параметра $$a$$ рівняння $$\dfrac{a-x}{x^2+x-72}=0$$ не матиме коренів?</p>
-        <answer correct>$$-9$$</answer>
-        <answer>$$-5$$</answer>
-        <answer>$$0$$</answer>
-        <answer correct>$$8$$</answer>
-        <answer>$$10$$</answer>
-        <answer>$$14$$</answer>
+        <answer correct> $$-9$$</answer>
+        <answer> $$-5$$</answer>
+        <answer> $$0$$</answer>
+        <answer correct> $$8$$</answer>
+        <answer> $$10$$</answer>
+        <answer> $$14$$</answer>
 </question>
 </quiz>

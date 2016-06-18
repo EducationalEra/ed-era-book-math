@@ -33,6 +33,14 @@
 <span class="task">Приклад</span>
 <div class="task-text">
 Знайти корені рівняння $$\dfrac{x-3}{x^2+4x+3} + \dfrac{1}{x+1} = -\dfrac{x}{x+3}$$. 
+<p>
+<ul class="nav-tab" id="mytab">
+    <button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+    <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+    <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+    <div class="tab-pane" id="decision">
 <p><b><i>Розв’язок</i></b>.</p>
 <p>Користуємося вищезазначеним алгоритмом.</p>
 <ol>
@@ -100,16 +108,32 @@
 <li>Тепер поглянемо на знаменник. ОДЗ такого дробу знаходимо з умови $$(x+3)(x+1)\neq0$$. Отже, отримуємо ОДЗ: $$x\neq-3;x\neq-1$$.</li>
 <p>Серед знайдених двох коренів ОДЗ задовольняє лише один $$x=0$$.</p>
 </ol>
-<b>Вiдповiдь.</b> $$x=0$$.
+    </div>
+    <div class="tab-pane" id="answer">
+<p><b>Вiдповiдь.</b> $$x=0$$.</p>
+    </div>
+    <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
 Знайти корені рівняння $$\dfrac{x^2-14x+2}{x^2+4x+2}+1=\dfrac{5x}{x^2-3x+2}.$$  
+<p>
+<ul class="nav-tab" id="pr1">
+<button class="btn" data-target="#decision1" data-toggle="tab">Розв’язок</button>
+<button class="btn" data-target="#answer1" data-toggle="tab">Вiдповiдь</button>
+<button class="btn" data-target="#hide1" data-toggle="tab">Приховати</button>
+</ul>
+
+<div id="pr1" class="tab-content">
+  <div class="tab-pane" id="decision1">
 <p><b><i>Розв’язок</i></b>.</p>
 <p>Перед нами дробове раціональне рівняння. Зводимо його до вигляду $$\dfrac{P(x)}{Q(x)} = 0$$.</p>
 <p>Скористаємося одним трюком. Якщо уважно придивитися до коефіцієнтів квадратних тричленів у рівнянні, можна побачити, що деякі з них збігаються:</p>
@@ -173,7 +197,7 @@ x + \dfrac{2}{x} = 10, \hfill \\
 x + \dfrac{2}{x} = \dfrac{1}{2} \hfill \\ 
 \end{gathered} 
 \right.$$</p>
-<p>Оскільки раніше ми вже перевірили, що $$x\neq0$$ – можемо спокійно домножити обидві частини рівнянь на $$x$$ та розв'язати отримані квадратні рівняння:</p>
+<p>Оскільки раніше ми вже перевірили, що $$x\neq0$$ – можемо спокійно домножити обидві частини рівнянь на $$x$$ та розв’язати отримані квадратні рівняння:</p>
 <table>
 <tr>
 <td>$$\left(x + \dfrac{2}{x} \right)\cdot x=10\cdot x$$</td>
@@ -197,22 +221,29 @@ x + \dfrac{2}{x} = \dfrac{1}{2} \hfill \\
 </tr>
 </table>
 <p>Отже, вихідне рівняння має корені $$x_{1,2}=5\pm\sqrt{23}$$.</p>
-<b>Вiдповiдь. </b> $$x_{1,2}=5\pm\sqrt{23}$$.
+    </div>
+  <div class="tab-pane" id="answer1">
+<p><b>Вiдповiдь. </b> $$x_{1,2}=5\pm\sqrt{23}$$.</p>
+   </div>
+  <div class="tab-pane" id="hide1"></div>
+</div>
+</p>    
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
  <question text="">
-        <p>Розв'яжіть рівняння: $$\dfrac{7x-2}{2x-7}=1$$</p>
-        <answer correct>$$x=-1$$</answer>
-        <answer>$$x=7$$</answer>
-        <answer>$$x=5$$</answer>
-        <answer>$$x=-2$$</answer>
+        <p>Розв’яжіть рівняння: $$\dfrac{7x-2}{2x-7}=1$$</p>
+        <answer correct> $$x=-1$$</answer>
+        <answer> $$x=7$$</answer>
+        <answer> $$x=5$$</answer>
+        <answer> $$x=-2$$</answer>
         <explanation>
         <p>Претворимо рівняння до вигляду: $$\dfrac{P(x)}{Q(x)}=0$$</p>
         <p>$$\dfrac{(7x-2)-(2x-7)}{2x-7}=0$$</p>
-        <p>Розв'язуємо рівняння чисельника:</p>
+        <p>Розв’язуємо рівняння чисельника:</p>
         <p>$$7x-2-2x+7=0$$</p>
         <p>$$x=-1$$</p>
         <p>Звернемо увагу на знаменник: $$x\neq\dfrac{7}{2}$$.</p>
