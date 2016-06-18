@@ -6,10 +6,11 @@
 
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/p41_1.png"/></p></div>
 
-
-<p>
-$$\underbrace{40}_{абонентська \thinspase плата \thinspase 40 \thinspase грн/міс}$$ $$\underbrace{+}_{плюс}$$ $$\underbrace{0,05x}_{х \thinspase використаних \thinspase МБ \thinspase вартістю \thinspase 5 \thinspase коп/МБ}$$ $$\underbrace{\leq}_{мають \thinspase складати \thinspase не \thinspase більше \thinspase ніж}$$ $$\underbrace{75}_{75 \thinspase грн}$$
-</p> 
+<div class="space">
+<p align="center">
+$$\underbrace{40}_{абонентська \thinspace плата \thinspace 40 \thinspace грн/міс}$$ $$\underbrace{+}_{плюс}$$ $$\underbrace{0,05x}_{х \thinspace використаних \thinspace МБ \thinspace вартістю \thinspace 5 \thinspace коп/МБ}$$ $$\underbrace{\leq}_{мають \thinspace складати \thinspace не \thinspace більше \thinspace ніж}$$ $$\underbrace{75}_{75 \thinspace грн}$$
+</p>
+</div>
 
 <div class="space">
 <div class="eoz-wrap">
