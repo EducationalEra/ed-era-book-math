@@ -52,7 +52,7 @@
     <div class="tab-pane" id="decision">
 <p><b><i>Розв’язок</i></b>.</p>
 <ol>
-<li>Виразимо нерівність у вигляді $$P(x)>0$$ або $$P(x)<0$$:</li>
+<li>Виразимо нерівність у вигляді $$P(x)>0$$ або $$P(x)< 0$$:</li>
 <p>Перетворюємо нерівність таким чином, аби праворуч залишився нуль:</p>
 
 <table style="border: none;" class="none">
@@ -214,7 +214,11 @@
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_10.png"/></p></div>
 <p>Нерівність є нестрогою, інтервали включають кінцеві точки, тому їх зображуємо зафарбованими. Точка $$x=2$$ має кратність «$$2$$» — малюємо одну «пелюстку» на числовій осі. Точка $$x=-3$$ має кратність «$$3$$» — малюємо дві «пелюстки»:</p>
 <li>Шукаємо знак функції на правому інтервалі $$(2;\infty)$$. Підставимо тестове значення «<font color="#0F5180"><i>мільярд</i></font>».</li>
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/142/p24_e4.png"/></p></div>
+
+<!--<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/142/p24_e4.png"/></p></div>-->
+
+<div align="center">$$\dfrac{P({\text{мільярд}})}{Q({\text{мільярд}})} = \underbrace{\left( \text{мільярд} - 1 \right)}_{\gt 0} \underbrace{\left( \text{мільярд} - 2 \right)^2}_{\gt 0} \underbrace{\left( \text{мільярд} + 3 \right)^3}_{\gt 0} \geq 0$$</div>
+
 <p>Всі три множники додатні, функція на цьому інтервалі має додатний знак:</p>
 <p>Все, що потрібно зробити, – проставити знаки на решті інтервалів справа наліво, почергово змінюючи знак на протилежний:</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_11.png"/></p></div>

@@ -6,15 +6,15 @@
 
 <table style="border: none;" class="none">
 <tr>
-<td>$$2x+\sqrt{4x^2-1}>3$$</td>
+<td align="center">$$2x+\sqrt{4x^2-1}>3$$</td>
 <td><i class="expl">Вихідна нерівність</i></td>
 </tr>
 <tr>
-<td>$$2x+\sqrt{4x^2-1}$$ <i class="expl">$$-2x$$</i> $$\gt 3$$ <i class="expl">$$-2x$$</i></td>
+<td align="center">$$2x+\sqrt{4x^2-1}$$ <i class="expl">$$-2x$$</i> $$\gt 3$$ <i class="expl">$$-2x$$</i></td>
 <td><i class="expl">Віднімаємо $$2x$$ від обох частин</i></td>
 </tr>
 <tr>
-<td>$$\sqrt{4x^2-1}>3-2x$$</td>
+<td align="center">$$\sqrt{4x^2-1}>3-2x$$</td>
 <td><i class="expl">Спрощуємо</i></td>
 </tr>
 </table>
@@ -91,14 +91,14 @@ x &>& \dfrac{5}{6}
 Розв’язуємо кожну з нерівностей окремо:
 
 <table>
-<td>
+<td align="center">
 $$\begin{eqnarray} 
 3-2x &<& 0 \nonumber\\ 
 -2x &<& -3 \nonumber\\ 
 x &>& \dfrac{3}{2} \nonumber
 \end{eqnarray}$$
 </td>
-<td>
+<td align="center">
 $$\begin{eqnarray} 
 4x^2-1 &\geq& 0 \nonumber\\ 
 4x^2-1 &\geq& 0 \nonumber\\ 
@@ -117,14 +117,14 @@ x \geq \dfrac{1}{2} \cup x &\leq& -\dfrac{1}{2}
 
 /*Картинка з інтервалами*/
 
-<p><b>Вiдповiдь.</b>$$x \in \left(\dfrac{5}{6};\infty\right).$$</p>
+<p><b>Вiдповiдь.</b> $$x \in \left(\dfrac{5}{6};\infty\right).$$</p>
 
 
 
 
 
 
-Тепер давайте розглянемо нерівність: $$\sqrt{5-4x+x^2}<x+8.$$
+Тепер давайте розглянемо нерівність: $$\sqrt{5-4x+x^2}< x+8.$$
 
 Застосуємо метод відокремлення кореня. За визначенням арифметичного кореня підкореневий вираз та значення кореня є завжди невід’ємними. Через останню умову вираз в правій частині повинен бути додатним (нулем він бути не може, бо нерівність є строгою). Тоді область допустимих значень буде визначатись ось такою системою:
 
@@ -152,13 +152,13 @@ x \geq \dfrac{1}{2} \cup x &\leq& -\dfrac{1}{2}
 Продовжуємо розв’язувати другу та третю нерівності:
 
 <table>
-<td>
+<td align="center">
 $$\begin{eqnarray} 
 x+8 &>& 0 \nonumber\\ 
 x &>& -8 \nonumber
 \end{eqnarray}$$
 </td>
-<td>
+<td align="center">
 $$\begin{eqnarray} 
 5-4x+x^2 &<& (x+8)^2 \nonumber\\ 
 5-4x+x^2 &<& x^2+16x+64 \nonumber\\ 
@@ -168,14 +168,22 @@ x &>& -\dfrac{59}{20}
 </td>
 </table>
 
+<!--<table style="border: none;" class="none">
+<tr>
+<td align="center">$$ x+8 &>& 0 \nonumber<br>x &>& -8 \nonumber$$</td>
+<td align="center">$$5-4x+x^2 &<& (x+8)^2 \nonumber<br> 
+5-4x+x^2 &<& x^2+16x+64 \nonumber<br> 
+-20x &<& 59 \nonumber<br>
+x &>& -\dfrac{59}{20}$$</td>
+</tr>
+</table>-->
+
 Зобразимо ці розв’язки на числовій прямій:
 /*Картинка з інтервалами*/
 
 <p>Знаходимо перетин множин розв’язків та отримуємо відповідь.</p>
 
-<p><b>Вiдповiдь.</b>$$x \in \left(-\dfrac{59}{20};\infty\right).$$</p>
-
-
+<p><b>Вiдповiдь.</b> $$x \in \left(-\dfrac{59}{20};\infty\right).$$</p>
 
 
 
@@ -185,34 +193,34 @@ x &>& -\dfrac{59}{20}
 
 <table style="border: none;" class="none">
 <tr>
-<td>$$x+\sqrt[3]{3x^2-3x-7}>1$$</td>
+<td align="center">$$x+\sqrt[3]{3x^2-3x-7}>1$$</td>
 <td><i class="expl">Вихідна нерівність</font></i></td>
 </tr>
 <tr>
-<td>$$x+\sqrt[3]{3x^2-3x-7}\color{#0F5180}{-x}>1\color{#0F5180}{-x}$$</td>
+<td align="center">$$x+\sqrt[3]{3x^2-3x-7}\color{#0F5180}{-x}>1\color{#0F5180}{-x}$$</td>
 <td><i class="expl">Віднімаємо $$x$$ від обох частин</i></td>
 </tr>
 <tr>
-<td>$$\sqrt[3]{3x^2-3x-7}>1-x$$</td>
+<td align="center">$$\sqrt[3]{3x^2-3x-7}>1-x$$</td>
 <td><i class="expl">Спрощуємо</i></td>
 </tr>
 <tr>
-<td>$$(\sqrt[3]{3x^2-3x-7})^3>(1-x)^3$$</td>
+<td align="center">$$(\sqrt[3]{3x^2-3x-7})^3>(1-x)^3$$</td>
 <td><i class="expl">Підносимо до куба обидві частини. Ніяких обмежень ОДЗ немає, бо це корінь непарного степеня</i></td>
 </tr>
 <tr>
-<td>$$3x^2-3x-7>1-3x+3x^2-x^3$$</td>
+<td align="center">$$3x^2-3x-7>1-3x+3x^2-x^3$$</td>
 <td><i class="expl">Спрощуємо</i></td>
 </tr>
 <tr>
-<td>$$x^3-8>0$$</td>
+<td align="center">$$x^3-8>0$$</td>
 <td><i class="expl">Збираємо всі доданки в лівій частині нерівності та спрощуємо</i></td>
 </tr>
 </table>
 
 Розв’яжемо отриману нерівність методом інтервалів.
 
-Шукаємо нулі функції $$P(x)=x^3-8,$$ для цього розв'яжемо кубічне рівняння $$x^3-8=0$$ (див. [Лекцію 7](https://study.ed-era.com/courses/EdEra/m102/M102/courseware/fd401ba328cc459681b42723a51edd78/ca62c80e92cf4c329e3fe0d34a5ddb29/)). Можливими коренями можуть бути дільники вільного доданка $$-8:$$ $$±1,±2,±4,±8.$$ Згадаємо теорему Безу, та по черзі підставимо можливі значення кореня в рівняння. Таким коренем буде $$x=2.$$
+Шукаємо нулі функції $$P(x)=x^3-8,$$ для цього розв'яжемо кубічне рівняння $$x^3-8=0$$<br>(див. [Лекцію 7](https://study.ed-era.com/courses/EdEra/m102/M102/courseware/fd401ba328cc459681b42723a51edd78/ca62c80e92cf4c329e3fe0d34a5ddb29/)). Можливими коренями можуть бути дільники вільного доданка $$-8:$$ $$±1,±2,±4,±8.$$ Згадаємо теорему Безу, та по черзі підставимо можливі значення кореня в рівняння. Таким коренем буде $$x=2.$$
 
 Тепер за схемою Горнера розділимо $$x^3-8$$ на $$x+2.$$ Для цього запишемо табличку з коефіцієнтами. Перший коефіцієнт копіюємо:
 
@@ -322,6 +330,14 @@ f(x)>g(x).
 <span class="task">Приклад</span>
 <div class="task-text">
 <b>Розв’язати нерівність $$\sqrt{16-x^2}\geq4-x.$$</b>
+<p>
+<ul class="nav-tab" id="mytab">
+    <button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+    <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+    <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+    <div class="tab-pane" id="decision">
 <p><b><i>Розв’язок.</i></b></p>
 Скористаємось рівносильним переходом: <p align="center">$$\sqrt[2k]{f(x)}\geq g(x)\Longleftrightarrow\quad \left[\begin{gathered} 
 \quad \begin{cases} 
@@ -400,10 +416,17 @@ x^2-16 &\leq& 0 \nonumber\\
 <p>Ці інтервали не перетинаються, ми отримали порожню множину $$x \in ∅$$. </p>
 <p>Об’єднавши розв’язки двох систем, отримаємо відповідь:</p>
 /*Картинка з інтервалами*/
-<p><b>Вiдповiдь.</b>$$x \in \left[0;4\right].$$</p>
+    </div>
+    <div class="tab-pane" id="answer">
+<p><b>Вiдповiдь.</b> $$x \in \left[0;4\right].$$</p>
+    </div>
+    <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 
 <div class="space">
@@ -411,6 +434,15 @@ x^2-16 &\leq& 0 \nonumber\\
 <span class="task">Приклад</span>
 <div class="task-text">
 <b>Розв’язати нерівність $$\sqrt{3x-2}\leq3(2x-1).$$</b>
+<p>
+<ul class="nav-tab" id="pr1">
+<button class="btn" data-target="#decision1" data-toggle="tab">Розв’язок</button>
+<button class="btn" data-target="#answer1" data-toggle="tab">Вiдповiдь</button>
+<button class="btn" data-target="#hide1" data-toggle="tab">Приховати</button>
+</ul>
+
+<div id="pr1" class="tab-content">
+  <div class="tab-pane" id="decision1">
 <p><b><i>Розв’язок.</i></b></p>
 Скористаємось рівносильним переходом <p align="center">$$\sqrt[2k]{f(x)}< g(x)\Longleftrightarrow\
 \quad \begin{cases} 
@@ -451,8 +483,15 @@ x \in \mathbb{R}
 </table>
 <p>Тепер зобразимо всі розв’язки на числовій прямій та шукаємо їхній перетин:</p>
 /*Картинка з інтервалами*/
-<p>Отримали розв’язок $$x \in \left[\dfrac{2}{3};\infty\right).$$
-<p><b>Вiдповiдь.</b>$$x \in \left[\dfrac{2}{3};\infty\right).$$</p>
+<p>Отримали розв’язок $$x \in \left[\dfrac{2}{3};\infty\right).$$</p>
+    </div>
+  <div class="tab-pane" id="answer1">
+<p><b>Вiдповiдь.</b> $$x \in \left[\dfrac{2}{3};\infty\right).$$</p>
+   </div>
+  <div class="tab-pane" id="hide1"></div>
+</div>
+</p>    
 </div>
 </div>
 </div>
+<div class="space"></div>

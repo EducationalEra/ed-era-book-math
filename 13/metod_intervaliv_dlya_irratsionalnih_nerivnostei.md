@@ -23,11 +23,19 @@
 <span class="task">Приклад</span>
 <div class="task-text">
 <b>Розв’язати нерівність $$\sqrt{x-1}>\sqrt{x-2}+\sqrt{3-x}.$$</b>
+<p>
+<ul class="nav-tab" id="mytab">
+    <button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+    <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+    <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+    <div class="tab-pane" id="decision">
 <p><b><i>Розв’язок.</i></b></p>
 Дотримуємось алгоритму, описаного вище.
 <ol>
 <li>Зводимо нерівність до стандартного вигляду $$f(x)>0$$:
-<p align="center">$$\sqrt{x-1}>\sqrt{x-2}+\sqrt{3-x}\Longleftrightarrow\sqrt{x-1}-\sqrt{x-2}-\sqrt{3-x}>0.$$</p></li>
+<p align="center">$$\sqrt{x-1}>\sqrt{x-2}+\sqrt{3-x}\Longleftrightarrow\sqrt{x-1}-\sqrt{x-2}-\sqrt{3-x}>0.$$</p> </li>
 <li>Шукаємо ОДЗ функції в лівій частині нерівності. Пам’ятаємо, що для квадратного кореня підкореневий вираз завжди невід’ємний:
 <p align="center">$$\begin{cases}
 			x-1\geq0,\\
@@ -41,30 +49,31 @@
 			\end{cases}$$</p>
 Зобразимо тепер чотири інтервали на числовій прямій, знайдемо їхній перетин і отримаємо ОДЗ:
 <p>/*Картинка з інтервалами*/</p>
-Таким чином ОДЗ: $$x \in \left[2;3\right].$$</li>
+Таким чином ОДЗ: $$x \in \left[2;3\right].$$
+</li>
 <li>Розв’яжемо рівняння $$f(x)=0$$:
 <p align="center">$$\sqrt{x-1}-\sqrt{x-2}-\sqrt{3-x}=0.$$</p>
 Це – ірраціональне рівняння, тому скористаємось методом відокремлення квадратного кореня:
 
 <table style="border: none;" class="none">
 <tr>
-<td>$$\sqrt{x-1}-\sqrt{x-2}-\sqrt{3-x}=0$$</td>
-<td><i class="expl">Вихідне рівняння</font></i></td>
+<td align="center">$$\sqrt{x-1}-\sqrt{x-2}-\sqrt{3-x}=0$$</td>
+<td><i class="expl">Вихідне рівняння</i> </td>
 </tr>
 <tr>
-<td>$$\sqrt{x-1}=\sqrt{x-2}+\sqrt{3-x}=0$$</td>
+<td align="center">$$\sqrt{x-1}=\sqrt{x-2}+\sqrt{3-x}=0$$</td>
 <td><i class="expl">В лівій частині залишаємо тільки доданок $$\sqrt{x-1}$$</i></td>
 </tr>
 <tr>
-<td><i class="expl">$$($$</i>$$\sqrt{x-1}$$<i class="expl">$$)^2$$</i>=<i class="expl">$$($$</i>$$\sqrt{x-2}$$<i class="expl">$$)^2$$</i>$$+$$<i class="expl">$$2\cdot($$</i>$$\sqrt{x-2}$$<i class="expl">$$)($$</i>$$\sqrt{3-x}$$<i class="expl">$$)$$</i>$$+$$<i class="expl">$$($$</i>$$\sqrt{3-x}$$<i class="expl">$$)^2$$</i></td>
+<td align="center"><i class="expl">$$($$</i>$$\sqrt{x-1}$$<i class="expl">$$)^2$$</i>=<i class="expl">$$($$</i>$$\sqrt{x-2}$$<i class="expl">$$)^2$$</i>$$+$$<i class="expl">$$2\cdot($$</i>$$\sqrt{x-2}$$<i class="expl">$$)($$</i>$$\sqrt{3-x}$$<i class="expl">$$)$$</i>$$+$$<i class="expl">$$($$</i>$$\sqrt{3-x}$$<i class="expl">$$)^2$$</i> </td>
 <td><i class="expl">Підносимо до квадрата обидві частини</i></td>
 </tr>
 <tr>
-<td>$$x-1=x-2+2\sqrt{(x-2)(3-x)}+3-x$$</td>
+<td align="center">$$x-1=x-2+2\sqrt{(x-2)(3-x)}+3-x$$</td>
 <td><i class="expl">Спрощуємо</i></td>
 </tr>
 <tr>
-<td>$$x-1=2\sqrt(x-2)(3-x)+1$$</td>
+<td align="center">$$x-1=2\sqrt(x-2)(3-x)+1$$</td>
 <td><i class="expl">Спрощуємо</i></td>
 </tr>
 </table>
@@ -72,31 +81,31 @@
 
 <table style="border: none;" class="none">
 <tr>
-<td>$$2\sqrt{(x-2)(3-x)}=x-2$$</td>
-<td><i class="expl">В лівій частині залишаємо тільки доданок $$2\sqrt{(x-2)(3-x)}$$</font></i></td>
+<td align="center">$$2\sqrt{(x-2)(3-x)}=x-2$$</td>
+<td><i class="expl">В лівій частині залишаємо тільки доданок $$2\sqrt{(x-2)(3-x)}$$</i> </td>
 </tr>
 <tr>
-<td><i class="expl">$$($$</i>$$2\sqrt{(x-2)(3-x)}$$<i class="expl">$$)^2$$</i>$$=$$<i class="expl">$$($$</i>$$x-2$$<i class="expl">$$)^2$$</i></td>
+<td align="center"><i class="expl">$$($$</i>$$2\sqrt{(x-2)(3-x)}$$<i class="expl">$$)^2$$</i>$$=$$<i class="expl">$$($$</i>$$x-2$$<i class="expl">$$)^2$$</i></td>
 <td><i class="expl">Підносимо до квадрата обидві частини</i></td>
 </tr>
 <tr>
-<td>$$4(x-2)(3-x)=x^2-4x+4$$</td>
+<td align="center">$$4(x-2)(3-x)=x^2-4x+4$$</td>
 <td><i class="expl">Спрощуємо</i></td>
 </tr>
 <tr>
-<td>$$-4x^2+20x-24=x^2-4x+4$$</td>
+<td align="center">$$-4x^2+20x-24=x^2-4x+4$$</td>
 <td><i class="expl">Спрощуємо</i></td>
 </tr>
 <tr>
-<td>$$-5x^2+24x-28=0$$</td>
+<td align="center">$$-5x^2+24x-28=0$$</td>
 <td><i class="expl">Збираємо всі доданки в лівій частині</i></td>
 </tr>
 <tr>
-<td>$$D=24^2-4\cdot(-5)\cdot(-28)=16$$</td>
+<td align="center">$$D=24^2-4\cdot(-5)\cdot(-28)=16$$</td>
 <td><i class="expl">Шукаємо дискримінант</i></td>
 </tr>
 <tr>
-<td>$$x_{1,2}=\dfrac{-24±\sqrt{16}}{2\cdot(-5)}\Longleftrightarrow\quad \left[
+<td align="center">$$x_{1,2}=\dfrac{-24±\sqrt{16}}{2\cdot(-5)}\Longleftrightarrow\quad \left[
     \begin{array}{}
         x_1 = 2, \\
         x_2 = \dfrac{14}{5}
@@ -106,7 +115,7 @@
 </tr>
 </table>
 
-Отже граничні точки: $$2;\dfrac{14}{5}.$$ Зобразимо їх на числовій прямій.
+Отже граничні точки: $$2$$; $$\dfrac{14}{5}.$$ Зобразимо їх на числовій прямій.
 <p>/*Картинка з інтервалами*/</p>
 </li>
 <li>
@@ -121,7 +130,14 @@
 Залишилось обрати інтервали, де функція додатна, бо за умовою $$f(x)>0.$$ Таким є інтервал $$\left(\dfrac{14}{5};3\right].$$
 </li>
 Отже, $$x \in \left(\dfrac{14}{5};3\right].$$
+    </div>
+    <div class="tab-pane" id="answer">
 <p><b>Вiдповiдь.</b>$$x \in \left(\dfrac{14}{5};3\right].$$</p>
+    </div>
+    <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
 </div>
+<div class="space"></div>

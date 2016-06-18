@@ -26,7 +26,7 @@
 
 <table style="border: none;" class="none">
 <tr>
-<td>$$
+<td align="center">$$
     \begin{align}
         \dfrac{x^2 + 3}{3} & \gt 1 \\
         3 \cdot \dfrac{x^2 + 3}{3} & \gt 3 \cdot 1 \\
@@ -51,7 +51,7 @@
 
 <table style="border: none;" class="none">
 <tr>
-<td>$$
+<td align="center">$$
     \begin{align}
         \dfrac{x^2+3}{3 - ax} & \gt 1 \\
         \dfrac{x^2+3}{3-ax} - 1 & \gt 0 \\
@@ -96,7 +96,7 @@
 <ul>
 <li>при $$a=0: x \in (-\infty;0) \cup (0;\infty);$$</li>
 <li>при $$a>0: x \in (-\infty;-a) \cup \left(0;\dfrac{3}{a}\right)$$;</li>
-<li>при $$a<0: x \in \left(\dfrac{3}{a};0\right) \cup (-a;\infty)$$.</li>
+<li>при $$a< 0: x \in \left(\dfrac{3}{a};0\right) \cup (-a;\infty)$$.</li>
 </ul>
     </div>
     <div class="tab-pane" id="hide"></div>

@@ -28,7 +28,7 @@
 
 <p>Траса Ґран-Прі Формули $$1$$ «Альберт Парк» у Мельбурні, Австралія, завдовжки  $$5303$$ метри. Болід Формули $$1$$ пройшов повне коло на $$47,3$$ с швидше за Mercedes. При цьому середня швидкість Mercedes на одному колі була на $$60$$ км/год меншою. Якщо представити середню швидкість на колі як $$x$$, тоді час проходження одного кола можна описати таким чином:</p>
 
-<div class="space"><p align="center"><img align="middle" width="60%" height="60%" class="image" src="../pics/143/p34_e1.png"/></p></div>
+<!--<div class="space"><p align="center"><img align="middle" width="60%" height="60%" class="image" src="../pics/143/p34_e1.png"/></p></div>-->
 
 <div class="space">
 <p align="center">
@@ -40,7 +40,7 @@ $$\underbrace{\dfrac{5,303\thinspace км}{x\thinspace -\thinspace 60\thinspace 
 
 <p>Зведемо всі доданки до спільного знаменника:</p>
 
-<div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/143/p34_e2.png"/></p></div>
+<!--<div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/143/p34_e2.png"/></p></div>-->
 
 <table style="border: none;" class="none">
 <tr>
@@ -70,7 +70,7 @@ N \neq 0
 
 <p>Почнемо з <b>першої умови</b> і розв’язуємо рівняння з чисельника:</p>
 
-<div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/143/p34_e3.png"/></p></div>
+<!--<div class="space"><p align="center"><img align="middle" width="80%" height="80%" class="image" src="../pics/143/p34_e3.png"/></p></div>-->
 
 <table style="border: none;" class="none">
 <tr>
@@ -108,9 +108,3 @@ N \neq 0
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/e4AS2kZnHk0" frameborder="0" allowfullscreen></iframe></div>
-
-
-
-
-
-

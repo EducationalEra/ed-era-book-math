@@ -106,8 +106,8 @@
 <p>при $$a = \dfrac{2}{5}: \quad x = -\dfrac{5}{7};$$</p>
 <p>при $$a = 1: \quad x = -\dfrac{9}{2};$$</p>
 <p>при $$a = 4: \quad x = -\dfrac{1}{5};$$</p>
-<p>при $$a \notin \left\{-2;-1;-\dfrac{1}{2};\dfrac{2}{4};1;4 \right\}: \quad x_1 = \dfrac{-1}{a+1}, x_2 = \dfrac{3}{a-1}.$$</p></div>
-   </div>
+<p>при $$a \notin \left\{-2;-1;-\dfrac{1}{2};\dfrac{2}{4};1;4 \right\}: \quad x_1 = \dfrac{-1}{a+1}, x_2 = \dfrac{3}{a-1}.$$</p> 
+  </div>
   <div class="tab-pane" id="hide1"></div>
 </div>
 </p>    
