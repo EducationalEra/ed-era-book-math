@@ -102,7 +102,7 @@
 </ul>
 <div id="mytab" class="tab-content">
     <div class="tab-pane" id="decision">
-<br> 
+<p><b><i>Розв’язок.</i> </b> </p>
 <p>Шукаємо дискримінант: $$D = (-5)^2 - 4\cdot1\cdot6 = 25 - 24 = 1 > 0$$, отже рівняння має два дійсних корені:</p>
 <p align="center">$$x_1 = \dfrac{5 + \sqrt{1}}{2} = 3$$; $$x_2 = \dfrac{5 - \sqrt{1}}{2} = 2.$$</p>
     </div>
@@ -125,7 +125,7 @@
 
 <div id="pr1" class="tab-content">
   <div class="tab-pane" id="decision1">
-<br>
+<p><b><i>Розв’язок.</i> </b> </p>
 <p>Шукаємо дискримінант: $$D = (4)^2 - 4\cdot1\cdot4 = 16 - 16 = 0$$, отже, рівняння має один дійсний корінь:</p>
 <p align="center">$$x = \dfrac{-4}{2\cdot1} = -2.$$</p>
     </div>
@@ -147,7 +147,7 @@
 
 <div id="pr2" class="tab-content">
     <div class="tab-pane" id="decision2">
-<br>
+<p><b><i>Розв’язок.</i> </b> </p>
 <p>Шукаємо дискримінант: $$D = (2)^2 - 4\cdot3\cdot1 = 4 - 12 = -8 < 0$$, отже, рівняння не має дійсних коренів.</p>
     </div>
     <div class="tab-pane" id="answer2"> 

@@ -23,6 +23,7 @@
 </ul>
 <div id="mytab" class="tab-content">
     <div class="tab-pane" id="decision">
+<p><b><i>Розв’язок.</i> </b> </p>
 <p>Логарифмуємо обидві частини рівності та користуємось основними тотожностями:</p>
 <p align="center">$$\log_{a}x=\log_{a}25a\dfrac{b^2}{c}=\log_{a}25 + \log_{a}a + \log_{a}{b^2} - \log_{a}c=2\log_{a}5+2\log_{a}b-\log_{a}c + 1.$$</p>
     </div>
@@ -73,6 +74,7 @@ b(x)>0.
 
 <div id="pr1" class="tab-content">
   <div class="tab-pane" id="decision1">
+<p><b><i>Розв’язок.</i> </b> </p>
 <p>Зводимо праву частину, щоб уся була під знаком логарифма:</p>
 <p align="center">$$2\log_{2}x=\ln24-3\ln a+6\ln b \Rightarrow \log_{2}x=\dfrac{1}{2}\ln24-\dfrac{3}{2}\ln a+\dfrac{6}{2}\ln b;$$</p>
 <p align="center">$$\log_{2}x=\ln{\sqrt{24}}-\ln{a^{\frac{3}{2}}}+\ln{b^3} \Rightarrow \log_{2}x=\ln{b^3}\sqrt{\dfrac{24}{a^3}}.$$</p>

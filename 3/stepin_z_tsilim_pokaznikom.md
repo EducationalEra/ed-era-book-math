@@ -5,7 +5,7 @@
 <span class="eoz">Визначення</span>
 <div class="eoz-text">
 <p><b>Степенем числа $$a$$</b> з натуральним показником $$n$$ $$(n>1)$$ називають вираз $$a^n$$, що дорівнює добутку $$n$$ множників, кожен з яких рівний $$a$$.</p> 
-<p align="center">$$a^n = \underbrace{a\cdot a\cdot\dots \cdot a}_{n\thinspace\mbox{разів}},\thinspace\mbox{де}\thinspace n \thinspace\in \thinspace \mathbb{N}.$$</p>
+<p align="center">$$a^n = \underbrace{a\cdot a\cdot\dots \cdot a}_{n\thinspace\mbox{разів}},\thinspace\mbox{де}\thinspace \mbox{n} \thinspace\in \thinspace \mathbb{N}.$$</p>
 </div>
 </div>
 </div>
@@ -48,33 +48,33 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Знайдіть значення виразу: $$7^3$$</p>
-        <answer>$$249$$</answer>
-        <answer correct>$$343$$</answer>
-        <answer>$$49$$</answer>
-        <answer>$$81$$</answer>
-        <answer>$$7$$</answer>
+        <answer> $$249$$</answer>
+        <answer correct> $$343$$</answer>
+        <answer> $$49$$</answer>
+        <answer> $$81$$</answer>
+        <answer> $$7$$</answer>
         <explanation>
         Значення даного виразу знаходимо наступним чином:<br>$$7^3 = 7\cdot7\cdot7 = 49\cdot7 = 343$$
         </explanation>
     </question>
     <question text="">
         <p>Знайдіть значення виразу: $$4^{-2}$$</p>
-        <answer>$$16$$</answer>
-        <answer>$$-16$$</answer>
-        <answer correct>$$\dfrac{1}{16}$$</answer>
-        <answer>$$-\dfrac{1}{16}$$</answer>
-        <answer>$$64$$</answer>
+        <answer> $$16$$</answer>
+        <answer> $$-16$$</answer>
+        <answer correct> $$\dfrac{1}{16}$$</answer>
+        <answer> $$-\dfrac{1}{16}$$</answer>
+        <answer> $$64$$</answer>
         <explanation>
         Значення даного виразу знаходимо наступним чином:<br> $$4^{-2}=\dfrac{1}{4^2}=\dfrac{1}{4\cdot4}=\dfrac{1}{16}$$
         </explanation>
     </question>
     <question text="">
         <p>Знайдіть значення виразу: $$(2^3)^2$$</p>
-        <answer>$$16$$</answer>
-        <answer>$$8$$</answer>
-        <answer correct>$$64$$</answer>
-        <answer>$$80$$</answer>
-        <answer>$$16$$</answer>
+        <answer> $$16$$</answer>
+        <answer> $$8$$</answer>
+        <answer correct> $$64$$</answer>
+        <answer> $$80$$</answer>
+        <answer> $$16$$</answer>
         <explanation>
         Значення даного виразу знаходимо наступним чином:<br> $$(2^3)^2=(2\cdot2\cdot2)^2=(4\cdot2)^2=8^2=8\cdot8=64$$
         </explanation>

@@ -41,12 +41,13 @@
 
 <div id="mytab" class="tab-content">
   <div class="tab-pane" id="decision">
+<p><b><i>Розв’язок.</i> </b> </p>
 <p>а) Представляємо перший доданок у вигляді квадрату деякого виразу $$X$$: $$ 16x^6=$$<br>$$=(4x^3 )^2,$$ тоді $$X=4x^3.$$</p>
 <p>б) Шукаємо вираз $$Y$$ з другого доданку, представивши його у вигляді $$2XY$$: $$40x^3 y=2\cdot(4x^3 )\cdot(5y),$$ тоді $$Y=5y$$.</p>
 <p>в-г) Додаємо та віднімаємо $$Y^2=(5y)^2=25y^2,$$ після чого групуємо доданки, щоб утворити повний квадрат та скористатись формулою різниці квадратів:</p>
 <p>$$16x^6 + 40x^3 y - 11y^2 + 25y^2 - 25y^2 = (16x^6 + 40x^3 y + 25y^2) - 11y^2 - 25y^2 = $$<br>$$ = (4x^3 + 5y)^2 - 36y^2 = (4x^3 + 5y - 6y)(4x^3 + 5y + 6y) = (4x^3 - y)(4x^3 + 11y).$$</p>
   </div>
-  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b>$$(4x^3-y)(4x^3+11y).$$</p></div>
+  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b> $$(4x^3-y)(4x^3+11y).$$</p></div>
   <div class="tab-pane" id="hide"></div>
 </div>
 </p>
@@ -82,12 +83,13 @@
 
 <div id="mytab1" class="tab-content">
   <div class="tab-pane" id="decision1">
+<p><b><i>Розв’язок.</i> </b> </p>
 <p>Знайдемо корені рівняння $$3x^2-12x-15=0:$$</p>
 <p align="center">$$x_{1,2} = - \dfrac{-12 \pm \sqrt{(-12)^2 -4\cdot3\cdot(-15)}}{2\cdot 3} = \dfrac{12 \mp \sqrt{324}}{6} = \dfrac{12 \mp 18}{6} \Rightarrow \begin{cases} x_1 = -1; \\ x_2 = 5. \end{cases}.$$</p>
 <p>Отже, скориставшись формулою розкладу маємо: $$3x^2-12x-15=3(x+1)(x-5)$$.</p>
 
   </div>
-  <div class="tab-pane" id="answer1"><p><b>Вiдповiдь.</b>$$3(x+1)(x-5).$$</p></div>
+  <div class="tab-pane" id="answer1"><p><b>Вiдповiдь.</b> $$3(x+1)(x-5).$$</p></div>
   <div class="tab-pane" id="hide1"></div>
 </div>
 </p>

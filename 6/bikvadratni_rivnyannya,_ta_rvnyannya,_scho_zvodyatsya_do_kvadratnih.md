@@ -76,7 +76,7 @@
 <p>З першого рівняння маємо $$x_{1,2} = \pm 2$$, а з другого — $$x_{3,4} = \pm 1$$.</p>
     </div>
   <div class="tab-pane" id="answer1"> 
-<p><b>Відповідь.</b>$$x \in \{\pm 1; \pm2\}$$.</p>
+<p><b>Відповідь.</b> $$x \in \{\pm 1; \pm2\}$$.</p>
     </div>
   <div class="tab-pane" id="hide1"></div>
 </div>

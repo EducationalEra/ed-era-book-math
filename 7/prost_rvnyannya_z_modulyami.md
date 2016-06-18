@@ -39,7 +39,8 @@ g(x)\geq0.
 </ul>
 <div id="mytab" class="tab-content">
     <div class="tab-pane" id="decision">
-<p><b><i>Розв'язок.</i></b>Скористаємось ланцюжком рівносильних переходів:</p>
+<p><b><i>Розв’язок.</i> </b> </p>
+<p>Скористаємось ланцюжком рівносильних переходів:</p>
 <p align="center">$$|3x-5|=8x-1 \Longleftrightarrow \begin{cases}
 			\left[ \begin{gathered}
 			3x-5=8x-1, \hfill \\

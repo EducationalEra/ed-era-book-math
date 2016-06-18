@@ -58,6 +58,7 @@
 </ul>
 <div id="mytab" class="tab-content">
     <div class="tab-pane" id="decision">
+<p><b><i>Розв’язок.</i> </b> </p>
 <p>a) $$\dfrac{25}{\sqrt[6]{x^2+x+1}}=\dfrac{25\cdot\sqrt[6]{(x^2+x+1)^5}}{\sqrt[6]{x^2+x+1}\cdot\sqrt[6]{(x^2+x+1)^5}}=\dfrac{25\cdot\sqrt[6]{(x^2+x+1)^5}}{x^2+x+1}$$;</p>
 <p>б) $$\dfrac{\sqrt x}{\sqrt{x}+1}=\dfrac{\sqrt{x}\cdot(\sqrt{x}-1)}{(\sqrt{x}+1)\cdot(\sqrt{x}-1)}=\dfrac{\sqrt{x}\cdot(\sqrt{x}-1)}{x-1}$$;</p>
 <p>в) $$\dfrac{x}{\sqrt[3]{2x+5}+3} = \dfrac{x}{\sqrt[3]{2x+5}+\sqrt[3]{27}} = \dfrac{x\cdot(\sqrt[3]{(2x+5)^2}-\sqrt[3]{27(2x+5)}+\sqrt[3]{27^2})}{(\sqrt[3]{2x+5}+\sqrt[3]{27})\cdot(\sqrt[3]{(2x+5)^2}-\sqrt[3]{27(2x+5)}+\sqrt[3]{27^2})} =$$</p>

@@ -48,23 +48,23 @@
 
 <table style="border: none;" class="none">
 <tr>
-<td>$$\dfrac{x-3}{x^2+4x+3} + \dfrac{1}{x+1} = - \dfrac{x}{x+3}$$</td>
+<td align="center">$$\dfrac{x-3}{x^2+4x+3} + \dfrac{1}{x+1} = - \dfrac{x}{x+3}$$</td>
 <td><i><font color="1570bd">Вихідне рівняння</font></i></td>
 </tr>
 <tr>
-<td>$$\dfrac{x-3}{x^2+4x+3} + \dfrac{1}{x+1} + \dfrac{x}{x+3} = 0$$</td>
+<td align="center">$$\dfrac{x-3}{x^2+4x+3} + \dfrac{1}{x+1} + \dfrac{x}{x+3} = 0$$</td>
 <td><font color="1570bd"><i>Додаємо $$\dfrac{x}{x+3}$$ до обох частин та спрощуємо</i></font></td>
 </tr>
 <tr>
-<td>$$\dfrac{x-3+x+3+(x+1)x}{\color{#1570bd}(\color{#1570bd}x\color{#1570bd}+\color{#1570bd}3\color{#1570bd})\color{#1570bd}(\color{#1570bd}x\color{#1570bd}+\color{#1570bd}1\color{#1570bd})} = 0$$</td>
+<td align="center">$$\dfrac{x-3+x+3+(x+1)x}{\color{#1570bd}(\color{#1570bd}x\color{#1570bd}+\color{#1570bd}3\color{#1570bd})\color{#1570bd}(\color{#1570bd}x\color{#1570bd}+\color{#1570bd}1\color{#1570bd})} = 0$$</td>
 <td><font color="1570bd"><i>Зводимо до спільного знаменника</i></font></td>
 </tr>
 <tr>
-<td>$$\dfrac{\color{#1570bd}x^\color{#1570bd}2\color{#1570bd}+\color{#1570bd}3\color{#1570bd}x}{(x+3)(x+1)} = 0$$</td>
+<td align="center">$$\dfrac{\color{#1570bd}x^\color{#1570bd}2\color{#1570bd}+\color{#1570bd}3\color{#1570bd}x}{(x+3)(x+1)} = 0$$</td>
 <td><font color="1570bd"><i>Спрощуємо</i></font></td>
 </tr>
 <tr>
-<td>$$\dfrac{\color{#1570bd}x(x+3)}{(x+3)(x+1)} = 0$$</td>
+<td align="center">$$\dfrac{\color{#1570bd}x(x+3)}{(x+3)(x+1)} = 0$$</td>
 <td><font color="1570bd"><i>Виносимо $$x$$ в чисельнику за дужки</i></font></td>
 </tr>
 </table>
@@ -73,11 +73,11 @@
 
 <table style="border: none;" class="none">
 <tr>
-<td>$$x(x+3) = 0$$</td>
+<td align="center">$$x(x+3) = 0$$</td>
 <td><i><font color="1570bd">Вихідне рівняння</font></i></td>
 </tr>
 <tr>
-<td>$$\left[
+<td align="center">$$\left[
     \begin{array}{}
         x = 0 \\
         x + 3 = 0
@@ -86,7 +86,7 @@
 <td><font color="1570bd"><i>Добуток множників рівний нулю записати як сукупність множників, кожен з яких рівний нулю</i></font></td>
 </tr>
 <tr>
-<td>$$\left[
+<td align="center">$$\left[
     \begin{array}{}
         x = 0 \\
         x + 3 \color{#1570bd}- \color{#1570bd}3 = 0 \color{#1570bd}- \color{#1570bd}3
@@ -95,7 +95,7 @@
 <td><font color="1570bd"><i>У другому рівнянні віднімемо $$3$$ від обох частин</i></font></td>
 </tr>
 <tr>
-<td>$$\left[
+<td align="center">$$\left[
     \begin{array}{}
         x_1 = 0 \\
         x_2 = - 3
@@ -143,23 +143,23 @@
 
 <table style="border: none;" class="none">
 <tr>
-<td>$$\dfrac{\dfrac{x^2 - 14x + 2}{\color{#1570bd}x}}{\dfrac{x^2 + 4x + 2}{\color{#1570bd}x}} + 1 = \dfrac{\dfrac{5x}{\color{#1570bd}x}}{\dfrac{x^2-3x+2}{\color{#1570bd}x}}$$</td>
+<td align="center">$$\dfrac{\dfrac{x^2 - 14x + 2}{\color{#1570bd}x}}{\dfrac{x^2 + 4x + 2}{\color{#1570bd}x}} + 1 = \dfrac{\dfrac{5x}{\color{#1570bd}x}}{\dfrac{x^2-3x+2}{\color{#1570bd}x}}$$</td>
 <td><i><font color="1570bd">Ділимо чисельник і знаменник дробів на $$x$$</font></i></td>
 </tr>
 <tr>
-<td>$$\dfrac{\color{#1570bd}x - 14 + \dfrac{\color{#1570bd}2}{\color{#1570bd}x}}{\color{#1570bd}x + 4 + \dfrac{\color{#1570bd}2}{\color{#1570bd}x}} + 1 = \dfrac{5}{\color{#1570bd}x-3+\dfrac{\color{#1570bd}2}{\color{#1570bd}x}}$$</td>
+<td align="center">$$\dfrac{\color{#1570bd}x - 14 + \dfrac{\color{#1570bd}2}{\color{#1570bd}x}}{\color{#1570bd}x + 4 + \dfrac{\color{#1570bd}2}{\color{#1570bd}x}} + 1 = \dfrac{5}{\color{#1570bd}x-3+\dfrac{\color{#1570bd}2}{\color{#1570bd}x}}$$</td>
 <td><font color="1570bd"><i>Спрощуємо</i></font></td>
 </tr>
 <tr>
-<td>$$\dfrac{t-14}{t+4} + 1 = \dfrac{5}{t-3}$$</td>
+<td align="center">$$\dfrac{t-14}{t+4} + 1 = \dfrac{5}{t-3}$$</td>
 <td><font color="1570bd"><i>Робимо заміну $$t= x + \dfrac{2}{x}$$</i></font></td>
 </tr>
 <tr>
-<td>$$\dfrac{t-14}{t+4} + 1 - \dfrac{5}{t-3} = 0$$</td>
+<td align="center">$$\dfrac{t-14}{t+4} + 1 - \dfrac{5}{t-3} = 0$$</td>
 <td><font color="1570bd"><i>Збираємо всі доданки в лівій частині</i></font></td>
 </tr>
 <tr>
-<td>$$\dfrac{2t^2 - 21t + 10}{(t-3)(t+4)} = 0$$</td>
+<td align="center">$$\dfrac{2t^2 - 21t + 10}{(t-3)(t+4)} = 0$$</td>
 <td><font color="1570bd"><i>Зводимо до спільного знаменника та спрощуємо</i></font></td>
 </tr>
 </table>
@@ -168,19 +168,19 @@
 
 <table style="border: none;" class="none">
 <tr>
-<td>$$2t^2 - 21t + 10 = 0$$</td>
+<td align="center">$$2t^2 - 21t + 10 = 0$$</td>
 <td><i><font color="1570bd">Вихідне рівняння</font></i></td>
 </tr>
 <tr>
-<td>$$D = (-21)^2 - 4 \cdot 2 \cdot 10 = 441 - 80 = 361$$</td>
+<td align="center">$$D = (-21)^2 - 4 \cdot 2 \cdot 10 = 441 - 80 = 361$$</td>
 <td><font color="1570bd"><i>Шукаємо дискримінант</i></font></td>
 </tr>
 <tr>
-<td>$$t_{1,2} = \dfrac{21 \pm \sqrt{361}}{2 \cdot 2} = \dfrac{21 \pm 19}{4}$$</td>
+<td align="center">$$t_{1,2} = \dfrac{21 \pm \sqrt{361}}{2 \cdot 2} = \dfrac{21 \pm 19}{4}$$</td>
 <td><font color="1570bd"><i>Дискримінант додатний, шукаємо корені</i></font></td>
 </tr>
 <tr>
-<td>$$\left[
+<td align="center">$$\left[
     \begin{array}{}
         t_1 = 10, \\
         t_2 = \dfrac{1}{2}
@@ -200,24 +200,24 @@ x + \dfrac{2}{x} = \dfrac{1}{2} \hfill \\
 <p>Оскільки раніше ми вже перевірили, що $$x\neq0$$ – можемо спокійно домножити обидві частини рівнянь на $$x$$ та розв’язати отримані квадратні рівняння:</p>
 <table>
 <tr>
-<td>$$\left(x + \dfrac{2}{x} \right)\cdot x=10\cdot x$$</td>
-<td>$$\left(x + \dfrac{2}{x} \right)\cdot x= \dfrac{1}{2}\cdot x$$</td>
+<td align="center">$$\left(x + \dfrac{2}{x} \right)\cdot x=10\cdot x$$</td>
+<td align="center">$$\left(x + \dfrac{2}{x} \right)\cdot x= \dfrac{1}{2}\cdot x$$</td>
 </tr>
 <tr>
-<td>$$x^2+2=10x$$</td>
-<td>$$x^2+2=\dfrac{x}{2}$$</td>
+<td align="center">$$x^2+2=10x$$</td>
+<td align="center">$$x^2+2=\dfrac{x}{2}$$</td>
 </tr>
 <tr>
-<td>$$x^2-10x+2=0$$</td>
-<td>$$x^2-\dfrac{x}{2}+2=0$$</td>
+<td align="center">$$x^2-10x+2=0$$</td>
+<td align="center">$$x^2-\dfrac{x}{2}+2=0$$</td>
 </tr>
 <tr>
-<td>$$D=(-10)^2-4\cdot1\cdot2=92>0$$</td>
-<td>$$D=\left(-\dfrac{1}{2} \right)^2-4\cdot1\cdot2=-\dfrac{31}{4}<0$$</td>
+<td align="center">$$D=(-10)^2-4\cdot1\cdot2=92>0$$</td>
+<td align="center">$$D=\left(-\dfrac{1}{2} \right)^2-4\cdot1\cdot2=-\dfrac{31}{4}<0$$</td>
 </tr>
 <tr>
-<td>$$x_{1,2}=\dfrac{10\pm\sqrt{92}}{2}=5\pm\sqrt{23}$$</td>
-<td>$$x \in \emptyset$$</td>
+<td align="center">$$x_{1,2}=\dfrac{10\pm\sqrt{92}}{2}=5\pm\sqrt{23}$$</td>
+<td align="center">$$x \in \emptyset$$</td>
 </tr>
 </table>
 <p>Отже, вихідне рівняння має корені $$x_{1,2}=5\pm\sqrt{23}$$.</p>

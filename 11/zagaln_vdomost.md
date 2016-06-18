@@ -48,7 +48,7 @@ $$\underbrace{\dfrac{5,303\thinspace км}{x\thinspace -\thinspace 60\thinspace 
 <td><i><font color="1570bd">Вихідне рівняння</font></i></td>
 </tr>
 <tr>
-<td align="center">$$\dfrac{5,303}{x-60} - \dfrac{5,303}{x} \color{#1570bd}- \dfrac{\color{#1570bd}47\color{#1570bd},\color{#1570bd}3}{\color{#1570bd}3\color{#1570bd}6\color{#1570bd}0\color{#1570bd}0} = \dfrac{47,3}{3600} \color{#1570bd}- \dfrac{\color{#1570bd}47\color{#1570bd},\color{#1570bd}3}{\color{#1570bd}3\color{#1570bd}6\color{#1570bd}0\color{#1570bd}0}$$</td>
+<td align="center">$$\dfrac{5,303}{x-60} - \dfrac{5,303}{x} \color{#1570bd}- \dfrac{\color{#1570bd}4\color{#1570bd}7\color{#1570bd},\color{#1570bd}3}{\color{#1570bd}3\color{#1570bd}6\color{#1570bd}0\color{#1570bd}0} = \dfrac{47,3}{3600} \color{#1570bd}- \dfrac{\color{#1570bd}4\color{#1570bd}7\color{#1570bd},\color{#1570bd}3}{\color{#1570bd}3\color{#1570bd}6\color{#1570bd}0\color{#1570bd}0}$$</td>
 <td><font color="1570bd"><i>Віднімаємо $$\dfrac{47,3}{3600}$$ від обох частин</i></font></td>
 </tr>
 <tr>

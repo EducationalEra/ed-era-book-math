@@ -7,7 +7,7 @@
 
 <div class="space">
 <p align="center">
-$$\underbrace{40}_{абонентська \thinspace плата\\ \thinspace 40 \thinspace грн/міс}$$ $$\underbrace{+}_{плюс}$$ $$\underbrace{0,05x}_{х \thinspace використаних \thinspace МБ\\ \thinspace вартістю \thinspace 5 \thinspace коп/МБ}$$ $$\underbrace{\leq}_{мають \thinspace складати\\ \thinspace не \thinspace більше \thinspace ніж}$$ $$\underbrace{75}_{75 \thinspace грн}$$
+$$\underbrace{40}_{\textit{абонентська} \thinspace \textit{плата}\\ \thinspace 40 \thinspace \textit{грн}/\textit{міс}}$$ $$\underbrace{+}_{\textit{плюс}}$$ $$\underbrace{0,05x}_{\textit{х} \thinspace \textit{використаних} \thinspace \textit{МБ}\\ \thinspace \textit{вартістю} \thinspace 5 \thinspace \textit{коп/МБ}}$$ $$\underbrace{\leq}_{\textit{мають} \thinspace \textit{складати}\\ \thinspace \textit{не} \thinspace \textit{більше} \thinspace \textit{ніж}}$$ $$\underbrace{75}_{75 \thinspace \textit{грн}}$$
 </p>
 </div>
 
@@ -57,7 +57,7 @@ $$\underbrace{40}_{абонентська \thinspace плата\\ \thinspace 40 
 <div class="space"></div>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/p14_4.png"/></p></div>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/p14_5.png"/></p></div>
-<li>Якщо інтервал необмежений з однієї сторони, його називають <b>нескінченним</b>. Наприклад, інтервал $$[a,\infty)$$ відповідає нерівності $$x\geq a$$, а інтервал $$(-\infty,b)$$ – нерівності $$x<b$$.</li>
+<li>Якщо інтервал необмежений з однієї сторони, його називають <b>нескінченним</b>. Наприклад, інтервал $$[a,\infty)$$ відповідає нерівності $$x\geq a$$, а інтервал $$(-\infty,b)$$ – нерівності $$x< b$$.</li>
 <div class="space"></div>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/p14_6.png"/></p></div>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/p14_7.png"/></p></div>
@@ -85,12 +85,12 @@ $$\underbrace{40}_{абонентська \thinspace плата\\ \thinspace 40 
 <div class="eoz-wrap">
 <span class="eoz">Визначення</span>
 <div class="eoz-text">
-<b>Алгебраїчна нерівність</b> — це співвідношення вигляду $$f(x) > 0$$ або $$f(x)<0$$ або $$f(x) \geq 0$$ або $$f(x) \leq 0$$, де $$f(x)$$ – деяка дійсна функція від змінної $$x$$.
+<b>Алгебраїчна нерівність</b> — це співвідношення вигляду $$f(x) > 0$$ або $$f(x)< 0$$ або $$f(x) \geq 0$$ або $$f(x) \leq 0$$, де $$f(x)$$ – деяка дійсна функція від змінної $$x$$.
 </div>
 </div>
 </div>
 
-<p><i>Наприклад:</i> $$x<2; 4x^2-8x\leq x^3; \sqrt{x}<6x.$$</p>
+<p><i>Наприклад:</i> $$x< 2; 4x^2-8x\leq x^3; \sqrt{x}< 6x.$$</p>
 
 <p>В загальному випадку розв'язання нерівностей дуже схоже на розв'язання рівнянь: використовують рівносильні переходи до простіших у розв'язанні нерівностей. Відмінності полягають у тому, що часто множина розв'язків є необмеженою. Наприклад, $$x \in (2;+\infty)$$. В такому випадку повністю перевірити всі значення неможливо, і важливо при цьому користуватись <b>лише рівносильними переходами</b>, пам'ятаючи, що <b>ОДЗ повинна залишатись незмінною</b>.</p>
 

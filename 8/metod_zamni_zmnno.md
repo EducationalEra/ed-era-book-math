@@ -29,6 +29,7 @@ x\cdot y = v.
 
 <div id="pr1" class="tab-content">
   <div class="tab-pane" id="decision1">
+<p><b><i>Розв’язок.</i> </b> </p>
 <p>Зробимо заміну змінних: $$\begin{cases}
 		x + y = u,\\
 		x\cdot y = v.
@@ -120,6 +121,7 @@ x\cdot y = v.
 </ul>
 <div id="mytab" class="tab-content">
     <div class="tab-pane" id="decision">
+<p><b><i>Розв’язок.</i> </b> </p>
 <p>Робимо рівносильні переходи:</p>
 <p align="center">$$\begin{cases}
 			x^4 + x^2 = 92 - y^4 - y^2,\\

@@ -72,6 +72,7 @@
 </ul>
 <div id="mytab" class="tab-content">
   <div class="tab-pane" id="decision">
+<p><b><i>Розв’язок.</i> </b> </p>
     <p>$$504 = 2 \cdot 2 \cdot 2 \cdot 3 \cdot 3 \cdot 7 = 2^3 \cdot 3^2 \cdot 7;$$</p>
     <p>$$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
     <p>Виписуємо найменшi степенi спiльних множникiв та перемножимо:</p>
@@ -163,6 +164,7 @@
 
 <div id="pr1" class="tab-content">
   <div class="tab-pane" id="decision1">
+<p><b><i>Розв’язок.</i> </b> </p>
 <p>$$504 = 2 \cdot 2 \cdot 2 \cdot 3 \cdot 3 \cdot 7 = 2^3 \cdot 3^2 \cdot 7;$$</p>
 <p>$$180 = 2 \cdot 2 \cdot 3 \cdot 3 \cdot 5 = 2^2 \cdot 3^2 \cdot 5.$$</p>
 <p>Виписуємо найбiльшi степенi всiх множникiв та перемножимо:</p>

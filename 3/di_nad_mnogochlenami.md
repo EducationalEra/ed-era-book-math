@@ -216,24 +216,26 @@ tr {border-color:transparent;border-width:0px !important; background-color: tran
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Знайдіть суму двох многочленів: $$(-3a^2b + 4ab + a) - (-3a^2b + 18ab + a - 5b)$$</p>
-        <answer>$$2a + b$$</answer>
-        <answer>$$-14ab + 2a + 5b$$</answer>
-        <answer correct>$$-14ab + 5b$$</answer>
-        <answer>$$2a + 5b + 6a^b$$</answer>
-        <answer>$$6a^2b + 5b$$</answer>
+        <answer> $$2a + b$$</answer>
+        <answer> $$-14ab + 2a + 5b$$</answer>
+        <answer correct> $$-14ab + 5b$$</answer>
+        <answer> $$2a + 5b + 6a^b$$</answer>
+        <answer> $$6a^2b + 5b$$</answer>
         <explanation>
         <p>$$(-3a^2b + 4ab + a) -$$$$ (-3a^2b +18ab + a - 5b) =$$$$ -3a^2b + 4ab + a +$$$$ 3a^2b - 18ab - a +$$$$ 5b = -14ab + 5b$$</p>
         </explanation>
     </question>
     <question text="">
         <p>Знайдіть добуток двох многочленів: $$(xy^2 - x + y)\cdot(x^2y + 2x - 5y)$$</p>
-        <answer>$$x^3y^3-5xy^3-x^3y-2x^2-5y^2$$</answer>
-        <answer correct>$$x^3y^3+3x^2y^2+7xy-5xy^3-x^3y-2x^2-5y^2$$</answer>
-        <answer>$$x^3y^3+3x^2y^2+7xy-5xy^3-x^3y-2x^2$$</answer>
-        <answer>$$5x^3y^3+3x^2y^2-7xy-5xy^3-x^3y-2x^2-5y^2$$</answer>
-        <answer>$$x^3y^3+3x^2y^2+7xy-5xy^3+x^3y-2x^2+y^2$$</answer>
+        <answer> $$x^3y^3-5xy^3-x^3y-2x^2-5y^2$$</answer>
+        <answer correct> $$x^3y^3+3x^2y^2+7xy-5xy^3-x^3y-2x^2-5y^2$$</answer>
+        <answer> $$x^3y^3+3x^2y^2+7xy-5xy^3-x^3y-2x^2$$</answer>
+        <answer> $$5x^3y^3+3x^2y^2-7xy-5xy^3-x^3y-2x^2-5y^2$$</answer>
+        <answer> $$x^3y^3+3x^2y^2+7xy-5xy^3+x^3y-2x^2+y^2$$</answer>
         <explanation>
-        <p>$$(xy^2 - x + y)\cdot(x^2y + 2x - 5y) = xy^2\cdot x^2y + xy^2\cdot2x + xy^2\cdot(-5y) - x\cdot x^2y - x\cdot2x -$$</p><p>$$- x\cdot(-5y) + y\cdot x^2y + y\cdot2x + y\cdot(-5y) = x^3y^3 + 2x^2y^2 - 5xy^3 - x^3y - 2x^2 + 5xy +$$</p> <p>$$+ x^2y^2+ 2xy - 5y^2 = x^3y^3 + 3x^2y^2 + 7xy - 5xy^3 - x^3y - 2x^2 - 5y^2$$</p>
+        <p>$$(xy^2 - x + y)\cdot(x^2y + 2x - 5y) = xy^2\cdot x^2y + xy^2\cdot2x + xy^2\cdot(-5y) - x\cdot x^2y - x\cdot2x -$$</p>
+        <p>$$- x\cdot(-5y) + y\cdot x^2y + y\cdot2x + y\cdot(-5y) = x^3y^3 + 2x^2y^2 - 5xy^3 - x^3y - 2x^2 + 5xy +$$</p> 
+        <p>$$+ x^2y^2+ 2xy - 5y^2 = x^3y^3 + 3x^2y^2 + 7xy - 5xy^3 - x^3y - 2x^2 - 5y^2$$</p>
         </explanation>
     </question>
 </quiz>

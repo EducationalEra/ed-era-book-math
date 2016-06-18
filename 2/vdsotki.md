@@ -45,7 +45,9 @@
 <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
 </ul>
 <div id="mytab" class="tab-content">
-  <div class="tab-pane" id="decision"><p>Маса солi у $$50 \%$$ розчинi: $$10\cdot50\% = 10\cdot0,5=5$$(<i>г</i>). $$10 \%$$ розчин мiстить $$90 \%$$ води. Складаємо пропорцiю для нового розчину, $$x$$ – маса води у новому $$10 \%$$ розчинi:
+  <div class="tab-pane" id="decision">
+<p><b><i>Розв’язок.</i> </b> </p>
+<p>Маса солi у $$50 \%$$ розчинi: $$10\cdot50\% = 10\cdot0,5=5$$(<i>г</i>). $$10 \%$$ розчин мiстить $$90 \%$$ води. Складаємо пропорцiю для нового розчину, $$x$$ – маса води у новому $$10 \%$$ розчинi:
 </p>
 
 <p align="center">$$\left. \begin{array}{l}
@@ -90,22 +92,22 @@ x\quad—\quad90\%
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Отже, в обох пробірках по $$20$$ мл води. В першу додали $$7$$ грамів солі, в третю - $$2$$ грами.</br>Яким вийшов перший розчин?</p>
-        <answer>$$20,6\%$$</answer>
-        <answer correct>$$25,9\%$$</answer>
-        <answer>$$35,0\%$$</answer>
-        <answer>$$44,2\%$$</answer>
-        <answer>$$53,8\%$$</answer>
+        <answer> $$20,6\%$$</answer>
+        <answer correct> $$25,9\%$$</answer>
+        <answer> $$35,0\%$$</answer>
+        <answer> $$44,2\%$$</answer>
+        <answer> $$53,8\%$$</answer>
     <explanation>
     Загальна маса першого розчину з сіллю і водою складає $$20+7=27$$ г. Для того, щоб знайти відсоток солі у розчині необхідно масу солі розділити на масу розчину: $$7:27\approx0,259=25,9\%$$
     </explanation>
         </question>
     <question text="">
         <p>Яким вийшов третій розчин?</p>
-        <answer>$$8,3\%$$</answer>
-        <answer correct>$$9,1\%$$</answer>
-        <answer>$$10,0\%$$</answer>
-        <answer>$$10,9\%$$</answer>
-        <answer>$$11,1\%$$</answer>
+        <answer> $$8,3\%$$</answer>
+        <answer correct> $$9,1\%$$</answer>
+        <answer> $$10,0\%$$</answer>
+        <answer> $$10,9\%$$</answer>
+        <answer> $$11,1\%$$</answer>
     <explanation>
    Загальна маса третього розчину з сіллю і водою складає $$20+2=22$$ г. Для того, щоб знайти відсоток солі у розчині необхідно масу солі розділити на масу розчину: $$2:22\approx0,091=9,1\%$$
     </explanation>

@@ -10,7 +10,7 @@
 
 Модуль, або абсолютна величина дійсного числа $$a$$, – <span class="p1">невід’ємна величина</span>, яка позначається наступним чином:
 
-<div class="space"><p align="center">$$ |a| = \begin{cases} \,\,\,\,\,a,\,\,\, a\geq 0;\\ -a,\,\,\, a<0. \end{cases}$$</p></div>
+<div class="space"><p align="center">$$ |a| = \begin{cases} \,\,\,\,\,a,\,\,\, a\geq 0;\\ -a,\,\,\, a< 0. \end{cases}$$</p></div>
 
 <div class="space"><i>Наприклад:</i> $$|0| = 0; |-1| = 1; |\pi-4| = 4-\pi$$.</div>
 
@@ -22,9 +22,9 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Обчисліть значення виразу $$|\dfrac{\pi}{2} + 2|-|\dfrac{3\pi}{2} - 4|$$</p>
-        <answer>$$0$$</answer>
-        <answer>$$-6$$</answer>
-        <answer correct>$$6 - \pi$$</answer>
-        <answer>$$\pi + 1$$</answer>
+        <answer> $$0$$</answer>
+        <answer> $$-6$$</answer>
+        <answer correct> $$6 - \pi$$</answer>
+        <answer> $$\pi + 1$$</answer>
 </question>
 </quiz>

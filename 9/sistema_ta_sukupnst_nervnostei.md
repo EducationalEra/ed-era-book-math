@@ -217,7 +217,7 @@ $$</p>
 <p><b><i>Розв’язок.</i></b></p>
 <p>Розв’язуємо кожну з нерівностей окремо:</p>
 <table>
-<td>
+<td align="center">
 $$\begin{eqnarray} 
 5x+2(1-x) &\geq& x+5 \nonumber\\ 
 5x+2-2x &\geq& x+5 \nonumber\\ 
@@ -225,7 +225,7 @@ $$\begin{eqnarray}
 x &\geq& \dfrac{3}{2} \nonumber 
 \end{eqnarray}$$
 </td>
-<td>
+<td align="center">
 $$\begin{eqnarray} 
 \dfrac{x}{2}+5 &>& -2(5+x)\nonumber\\ 
 \dfrac{x}{2}+5 &>& -10-2x\nonumber\\ 
@@ -268,7 +268,7 @@ x+2\leq8-3(x+1),\\
 <p><b><i>Розв’язок.</i></b></p>
 <p>Розв’язуємо кожну з нерівностей окремо:</p>
 <table>
-<td>
+<td align="center">
 $$\begin{eqnarray} 
 x+2 &\leq& 8-3(x+1) \nonumber\\ 
 x+2 &\leq& 8-3x-3 \nonumber\\ 
@@ -276,7 +276,7 @@ x+2 &\leq& 8-3x-3 \nonumber\\
 x &\leq& \dfrac{3}{4} \nonumber 
 \end{eqnarray}$$
 </td>
-<td>
+<td align="center">
 $$\begin{eqnarray} 
 5x-2 &>& 1-x\nonumber\\ 
 6x &>& 3\nonumber\\ 

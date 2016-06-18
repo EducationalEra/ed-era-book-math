@@ -31,6 +31,7 @@
 
 <div id="mytab" class="tab-content">
   <div class="tab-pane" id="decision">
+<p><b><i>Розв’язок.</i> </b> </p>
 <p>Для першого знаменника $$\sqrt{7}$$ доповнюючим виразом буде $$\sqrt{7}$$, бо $$\sqrt{7}\cdot\sqrt{7}=7$$ — раціональний вираз. Для другого знаменника $$\sqrt[3]{10}$$ доповнюючим виразом буде $$\sqrt[3]{10^2}$$, бо  $$\sqrt[3]{10}\cdot\sqrt[3]{10^2}=10$$ — раціональний вираз.</p>
 <p>Таким чином:</p>
 <p align="center">$$\dfrac{1}{\sqrt7}+\dfrac{25}{\sqrt[3]{10}}=\dfrac{1\cdot\sqrt7}{\sqrt7\cdot\sqrt7}+\dfrac{25\cdot\sqrt[3]{10^2}}{\sqrt[3]{10}\cdot\sqrt[3]{10^2}}=\dfrac{\sqrt7}{7}+\dfrac{5\sqrt[3]{10^2}}{10}.$$</p>

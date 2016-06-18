@@ -53,18 +53,18 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Зведіть подібні доданки: $$3x^2y-2xy^2-2x^2y+3xy^2$$</p>
-        <answer>$$x^2y-xy^2$$</answer>
-        <answer>$$3x^2y+2xy^2$$</answer>
-        <answer>$$3x^2y-2xy^2$$</answer>
-        <answer>$$-2x^2y+3xy^2$$</answer>
-        <answer correct>$$x^2y+xy^2$$</answer>
+        <answer> $$x^2y-xy^2$$</answer>
+        <answer> $$3x^2y+2xy^2$$</answer>
+        <answer> $$3x^2y-2xy^2$$</answer>
+        <answer> $$-2x^2y+3xy^2$$</answer>
+        <answer correct> $$x^2y+xy^2$$</answer>
     </question>
     <question text="">
         <p>Зведіть подібні доданки: $$4a^2b^2c + 4a^3 - 2a^2b^2c - 4a^3 + 8abc^3 + 5a^2b^2c - 16abc^3$$</p>
-        <answer>$$2a^2b^2c-16abc^3$$</answer>
-        <answer correct>$$7a^2b^2c-8abc^3$$</answer>
-        <answer>$$7a^2b^2c$$</answer>
-        <answer>$$4a^3$$</answer>
-        <answer>$$3a^2b^2c+5abc^3$$</answer>
+        <answer> $$2a^2b^2c-16abc^3$$</answer>
+        <answer correct> $$7a^2b^2c-8abc^3$$</answer>
+        <answer> $$7a^2b^2c$$</answer>
+        <answer> $$4a^3$$</answer>
+        <answer> $$3a^2b^2c+5abc^3$$</answer>
     </question>
 </quiz>

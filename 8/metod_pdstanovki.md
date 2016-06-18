@@ -33,6 +33,7 @@ y = f(x).
 </ul>
 <div id="mytab" class="tab-content">
     <div class="tab-pane" id="decision">
+<p><b><i>Розв’язок.</i> </b> </p>
 <p>З першого рівняння виражаємо $$x$$ через $$y$$: $$x + y = 1 \Longleftrightarrow x = 1 - y.$$</p>
 <p>Підставляємо цей вираз у друге рівняння:</p>
 <p align="center">$$(1 - y)^2 - y^2 = 2y \Longleftrightarrow 1 - 2y + y^2 - y^2 = 2y \Longleftrightarrow 1 - 2y = 2y \Longleftrightarrow y = \dfrac{1}{4}.$$</p>
