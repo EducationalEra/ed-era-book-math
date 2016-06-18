@@ -8,7 +8,7 @@
 
 <div class="space">
 <p align="center">
-$$\underbrace{40}_{абонентська \thinspace плата \thinspace 40 \thinspace грн/міс}$$ $$\underbrace{+}_{плюс}$$ $$\underbrace{0,05x}_{х \thinspace використаних \thinspace МБ \thinspace вартістю \thinspace 5 \thinspace коп/МБ}$$ $$\underbrace{\leq}_{мають \thinspace складати \thinspace не \thinspace більше \thinspace ніж}$$ $$\underbrace{75}_{75 \thinspace грн}$$
+$$\underbrace{40}_{абонентська \thinspace плата \\ \thinspace 40 \thinspace грн/міс}$$ $$\underbrace{+}_{плюс}$$ $$\underbrace{0,05x}_{х \thinspace використаних \thinspace МБ \\ \thinspace вартістю \thinspace 5 \thinspace коп/МБ}$$ $$\underbrace{\leq}_{мають \thinspace складати \\ \thinspace не \thinspace більше \thinspace ніж}$$ $$\underbrace{75}_{75 \thinspace грн}$$
 </p>
 </div>
 
