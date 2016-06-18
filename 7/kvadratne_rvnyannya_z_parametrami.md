@@ -83,7 +83,7 @@
 </ul>
     </div>
   <div class="tab-pane" id="answer1">
-<p><b>Відповідь.</b>при $$a\in(-\infty;-1]$$: $$x\in\emptyset;$$</p>
+<p><b>Відповідь.</b> при $$a\in(-\infty;-1]$$: $$x\in\emptyset;$$</p>
 <p>при $$a\in\{1\}$$: $$x=\dfrac{1}{4};$$</p>
 <p>при $$a\in(-1;1)\cup(1;+\infty)$$: $$x_{1,2}=\dfrac{a+1\pm\sqrt{2(a+1)}}{1-a^2}.$$</p>
    </div>

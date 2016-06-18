@@ -61,7 +61,7 @@
 			\right.$$
 </p>
     </div>
-    <div class="tab-pane" id="answer"> <p><b>Відповідь.</b>$$\{1,5; 2; 3; 3,5\}.$$</p>
+    <div class="tab-pane" id="answer"> <p><b>Відповідь.</b> $$\{1,5; 2; 3; 3,5\}.$$</p>
     </div>
     <div class="tab-pane" id="hide"></div>
 </div>
@@ -114,7 +114,7 @@
 <p>$$x_3 = \dfrac{-3 + \sqrt{5}}{2}; x_4 = \dfrac{-3 - \sqrt{5}}{2}.$$</p>
     </div>
     <div class="tab-pane" id="answer1"> 
-<p><b>Відповідь.</b>$$\{\dfrac{-3 \pm \sqrt{21}}{2};\dfrac{-3 \pm \sqrt{5}}{2}\}$$</p>
+<p><b>Відповідь.</b> $$\{\dfrac{-3 \pm \sqrt{21}}{2};\dfrac{-3 \pm \sqrt{5}}{2}\}$$</p>
    </div>
   <div class="tab-pane" id="hide1"></div>
 </div>

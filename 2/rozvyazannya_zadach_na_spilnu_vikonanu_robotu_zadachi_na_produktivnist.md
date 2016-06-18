@@ -67,11 +67,11 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>За який час менша труба самостійно заповний весь резервуар? (відповідь округліть до найближчого цілого числа)</p>
-        <answer>57 c</answer>
-        <answer>109 c</answer>
-        <answer>237 c</answer>
-        <answer correct>119 c</answer>
-        <answer>432 c</answer>
+        <answer> 57 c</answer>
+        <answer> 109 c</answer>
+        <answer> 237 c</answer>
+        <answer correct> 119 c</answer>
+        <answer> 432 c</answer>
     <explanation>
     <p>Нехай $$V$$ — об'єм склянки. $$t$$ — час заповнення великою трубкою, який складає $$38,77$$ <i>с</i>, $$x$$ — час заповнення малою трубкою. Тоді $$S_B = \dfrac{V}{t}$$ — швидкість заповнення великою трубкою, а $$S_M = \dfrac{V}{x}$$ — швидкість заповнення малою трубкою.</p>
     <p>Мала трубка заповнює частину об'єму за час $$38,77$$ <i>с</i>, іншу частину цього об'єму трубки заповнюють разом за $$19,71$$ <i>с</i>.<br>З цих даних складаємо рівняння:</p>

@@ -6,6 +6,11 @@
 
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/p41_1.png"/></p></div>
 
+
+<p>
+$$\underbrace{40}_{абонентська плата 40 грн/міс}$$ $$\underbrace{+}_{плюс}$$ $$\underbrace{0,05x}_{х використаних МБ вартістю 5 коп/МБ}$$ $$\underbrace{\leq}_{мають складати не більше ніж}$$ $$\underbrace{75}_{75 грн}$$
+</p> 
+
 <div class="space">
 <div class="eoz-wrap">
 <span class="eoz">Визначення</span>
