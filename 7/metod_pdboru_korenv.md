@@ -42,6 +42,15 @@
 <span class="task">Приклад</span>
 <div class="task-text">
 <p>Розв’язати рівняння $$2x^4 + 11x^3 - 2x^2 - 41x - 30 = 0$$.</p>
+
+<p>
+<ul class="nav-tab" id="mytab">
+    <button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+    <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+    <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+    <div class="tab-pane" id="decision">
 <p><b><i>Розв'язок.</i></b></p>
 <ol>
 <li>Знаходимо множину дільників вільного доданка $$-30$$ : $$\pm1$$, $$\pm2$$, $$\pm3$$, $$\pm5$$, $$\pm6$$, $$\pm10$$, $$\pm15$$, $$\pm30$$.</li>
@@ -132,17 +141,23 @@
 <p>Таким чином всі корені знайдені, а многочлен $$P(x)$$ можна записати як:</p>
 <p align="center">$$P(x)=(x+1)(x-2)(x+1,5)(x+5).$$</p></li>
 </ol>
-<p><b>Відповідь.</b>$$\{-5; -1,5; -1; 2\}$$.</p>
+    </div>
+    <div class="tab-pane" id="answer"> <p><b>Відповідь.</b> $$\{-5; -1,5; -1; 2\}$$.</p>
+	</div>
+    <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Яке з наведених чисел НЕ МОЖЕ бути коренем рівняння $$x^3-6x^2+11x-6$$?</p>
-        <answer correct>$$0$$</answer>
-        <answer>$$1$$</answer>
-        <answer>$$2$$</answer>
-        <answer>$$3$$</answer>
+        <answer correct> $$0$$</answer>
+        <answer> $$1$$</answer>
+        <answer> $$2$$</answer>
+        <answer> $$3$$</answer>
         </question>
 </quiz>

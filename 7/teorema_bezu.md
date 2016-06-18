@@ -72,17 +72,17 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Якою буде остача від ділення $$x^4+3x^3-4x^2-10$$ на $$x-2$$?</p>
-        <answer>$$-4$$</answer>
-        <answer>$$-2$$</answer>
-        <answer correct>$$14$$</answer>
-        <answer>$$11$$</answer>
+        <answer> $$-4$$</answer>
+        <answer> $$-2$$</answer>
+        <answer correct> $$14$$</answer>
+        <answer> $$11$$</answer>
         <explanation>
         Перший член частки $$x^3$$, тоді маємо:
-        $$5x^3-4x^2-10.$$
+        $$5x^3-4x^2-10.$$<br>
         Другий член частки $$5x^2$$, тоді маємо:
-        $$6x^2-10.$$
+        $$6x^2-10.$$<br>
         Третій член частки $$6x$$, тоді маємо:
-        $$12x-10.$$
+        $$12x-10.$$<br>
         Четвертий член частки $$12$$, тоді маємо остачу: $$14.$$
         </explanation>
         </question>

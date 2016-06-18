@@ -17,6 +17,14 @@
 <span class="task">Приклад</span>
 <div class="task-text">
 <p>Знайти значення параметра $$a$$, за яких рівняння $$(1-a)x^2+2ax+3-a=0$$ має тільки один корінь.</p>
+<p>
+<ul class="nav-tab" id="mytab">
+    <button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+    <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+    <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+    <div class="tab-pane" id="decision">
 <p><b><i>Розв'язок.</i></b></p>
 <p>Знайдемо «контрольні» значення параметра $$a$$, за яких коефіцієнт при $$x^2$$ стане рівним нулеві:</p>
 <p align="center">$$1-a=0\Longleftrightarrow a=1.$$</p>
@@ -26,16 +34,32 @@
 <p align="center">$$D=(2a)^2-4\cdot(1-a)\cdot(3-a)= 4a^2-(3-3a-a+a^2)=4(4a-3).$$</p>
 <p>Дискримінант рівний нулеві за іншого «контрольного» значення параметра $$a=\dfrac{3}{4}$$.</p>
 <p>Саме коли $$D=0$$ рівняння теж має один корінь.</p>
+    </div>
+    <div class="tab-pane" id="answer">
 <p><b>Відповідь.</b> $$a=\dfrac{3}{4}$$ або $$a=1$$.</p>
+    </div>
+    <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
 <p>Розв’язати рівняння $$(1-a^2)x^2-2(a+1)x=1$$.</p>
+<p>
+<ul class="nav-tab" id="pr1">
+<button class="btn" data-target="#decision1" data-toggle="tab">Розв’язок</button>
+<button class="btn" data-target="#answer1" data-toggle="tab">Вiдповiдь</button>
+<button class="btn" data-target="#hide1" data-toggle="tab">Приховати</button>
+</ul>
+
+<div id="pr1" class="tab-content">
+  <div class="tab-pane" id="decision1">
 <p><b><i>Розв'язок.</i></b></p>
 <p>Знайдемо «контрольні» значення параметра $$a$$, за яких коефіцієнт при $$x^2$$ стане рівним нулеві:</p>
 <p align="center">$$1-a^2=0\Longleftrightarrow a=\pm1.$$</p>
@@ -57,9 +81,16 @@
 <li><p>$$a<-1\Longrightarrow D<0$$, і рівняння дійсних коренів не має: $$x\in\emptyset$$.</p>
 <p>У відповіді об’єднаємо це з випадком $$a=-1$$, де теж $$x\in\emptyset.$$</p></li>
 </ul>
-<p><b>Відповідь.</b>при $$a\in(-\infty;-1]: x\in\emptyset;$$</p>
-<p>при $$a\in\{1\}: x=\dfrac{1}{4};$$</p>
-<p>при $$a\in(-1;1)\cup(1;+\infty): x_{1,2}=\dfrac{a+1\pm\sqrt{2(a+1)}}{1-a^2}.$$</p>
+    </div>
+  <div class="tab-pane" id="answer1">
+<p><b>Відповідь.</b>при $$a\in(-\infty;-1]$$: $$x\in\emptyset;$$</p>
+<p>при $$a\in\{1\}$$: $$x=\dfrac{1}{4};$$</p>
+<p>при $$a\in(-1;1)\cup(1;+\infty)$$: $$x_{1,2}=\dfrac{a+1\pm\sqrt{2(a+1)}}{1-a^2}.$$</p>
+   </div>
+  <div class="tab-pane" id="hide1"></div>
+</div>
+</p>    
 </div>
 </div>
 </div>
+<div class="space"></div>

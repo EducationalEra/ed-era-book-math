@@ -23,6 +23,14 @@
 <span class="task">Приклад</span>
 <div class="task-text">
 <p>Розв’язати рівняння $$|x+1|-|x+3|+|2-x|=4$$.</p>
+<p>
+<ul class="nav-tab" id="mytab">
+    <button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+    <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+    <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+    <div class="tab-pane" id="decision">
 <p><b><i>Розв'язок.</i></b></p>
 <p>Йдемо по пунктах алгоритму для методу інтервалів:</p>
 <ol>
@@ -81,17 +89,24 @@
 <p>$$x=8\in(2;+\infty),$$ тому є коренем.</p></li>
 </ul></li>
 </ol>
-<p><b>Відповідь.</b>$$\{-2; 8\}$$.</p>
+    </div>
+    <div class="tab-pane" id="answer">
+<p><b>Відповідь.</b> $$\{-2; 8\}$$.</p>
+    </div>
+    <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
-        <p>На якому числовому проміжку всі підмодульні вирази рівняння $$|2x+2|+|x−1|−|5+x|−|2−x|=10$$ є невід'ємними?</p>
-        <answer>$$(-\infty;-5)$$</answer>
-        <answer correct>$$(1;2]$$</answer>
-        <answer>$$(-1;1]$$</answer>
-        <answer>$$(2;\infty)$$</answer>
+        <p>На якому числовому проміжку всі підмодульні вирази рівняння $$|2x+2|+|x−1|−|5+x|−|2−x|=10$$ є невід’ємними?</p>
+        <answer> $$(-\infty;-5)$$</answer>
+        <answer correct> $$(1;2]$$</answer>
+        <answer> $$(-1;1]$$</answer>
+        <answer> $$(2;\infty)$$</answer>
         </question>
 </quiz>

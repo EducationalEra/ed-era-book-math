@@ -34,7 +34,7 @@
     <div class="tab-pane" id="decision">
 <p>Продивимось «проблемні» зони цього виразу – знаменники, вони не повинні бути рівними нулеві. Із першого множника чисельника $$\left(x-\dfrac{3}{x}\right)$$ знаходимо, що $$x\neq 0,$$ вносимо цей вираз до ОДЗ. Із загального знаменника бачимо, що $$x^2-9\neq 0.$$ Розкладаємо на множники: $$(x-3)(x+3)\neq 0.$$ Отже, $$x\neq \pm 3,$$ вносимо це до ОДЗ. Загалом, маємо ОДЗ: $$x\neq 0, \pm 3.$$</p>
     </div>
-    <div class="tab-pane" id="answer"><p> <b>Вiдповiдь.</b>$$x\neq 0, \pm 3.$$ </p>
+    <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b> $$x\neq 0, \pm 3.$$ </p>
     </div>
     <div class="tab-pane" id="hide"></div>
 </div>
@@ -105,7 +105,7 @@
 	   x=6.
 	   \end{cases}$$</p>
     </div>
-  <div class="tab-pane" id="answer1"> <p> <b>Вiдповiдь.</b>$$\begin{cases}	x=-5;\\ x=6. \end{cases}$$</p>
+  <div class="tab-pane" id="answer1"><p> <b>Вiдповiдь.</b> $$\begin{cases}	x=-5;\\ x=6. \end{cases}$$</p>
    </div>
   <div class="tab-pane" id="hide1"></div>
 </div>

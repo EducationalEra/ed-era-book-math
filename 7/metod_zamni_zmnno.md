@@ -26,7 +26,15 @@
 <span class="task">Приклад</span>
 <div class="task-text">
 <p>Розв’язати рівняння $$(2x-5)^4-5(2x-5)^2+4=0$$.</p>
-<p><b><i>Розв'язок.</i></b> Покладемо $$t=(2x-5)^2$$, тоді вихідне рівняння зводиться до:</p>
+<p>
+<ul class="nav-tab" id="mytab">
+    <button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+    <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+    <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+    <div class="tab-pane" id="decision">
+<p><b><i>Розв'язок.</i></b><br>Покладемо $$t=(2x-5)^2$$, тоді вихідне рівняння зводиться до:</p>
 <p align="center">$$t^2-5t+4=0.$$</p>
 <p>За т. Вієта, $$t_1 + t_2=5;t_1\cdot t_2=4$$. Ці умови задовольняють корені: $$t_1=1; t_2=4$$.</p>
 <p>Тепер, повернувшись до вихідної змінної, потрібно розв’язати сукупність рівнянь:</p>
@@ -52,10 +60,16 @@
 			\end{gathered}
 			\right.$$
 </p>
-<p><b>Відповідь.</b>$$\{1,5; 2; 3; 3,5\}.$$</p>
+    </div>
+    <div class="tab-pane" id="answer"> <p><b>Відповідь.</b>$$\{1,5; 2; 3; 3,5\}.$$</p>
+    </div>
+    <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/PSqWe4i7WAM" frameborder="0" allowfullscreen></iframe>
@@ -71,7 +85,16 @@
 <span class="task">Приклад</span>
 <div class="task-text">
 <p>Розв’язати рівняння $$(x-1)(x+2)(x+4)(x+1)=-5$$.</p>
-<p><b><i>Розв'язок.</i></b> Розкриємо дужки, групуючи перший множник з третім та другий з останнім. Рівняння набуде вигляду:</p>
+<p>
+<ul class="nav-tab" id="pr1">
+<button class="btn" data-target="#decision1" data-toggle="tab">Розв’язок</button>
+<button class="btn" data-target="#answer1" data-toggle="tab">Вiдповiдь</button>
+<button class="btn" data-target="#hide1" data-toggle="tab">Приховати</button>
+</ul>
+
+<div id="pr1" class="tab-content">
+  <div class="tab-pane" id="decision1">
+<p><b><i>Розв'язок.</i></b><br>Розкриємо дужки, групуючи перший множник з третім та другий з останнім. Рівняння набуде вигляду:</p>
 <p align="center">$$(x^2+3x-4)(x^2+3x+2)=-5.$$</p>
 <p>Робимо заміну $$t=x^2+3x$$, отримуємо таке рівняння:</p>
 <p align="center">$$(t-4)(t+2)=-5 \Longleftrightarrow t^2-2t-3=0.$$</p>
@@ -89,18 +112,25 @@
 <p>Переходимо до другого рівняння: $$x^2+3x+1=0$$.</p>
 <p>Шукаємо дискримінант: $$D=(3)^2 - 4\cdot1\cdot1 = 5 > 0$$, отже, рівняння має два дійсних корені:</p>
 <p>$$x_3 = \dfrac{-3 + \sqrt{5}}{2}; x_4 = \dfrac{-3 - \sqrt{5}}{2}.$$</p>
+    </div>
+    <div class="tab-pane" id="answer1"> 
 <p><b>Відповідь.</b>$$\{\dfrac{-3 \pm \sqrt{21}}{2};\dfrac{-3 \pm \sqrt{5}}{2}\}$$</p>
+   </div>
+  <div class="tab-pane" id="hide1"></div>
+</div>
+</p>    
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Якою заміною скористатись при розв’язанні рівняння $$11x^4-12=4(9-3x^3)$$?</p>
-        <answer correct>$$t=x^2$$</answer>
-        <answer>$$t=−x$$</answer>
-        <answer>$$t=x^4$$</answer>
-        <answer>$$t=-2x^3$$</answer>
+        <answer correct> $$t=x^2$$</answer>
+        <answer> $$t=−x$$</answer>
+        <answer> $$t=x^4$$</answer>
+        <answer> $$t=-2x^3$$</answer>
         </question>
 </quiz>

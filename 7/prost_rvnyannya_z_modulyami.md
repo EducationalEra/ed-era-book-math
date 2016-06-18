@@ -31,6 +31,14 @@ g(x)\geq0.
 <span class="task">Приклад</span>
 <div class="task-text">
 <p>Розв’язати рівняння $$|3x-5|=8x-1$$.</p>
+<p>
+<ul class="nav-tab" id="mytab">
+    <button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+    <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+    <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+    <div class="tab-pane" id="decision">
 <p><b><i>Розв'язок.</i></b>Скористаємось ланцюжком рівносильних переходів:</p>
 <p align="center">$$|3x-5|=8x-1 \Longleftrightarrow \begin{cases}
 			\left[ \begin{gathered}
@@ -58,17 +66,24 @@ g(x)\geq0.
 			\end{cases} \Longleftrightarrow  x=\dfrac{6}{11}.$$
 </p>
 <p>Було розв’язано два рівняння та знайдено їхні корені $$x_1=-\dfrac{4}{5};x_2=\dfrac{6}{11}$$. Після цього був відібраний лише один корінь $$x=\dfrac{6}{11}$$, щоб задовольнити означення модуля.</p>
+    </div>
+    <div class="tab-pane" id="answer">
 <p><b>Відповідь.</b>$$\dfrac{6}{11}$$.</p>
+    </div>
+    <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Яке з чисел є коренем рівняння $$|x-3|=4x+6$$?</p>
-        <answer>$$x=0$$</answer>
-        <answer>$$x=\dfrac{2}{3}$$</answer>
-        <answer>$$x=-1$$</answer>
-        <answer correct>$$x=-\dfrac{3}{5}$$</answer>
+        <answer> $$x=0$$</answer>
+        <answer> $$x=\dfrac{2}{3}$$</answer>
+        <answer> $$x=-1$$</answer>
+        <answer correct> $$x=-\dfrac{3}{5}$$</answer>
         </question>
 </quiz>
