@@ -182,7 +182,7 @@
 </ol>
     </div>
   <div class="tab-pane" id="answer1">
-<b>Вiдповiдь.</b> Отже, $$x \in (-2;2) \cup (3;\infty)$$.
+<p><b>Вiдповiдь.</b> Отже, $$x \in (-2;2) \cup (3;\infty)$$.</p>
    </div>
   <div class="tab-pane" id="hide1"></div>
 </div>
@@ -227,7 +227,6 @@
 <p>До речі, два останніх інтервали можна об’єднати, тому $$x \in (-\infty;-3] \cup [1;\infty)$$.</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_12.png"/></p> </div>
 </ol>
-
     </div>
   <div class="tab-pane" id="answer2">
 <p><b>Вiдповiдь.</b> Отже, $$x \in (-\infty;-3] \cup [1;\infty)$$. </p>
