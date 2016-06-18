@@ -89,7 +89,15 @@ f(x)<-g(x).
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
-<b>Межі коливання середньої місячної температури повітря за $$2013$$ рік в м. Києві описуються такою нерівністю: $$|T-8,65|\leq 12,95$$. Знайдіть максимальне та мінімальне значення середньої місячної температури у $$2013$$ році.</b>
+<p> <b>Межі коливання середньої місячної температури повітря за $$2013$$ рік в м. Києві описуються такою нерівністю: $$|T-8,65|\leq 12,95$$. Знайдіть максимальне та мінімальне значення середньої місячної температури у $$2013$$ році.</b> </p>
+<p>
+<ul class="nav-tab" id="mytab">
+    <button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+    <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+    <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+    <div class="tab-pane" id="decision">
 <p><b><i>Розв’язок.</i></b></p>
 <p>Позбавляємося значка модуля:</p>
 <p align="center">$$|T-8,65|\leq 12,95\Longleftrightarrow-12,95\leq T-8,65\leq 12,95$$</p>
@@ -112,16 +120,32 @@ f(x)<-g(x).
 <p>Зображаємо це на числовій прямій:</p>
 <p align="center">$$T \in [-4,3;21,6]$$</p>
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_34.png"/></p></div>
-<p><b>Вiдповiдь.</b>$$T_{min}=-4,3; T_{max}=21,6.$$</p>
+    </div>
+    <div class="tab-pane" id="answer">
+<p><b>Вiдповiдь.</b> $$T_{min}=-4,3; T_{max}=21,6.$$</p>
+    </div>
+    <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
-<b>Розв’язати нерівність: $$|5-2(x+1)|>x-1$$.</b>
+<p><b>Розв’язати нерівність: $$|5-2(x+1)|>x-1$$.</b> </p>
+<p>
+<ul class="nav-tab" id="pr1">
+<button class="btn" data-target="#decision1" data-toggle="tab">Розв’язок</button>
+<button class="btn" data-target="#answer1" data-toggle="tab">Вiдповiдь</button>
+<button class="btn" data-target="#hide1" data-toggle="tab">Приховати</button>
+</ul>
+
+<div id="pr1" class="tab-content">
+  <div class="tab-pane" id="decision1">
 <p><b><i>Розв’язок.</i></b></p>
 <p>Позбавляємося значка модуля:</p>
 <p align="center">$$|5-2(x+1)|>x-1\Longleftrightarrow\left[\begin{gathered} 
@@ -164,18 +188,25 @@ f(x)<-g(x).
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_35.png"/></p></div>
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_36.png"/></p></div>
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_37.png"/></p></div>
-<p><b>Вiдповiдь.</b>$$x \in \left(-\infty;\dfrac{4}{3}\right)\cup(2;\infty).$$</p>
+    </div>
+  <div class="tab-pane" id="answer1">
+<p><b>Вiдповiдь.</b> $$x \in \left(-\infty;\dfrac{4}{3}\right)\cup(2;\infty).$$</p>
+   </div>
+  <div class="tab-pane" id="hide1"></div>
+</div>
+</p>    
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
  <question text="">
         <p>Розв'яжіть нерівність: $$|x−5|>4$$</p>
-        <answer correct>$$(-\infty;1)\cup(9;\infty)$$</answer>
-        <answer>$$(-\infty;1)\cap(9;\infty)$$</answer>
-        <answer>$$(1;9)$$</answer>
-        <answer>$$(-\infty;\infty)$$</answer>
+        <answer correct> $$(-\infty;1)\cup(9;\infty)$$</answer>
+        <answer> $$(-\infty;1)\cap(9;\infty)$$</answer>
+        <answer> $$(1;9)$$</answer>
+        <answer> $$(-\infty;\infty)$$</answer>
         <explanation>
         <p>Розкриємо модуль з додатним знаком:</p>
         <p>$$x-5>4$$</p>

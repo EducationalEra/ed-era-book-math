@@ -26,6 +26,14 @@
 <span class="task">Приклад</span>
 <div class="task-text">
 <b>Знайти об’єднання та перетин інтервалів $$[1;7]$$ і $$(5;9)$$.</b>
+<p>
+<ul class="nav-tab" id="mytab">
+    <button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+    <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+    <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+    <div class="tab-pane" id="decision">
 <p><b><i>Розв’язок.</i></b></p>
 <p>Зобразимо інтервали на числовій прямій:</p>
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_13.png"/></p></div>
@@ -36,16 +44,32 @@
 <p>Для знаходження перетину потрібно взяти ті частини прямої, які належать першому <b>i</b> другому (обом одночасно) інтервалам.</p>
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_16.png"/></p></div>
 <p>Отже, $$[1;7] \cap (5;9) = (5;7]$$.</p>
-<p><b>Вiдповiдь.</b>$$[1;9), (5;7].$$</p>
+    </div>
+    <div class="tab-pane" id="answer">
+<p><b>Вiдповiдь.</b> $$[1;9), (5;7].$$</p>
+    </div>
+    <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
 <b>Знайти значення змінної $$x$$, якщо вона повинна задовольняти умови: $$\begin{eqnarray}\dfrac{x}{2} - 1 > 0 & або & -\dfrac{1}{4}(x+1) > 0 \nonumber \end{eqnarray}$$</b>
+<p>
+<ul class="nav-tab" id="pr1">
+<button class="btn" data-target="#decision1" data-toggle="tab">Розв’язок</button>
+<button class="btn" data-target="#answer1" data-toggle="tab">Вiдповiдь</button>
+<button class="btn" data-target="#hide1" data-toggle="tab">Приховати</button>
+</ul>
+
+<div id="pr1" class="tab-content">
+  <div class="tab-pane" id="decision1">
 <p><b><i>Розв’язок.</i></b></p>
 <p>Розв’яжемо окремо два рівняння з умови, а потім знайдемо об’єднання (<b>або</b>) отриманих розв’язків.</p>
 <p align="center">$$\begin{eqnarray} 
@@ -59,16 +83,32 @@
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_18.png"/></p></div>
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_19.png"/></p></div>
 <p>Отже, значення змінної $$x$$ повинно лежати у межах $$(-\infty,-1) \cup (2,\infty)$$ щоб задовольнити умови.</p>
-<p><b>Вiдповiдь.</b>$$(-\infty,-1) \cup (2,\infty).$$</p>
+    </div>
+  <div class="tab-pane" id="answer1">
+<p><b>Вiдповiдь.</b> $$(-\infty,-1) \cup (2,\infty).$$</p>
+   </div>
+  <div class="tab-pane" id="hide1"></div>
+</div>
+</p>    
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
 <b>Знайти значення змінної $$x$$, якщо вона повинна задовольняти умови:</b> $$\begin{eqnarray} -3(x-5)\leq 6 & i & x-2<5 \nonumber \end{eqnarray}$$</p>
+<p>
+<ul class="nav-tab" id="pr2">
+<button class="btn" data-target="#decision2" data-toggle="tab">Розв’язок</button>
+<button class="btn" data-target="#answer2" data-toggle="tab">Вiдповiдь</button>
+<button class="btn" data-target="#hide2" data-toggle="tab">Приховати</button>
+</ul>
+
+<div id="pr2" class="tab-content">
+  <div class="tab-pane" id="decision2">
 <p><b><i>Розв’язок.</i></b></p>
 <p>Розв’яжемо окремо два рівняння з умови, а потім знайдемо перетин (<b>i</b>) отриманих розв’язків.</p>
 <p align="center">$$\begin{eqnarray} -3(x-5)\leq 6 & i & x-2<5 \nonumber \\
@@ -83,10 +123,17 @@
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_21.png"/></p></div>
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_22.png"/></p></div>
 <p>Отже, значення змінної $$x$$ повинно лежати в межах $$[3,7)$$, щоб задовольнити умови.</p>
-<p><b>Вiдповiдь.</b>$$[3,7).$$</p>
+    </div>
+  <div class="tab-pane" id="answer2">
+<p><b>Вiдповiдь.</b> $$[3,7).$$</p>
+   </div>
+  <div class="tab-pane" id="hide2"></div>
+</div>
+</p>    
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <div class="space">
 <div class="ebio-wrap">
@@ -158,6 +205,15 @@ $$</p>
 5x+2(1-x) \geq x+5,\\ 
 \dfrac{x}{2}+5>-2(5+x). 
 \end{cases}$$</b>
+<p>
+<ul class="nav-tab" id="pr3">
+<button class="btn" data-target="#decision3" data-toggle="tab">Розв’язок</button>
+<button class="btn" data-target="#answer3" data-toggle="tab">Вiдповiдь</button>
+<button class="btn" data-target="#hide3" data-toggle="tab">Приховати</button>
+</ul>
+
+<div id="pr3" class="tab-content">
+  <div class="tab-pane" id="decision3">
 <p><b><i>Розв’язок.</i></b></p>
 <p>Розв’язуємо кожну з нерівностей окремо:</p>
 <table>
@@ -180,10 +236,17 @@ x &>& -6\nonumber
 </table>
 <p>Залишилося зобразити розв’язки на числовій прямій та знайти їхній перетин.</p>
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_23.png"/></p></div>
-<p><b>Вiдповiдь.</b>$$x \in \left[\dfrac{3}{2};\infty\right).$$</p>
+    </div>
+  <div class="tab-pane" id="answer3">
+<p><b>Вiдповiдь.</b> $$x \in \left[\dfrac{3}{2};\infty\right).$$</p>
+   </div>
+  <div class="tab-pane" id="hide3"></div>
+</div>
+</p>    
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <div class="space">
 <div class="task-wrap">
@@ -193,6 +256,15 @@ x &>& -6\nonumber
 x+2\leq8-3(x+1),\\ 
 5x-2>1-x. 
 \end{gathered}\right.$$</b>
+<p>
+<ul class="nav-tab" id="pr4">
+<button class="btn" data-target="#decision4" data-toggle="tab">Розв’язок</button>
+<button class="btn" data-target="#answer4" data-toggle="tab">Вiдповiдь</button>
+<button class="btn" data-target="#hide4" data-toggle="tab">Приховати</button>
+</ul>
+
+<div id="pr4" class="tab-content">
+  <div class="tab-pane" id="decision4">
 <p><b><i>Розв’язок.</i></b></p>
 <p>Розв’язуємо кожну з нерівностей окремо:</p>
 <table>
@@ -216,10 +288,17 @@ x &>& \dfrac{1}{2}\nonumber
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_24.png"/></p></div>
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_25.png"/></p></div>
 <div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/p14_26.png"/></p></div>
-<p><b>Вiдповiдь.</b>$$x \in \mathbb{R}.$$</p>
+    </div>
+  <div class="tab-pane" id="answer4">
+<p><b>Вiдповiдь.</b> $$x \in \mathbb{R}.$$</p>
+   </div>
+  <div class="tab-pane" id="hide4"></div>
+</div>
+</p>    
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
  <question text="">
@@ -228,10 +307,10 @@ $$\begin{cases}
 4x-6(x-1)<2x+3\\
 6(x-1)-x>4
 \end{cases}$$</p>
-        <answer correct>$$x>\dfrac{9}{4}$$</answer>
-        <answer>$$x>2$$</answer>
-        <answer>$$x<-2$$</answer>
-        <answer>$$x<0$$</answer>
+        <answer correct> $$x>\dfrac{9}{4}$$</answer>
+        <answer> $$x>2$$</answer>
+        <answer> $$x<-2$$</answer>
+        <answer> $$x<0$$</answer>
         <explanation>
         <p>Спростимо систему нерівностей:</p>
         <p>$$\begin{cases}
@@ -256,10 +335,10 @@ $$\begin{cases}
 x<4-3x-2(1-x)\\
 7x+4>1+x-3(4x-1)
 \end{cases}$$</p>
-        <answer>$$x \in [0;1]$$</answer>
-        <answer>$$x \in (0;-1)$$</answer>
-        <answer>$$x >0$$</answer>
-        <answer correct>$$x \in (0;1)$$</answer>
+        <answer> $$x \in [0;1]$$</answer>
+        <answer> $$x \in (0;-1)$$</answer>
+        <answer> $$x >0$$</answer>
+        <answer correct> $$x \in (0;1)$$</answer>
         <explanation>
         <p>Спростимо систему нерівностей:</p>
         <p>$$\begin{cases}

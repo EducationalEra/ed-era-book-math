@@ -71,7 +71,7 @@
 </ul>
 <div id="mytab" class="tab-content">
     <div class="tab-pane" id="decision">
-<b><i>Розв’язок</i></b>.</p>
+<p><b><i>Розв’язок</i></b>.</p>
 <p>Спрощувати тут вже нема чого, всі доданки з $$x$$ в лівій частині, вільні доданки – у правій. Переходимо відразу до пункту <b>$$3$$</b>: необхідно розділити обидві частини нерівності на коефіцієнт при змінній $$x$$ та спростити отриманий вираз.</p>
 
 <table style="border: none;" class="none">
@@ -114,7 +114,7 @@
 
 <div id="pr1" class="tab-content">
   <div class="tab-pane" id="decision1">
-<b><i>Розв’язок</i></b>.</p>
+<p><b><i>Розв’язок</i></b>.</p>
 <p>Всі доданки з $$x$$ вже розміщені в правій частині, збираємо всі вільні доданки в лівій:</p>
 
 <table style="border: none;" class="none">
@@ -170,7 +170,7 @@
 
 <div id="pr2" class="tab-content">
   <div class="tab-pane" id="decision2">
-<b><i>Розв’язок</i></b>.</p>
+<p><b><i>Розв’язок</i></b>.</p>
 <p>Розкриваємо дужки та забираємо змінну $$x$$ в лівій частині нерівності:</p>
 
 <table style="border: none;" class="none">
@@ -240,7 +240,7 @@
 
 <div id="pr3" class="tab-content">
   <div class="tab-pane" id="decision3">
-<b><i>Розв’язок</i></b>.</p>
+<p><b><i>Розв’язок</i></b>.</p>
 <p>Розкриваємо дужки та спрощуємо вирази в лівій частині нерівності:</p>
 
 <table style="border: none;" class="none">
