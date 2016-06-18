@@ -1,6 +1,6 @@
 # Метод інтервалів
 
-<p>Будь-яку раціональну нерівність можна легко розв'язати за допомогою <b>методу інтервалів</b>. Зі схожою процедурою ми вже зустрічалися під час розв'язання рівнянь з модулями (див. розділ 8.2 <a href="http://math.ed-era.com/7/prost_rvnyannya_z_modulyami.html">Рівняння з модулями</a>). Саме таким методом ми скористалися для знаходження часу на відкриття парашута в попередній задачі.</p>
+<p>Будь-яку раціональну нерівність можна легко розв’язати за допомогою <b>методу інтервалів</b>.<br>Зі схожою процедурою ми вже зустрічалися під час розв’язання рівнянь з модулями (див. розділ 8.2 <a href="http://math.ed-era.com/7/prost_rvnyannya_z_modulyami.html">Рівняння з модулями</a>).<br>Саме таким методом ми скористалися для знаходження часу на відкриття парашута в попередній задачі.</p>
 
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_3.png"/></p></div>
 
@@ -42,6 +42,14 @@
 <span class="task">Приклад</span>
 <div class="task-text">
 Розв’язати нерівність $$x^3+8x-16>4(3x-x^2)$$.
+<p>
+<ul class="nav-tab" id="mytab">
+    <button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+    <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+    <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+    <div class="tab-pane" id="decision">
 <p><b><i>Розв’язок</i></b>.</p>
 <ol>
 <li>Виразимо нерівність у вигляді $$P(x)>0$$ або $$P(x)<0$$:</li>
@@ -118,10 +126,17 @@
 <p>Нерівність післе зведення набула вигляду $$P(x)>0$$, де $$P(x)=x^3+4x^2-4x-16$$ </p>
 <p>Тому підходять лише ті інтервали, в яких функція $$P(x)$$ набуває додатних значень: $$(-4;-2)$$ та $$(2;\infty)$$. Таким чином $$x \in (-4;-2) \cup (2;\infty)$$.</p>
 <ol>
+    </div>
+    <div class="tab-pane" id="answer">
 <b>Вiдповiдь.</b> $$x \in (-4;-2) \cup (2;\infty).$$
+    </div>
+    <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <div class="space">
 <div class="ebio-wrap">
@@ -142,6 +157,15 @@
 <span class="task">Приклад</span>
 <div class="task-text">
 Розв’язати нерівність $$(x-2)(x+2)(x-3)>0$$. 
+<p>
+<ul class="nav-tab" id="pr1">
+<button class="btn" data-target="#decision1" data-toggle="tab">Розв’язок</button>
+<button class="btn" data-target="#answer1" data-toggle="tab">Вiдповiдь</button>
+<button class="btn" data-target="#hide1" data-toggle="tab">Приховати</button>
+</ul>
+
+<div id="pr1" class="tab-content">
+  <div class="tab-pane" id="decision1">
 <p><b><i>Розв’язок</i></b>.</p>
 <p>Многочлен в лівій частині $$P(x)=(x-2)(x+2)(x-3)$$ вже розкладений на множники, переходимо до п.$$3$$ алгоритму методу інтервалів.</p>
 <ol start="3">
@@ -156,16 +180,32 @@
 <li>Залишилось обрати інтервали, де функція додатня, бо за умовою $$P(x)>0$$. Такими є інтервали $$(-2;2)$$ та $$(3;\infty)$$.</li>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_9.png"/></p></div>
 </ol>
+    </div>
+  <div class="tab-pane" id="answer1">
 <b>Вiдповiдь.</b> Отже, $$x \in (-2;2) \cup (3;\infty)$$.
+   </div>
+  <div class="tab-pane" id="hide1"></div>
+</div>
+</p>    
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
 Розв’язати нерівність $$(x-1) (x-2)^2 (x+3)^3\geq0$$. 
+<p>
+<ul class="nav-tab" id="pr2">
+<button class="btn" data-target="#decision2" data-toggle="tab">Розв’язок</button>
+<button class="btn" data-target="#answer2" data-toggle="tab">Вiдповiдь</button>
+<button class="btn" data-target="#hide2" data-toggle="tab">Приховати</button>
+</ul>
+
+<div id="pr2" class="tab-content">
+  <div class="tab-pane" id="decision2">
 <p><b><i>Розв’язок</i></b>.</p>
 <p>Многочлен в лівій частині $$P(x)=(x-1) (x-2)^2 (x+3)^3$$ вже розкладений на множники, переходимо до п.$$3$$ алгоритму методу інтервалів.</p> 
 <ol start="3">
@@ -182,18 +222,25 @@
 <p>До речі, два останніх інтервали можна об’єднати, тому $$x \in (-\infty;-3] \cup [1;\infty)$$.</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_12.png"/></p></div>
 </ol>
+    </div>
+  <div class="tab-pane" id="answer2">
 <b>Вiдповiдь.</b> Отже, $$x \in (-\infty;-3] \cup [1;\infty)$$.
+   </div>
+  <div class="tab-pane" id="hide2"></div>
+</div>
+</p>    
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
  <question text="">
-        <p>Розв'яжіть нерівність: $$(x−2)(x+3)(x+1)>0$$</p>
-        <answer correct>$$(-3;-1)\cup(2;\infty)$$</answer>
-        <answer>$$(-3;-1)$$</answer>
-        <answer>$$(-3;-1)\cap(2;\infty)$$</answer>
-        <answer>$$(-3;2)$$</answer>
+        <p>Розв’яжіть нерівність: $$(x−2)(x+3)(x+1)>0$$</p>
+        <answer correct> $$(-3;-1)\cup(2;\infty)$$</answer>
+        <answer> $$(-3;-1)$$</answer>
+        <answer> $$(-3;-1)\cap(2;\infty)$$</answer>
+        <answer> $$(-3;2)$$</answer>
         <explanation>
         <p>Граничні точки многочлена: $$-3;-1;2$$</p>
         <p>Знак функції на правому інтервалі $$(2;\infty)$$ додатний, тому все, що потрібно зробити, – проставити знаки на решті інтервалів справа наліво, почергово змінюючи знак на протилежний.</p>

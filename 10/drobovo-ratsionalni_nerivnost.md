@@ -37,7 +37,15 @@
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
-Розв’язати нерівність $$\dfrac{5}{x}<x$$. 
+Розв’язати нерівність $$\dfrac{5}{x}<x$$.
+<p>
+<ul class="nav-tab" id="mytab">
+    <button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+    <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+    <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+    <div class="tab-pane" id="decision"> 
 <p><b><i>Розв’язок</i></b>.</p>
 <ol>
 <li>Перетворюємо нерівність до вигляду $$\dfrac{P(x)}{Q(x)}<0$$:</li>
@@ -64,26 +72,42 @@
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_13.png"/></p></div>
 <li>Шукаємо знак функції на правому інтервалі $$(\sqrt{5};\infty)$$. Підставимо тестове значення «<font color="#0F5180"><i>мільярд</i></font>»:</li>
 <br>
-<!--<div align="center">$$\dfrac{P({\text{мільярд}})}{Q({\text{мільярд}})} = \underbrace{\left( \sqrt{5} - \text{мільярд} \right)}_{\lt 0} \underbrace{\left( \sqrt{5} + \text{мільярд} \right)}_{\gt 0} \underbrace{\dfrac{1}{\text{мільярд}}}_{\gt 0} \lt 0$$</div>-->
+<div align="center">$$\dfrac{P({\text{мільярд}})}{Q({\text{мільярд}})} = \underbrace{\left( \sqrt{5} - \text{мільярд} \right)}_{\lt 0} \underbrace{\left( \sqrt{5} + \text{мільярд} \right)}_{\gt 0} \underbrace{\dfrac{1}{\text{мільярд}}}_{\gt 0} \lt 0$$</div>
 
-<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/142/p24_e6.png"/></p></div>
+<!--<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/142/p24_e6.png"/></p></div>-->
 <p>Два множники додатні, один від’ємний – функція на цьому інтервалі має від’ємний знак.</p>
 <p>Все, що потрібно зробити, – проставити знаки на решті інтервалів справа наліво, почергово змінюючи знак на протилежний:</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_14.png"/></p></div>
 <li>Залишилось обрати інтервали, де функція додатна, бо за умовою $$\dfrac{P(x)}{Q(x)}<0$$. Такими є інтервали $$(-\sqrt{5};0)$$ та $$(0;\sqrt{5})$$.</li>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_15.png"/></p></div>
 </ol>
-<b>Вiдповiдь.</b> Отже, $$x \in (-\sqrt{5};0) \cup (0;\sqrt{5})$$.
+    </div>
+    <div class="tab-pane" id="answer">
+<p><b>Вiдповiдь.</b> Отже, $$x \in (-\sqrt{5};0) \cup (0;\sqrt{5})$$.</p>
+    </div>
+    <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 
 <div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
-Розв’язати нерівність $$\dfrac{(x+2)^3(x+3)}{x^2-9}<0$$. 
+Розв’язати нерівність $$\dfrac{(x+2)^3(x+3)}{x^2-9}<0$$.
+<p>
+<ul class="nav-tab" id="pr1">
+<button class="btn" data-target="#decision1" data-toggle="tab">Розв’язок</button>
+<button class="btn" data-target="#answer1" data-toggle="tab">Вiдповiдь</button>
+<button class="btn" data-target="#hide1" data-toggle="tab">Приховати</button>
+</ul>
+
+<div id="pr1" class="tab-content">
+  <div class="tab-pane" id="decision1">
 <p><b><i>Розв’язок</i></b>.</p>
 <p>Многочлен в знаменнику $$x^2-9$$ можна розкласти на множники за допомогою формули різниці квадратів: $$x^2-9=(x+3)(x-3)$$. В результаті маємо:</p>
 <p align="center">$$\dfrac{(x+2)^3(x+3)}{(x-3)(x+3)}<0$$</p>
@@ -99,24 +123,31 @@
 <li>Залишилось обрати інтервали, де функція додатна, бо за умовою $$\dfrac{P(x)}{Q(x)}<0$$. Таким є інтервал $$(-2;3)$$.</li>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_18.png"/></p></div>
 </ol>
+    </div>
+  <div class="tab-pane" id="answer1">
 <b>Вiдповiдь.</b> Отже, $$x \in (-2;3)$$.
+   </div>
+  <div class="tab-pane" id="hide1"></div>
+</div>
+</p>    
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
  <question text="">
         <p>Скільки граничних точок має нерівність: $$\dfrac{(x-5)(x+1)(x-2)}{x^2-25}>0?$$</p>
-        <answer correct>$$4$$</answer>
-        <answer>$$5$$</answer>
-        <answer>$$6$$</answer>
-        <answer>$$7$$</answer>
+        <answer correct> $$4$$</answer>
+        <answer> $$5$$</answer>
+        <answer> $$6$$</answer>
+        <answer> $$7$$</answer>
 </question>
 <question text="">
         <p>На скільки інтервалів розбивається числова пряма для нерівності: $$\dfrac{(x-5)(x+3)(x-3)}{x^2+9}<0?$$</p>
-        <answer>$$2$$</answer>
-        <answer>$$3$$</answer>
-        <answer correct>$$4$$</answer>
-        <answer>$$5$$</answer>
+        <answer> $$2$$</answer>
+        <answer> $$3$$</answer>
+        <answer correct> $$4$$</answer>
+        <answer> $$5$$</answer>
 </question>
 </quiz>

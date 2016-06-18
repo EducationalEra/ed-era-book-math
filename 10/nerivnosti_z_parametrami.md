@@ -12,6 +12,14 @@
 <span class="task">Приклад</span>
 <div class="task-text">
 Розв’язати нерівність $$\dfrac{x^2+3}{3-ax}>1$$. 
+<p>
+<ul class="nav-tab" id="mytab">
+    <button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+    <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+    <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+    <div class="tab-pane" id="decision">
 <p><b><i>Розв’язок</i></b>.</p>
 <p>Перше «контрольне» значення параметра: $$a=0$$.</p>
 <p>В такому випадку нерівність перетворюється на раціональну: $$\dfrac{x^2+3}{3}>1$$. Розв’яжемо її:</p>
@@ -82,22 +90,29 @@
 <li>$$a<0$$: обираємо інтервали $$\left(\dfrac{3}{a};0\right)$$ та $$(-a;\infty)$$.</li>
 </ul>
 </ol>
+    </div>
+    <div class="tab-pane" id="answer">
 <b>Вiдповiдь.</b> <p>Запишемо загальний результат:</p>
 <ul>
 <li>при $$a=0: x \in (-\infty;0) \cup (0;\infty);$$</li>
 <li>при $$a>0: x \in (-\infty;-a) \cup \left(0;\dfrac{3}{a}\right)$$;</li>
 <li>при $$a<0: x \in \left(\dfrac{3}{a};0\right) \cup (-a;\infty)$$.</li>
 </ul>
+    </div>
+    <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
  <question multiple>
         <p>Які типи критичних значень параметра зустрінуться під час розв'язання нерівності $$\dfrac{(a-1)x^2-5x+10}{5(a-2)}>0$$?</p>
-        <answer correct>перетворення квадратичного виразу на лінійний</answer>
-        <answer correct>рівність дискримінанту нулеві</answer>
-        <answer correct>рівність знаменнику нулеві</answer>
-        <answer>рівність підмодульного виразу нулеві</answer>
+        <answer correct> перетворення квадратичного виразу на лінійний</answer>
+        <answer correct> рівність дискримінанту нулеві</answer>
+        <answer correct> рівність знаменнику нулеві</answer>
+        <answer> рівність підмодульного виразу нулеві</answer>
 </question>
 </quiz>
