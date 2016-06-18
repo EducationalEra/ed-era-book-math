@@ -197,6 +197,7 @@
 <span class="task">Приклад</span>
 <div class="task-text">
 <p>Розв’язати нерівність $$(x-1) (x-2)^2 (x+3)^3\geq0$$. </p>
+
 <p>
 <ul class="nav-tab" id="pr2">
 <button class="btn" data-target="#decision2" data-toggle="tab">Розв’язок</button>
@@ -206,7 +207,7 @@
 
 <div id="pr2" class="tab-content">
   <div class="tab-pane" id="decision2">
-<p><b><i>Розв’язок.</i> </b> 
+<p><b><i>Розв’язок.</i> </b> </p>
 <p>Многочлен в лівій частині $$P(x)=(x-1) (x-2)^2 (x+3)^3$$ вже розкладений на множники, переходимо до п.$$3$$ алгоритму методу інтервалів.</p> 
 <ol start="3">
 <li>Граничні точки многочлена: $$-3;1;2$$.</li>
@@ -226,10 +227,10 @@
 <p>До речі, два останніх інтервали можна об’єднати, тому $$x \in (-\infty;-3] \cup [1;\infty)$$.</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_12.png"/></p> </div>
 </ol>
-</p>
+
     </div>
   <div class="tab-pane" id="answer2">
-<p><b>Вiдповiдь.</b> Отже, $$x \in (-\infty;-3] \cup [1;\infty)$$.</p>
+<p><b>Вiдповiдь.</b> Отже, $$x \in (-\infty;-3] \cup [1;\infty)$$. </p>
    </div>
   <div class="tab-pane" id="hide2"></div>
 </div>

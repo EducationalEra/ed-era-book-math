@@ -38,6 +38,7 @@
 <span class="task">Приклад</span>
 <div class="task-text">
 <p>Розв’язати нерівність $$\dfrac{5}{x}< x$$.</p>
+
 <p>
 <ul class="nav-tab" id="mytab">
     <button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
@@ -52,7 +53,7 @@
 
 <table style="border: none;" class="none">
 <tr>
-<td>$$
+<td align="center">$$
     \begin{align}
         \dfrac{5}{x} & \lt x \\
         \dfrac{5}{x} - x & \lt x - x \\
@@ -70,14 +71,14 @@
 <li>Граничні точки многочлена $$P(x)$$ в чисельнику: $$-\sqrt{5};\sqrt{5}$$, а граничні точки многочлена $$Q(x)$$ в знаменнику: $$0$$. Загальні граничні точки: $$-\sqrt{5};0;\sqrt{5}$$.</li>
 <p>Зобразимо їх на числовій прямій:</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_13.png"/> </p> </div>
-<li>Шукаємо знак функції на правому інтервалі $$(\sqrt{5};\infty)$$. Підставимо тестове значення «<font color="#0F5180"><i>мільярд</i></font>»:</li>
+<li>Шукаємо знак функції на правому інтервалі $$(\sqrt{5};\infty)$$. Підставимо тестове значення «<font color="#0F5180"><i>мільярд</i></font>»: </li>
 <br>
 <div align="center">$$\dfrac{P({\text{мільярд}})}{Q({\text{мільярд}})} = \underbrace{\left( \sqrt{5} - \text{мільярд} \right)}_{\lt 0} \underbrace{\left( \sqrt{5} + \text{мільярд} \right)}_{\gt 0} \underbrace{\dfrac{1}{\text{мільярд}}}_{\gt 0} \lt 0$$</div>
 
 <!--<div class="space"><p align="center"><img align="middle" width="70%" height="70%" class="image" src="../pics/142/p24_e6.png"/></p></div>-->
 <p>Два множники додатні, один від’ємний – функція на цьому інтервалі має від’ємний знак.</p>
 <p>Все, що потрібно зробити, – проставити знаки на решті інтервалів справа наліво, почергово змінюючи знак на протилежний:</p>
-<div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_14.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_14.png"/></p> </div>
 <li>Залишилось обрати інтервали, де функція додатна, бо за умовою $$\dfrac{P(x)}{Q(x)}< 0$$. Такими є інтервали $$(-\sqrt{5};0)$$ та $$(0;\sqrt{5})$$.</li>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_15.png"/></p> </div>
 </ol>
@@ -98,7 +99,8 @@
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
-Розв’язати нерівність $$\dfrac{(x+2)^3(x+3)}{x^2-9}< 0$$.
+<p>Розв’язати нерівність $$\dfrac{(x+2)^3(x+3)}{x^2-9}< 0$$. </p>
+
 <p>
 <ul class="nav-tab" id="pr1">
 <button class="btn" data-target="#decision1" data-toggle="tab">Розв’язок</button>
@@ -125,7 +127,7 @@
 <p>Все, що потрібно зробити, – проставити знаки на решті інтервалів справа наліво, почергово змінюючи знак на протилежний:</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_17.png"/></p> </div>
 <li>Залишилось обрати інтервали, де функція додатна, бо за умовою $$\dfrac{P(x)}{Q(x)}< 0$$. Таким є інтервал $$(-2;3)$$.</li>
-<div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_18.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_18.png"/></p> </div>
 </ol>
     </div>
   <div class="tab-pane" id="answer1">
