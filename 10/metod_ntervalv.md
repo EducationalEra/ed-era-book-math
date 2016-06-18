@@ -196,7 +196,7 @@
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
-Розв’язати нерівність $$(x-1) (x-2)^2 (x+3)^3\geq0$$. 
+<p>Розв’язати нерівність $$(x-1) (x-2)^2 (x+3)^3\geq0$$. </p>
 <p>
 <ul class="nav-tab" id="pr2">
 <button class="btn" data-target="#decision2" data-toggle="tab">Розв’язок</button>
@@ -224,7 +224,7 @@
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_11.png"/></p> </div>
 <li>Залишилось обрати інтервали, де функція додатна, бо за умовою $$P(x)\geq0$$. Такими є інтервали $$(-\infty;-3], [1;2]$$ та $$[2;\infty)$$.</li>
 <p>До речі, два останніх інтервали можна об’єднати, тому $$x \in (-\infty;-3] \cup [1;\infty)$$.</p>
-<div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_12.png"/></p></div>
+<div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/142/p24_12.png"/></p> </div>
 </ol>
     </div>
   <div class="tab-pane" id="answer2">

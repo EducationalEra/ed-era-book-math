@@ -86,7 +86,7 @@
 <p>Зобразимо ці точки на числовій прямій.</p>      
 /*Картинка з інтервалами*/
 <p>Шукаємо знак функції на правому інтервалі. Підставимо тестове значення $$\color{#0F5181}{\textit{мільярд}}$$:
-<p align="center">$$\dfrac{P(\color{#0F5181}{\textit{мільярд}})}{Q(\color{#0F5181}{\textit{мільярд}})} = 6\left(\underbrace{ \color{#0F5181}{\textit{мільярд}}-\dfrac{1-\sqrt{1+24\cdot log^{}_{5}2}}{12})}_{>\thinspace\mbox{0}}\right) \, \left(\underbrace{ \color{#0F5181}{\textit{мільярд}}-\dfrac{1+\sqrt{1+24\cdot log^{}_{5}2}}{12})}_{>\thinspace\mbox{0}}\right) \, \underbrace{\dfrac{1}{\color{#0F5181}{\textit{мільярд}}}}_{>\thinspace\mbox{0}} \, >0$$
+<p align="center">$$\dfrac{P(\color{#0F5181}{\textit{мільярд}})}{Q(\color{#0F5181}{\textit{мільярд}})} = 6\left(\underbrace{ \color{#0F5181}{\textit{мільярд}}-\dfrac{1-\sqrt{1+24\cdot log^{}_{5}2}}{12})}_{>\thinspace\mbox{0}}\right) \,$$<br>$$\left(\underbrace{ \color{#0F5181}{\textit{мільярд}}-\dfrac{1+\sqrt{1+24\cdot log^{}_{5}2}}{12})}_{>\thinspace\mbox{0}}\right) \, \underbrace{\dfrac{1}{\color{#0F5181}{\textit{мільярд}}}}_{>\thinspace\mbox{0}} \, >0$$
 <p>Всі три множники додатні – функція на цьому інтервалі має додатний знак.       
 Тепер проставляємо знаки на решті інтервалів справа наліво, чергуючи знаки:</p>
 /*Картинка з інтервалами*/

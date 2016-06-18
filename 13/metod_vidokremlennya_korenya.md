@@ -49,14 +49,14 @@
 Далі ця система рівнянь розв’язується легко і швидко (див. [Лекцію 9](https://study.ed-era.com/courses/EdEra/m102/M102/courseware/54554820f4534ac6a104d66974169b0a/f822671bcc834b78a597f9fd0112c324/)).<br>Розв’язуємо кожну з нерівностей окремо:
 
 <table>
-<td>
+<td align="center">
 $$\begin{eqnarray} 
 3-2x &\geq& 0 \nonumber\\ 
 -2x &\geq& -3 \nonumber\\ 
 x &\leq& \dfrac{3}{2} \nonumber
 \end{eqnarray}$$
 </td>
-<td>
+<td align="center">
 $$\begin{eqnarray} 
 4x^2-1 &>& (3-2x)^2 \nonumber\\ 
 4x^2-1 &>& 9-12x+4x^2\nonumber\\ 
@@ -227,16 +227,16 @@ x &>& -\dfrac{59}{20}$$</td>
 <table>
 <tr>
 <td></td>
-<td>$$1$$</td>
-<td>$$0$$</td>
-<td>$$0$$</td>
-<td>$$-8$$</td>
+<td align="center">$$1$$</td>
+<td align="center">$$0$$</td>
+<td align="center">$$0$$</td>
+<td align="center">$$-8$$</td>
 </tr>
-<td>$$-2$$</td>
-<td>$$1$$</td>
-<td></td>
-<td></td>
-<td></td>
+<td align="center">$$-2$$</td>
+<td align="center">$$1$$</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
 </tr>
 </td>
 </table>
@@ -246,16 +246,16 @@ x &>& -\dfrac{59}{20}$$</td>
 <table>
 <tr>
 <td></td>
-<td>$$1$$</td>
-<td>$$0$$</td>
-<td>$$0$$</td>
-<td>$$-8$$</td>
+<td align="center">$$1$$</td>
+<td align="center">$$0$$</td>
+<td align="center">$$0$$</td>
+<td align="center">$$-8$$</td>
 </tr>
-<td>$$2$$</td>
-<td>$$1$$</td>
-<td>$$2$$</td>
-<td>$$4$$</td>
-<td>$$0$$</td>
+<td align="center">$$2$$</td>
+<td align="center">$$1$$</td>
+<td align="center">$$2$$</td>
+<td align="center">$$4$$</td>
+<td align="center">$$0$$</td>
 </tr>
 </td>
 </table>
@@ -367,13 +367,13 @@ f (x)\geq0.
 \end{cases}$$ де є дві нерівності, що розв’язуються таким чином:
 
 <table>
-<td>
+<td align="center">
 $$\begin{eqnarray} 
 4-x &\geq& 0 \nonumber\\ 
 4 &\geq& x \nonumber
 \end{eqnarray}$$
 </td>
-<td>
+<td align="center">
 $$\begin{eqnarray} 
 16-x^2 &\geq& (4-x)^2 \nonumber\\ 
 16-x^2-(4-x)^2 &\geq& 0 \nonumber\\ 
@@ -395,13 +395,13 @@ x(x-4) &\leq& 0 \nonumber\\
 \end{cases}$$ точно так само:
 
 <table>
-<td>
+<td align="center">
 $$\begin{eqnarray} 
 4-x &<& 0 \nonumber\\ 
 4 &<& x \nonumber
 \end{eqnarray}$$
 </td>
-<td>
+<td align="center">
 $$\begin{eqnarray} 
 16-x^2 &\geq& 0 \nonumber\\ 
 x^2-16 &\leq& 0 \nonumber\\ 
@@ -462,14 +462,14 @@ f (x)< g^{2k}x.
 Розглянемо кожну з нерівностей окремо, а потім знайдемо <i>перетин</i> їхніх розв’язків. Перша нерівність системи перетворюється на $$x\geq\dfrac{2}{3}$$. Розглянемо окремо другу і третю нерівності:
 
 <table>
-<td>
+<td align="center">
 $$\begin{eqnarray} 
 3(2x-1) &\geq& 0 \nonumber\\ 
 2x-1 &\geq& 0 \nonumber\\
 x &\geq& \dfrac{1}{2}
 \end{eqnarray}$$
 </td>
-<td>
+<td align="center">
 $$\begin{eqnarray} 
 3x-2 &\leq& 9(2x-1)^2 \nonumber\\ 
 3x-2 &\leq& 9(4x^2-4x+1) \nonumber\\ 
