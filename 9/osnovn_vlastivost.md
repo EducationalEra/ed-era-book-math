@@ -96,16 +96,16 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
  <question text="">
         <p>Перехід до якої нерівності буде рівносильним для виразу $$(1+x)(x-3)>2$$?</p>
-        <answer correct>$$2x+5<x^2$$</answer>
-        <answer>$$-x^2+2x+5<0$$</answer>
-        <answer>$$(x-3)>+3$$</answer>
-        <answer>$$x^2+2x+5<0$$</answer>
+        <answer correct> $$2x+5<x^2$$</answer>
+        <answer> $$-x^2+2x+5<0$$</answer>
+        <answer> $$(x-3)>+3$$</answer>
+        <answer> $$x^2+2x+5<0$$</answer>
 </question>
 <question text="">
         <p>Перехід до якої нерівності буде рівносильним для виразу $$(x-2)(x+3)<0$$?</p>
-        <answer>$$-x^2-x+6>0$$</answer>
-        <answer>$$(x-6)<x$$</answer>
-        <answer>$$x^2+6<0$$</answer>
-        <answer correct>$$6-x>x^2$$</answer>
+        <answer> $$-x^2-x+6>0$$</answer>
+        <answer> $$(x-6)<x$$</answer>
+        <answer> $$x^2+6<0$$</answer>
+        <answer correct> $$6-x>x^2$$</answer>
 </question>
 </quiz>

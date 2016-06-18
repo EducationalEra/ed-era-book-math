@@ -63,6 +63,14 @@
 <span class="task">Приклад</span>
 <div class="task-text">
 <p>Розв’язати нерівність: $$3x < 8$$.</p>
+<p>
+<ul class="nav-tab" id="mytab">
+    <button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+    <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+    <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+    <div class="tab-pane" id="decision">
 <b><i>Розв’язок</i></b>.</p>
 <p>Спрощувати тут вже нема чого, всі доданки з $$x$$ в лівій частині, вільні доданки – у правій. Переходимо відразу до пункту <b>$$3$$</b>: необхідно розділити обидві частини нерівності на коефіцієнт при змінній $$x$$ та спростити отриманий вираз.</p>
 
@@ -80,16 +88,32 @@
 
 <p>Єдине, що залишилось – записати відповідь в інтервальному представленні та зобразити її на числовій прямій:</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/p14_8.png"/></p></div>
+    </div>
+    <div class="tab-pane" id="answer">
 <b>Вiдповiдь.</b> $$x \in (-\infty;\dfrac{8}{3})$$.
+    </div>
+    <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
 <p>Розв’язати нерівність: $$-2\leq2-4x$$.</p>
+<p>
+<ul class="nav-tab" id="pr1">
+<button class="btn" data-target="#decision1" data-toggle="tab">Розв’язок</button>
+<button class="btn" data-target="#answer1" data-toggle="tab">Вiдповiдь</button>
+<button class="btn" data-target="#hide1" data-toggle="tab">Приховати</button>
+</ul>
+
+<div id="pr1" class="tab-content">
+  <div class="tab-pane" id="decision1">
 <b><i>Розв’язок</i></b>.</p>
 <p>Всі доданки з $$x$$ вже розміщені в правій частині, збираємо всі вільні доданки в лівій:</p>
 
@@ -120,16 +144,32 @@
 
 <p>Тепер записуємо відповідь в інтервальному представленні та зображаємо її на числовій прямій:</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/p14_9.png"/></p></div>
+    </div>
+  <div class="tab-pane" id="answer1">
 <b>Вiдповiдь.</b> $$x \in (-\infty;1]$$.
+   </div>
+  <div class="tab-pane" id="hide1"></div>
+</div>
+</p>    
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
 <p>Розв’язати нерівність: $$5(x-1)>x+3$$.</p>
+<p>
+<ul class="nav-tab" id="pr2">
+<button class="btn" data-target="#decision2" data-toggle="tab">Розв’язок</button>
+<button class="btn" data-target="#answer2" data-toggle="tab">Вiдповiдь</button>
+<button class="btn" data-target="#hide2" data-toggle="tab">Приховати</button>
+</ul>
+
+<div id="pr2" class="tab-content">
+  <div class="tab-pane" id="decision2">
 <b><i>Розв’язок</i></b>.</p>
 <p>Розкриваємо дужки та забираємо змінну $$x$$ в лівій частині нерівності:</p>
 
@@ -174,16 +214,32 @@
 
 <p>Записуємо відповідь в інтервальному представленні та зображаємо її на числовій прямій:</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/p14_10.png"/></p></div>
+    </div>
+  <div class="tab-pane" id="answer2">
 <b>Вiдповiдь.</b> $$x \in (2;+\infty)$$.
+   </div>
+  <div class="tab-pane" id="hide2"></div>
+</div>
+</p>    
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <div class="space">
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
 <p>Розв’язати нерівність: $$\dfrac{(2x-1)^2}{4}-\dfrac{3(x-1)}{4} \geq x^2$$.</p>
+<p>
+<ul class="nav-tab" id="pr3">
+<button class="btn" data-target="#decision3" data-toggle="tab">Розв’язок</button>
+<button class="btn" data-target="#answer3" data-toggle="tab">Вiдповiдь</button>
+<button class="btn" data-target="#hide3" data-toggle="tab">Приховати</button>
+</ul>
+
+<div id="pr3" class="tab-content">
+  <div class="tab-pane" id="decision3">
 <b><i>Розв’язок</i></b>.</p>
 <p>Розкриваємо дужки та спрощуємо вирази в лівій частині нерівності:</p>
 
@@ -232,10 +288,17 @@
 
 <p>Записуємо відповідь в інтервальному представленні та зображаємо її на числовій прямій:</p>
 <div class="space"><p align="center"><img align="middle" width="75%" class="image" src="../pics/p14_11.png"/></p></div>
+    </div>
+  <div class="tab-pane" id="answer3">
 <b>Вiдповiдь.</b> $$x \in \left(-\infty;\dfrac{4}{7}\right]$$.
+   </div>
+  <div class="tab-pane" id="hide3"></div>
+</div>
+</p>    
 </div>
 </div>
 </div>
+<div class="space"></div>
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/qBgsj6gxhYk" frameborder="0" allowfullscreen></iframe>
@@ -248,10 +311,10 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
  <question text="">
         <p>Розв'язати нерівність: $$4(x-2)>5(x-3)$$</p>
-        <answer correct>$$x<7$$</answer>
-        <answer>$$x>7$$</answer>
-        <answer>$$x<-7$$</answer>
-        <answer>$$x>-7$$</answer>
+        <answer correct> $$x<7$$</answer>
+        <answer> $$x>7$$</answer>
+        <answer> $$x<-7$$</answer>
+        <answer> $$x>-7$$</answer>
         <explanation>
         <p>Розкриємо дужки і спростимо нерівність:</p>
         <p>$$4x-8>5x-15$$</p>
@@ -263,10 +326,10 @@
 </question>
 <question text="">
         <p>Розв'язати нерівність: $$7x-1+4(x+3)<6x$$</p>
-        <answer>$$x>\dfrac{11}{5}$$</answer>
-        <answer>$$x<\dfrac{11}{5}$$</answer>
-        <answer>$$x>-\dfrac{11}{5}$$</answer>
-        <answer correct>$$x<-\dfrac{11}{5}$$</answer>
+        <answer> $$x>\dfrac{11}{5}$$</answer>
+        <answer> $$x<\dfrac{11}{5}$$</answer>
+        <answer> $$x>-\dfrac{11}{5}$$</answer>
+        <answer correct> $$x<-\dfrac{11}{5}$$</answer>
         <explanation>
         <p>Pозкриємо дужки і спростимо нерівність:</p>
         <p>$$7x-1+4x+12<6x$$</p>
