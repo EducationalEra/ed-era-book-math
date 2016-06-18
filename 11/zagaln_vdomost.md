@@ -48,7 +48,7 @@ $$\underbrace{\dfrac{5,303\thinspace км}{x\thinspace -\thinspace 60\thinspace 
 <td><i><font color="1570bd">Вихідне рівняння</font></i></td>
 </tr>
 <tr>
-<td>$$\dfrac{5,303}{x-60} - \dfrac{5,303}{x} \color{#1570bd}- \color{#1570bd}\dfrac{\color{#1570bd}47,3}{\color{#1570bd}3600} = \dfrac{47,3}{3600} \color{#1570bd}- \color{#1570bd}\dfrac{\color{#1570bd}47,3}{\color{#1570bd}3600}$$</td>
+<td>$$\dfrac{5,303}{x-60} - \dfrac{5,303}{x} \color{#1570bd}- \dfrac{\color{#1570bd}47,3}{\color{#1570bd}3600} = \dfrac{47,3}{3600} \color{#1570bd}- \dfrac{\color{#1570bd}47,3}{\color{#1570bd}3600}$$</td>
 <td><font color="1570bd"><i>Віднімаємо $$\dfrac{47,3}{3600}$$ від обох частин</i></font></td>
 </tr>
 <tr>
@@ -88,8 +88,8 @@ N \neq 0
 <tr>
 <td>$$\left[
     \begin{array}{}
-        x_1 = 188,5 \\
-        x_2 = -128,5
+        x_1 \approx 188,5 \\
+        x_2 \approx -128,5
     \end{array}
     \right.$$</td>
 <td><font color="1570bd"><i>Спрощуємо та обчислюємо значення коренів</i></font></td>
