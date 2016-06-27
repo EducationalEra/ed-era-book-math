@@ -15,11 +15,11 @@
 	x = 0,\\
 	ax + b = 0;
     \end{gathered}
-    \right. \Longleftrightarrow 
+    \right.$$ $$\Longleftrightarrow 
 	\left[ \begin{gathered}
 	x_1 = 0,\\
 	x_2 = -\dfrac{b}{a}.
-	\eng{gathered}
+	\end{gathered}
     \right.$$</li>
 <div class="space"></div>	
 <p><i>Наприклад:</i> $$6x^2 - x = 0 \Longleftrightarrow x\cdot(6x - 1) = 0 \Longleftrightarrow \left[ \begin{gathered}
