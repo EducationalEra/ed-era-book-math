@@ -10,14 +10,20 @@
 <div class="space"></div>
 <p><i>Наприклад:</i> $$2x^2 - 8 = 0 \Longleftrightarrow x^2 = 4 \Longleftrightarrow x_{1,2} = \pm 2$$.</br>$$x^2 + 5 = 0 \Longleftrightarrow x^2 = -5 \Longleftrightarrow x \in \emptyset$$.</p>
 <div class="space"></div>
-<li>$$c = 0$$: маємо рівняння $$ax^2 + bx = 0 \Longleftrightarrow x\cdot(ax + b) = 0 \Longleftrightarrow \left[
-		x = 0,\\
-		ax + b = 0;
-	\right. \Longleftrightarrow 
+<li>$$c = 0$$: маємо рівняння $$ax^2 + bx = 0 \Longleftrightarrow x\cdot(ax + b) = 0 \Longleftrightarrow 
+        \left[
+        \begin{aligned}
+		x & = 0,\\
+		ax + b & = 0;
+        \end{aligned}
+	    \right. 
+\Longleftrightarrow 
 	\left[
-	x_1 = 0,\\
-	x_2 = -\dfrac{b}{a}.
-	\right.$$</li>
+    \begin{aligned}
+	x_1 & = 0,\\
+	x_2 & = -\dfrac{b}{a}.
+	\eng{aligned}
+    \right.$$</li>
 <div class="space"></div>	
 <p><i>Наприклад:</i> $$6x^2 - x = 0 \Longleftrightarrow x\cdot(6x - 1) = 0 \Longleftrightarrow \left[
 		x = 0,\\
