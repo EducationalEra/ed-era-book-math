@@ -11,15 +11,12 @@
 <p><i>Наприклад:</i> $$2x^2 - 8 = 0 \Longleftrightarrow x^2 = 4 \Longleftrightarrow x_{1,2} = \pm 2$$.</br>$$x^2 + 5 = 0 \Longleftrightarrow x^2 = -5 \Longleftrightarrow x \in \emptyset$$.</p>
 <div class="space"></div>
 <li>$$c = 0$$: маємо рівняння $$ax^2 + bx = 0 \Longleftrightarrow x\cdot(ax + b) = 0 \Longleftrightarrow 
-        \left[
-        \begin{gathered}
-		x = 0,\\
-		ax + b = 0;
-        \end{gathered}
-	    \right. 
-\Longleftrightarrow 
-	\left[
-    \begin{gathered}
+    \left[ \begin{gathered}
+	x = 0,\\
+	ax + b = 0;
+    \end{gathered}
+    \right. \Longleftrightarrow 
+	\left[ \begin{gathered}
 	x_1 = 0,\\
 	x_2 = -\dfrac{b}{a}.
 	\eng{gathered}
