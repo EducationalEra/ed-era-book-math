@@ -12,17 +12,17 @@
 <div class="space"></div>
 <li>$$c = 0$$: маємо рівняння $$ax^2 + bx = 0 \Longleftrightarrow x\cdot(ax + b) = 0 \Longleftrightarrow 
         \left[
-        \begin{aligned}
-		x & = 0,\\
-		ax + b & = 0;
-        \end{aligned}
+        \begin{gathered}
+		x = 0,\\
+		ax + b = 0;
+        \end{gathered}
 	    \right. 
 \Longleftrightarrow 
 	\left[
-    \begin{aligned}
-	x_1 & = 0,\\
-	x_2 & = -\dfrac{b}{a}.
-	\eng{aligned}
+    \begin{gathered}
+	x_1 = 0,\\
+	x_2 = -\dfrac{b}{a}.
+	\eng{gathered}
     \right.$$</li>
 <div class="space"></div>	
 <p><i>Наприклад:</i> $$6x^2 - x = 0 \Longleftrightarrow x\cdot(6x - 1) = 0 \Longleftrightarrow \left[
