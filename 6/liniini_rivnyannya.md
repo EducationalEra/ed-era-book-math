@@ -27,7 +27,7 @@
 <div class="task-wrap">
 <span class="task">Приклад</span>
 <div class="task-text">
-<p>1. $$6 = 2 - 4x \Longleftrightarrow 4x = 4 \Longleftrightarrow x = 1.$$</p>
+<p>1. $$6 = 2 - 4x \Longleftrightarrow 4x = -4 \Longleftrightarrow x = -1.$$</p>
 <p>2. $$3x = 8 \Longleftrightarrow x = \dfrac{8}{3}.$$</p>
 <p>3. $$5(x - 1) = x + 3 \Longleftrightarrow 5x - 5 = x + 3 \Longleftrightarrow 4x = 8 \Longleftrightarrow x = 2.$$</p>
 </div>
