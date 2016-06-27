@@ -22,13 +22,15 @@
 	\eng{gathered}
     \right.$$</li>
 <div class="space"></div>	
-<p><i>Наприклад:</i> $$6x^2 - x = 0 \Longleftrightarrow x\cdot(6x - 1) = 0 \Longleftrightarrow \left[
+<p><i>Наприклад:</i> $$6x^2 - x = 0 \Longleftrightarrow x\cdot(6x - 1) = 0 \Longleftrightarrow \left[ \begin{gathered}
 		x = 0,\\
 		6x - 1 = 0;
+        \end{gathered}
 		\right. \Longleftrightarrow 
-		\left[
+		\left[ \begin{gathered}
 		x_1 = 0,\\
 		x_2 = \dfrac{1}{6}.
+        \end{gathered}
 		\right.$$</p>
 <div class="space"></div>
 <li>$$b = c = 0$$: маємо рівняння $$ax^2 = 0 \Longleftrightarrow x^2 = 0 \Longleftrightarrow x_1 = x_2 = 0$$.</li>
