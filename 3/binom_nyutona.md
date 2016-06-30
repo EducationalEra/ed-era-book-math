@@ -29,6 +29,36 @@
 
 <p><i>Наприклад:</i> $$(a+b)^7=a^7+7a^6 b+21a^5 b^2+35a^4 b^3+35a^3 b^4+21a^2 b^4+7ab^6+b^7.$$</p>
 
+<div class="task-wrap">
+<span class="task">Приклад</span>
+<div class="task-text">
+
+<p>Знайти номер члена розкладу бінома $$(\sqrt[3]{x} + \dfrac{1}{x})^{16}$$, який не містить $$x$$.</p>
+
+<p>
+<ul class="nav-tab" id="mytab">
+<button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+<button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+<button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+
+<div id="mytab" class="tab-content">
+  <div class="tab-pane" id="decision">
+<p><b><i>Розв’язок.</i> </b> </p>
+<p>Що ж, для спільного члена розкладу маємо формулу: $$\gamma_n (\sqrt[3]{x})^{16-n} (\dfrac{1}{x})^n$$</p>
+<p>Загалом, значення $$\gamma_n$$ для нас не має вагомої ролі, тому перемножимо $$(\sqrt[3]{x})^{16-n}$$ і $$(\dfrac{1}{x})^n$$ і знайдемо їх значення:</p>
+<p align="center">$$(\sqrt[3]{x})^{16-n} \cdot (\dfrac{1}{x})^n \rightarrow $$$$ x^{\frac{16-n}{3}} \cdot x^{-n} \rightarrow x^{\frac{16-4n}{3}}$$</p>
+<p>Отже, коли $$16-4n=0 \rightarrow n = 4$$, ми отримаємо, що $$x^0 = 1$$ і значення цього члену не буде залежати від $$x$$.</p>
+  </div>
+  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b> $$4$$</p>
+  </div>
+  <div class="tab-pane" id="hide"></div>
+</div>
+</p>
+
+</div>
+</div>
+
 <div class="space"></div>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
