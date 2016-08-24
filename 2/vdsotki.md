@@ -54,8 +54,9 @@
 5\quad—\quad10\%\\
 x\quad—\quad90\%
 \end{array}\right\} \Rightarrow x = \dfrac{5\cdot 90\%}{10\%} = 45$$ (<i>г</i>).</p>
+<p>Отже загальна маса води у новому розчині – $$45$$ <i>г</i>, але оскільки ми вже маємо у $$50 \%$$ розчині $$5$$ <i>г</i> води, то нам потрібно додати ще $$40$$ <i>г</i>.</p>
   </div>
-  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b> $$45$$ (<i>г</i>).</p></div>
+  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b> $$40$$ (<i>г</i>).</p></div>
   <div class="tab-pane" id="hide"></div>
 </div>
 </p>
